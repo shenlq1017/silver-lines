@@ -1,13 +1,13 @@
 {
   "meta": {
     "created_at": "2026-09-25T14:31:30+08:00",
-    "purpose": "C28 classics×25 草稿：leftovers（yi-repaired+yi2+jia）quotes-only 可核对对白；merged=false，未并入 quotes.json",
+    "purpose": "C28 classics×25 草稿：leftovers quotes-only 可核对对白；status=merged，已并入 quotes.json",
     "batch": "batch-mixed-c28",
     "batch_note": "leftovers scrape: yi-repaired below_fill×11 + yi2-repaired×3 + jia residual stills≥1920×20；排除 holds 与 C27 dropped-unverifiable×6",
     "selection_source": "tmp/next-pool-after-c27/summary.json + tmp/c28-draft/candidates.json",
     "stills_source": "tmp/stills-c28/index-fragment.json",
     "count": 25,
-    "merged": false,
+    "merged": true,
     "featured_ids": [],
     "blocked": [],
     "still_pending": [],
@@ -21,7 +21,7 @@
       "候选 34 → 静帧全过（ok28+actual6）→ 核证后保留 25、删除 9（见 tmp/c28-draft/dropped-unverifiable.json）。",
       "质量优先：在可核证片名中按 TMDB vote_average 再 vote_count 排序取至多 25。",
       "静帧／海报资产：保留片的资产已入库；删除片的海报／静帧留作 orphan（不删除）。",
-      "meta.merged=false；C27 Top901 HOLD merge；本任务不并入 quotes.json；不 push。"
+      "meta.merged=true；已并入 quotes.json published 926（901+25）；ranks 902–926；merged_at=2026-09-25T14:32:56+0800；quotes-only×25（batch-jia×20 + batch-yi×5）；dropped×9 未并入"
     ],
     "updated_at": "2026-09-25T14:31:30+08:00",
     "dropped_unverifiable": [
@@ -34,7 +34,8 @@
       "the-decameron-1971",
       "fellini-satyricon-1969",
       "the-green-room-1978"
-    ]
+    ],
+    "merged_at": "2026-09-25T14:32:56+0800"
   },
   "quotes": [
     {
@@ -278,7 +279,7 @@
       "curator_note": "乔丹在宴会上考问销售员的对白；IMDb quotes／剧本可核；片中多次出现。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 26575
         },
         "as_of": "2026-09-25",
@@ -315,7 +316,7 @@
       "curator_note": "谢尔比开场画外白／旁白；Wikiquote／IMDb quotes 通行字幕可核。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 9317
         },
         "as_of": "2026-09-25",
@@ -352,7 +353,7 @@
       "curator_note": "萨拉对儿子哈利说的对白；IMDb quotes／字幕稿可核。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 11320
         },
         "as_of": "2026-09-25",
@@ -389,7 +390,7 @@
       "curator_note": "废铁画外叙述开篇；Wikiquote／IMDb quotes 通行字幕可核。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 10603
         },
         "as_of": "2026-09-25",
@@ -426,7 +427,7 @@
       "curator_note": "尼昆布老师在家长会上的对白；印地语原声；华语／英语通行字幕与台词辑可核。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 1413
         },
         "as_of": "2026-09-25",
@@ -463,7 +464,7 @@
       "curator_note": "桑多瓦尔对本哈明说的对白（西语原声）；西语影评／IMDb 西语引文／通行字幕可核。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 2963
         },
         "as_of": "2026-09-25",
