@@ -28119,5 +28119,780 @@
     "still_alt": "维莉蒂安娜 · TMDB 宣传静帧（3024×1701）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/viridiana-1961.jpg，1691×2536）（影片页 https://www.themoviedb.org/movie/4497）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ijfD1DljKFA3GKjumgGfv5OcNjV.jpg（3024×1701）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "germany-zero-ruins",
+    "line": "废墟里长大的孩子，最先学会的不是哭，是怎样把罪过扛回家。",
+    "line_en": "A child raised in ruins learns first not to cry, but how to carry guilt home.",
+    "film_title": "德意志零年",
+    "film_title_en": "Germany Year Zero",
+    "year": 1948,
+    "character": "埃德蒙 / Edmund",
+    "director": "罗伯托·罗西里尼",
+    "tags": [
+      "废墟",
+      "战后",
+      "伦理",
+      "罗西里尼"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括罗西里尼《德意志零年》中柏林废墟少年伦理崩塌的新现实主义题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 434
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/germany-year-zero-1948.jpg",
+    "still": "assets/stills/classics/germany-year-zero-1948.jpg",
+    "still_alt": "德意志零年 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/germany-year-zero-1948.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8016）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tybXFMsqvShS6TQGJIurpInPhGy.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "gallows-elevator",
+    "line": "完美的谋杀停在电梯里——外面的夜还在继续。",
+    "line_en": "The perfect murder stalls in an elevator — outside, the night goes on.",
+    "film_title": "通往绞刑架的电梯",
+    "film_title_en": "Elevator to the Gallows",
+    "year": 1958,
+    "character": "朱利安／弗洛朗丝 / Julien / Florence",
+    "director": "路易·马勒",
+    "tags": [
+      "谋杀",
+      "巴黎",
+      "爵士",
+      "马勒"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括路易·马勒《通往绞刑架的电梯》中计划崩盘与夜巴黎游荡并置的黑色题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 731
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/elevator-to-the-gallows-1958.jpg",
+    "still": "assets/stills/classics/elevator-to-the-gallows-1958.jpg",
+    "still_alt": "通往绞刑架的电梯 · TMDB 宣传静帧（3528×1982）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/elevator-to-the-gallows-1958.jpg，1999×3000）（影片页 https://www.themoviedb.org/movie/1093）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e5TXa8JTB83Ik99pf9nUKdx0cmA.jpg（3528×1982）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "success-sweet-smell",
+    "line": "成功的气味并不甜，它闻起来像别人的恐惧。",
+    "line_en": "The smell of success is not sweet — it smells like someone else's fear.",
+    "film_title": "成功的滋味",
+    "film_title_en": "Sweet Smell of Success",
+    "year": 1957,
+    "character": "J.J.／西德尼 / J.J. Hunsecker / Sidney",
+    "director": "亚历山大·麦肯德里克",
+    "tags": [
+      "权力",
+      "媒体",
+      "纽约",
+      "麦肯德里克"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括麦肯德里克《成功的甜味》中专栏暴政与公关附庸的报界黑色讽刺，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 605
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/sweet-smell-of-success-1957.jpg",
+    "still": "assets/stills/classics/sweet-smell-of-success-1957.jpg",
+    "still_alt": "成功的滋味 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sweet-smell-of-success-1957.jpg，800×1200）（影片页 https://www.themoviedb.org/movie/976）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kjiX0g78phAza04H7jNe0AIV3Jj.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "conformist-shadow",
+    "line": "最安全的办法，是把自己活成所有人期望的影子。",
+    "line_en": "The safest way is to live as the shadow everyone expects.",
+    "film_title": "同流者",
+    "film_title_en": "The Conformist",
+    "year": 1970,
+    "character": "马尔切洛 / Marcello Clerici",
+    "director": "贝纳尔多·贝托鲁奇",
+    "tags": [
+      "顺从",
+      "法西斯",
+      "几何",
+      "贝托鲁奇"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括贝托鲁奇《顺从者》中法西斯官僚以顺从换取“正常”的道德空白寓言，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 786
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-conformist-1970.jpg",
+    "still": "assets/stills/classics/the-conformist-1970.jpg",
+    "still_alt": "同流者 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-conformist-1970.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8416）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/g6G39cC2XfEKunn3wZ7HkBjrZMe.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "maud-night-chance",
+    "line": "信念若怕偶然，也就怕了整个夜晚。",
+    "line_en": "If faith fears chance, it also fears the whole night.",
+    "film_title": "我的夜在莫德家",
+    "film_title_en": "My Night at Maud's",
+    "year": 1969,
+    "character": "让－路易／莫德 / Jean-Louis / Maud",
+    "director": "埃里克·侯麦",
+    "tags": [
+      "信仰",
+      "偶然",
+      "对话",
+      "侯麦"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括侯麦《我在莫德家的一晚》中天主教理性与情欲偶然性交锋的道德故事题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 369
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/my-night-at-maud-s-1969.jpg",
+    "still": "assets/stills/classics/my-night-at-maud-s-1969.jpg",
+    "still_alt": "我的夜在莫德家 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/my-night-at-maud-s-1969.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/48831）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9qRp6mYwyDBVzxNJN4xvpSxFvyR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "daybreak-attic",
+    "line": "天亮以前，阁楼里只剩一个人，和还没讲完的理由。",
+    "line_en": "Before daybreak, only one man remains in the attic — and a reason still unfinished.",
+    "film_title": "天色破晓",
+    "film_title_en": "Daybreak",
+    "year": 1939,
+    "character": "弗朗索瓦 / François",
+    "director": "马塞尔·卡尔内",
+    "tags": [
+      "宿命",
+      "阁楼",
+      "诗意",
+      "卡尔内"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括卡尔内《天亮时分》中加邦困守阁楼等待黎明的诗意现实主义宿命，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 257
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/daybreak-1939.jpg",
+    "still": "assets/stills/classics/daybreak-1939.jpg",
+    "still_alt": "天色破晓 · TMDB 宣传静帧（3829×2154）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/daybreak-1939.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/27053）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fJ7dLAA1GbZbmTkl3VcMnmeZ308.jpg（3829×2154）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "balthazar-burden",
+    "line": "牲口不懂得宽恕，却比人更早学会了承受。",
+    "line_en": "A beast does not know forgiveness, yet learns to bear more sooner than men.",
+    "film_title": "巴尔塔扎尔的遭遇",
+    "film_title_en": "Au Hasard Balthazar",
+    "year": 1966,
+    "character": "巴尔塔扎尔／玛丽 / Balthazar / Marie",
+    "director": "罗贝尔·布列松",
+    "tags": [
+      "受难",
+      "恩典",
+      "简约",
+      "布列松"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括布列松《巴尔塔扎尔的遭遇》中驴子承载人间残酷与圣愚恩典的寓言，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 529
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/au-hasard-balthazar-1966.jpg",
+    "still": "assets/stills/classics/au-hasard-balthazar-1966.jpg",
+    "still_alt": "巴尔塔扎尔的遭遇 · TMDB 宣传静帧（3024×1701）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/au-hasard-balthazar-1966.jpg，1181×1771）（影片页 https://www.themoviedb.org/movie/20108）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lEDQFnMQeCgQJfTB1tFngRq2yJN.jpg（3024×1701）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "avventura-absence",
+    "line": "她失踪以后，留下的不是线索，是彼此之间忽然空出来的距离。",
+    "line_en": "After she vanished, what remained was not a clue — but a sudden distance between them.",
+    "film_title": "奇遇",
+    "film_title_en": "L'Avventura",
+    "year": 1960,
+    "character": "桑德罗／克劳迪娅 / Sandro / Claudia",
+    "director": "米开朗基罗·安东尼奥尼",
+    "tags": [
+      "失踪",
+      "疏离",
+      "风景",
+      "安东尼奥尼"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括安东尼奥尼《奇遇》中失踪事件退居背景、情感真空上升为真正主题的现代性开篇，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 774
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/l-avventura-1960.jpg",
+    "still": "assets/stills/classics/l-avventura-1960.jpg",
+    "still_alt": "奇遇 · TMDB 宣传静帧（2000×1126）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/l-avventura-1960.jpg，1999×3000）（影片页 https://www.themoviedb.org/movie/5165）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sFX6iUHFzkzl5tVVXwesDrxXGHk.jpg（2000×1126）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "jules-jim-catherine",
+    "line": "有的人不是被爱选中，是被自由拖着跑。",
+    "line_en": "Some are not chosen by love — they are dragged along by freedom.",
+    "film_title": "朱尔与吉姆",
+    "film_title_en": "Jules and Jim",
+    "year": 1962,
+    "character": "卡特琳娜／于勒／吉姆 / Catherine / Jules / Jim",
+    "director": "弗朗索瓦·特吕弗",
+    "tags": [
+      "三角",
+      "自由",
+      "友谊",
+      "特吕弗"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括特吕弗《朱尔与吉姆》中卡特琳娜驱动的友谊与爱之自由及其代价，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 1074
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/jules-and-jim-1962.jpg",
+    "still": "assets/stills/classics/jules-and-jim-1962.jpg",
+    "still_alt": "朱尔与吉姆 · TMDB 宣传静帧（2400×1350）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/jules-and-jim-1962.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1628）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6L7XrNTp0A5QKKxDFPAeMsQYrcf.jpg（2400×1350）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "paisan-chapters",
+    "line": "解放不是一条直线，是六段还来不及互相认识的善意。",
+    "line_en": "Liberation is not a straight line — it is six chapters of goodwill that never quite meet.",
+    "film_title": "战火",
+    "film_title_en": "Paisan",
+    "year": 1946,
+    "character": "群像 / ensemble",
+    "director": "罗伯托·罗西里尼",
+    "tags": [
+      "解放",
+      "短章",
+      "战争",
+      "罗西里尼"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括罗西里尼《战火》六章式解放意大利叙事中的短暂相遇与人道裂隙，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 365
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/paisan-1946.jpg",
+    "still": "assets/stills/classics/paisan-1946.jpg",
+    "still_alt": "战火 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/paisan-1946.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8429）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ss5kJkUUfA5ioGZmUzuNDiRcbsH.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "veronique-double",
+    "line": "两个生命共用一串音符时，谁先停下来，谁就成了回声。",
+    "line_en": "When two lives share one melody, whoever stops first becomes the echo.",
+    "film_title": "两生花",
+    "film_title_en": "The Double Life of Veronique",
+    "year": 1991,
+    "character": "韦罗妮卡／维罗妮卡 / Weronika / Véronique",
+    "director": "克日什托夫·基耶斯洛夫斯基",
+    "tags": [
+      "双重",
+      "命运",
+      "音乐",
+      "基耶斯洛夫斯基"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括基耶斯洛夫斯基《维罗妮卡的双重生活》中平行生命与感应命运的诗性题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 920
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-double-life-of-veronique-1991.jpg",
+    "still": "assets/stills/classics/the-double-life-of-veronique-1991.jpg",
+    "still_alt": "两生花 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-double-life-of-veronique-1991.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/1600）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hABqLfQuE9wGN4ma3CnjOIIjtsl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "breathless-run",
+    "line": "跑着的人最怕停下来——停下来就要承认自己在逃。",
+    "line_en": "Those who keep running fear stopping most — to stop is to admit they are fleeing.",
+    "film_title": "精疲力尽",
+    "film_title_en": "Breathless",
+    "year": 1960,
+    "character": "米歇尔／帕特里夏 / Michel / Patricia",
+    "director": "让-吕克·戈达尔",
+    "tags": [
+      "逃亡",
+      "新浪潮",
+      "跳接",
+      "戈达尔"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括戈达尔《精疲力尽》中浪荡逃亡与情感背叛交织的新浪潮旗帜题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 2093
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/breathless-1960.jpg",
+    "still": "assets/stills/classics/breathless-1960.jpg",
+    "still_alt": "精疲力尽 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/breathless-1960.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/269）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4WGuyWf1f94CsEeVIIqDKGw5rmO.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "bourgeoisie-dinner",
+    "line": "晚宴永远开不了席——礼仪比饥饿更不肯让步。",
+    "line_en": "Dinner never quite begins — etiquette yields less readily than hunger.",
+    "film_title": "资产阶级的审慎魅力",
+    "film_title_en": "The Discreet Charm of the Bourgeoisie",
+    "year": 1972,
+    "character": "六名食客 / the six guests",
+    "director": "路易斯·布努埃尔",
+    "tags": [
+      "宴会",
+      "荒诞",
+      "礼仪",
+      "布努埃尔"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括布努埃尔《资产阶级的审慎魅力》中反复被打断的宴会与礼仪虚伪的超现实讽刺，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 945
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-discreet-charm-of-the-bourgeoisie-1972.jpg",
+    "still": "assets/stills/classics/the-discreet-charm-of-the-bourgeoisie-1972.jpg",
+    "still_alt": "资产阶级的审慎魅力 · TMDB 宣传静帧（2879×1619）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-discreet-charm-of-the-bourgeoisie-1972.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/4593）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mKC5CLuSMDyMyZ6G0wlrtzHCES0.jpg（2879×1619）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "birdman-stage",
+    "line": "舞台上的飞，往往是为了不看见台下的坠落。",
+    "line_en": "Flying on stage is often a way not to see the fall below.",
+    "film_title": "鸟人",
+    "film_title_en": "Birdman",
+    "year": 2014,
+    "character": "里根 / Riggan Thomson",
+    "director": "亚历杭德罗·冈萨雷斯·伊纳里图",
+    "tags": [
+      "舞台",
+      "自我",
+      "幻术",
+      "伊纳里图"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括伊纳里图《鸟人》中百老汇自我神话与幻觉飞翔的当代寓言，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 13851
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/birdman-2014.jpg",
+    "still": "assets/stills/classics/birdman-2014.jpg",
+    "still_alt": "鸟人 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/birdman-2014.jpg，1720×2424）（影片页 https://www.themoviedb.org/movie/194662）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5tDErYQ8Ne1N6dNAlxg8yYNUwRA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "marienbad-last-year",
+    "line": "去年是否发生过，取决于你今夜是否愿意承认。",
+    "line_en": "Whether it happened last year depends on whether you will admit it tonight.",
+    "film_title": "去年在马里昂巴德",
+    "film_title_en": "Last Year at Marienbad",
+    "year": 1961,
+    "character": "X／A / X / A",
+    "director": "阿伦·雷乃",
+    "tags": [
+      "记忆",
+      "迷宫",
+      "叙述",
+      "雷乃"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括雷乃／罗伯-格里耶《去年在马里昂巴德》中时间与记忆不确定性的迷宫题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 558
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/last-year-at-marienbad-1961.jpg",
+    "still": "assets/stills/classics/last-year-at-marienbad-1961.jpg",
+    "still_alt": "去年在马里昂巴德 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/last-year-at-marienbad-1961.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/4024）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "three-colors-white-equal",
+    "line": "平等若只剩报复，白光也会冷得像雪。",
+    "line_en": "If equality shrinks to revenge, even white light turns as cold as snow.",
+    "film_title": "蓝白红三部曲之白",
+    "film_title_en": "Three Colors: White",
+    "year": 1994,
+    "character": "卡罗尔／多米妮克 / Karol / Dominique",
+    "director": "克日什托夫·基耶斯洛夫斯基",
+    "tags": [
+      "平等",
+      "婚姻",
+      "白色",
+      "基耶斯洛夫斯基"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括基耶斯洛夫斯基《蓝白红三部曲：白》中婚姻崩解与“平等”被报复改写的冷幽默，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 1372
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/three-colors-white-1994.jpg",
+    "still": "assets/stills/classics/three-colors-white-1994.jpg",
+    "still_alt": "蓝白红三部曲之白 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/three-colors-white-1994.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/109）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/b1CVjSYinzm6tx1TGA7c75W8X9k.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "sullivan-travels-laugh",
+    "line": "想拍苦难的人，有时最需要先学会让人笑。",
+    "line_en": "Those who set out to film misery sometimes need first to learn how to make people laugh.",
+    "film_title": "苏利文的旅行",
+    "film_title_en": "Sullivan's Travels",
+    "year": 1941,
+    "character": "沙利文 / John L. Sullivan",
+    "director": "普雷斯顿·斯特奇斯",
+    "tags": [
+      "喜剧",
+      "苦难",
+      "好莱坞",
+      "斯特奇斯"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括斯特奇斯《沙利文的旅行》中导演下乡体验苦难却发现笑声价值的自我反思寓言，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 527
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/sullivan-s-travels-1941.jpg",
+    "still": "assets/stills/classics/sullivan-s-travels-1941.jpg",
+    "still_alt": "苏利文的旅行 · TMDB 宣传静帧（2500×1406）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sullivan-s-travels-1941.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/16305）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vmSl57mVNbXDI6oiIdBhxURvFv1.jpg（2500×1406）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "cherbourg-umbrellas",
+    "line": "雨停了，颜色还在——分别却比彩虹更长久。",
+    "line_en": "When the rain stops, the colors remain — but parting lasts longer than any rainbow.",
+    "film_title": "瑟堡的雨伞",
+    "film_title_en": "The Umbrellas of Cherbourg",
+    "year": 1964,
+    "character": "热内维耶芙／居伊 / Geneviève / Guy",
+    "director": "雅克·德米",
+    "tags": [
+      "音乐",
+      "离散",
+      "色块",
+      "德米"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括德米《瑟堡的雨伞》中全唱叙事与战时离散爱情的色块抒情，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 912
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-umbrellas-of-cherbourg-1964.jpg",
+    "still": "assets/stills/classics/the-umbrellas-of-cherbourg-1964.jpg",
+    "still_alt": "瑟堡的雨伞 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-umbrellas-of-cherbourg-1964.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/5967）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bNclGMHMM7d9jL0vGrVZ8N9wMX3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "jeanne-dielman-routine",
+    "line": "重复到极致的家务，会在某一秒忽然不再听话。",
+    "line_en": "Housework repeated to its limit will, in one second, suddenly stop obeying.",
+    "film_title": "让娜·迪尔曼",
+    "film_title_en": "Jeanne Dielman",
+    "year": 1975,
+    "character": "让娜 / Jeanne Dielman",
+    "director": "尚塔尔·阿克曼",
+    "tags": [
+      "日常",
+      "重复",
+      "爆发",
+      "阿克曼"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括阿克曼《让娜·迪尔曼》中家务日常极限与秩序崩溃的女性主义里程碑题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 412
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/jeanne-dielman-1975.jpg",
+    "still": "assets/stills/classics/jeanne-dielman-1975.jpg",
+    "still_alt": "让娜·迪尔曼 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/jeanne-dielman-1975.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/44012）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2qL6rsvq29ueZ0ITh47Jj2F985R.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "purple-rose-screen",
+    "line": "银幕里的人走出来以后，现实反而更像一场假戏。",
+    "line_en": "Once the man on the screen steps out, reality feels more like a false play.",
+    "film_title": "开罗紫玫瑰",
+    "film_title_en": "The Purple Rose of Cairo",
+    "year": 1985,
+    "character": "塞西莉亚／汤姆 / Cecilia / Tom",
+    "director": "伍迪·艾伦",
+    "tags": [
+      "影迷",
+      "穿越",
+      "大萧条",
+      "艾伦"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括伍迪·艾伦《开罗紫玫瑰》中影迷与银幕人物越界相遇的大萧条浪漫寓言，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 1178
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-purple-rose-of-cairo-1985.jpg",
+    "still": "assets/stills/classics/the-purple-rose-of-cairo-1985.jpg",
+    "still_alt": "开罗紫玫瑰 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-purple-rose-of-cairo-1985.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/10849）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/afbfZtBOZIfxlzzvHCOfauI6pna.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "damned-dynasty",
+    "line": "世家的晚宴一开，堕落就会按席次入座。",
+    "line_en": "Once the dynasty dinner begins, decadence takes its seat by rank.",
+    "film_title": "纳粹狂魔",
+    "film_title_en": "The Damned",
+    "year": 1969,
+    "character": "艾森贝克家族 / the Essenbeck family",
+    "director": "卢奇诺·维斯康蒂",
+    "tags": [
+      "纳粹",
+      "世家",
+      "堕落",
+      "维斯康蒂"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括维斯康蒂《纳粹狂魔／诅咒》中工业世家与纳粹合流的歌剧式崩解，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 238
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-damned-1969.jpg",
+    "still": "assets/stills/classics/the-damned-1969.jpg",
+    "still_alt": "纳粹狂魔 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-damned-1969.jpg，1358×2048）（影片页 https://www.themoviedb.org/movie/41876）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kXbwYdulN9cHwVv75FQJcxmgUzz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "red-desert-fog",
+    "line": "工厂的烟比雾更诚实——它不假装能让人看清彼此。",
+    "line_en": "Factory smoke is more honest than fog — it does not pretend to let people see each other.",
+    "film_title": "红色沙漠",
+    "film_title_en": "Red Desert",
+    "year": 1964,
+    "character": "朱莉安娜 / Giuliana",
+    "director": "米开朗基罗·安东尼奥尼",
+    "tags": [
+      "工业",
+      "疏离",
+      "色彩",
+      "安东尼奥尼"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括安东尼奥尼《红色沙漠》中污染工业景观与心理失语并置的彩色现代性，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 517
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/red-desert-1964.jpg",
+    "still": "assets/stills/classics/red-desert-1964.jpg",
+    "still_alt": "红色沙漠 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/red-desert-1964.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/26638）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1lIY5t44oAKsaFfHvsGWWBPmsom.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "pierrot-fou-escape",
+    "line": "逃向南方的颜色太鲜艳，结局只能用火药收场。",
+    "line_en": "The colors of fleeing south are too vivid — the ending can only be settled with gunpowder.",
+    "film_title": "狂人皮埃罗",
+    "film_title_en": "Pierrot le Fou",
+    "year": 1965,
+    "character": "费迪南／玛丽安娜 / Ferdinand / Marianne",
+    "director": "让-吕克·戈达尔",
+    "tags": [
+      "公路",
+      "色彩",
+      "反叙事",
+      "戈达尔"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括戈达尔《狂人皮埃罗》中公路逃亡、色彩爆炸与反叙事浪荡的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 968
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/pierrot-le-fou-1965.jpg",
+    "still": "assets/stills/classics/pierrot-le-fou-1965.jpg",
+    "still_alt": "狂人皮埃罗 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pierrot-le-fou-1965.jpg，1587×2245）（影片页 https://www.themoviedb.org/movie/2786）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zLbDuibfarVebd8XHqgGweq3n86.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "casque-dor-gold",
+    "line": "金盔再亮，也护不住一场注定见血的爱情。",
+    "line_en": "However bright the golden casque, it cannot shield a love already destined for blood.",
+    "film_title": "金盔",
+    "film_title_en": "Casque d'Or",
+    "year": 1952,
+    "character": "玛丽／马多 / Marie / Manda",
+    "director": "雅克·贝克尔",
+    "tags": [
+      "爱情",
+      "下层",
+      "宿命",
+      "贝克尔"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括贝克尔《金盔》中巴黎下层情爱与帮派宿命的诗意悲剧，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 208
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/casque-d-or-1952.jpg",
+    "still": "assets/stills/classics/casque-d-or-1952.jpg",
+    "still_alt": "金盔 · TMDB 宣传静帧（3270×1840）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/casque-d-or-1952.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/68822）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kpqwEMYwvD1EeeJz9gkm6QJORfr.jpg（3270×1840）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "blow-up-frame",
+    "line": "放大以后看见的，不一定是真相，更像是你愿意相信的空白。",
+    "line_en": "What enlargement reveals is not necessarily truth — more like a blank you are willing to believe.",
+    "film_title": "放大",
+    "film_title_en": "Blow-Up",
+    "year": 1966,
+    "character": "托马斯 / Thomas",
+    "director": "米开朗基罗·安东尼奥尼",
+    "tags": [
+      "摄影",
+      "真相",
+      "伦敦",
+      "安东尼奥尼"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括安东尼奥尼《放大》中摄影取证与看见／真相错位的现代性谜题，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 1422
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/blow-up-1966.jpg",
+    "still": "assets/stills/classics/blow-up-1966.jpg",
+    "still_alt": "放大 · TMDB 宣传静帧（1966×1106）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/blow-up-1966.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1052）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iO2Yn75mqOB4KjVTsxnSoTok0Uj.jpg（1966×1106）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]

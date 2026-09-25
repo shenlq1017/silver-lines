@@ -1,13 +1,13 @@
 {
   "meta": {
     "created_at": "2026-09-25T14:00:32+08:00",
-    "purpose": "C25 classics×25 草稿：batch-yi id-repair 解锁波续（C24 后剩余池）；status=draft，merged=false；HOLD 并入直至 C24 PASS+live on origin",
+    "purpose": "C25 classics×25 草稿：batch-yi id-repair 解锁波续（C24 后剩余池）；status=merged，已并入 quotes.json",
     "batch": "batch-yi",
     "batch_note": "repaired batch-yi — id-repair unlock wave，非原 C12–C14 matched remainder",
     "selection_source": "tmp/content-fill-plan/candidates-yi-c25-25.json",
     "stills_source": "tmp/stills-yi-c25/index-fragment.json",
     "count": 25,
-    "merged": false,
+    "merged": true,
     "featured_ids": [],
     "blocked": [],
     "still_pending": [],
@@ -19,9 +19,9 @@
       "静帧：TMDB original backdrop，wide≥1920（prefer≥2560）；本批 19 ok / 6 actual / 0 skip",
       "海报：本地 width≥780；本批 25 kept / 0 replaced；min_width=800",
       "金句：主题性策展句（及少量通行金句意译），curator_note 标明非逐字引文；绝不编造对白",
-      "HARD：不修改 quotes.json；不 push；不 CloudAgent；不碰 orphan untracked posters",
-      "HOLD merge：待 C24 PASS 且 live on origin 后再并入"
-    ]
+      "meta.merged=true；已并入 quotes.json published 857（832+25）；ranks 833–857；merged_at=2026-09-25T14:01:48+08:00；batch-yi id-repair unlock wave 续波（C24 后）并入"
+    ],
+    "merged_at": "2026-09-25T14:01:48+08:00"
   },
   "quotes": [
     {
