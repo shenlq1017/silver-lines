@@ -1,0 +1,390 @@
+[
+  {
+    "id": "shawshank-hope",
+    "line": "希望是美好的，也许是人间至善，而美好的事物永不消逝。",
+    "line_en": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "film_title": "肖申克的救赎",
+    "film_title_en": "The Shawshank Redemption",
+    "year": 1994,
+    "character": "Andy Dufresne",
+    "director": "弗兰克·德拉邦特",
+    "tags": [
+      "剧情",
+      "希望",
+      "自由"
+    ],
+    "featured": true,
+    "curator_note": "豆瓣常年榜首，希望成了传世金句。",
+    "ratings": {
+      "douban": {
+        "score": 9.7,
+        "votes": 3100000
+      },
+      "imdb": {
+        "score": 9.3,
+        "votes": 2900000
+      },
+      "rotten_tomatoes": {
+        "tomatometer": 89
+      },
+      "metacritic": {
+        "score": 82
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/shawshank-hope.png",
+    "still": "assets/stills/shawshank-hope.png",
+    "still_alt": "肖申克的救赎 · 氛围示意静帧（非原片截帧）",
+    "status": "published",
+    "license_note": "M1 示意占位，待合规剧照替换；示意非原片截帧。自绘氛围 PNG，禁止当作正式宣发图。"
+  },
+  {
+    "id": "farewell-concubine",
+    "line": "不疯魔，不成活。",
+    "line_en": "Without obsession, there is no art.",
+    "film_title": "霸王别姬",
+    "film_title_en": "Farewell My Concubine",
+    "year": 1993,
+    "character": "程蝶衣",
+    "director": "陈凯歌",
+    "tags": [
+      "剧情",
+      "历史",
+      "艺术"
+    ],
+    "featured": true,
+    "curator_note": "戏比天大，一句疯魔道尽半生。",
+    "ratings": {
+      "douban": {
+        "score": 9.6,
+        "votes": 2300000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 34000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/farewell-concubine.png",
+    "still": "assets/stills/farewell-concubine.png",
+    "still_alt": "霸王别姬 · 氛围示意静帧（非原片截帧）",
+    "status": "published",
+    "license_note": "M1 示意占位，待合规剧照替换；示意非原片截帧。自绘氛围 PNG，禁止当作正式宣发图。"
+  },
+  {
+    "id": "titanic-jump",
+    "line": "你跳，我也跳。",
+    "line_en": "You jump, I jump.",
+    "film_title": "泰坦尼克号",
+    "film_title_en": "Titanic",
+    "year": 1997,
+    "character": "Jack Dawson",
+    "director": "詹姆斯·卡梅隆",
+    "tags": [
+      "爱情",
+      "灾难",
+      "誓言"
+    ],
+    "featured": true,
+    "curator_note": "最短誓言，最长久回响。",
+    "ratings": {
+      "douban": {
+        "score": 9.5,
+        "votes": 2400000
+      },
+      "imdb": {
+        "score": 7.9,
+        "votes": 1300000
+      },
+      "rotten_tomatoes": {
+        "tomatometer": 88
+      },
+      "metacritic": {
+        "score": 75
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/titanic-jump.png",
+    "still": "assets/stills/titanic-jump.png",
+    "still_alt": "泰坦尼克号 · 氛围示意静帧（非原片截帧）",
+    "status": "published",
+    "license_note": "M1 示意占位，待合规剧照替换；示意非原片截帧。自绘氛围 PNG，禁止当作正式宣发图。"
+  },
+  {
+    "id": "forrest-chocolate",
+    "line": "生活就像一盒巧克力，你永远不知道下一颗是什么味道。",
+    "line_en": "Life is like a box of chocolates. You never know what you're gonna get.",
+    "film_title": "阿甘正传",
+    "film_title_en": "Forrest Gump",
+    "year": 1994,
+    "character": "Forrest Gump",
+    "director": "罗伯特·泽米吉斯",
+    "tags": [
+      "剧情",
+      "人生",
+      "温暖"
+    ],
+    "featured": true,
+    "curator_note": "妈妈的比喻，成了人生入门课。",
+    "ratings": {
+      "douban": {
+        "score": 9.5,
+        "votes": 2300000
+      },
+      "imdb": {
+        "score": 8.8,
+        "votes": 2300000
+      },
+      "rotten_tomatoes": {
+        "tomatometer": 71
+      },
+      "metacritic": {
+        "score": 82
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/forrest-chocolate.png",
+    "still": "assets/stills/forrest-chocolate.png",
+    "still_alt": "阿甘正传 · 氛围示意静帧（非原片截帧）",
+    "status": "published",
+    "license_note": "M1 示意占位，待合规剧照替换；示意非原片截帧。自绘氛围 PNG，禁止当作正式宣发图。"
+  },
+  {
+    "id": "spirited-away",
+    "line": "曾经发生过的事不可能忘记，只不过是想不起来而已。",
+    "line_en": "Once you've met someone you never really forget them.",
+    "film_title": "千与千寻",
+    "film_title_en": "Spirited Away",
+    "year": 2001,
+    "character": "无脸男 / 钱婆婆旁白意蕴",
+    "director": "宫崎骏",
+    "tags": [
+      "动画",
+      "成长",
+      "记忆"
+    ],
+    "featured": true,
+    "curator_note": "宫崎骏式温柔：遗忘也是记得。",
+    "ratings": {
+      "douban": {
+        "score": 9.4,
+        "votes": 2400000
+      },
+      "imdb": {
+        "score": 8.6,
+        "votes": 900000
+      },
+      "rotten_tomatoes": {
+        "tomatometer": 96
+      },
+      "metacritic": {
+        "score": 96
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/spirited-away.png",
+    "still": "assets/stills/spirited-away.png",
+    "still_alt": "千与千寻 · 氛围示意静帧（非原片截帧）",
+    "status": "published",
+    "license_note": "M1 示意占位，待合规剧照替换；示意非原片截帧。自绘氛围 PNG，禁止当作正式宣发图。"
+  },
+  {
+    "id": "life-beautiful",
+    "line": "为了你，我愿意天天都是生日。",
+    "line_en": "For you, every day can be a birthday.",
+    "film_title": "美丽人生",
+    "film_title_en": "Life Is Beautiful",
+    "year": 1997,
+    "character": "Guido",
+    "director": "罗伯托·贝尼尼",
+    "tags": [
+      "剧情",
+      "亲情",
+      "希望"
+    ],
+    "featured": false,
+    "curator_note": "用游戏护住孩子眼中的世界。",
+    "ratings": {
+      "douban": {
+        "score": 9.5,
+        "votes": 1400000
+      },
+      "imdb": {
+        "score": 8.6,
+        "votes": 760000
+      },
+      "rotten_tomatoes": {
+        "tomatometer": 81
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/life-beautiful.png",
+    "still": "assets/stills/life-beautiful.png",
+    "still_alt": "美丽人生 · 氛围示意静帧（非原片截帧）",
+    "status": "published",
+    "license_note": "M1 示意占位，待合规剧照替换；示意非原片截帧。自绘氛围 PNG，禁止当作正式宣发图。"
+  },
+  {
+    "id": "interstellar-love",
+    "line": "爱是唯一能超越时间与空间的力量。",
+    "line_en": "Love is the one thing we're capable of perceiving that transcends dimensions of time and space.",
+    "film_title": "星际穿越",
+    "film_title_en": "Interstellar",
+    "year": 2014,
+    "character": "Brand",
+    "director": "克里斯托弗·诺兰",
+    "tags": [
+      "科幻",
+      "亲情",
+      "时空"
+    ],
+    "featured": false,
+    "curator_note": "科幻外壳下最柔软的一句。",
+    "ratings": {
+      "douban": {
+        "score": 9.4,
+        "votes": 1900000
+      },
+      "imdb": {
+        "score": 8.7,
+        "votes": 2200000
+      },
+      "rotten_tomatoes": {
+        "tomatometer": 73
+      },
+      "metacritic": {
+        "score": 74
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/interstellar-love.png",
+    "still": "assets/stills/interstellar-love.png",
+    "still_alt": "星际穿越 · 氛围示意静帧（非原片截帧）",
+    "status": "published",
+    "license_note": "M1 示意占位，待合规剧照替换；示意非原片截帧。自绘氛围 PNG，禁止当作正式宣发图。"
+  },
+  {
+    "id": "leon-childhood",
+    "line": "人生总是这么痛苦吗？还是只有童年如此？",
+    "line_en": "Is life always this hard, or is it just when you're a kid?",
+    "film_title": "这个杀手不太冷",
+    "film_title_en": "Léon: The Professional",
+    "year": 1994,
+    "character": "Mathilda",
+    "director": "吕克·贝松",
+    "tags": [
+      "剧情",
+      "成长",
+      "守护"
+    ],
+    "featured": false,
+    "curator_note": "童声一问，击中所有成年人。",
+    "ratings": {
+      "douban": {
+        "score": 9.4,
+        "votes": 2500000
+      },
+      "imdb": {
+        "score": 8.5,
+        "votes": 1300000
+      },
+      "rotten_tomatoes": {
+        "tomatometer": 74
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/leon-childhood.png",
+    "still": "assets/stills/leon-childhood.png",
+    "still_alt": "这个杀手不太冷 · 氛围示意静帧（非原片截帧）",
+    "status": "published",
+    "license_note": "M1 示意占位，待合规剧照替换；示意非原片截帧。自绘氛围 PNG，禁止当作正式宣发图。"
+  },
+  {
+    "id": "inception-dreams",
+    "line": "一个想法就像病毒，有韧性，极具传染力。",
+    "line_en": "An idea is like a virus. Resilient. Highly contagious.",
+    "film_title": "盗梦空间",
+    "film_title_en": "Inception",
+    "year": 2010,
+    "character": "Cobb",
+    "director": "克里斯托弗·诺兰",
+    "tags": [
+      "科幻",
+      "烧脑",
+      "梦境"
+    ],
+    "featured": false,
+    "curator_note": "诺兰命题：念头一旦种下。",
+    "ratings": {
+      "douban": {
+        "score": 9.4,
+        "votes": 2200000
+      },
+      "imdb": {
+        "score": 8.8,
+        "votes": 2600000
+      },
+      "rotten_tomatoes": {
+        "tomatometer": 87
+      },
+      "metacritic": {
+        "score": 74
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/inception-dreams.png",
+    "still": "assets/stills/inception-dreams.png",
+    "still_alt": "盗梦空间 · 氛围示意静帧（非原片截帧）",
+    "status": "published",
+    "license_note": "M1 示意占位，待合规剧照替换；示意非原片截帧。自绘氛围 PNG，禁止当作正式宣发图。"
+  },
+  {
+    "id": "truman-goodnight",
+    "line": "如果再也见不到你，祝你早安，午安，晚安。",
+    "line_en": "In case I don't see you… good afternoon, good evening, and good night.",
+    "film_title": "楚门的世界",
+    "film_title_en": "The Truman Show",
+    "year": 1998,
+    "character": "Truman Burbank",
+    "director": "彼得·威尔",
+    "tags": [
+      "剧情",
+      "自由",
+      "真实"
+    ],
+    "featured": false,
+    "curator_note": "假世界里最真的一句告别。",
+    "ratings": {
+      "douban": {
+        "score": 9.4,
+        "votes": 1800000
+      },
+      "imdb": {
+        "score": 8.2,
+        "votes": 1200000
+      },
+      "rotten_tomatoes": {
+        "tomatometer": 94
+      },
+      "metacritic": {
+        "score": 90
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/truman-goodnight.png",
+    "still": "assets/stills/truman-goodnight.png",
+    "still_alt": "楚门的世界 · 氛围示意静帧（非原片截帧）",
+    "status": "published",
+    "license_note": "M1 示意占位，待合规剧照替换；示意非原片截帧。自绘氛围 PNG，禁止当作正式宣发图。"
+  }
+]

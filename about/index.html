@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>关于 · 银幕金句</title>
+  <meta name="description" content="银幕金句项目说明、版权与预览方式">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body data-base="../">
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="logo" href="../">银幕金句 <span>Silver Lines</span></a>
+      <nav>
+        <ul class="nav">
+          <li><a href="../">首页</a></li>
+          <li><a href="../quotes/">金句</a></li>
+          <li><a href="./" aria-current="page">关于</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <article class="prose">
+        <h1>关于银幕金句</h1>
+        <p class="lead">Silver Lines · 电影质感的银幕金句策展站。当前为 Phase <strong>M1</strong>：锁定豆瓣 Top250 意图截取下的 Top10，各 1 条主金句。</p>
+
+        <h2>本站是什么</h2>
+        <p>收集值得回看的电影金句：大静帧叠字、暗色胶片风、评分徽章可视化。不做片源、不做播放器、不盗链外站媒体。</p>
+
+        <h2>M1 范围</h2>
+        <ul>
+          <li>静态 HTML + 本地 JSON（<code>data/quotes.json</code>）</li>
+          <li>恰好 10 条 <code>status=published</code>，片名锁定 Top10</li>
+          <li>海报 / 静帧为本地氛围示意 <strong>PNG</strong>（非原片截帧；待合规剧照替换）</li>
+          <li>评分字段为策展快照（含 <code>as_of</code>），非实时抓取；详见 <code>data/source.json</code></li>
+        </ul>
+
+        <h2>本地预览</h2>
+        <p>在站点根目录执行：</p>
+        <p><code>cd /workspace/silver-lines &amp;&amp; python3 -m http.server 8080</code></p>
+        <p>浏览器打开 <code>http://127.0.0.1:8080/</code>。勿直接用 <code>file://</code> 打开（fetch 会失败）。</p>
+
+        <h2>版权与素材声明</h2>
+        <ul>
+          <li>金句文案：引用自公映电影对白，仅用于策展展示与评论，非商业片源分发。</li>
+          <li>海报 / 静帧：自绘氛围 PNG 示意，非正式片宣物料、非原片截帧；正式上线前须替换为已授权或自有素材。</li>
+          <li>评分徽章：展示策展写入的快照数值；不代表与豆瓣 / IMDb / RT / Metacritic 有任何官方合作。</li>
+          <li>商标与片名归各自权利方所有。</li>
+        </ul>
+
+        <h2>推仓说明</h2>
+        <p>本沙箱目录即为站点根。确认无密钥、无侵权素材后可自行入库。本阶段<strong>不自动推 GitHub</strong>。</p>
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p>银幕金句 / Silver Lines · 版权声明见本页</p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>金句详情 · 银幕金句</title>
+  <meta name="description" content="银幕金句详情：静帧叠字与评分徽章">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../assets/css/style.css">
+</head>
+<body data-base="../../">
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="logo" href="../../">银幕金句 <span>Silver Lines</span></a>
+      <nav>
+        <ul class="nav">
+          <li><a href="../../">首页</a></li>
+          <li><a href="../" aria-current="page">金句</a></li>
+          <li><a href="../../about/">关于</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="detail-root">
+    <p class="error-msg container" style="margin-top:2rem">加载中…</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p>银幕金句 / Silver Lines · 静帧与海报为本地示意 PNG（非原片截帧）</p>
+    </div>
+  </footer>
+
+  <script src="../../assets/js/ratings.js"></script>
+  <script src="../../assets/js/site.js"></script>
+  <script>
+    (function () {
+      function quoteIdFromPath() {
+        const parts = location.pathname.replace(/\/+$/, "").split("/");
+        return parts[parts.length - 1] || "";
+      }
+
+      function lineOf(q) { return q.line || q.quote || ""; }
+      function titleOf(q) { return q.film_title || q.movie || ""; }
+      function titleEnOf(q) { return q.film_title_en || q.movie_en || ""; }
+      function lineEnOf(q) { return q.line_en || q.quote_en || ""; }
+
+      function renderDetail(q) {
+        const S = SilverSite;
+        const R = SilverRatings;
+        const still = S.asset(q.still);
+        const poster = S.asset(q.poster);
+        const ratingsBlock = R.renderDetailRatingsBlock(q.ratings);
+        const tags = (q.tags || [])
+          .map(function (t) {
+            return '<span class="tag">' + S.escapeHtml(t) + "</span>";
+          })
+          .join("");
+        const stillAlt = q.still_alt || (titleOf(q) + " 氛围示意静帧（非原片截帧）");
+
+        document.title = titleOf(q) + " · 银幕金句";
+
+        return (
+          '<section class="detail-hero">' +
+          '<div class="detail-hero__still"><img src="' + still + '" alt="' +
+          S.escapeAttr(stillAlt) + '"></div>' +
+          '<div class="detail-hero__veil" aria-hidden="true"></div>' +
+          '<div class="detail-hero__content">' +
+          '<p class="detail-quote">' + S.escapeHtml(lineOf(q)) + "</p>" +
+          (lineEnOf(q)
+            ? '<p class="detail-quote-en">' + S.escapeHtml(lineEnOf(q)) + "</p>"
+            : "") +
+          '<div class="detail-meta-row">' +
+          "<strong>" + S.escapeHtml(titleOf(q)) + "</strong>" +
+          (titleEnOf(q) ? "<span>" + S.escapeHtml(titleEnOf(q)) + "</span>" : "") +
+          "<span>" + q.year + "</span>" +
+          (q.character
+            ? "<span>角色 · " + S.escapeHtml(q.character) + "</span>"
+            : "") +
+          "</div>" +
+          ratingsBlock +
+          "</div></section>" +
+          '<div class="detail-body">' +
+          '<a class="back-link" href="../" style="grid-column:1/-1">← 返回金句墙</a>' +
+          '<div class="detail-poster"><img src="' + poster + '" alt="' +
+          S.escapeAttr(titleOf(q) + " 海报示意（占位）") + '"></div>' +
+          '<div class="detail-info">' +
+          "<h2>影片信息</h2>" +
+          "<dl>" +
+          "<dt>片名</dt><dd>" +
+          S.escapeHtml(titleOf(q)) +
+          (titleEnOf(q) ? " / " + S.escapeHtml(titleEnOf(q)) : "") +
+          "</dd>" +
+          "<dt>年份</dt><dd>" +
+          q.year +
+          "</dd>" +
+          (q.director
+            ? "<dt>导演</dt><dd>" + S.escapeHtml(q.director) + "</dd>"
+            : "") +
+          (q.character
+            ? "<dt>角色</dt><dd>" + S.escapeHtml(q.character) + "</dd>"
+            : "") +
+          (q.curator_note
+            ? "<dt>策展札记</dt><dd>" + S.escapeHtml(q.curator_note) + "</dd>"
+            : "") +
+          (q.license_note
+            ? "<dt>图像说明</dt><dd>" + S.escapeHtml(q.license_note) + "</dd>"
+            : "") +
+          "</dl>" +
+          (tags ? '<div class="tag-list">' + tags + "</div>" : "") +
+          '<p class="placeholder-note" style="margin-top:1rem">M1 示意占位，待合规剧照替换 · 示意非原片截帧</p>' +
+          "</div></div>"
+        );
+      }
+
+      (async function () {
+        const root = document.getElementById("detail-root");
+        const id = quoteIdFromPath();
+        try {
+          const quotes = await SilverSite.loadQuotes();
+          const q = quotes.find(function (x) {
+            return x.id === id;
+          });
+          if (!q) {
+            root.innerHTML =
+              '<p class="error-msg container" style="margin-top:2rem">未找到金句「' +
+              SilverSite.escapeHtml(id) +
+              '」。<a href="../">返回列表</a></p>';
+            return;
+          }
+          if (q.status && q.status !== "published") {
+            root.innerHTML =
+              '<p class="error-msg container" style="margin-top:2rem">该条目尚未上架。<a href="../">返回列表</a></p>';
+            return;
+          }
+          root.innerHTML = renderDetail(q);
+        } catch (e) {
+          root.innerHTML =
+            '<p class="error-msg container" style="margin-top:2rem">无法加载数据。请从站点根启动 http.server。</p>';
+          console.error(e);
+        }
+      })();
+    })();
+  </script>
+</body>
+</html>

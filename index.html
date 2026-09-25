@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>银幕金句 · Silver Lines</title>
+  <meta name="description" content="电影质感的银幕金句策展站 · Phase M1 Top10">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-base="">
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="logo" href="./">银幕金句 <span>Silver Lines</span></a>
+      <nav>
+        <ul class="nav">
+          <li><a href="./" aria-current="page">首页</a></li>
+          <li><a href="quotes/">金句</a></li>
+          <li><a href="about/">关于</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero container">
+      <p class="hero__eyebrow">Phase M1 · Top10 冻结</p>
+      <h1 class="hero__title">银幕金句</h1>
+      <p class="hero__sub">暗色胶片风下的电影金句策展。静帧叠字、评分徽章，无播放器、无盗链——只留一句，值得回看。</p>
+      <a class="hero__cta" href="quotes/">进入金句墙</a>
+    </section>
+
+    <section class="container">
+      <h2 class="section-title">精选金句</h2>
+      <div id="featured" class="featured-strip quote-grid" aria-live="polite">
+        <p class="error-msg">加载中…</p>
+      </div>
+      <p class="placeholder-note">M1 · 锁定 Top10 各 1 条主金句 · 静帧为氛围示意 PNG（非原片截帧）</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p>银幕金句 / Silver Lines · 策展站 · 图片与评分均为本地策展快照</p>
+      <p>© 详见 <a href="about/">关于</a> 与 README</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/ratings.js"></script>
+  <script src="assets/js/site.js"></script>
+  <script>
+    (async function () {
+      const el = document.getElementById("featured");
+      try {
+        const quotes = await SilverSite.loadQuotes();
+        const feat = SilverSite.featuredQuotes(quotes, 5);
+        el.innerHTML = feat.map(SilverSite.cardHtml).join("");
+      } catch (e) {
+        el.innerHTML = '<p class="error-msg">无法加载数据。请用本地服务器打开站点根目录（见 README）。</p>';
+        console.error(e);
+      }
+    })();
+  </script>
+</body>
+</html>
