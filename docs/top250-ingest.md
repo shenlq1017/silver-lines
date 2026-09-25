@@ -9,7 +9,11 @@
 - **总体积**: 141.1 MB
 - **分辨率**: 宽 800–2000 / 高 1200–3000 / 宽边 1200–3000
 - **来源分布**: {'tmdb:original': 249, 'tmdb:original:zh-CN': 1}
-- **范围**: Top250 海报与素材入库记录；当前 `quotes.json` 为 `published=249`、站点 Top249；rank 108 茶馆因静帧低于 `<1920` 门禁仍未发布。本文件是素材记录，不等同发布状态。
+- **范围**: Top250 海报与素材入库记录；本地 `quotes.json` 为 C1 并入后的 `published=274` 目标，线上是否已推以 `origin` 为准（当前 Pages 为 `published=249`、站点 Top249）。rank 108 茶馆静帧已依据 `/workspace/tmp/teahouse-108-still/report.md` **永久跳过**：最大景观静帧 `1280×720`，低于 `<1920` 门禁。本文件是素材记录，不等同发布状态。
+
+## rank 108 茶馆：永久跳过
+
+依据 `/workspace/tmp/teahouse-108-still/report.md`，未找到合法且宽边 ≥1920 的景观静帧；最大景观静帧仍为 `1280×720`，低于 `<1920` 门禁。现有 `assets/posters/top250/108-the-teahouse.jpg` 仅计入海报，不替代静帧。
 
 ## missing
 
