@@ -13,9 +13,11 @@
       "海报：assets/posters/classics/{slug}.jpg；入选前校验 width≥780，不足则换 TMDB original（prefer zh）；本批最小海报宽 780",
       "静帧：assets/stills/classics/{slug}.jpg（C18 TMDB original backdrop，宽边≥1920）",
       "quotes.json 未修改；未 push；未用 CloudAgent",
-      "跳过 the-story-of-women-1995（batch 标红粉但 TMDB id 指向韩国片）"
+      "跳过 the-story-of-women-1995（batch 标红粉但 TMDB id 指向韩国片）",
+      "meta.merged=true；已并入 quotes.json published 691（666+25）；merged_at=2026-09-25T13:09:49+08:00"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T13:09:49+08:00"
   },
   "quotes": [
     {
@@ -164,7 +166,7 @@
       "curator_note": "策展意译：借通行俗语概括关锦鹏《女人心》中三段婚姻里欲望与猜忌的难测；影片金句分散，明确为主题压缩，不冒充字幕唯一来源。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 9
         },
         "as_of": "2026-09-25",
@@ -228,7 +230,7 @@
       "curator_note": "策展意译：概括侯孝贤《好男好女》戏中戏结构——演员排演抗日故事时与自身记忆重叠；明确为主题压缩，不冒充唯一逐字。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 25
         },
         "as_of": "2026-09-25",
@@ -260,7 +262,7 @@
       "curator_note": "策展意译：概括李志毅《天涯海角》中寻人启事与离散港人的情感驱动；片名即母题，明确为主题压缩。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 36
         },
         "as_of": "2026-09-25",
@@ -388,7 +390,7 @@
       "curator_note": "策展意译：借英文章名 Angels Wear White 的反讽，概括文晏《嘉年华》中受害少女与洗浴中心女孩面对权力失语；不冒充某一句唯一逐字对白。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 71
         },
         "as_of": "2026-09-25",
@@ -580,7 +582,7 @@
       "curator_note": "通行题眼：洪常秀柏林银熊之作以双段重逢结构对照“对/错”；取中文通行译名作金句，点明形式即主题。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 170
         },
         "as_of": "2026-09-25",
@@ -740,7 +742,7 @@
       "curator_note": "策展意译：借片名《圆圈》概括帕纳希威尼斯金狮之作中伊朗女性角色的循环困境；群像对白分散，明确为主题压缩。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 106
         },
         "as_of": "2026-09-25",
