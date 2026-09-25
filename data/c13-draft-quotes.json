@@ -17,10 +17,11 @@
       "仅选用 TMDB id 与片名/年份核验通过的 batch-yi 剩余匹配条目（约 83/150 错配仍未入选，见 C12 report）",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json",
+      "meta.merged=true；已并入 quotes.json published 574（549+25）；merged_at=2026-09-25T12:44:30+08:00",
       "本批后 batch-yi 剩余 100（TMDB 匹配可续做 17；错配 83 须先修 id）"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T12:44:30+08:00"
   },
   "quotes": [
     {
@@ -681,7 +682,7 @@
       "curator_note": "斯科菲尔德的通行战争观短句；中文取常见译法。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 13926
         },
         "as_of": "2026-09-25",
@@ -745,7 +746,7 @@
       "curator_note": "奥本海默引《薄伽梵歌》的历史名句；影片多次回响，中文取通行译法。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 12540
         },
         "as_of": "2026-09-25",
