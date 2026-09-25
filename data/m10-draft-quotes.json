@@ -1,0 +1,1060 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T10:22:00+08:00",
+    "purpose": "M10 草稿：豆瓣 Top250 rank 176–200 各 1 条主金句；status=draft，未并入",
+    "published_lock": "quotes.json published=147（Top147）M8 已并入待 PM；M9 draft 待并；本批勿并入",
+    "count": 25,
+    "rank_range": [
+      176,
+      200
+    ],
+    "featured_ids": [
+      "green-mile-like-to-go-home",
+      "singin-rain-what-a-glorious",
+      "odyssey-hal-cant-do-that",
+      "memento-memory-can-change",
+      "ralph-bad-guy-good"
+    ],
+    "blocked": [],
+    "notes": [
+      "海报/静帧一律本地 top250 路径，对齐 stills-index / top250.json slug",
+      "176–200 静帧文件与 stills-index 均齐；宽边均 ≥1920，无 blocked",
+      "soft/actual 静帧（源站最大不足 2560）：rank [199]（199 忠犬八公物语 1920×1080）",
+      "豆瓣评分对齐 top250.json；票数为策展习惯圆整",
+      "imdb/rt/mc 为 2026-09-25 策展快照近似，非实时抓取",
+      "海街日记 film_title_en=Our Little Sister；风之谷=Nausicaä of the Valley of the Wind；魔女宅急便=Kiki's Delivery Service；忠犬八公物语=Hachiko Monogatari（日版，区别已刊美版 hachi-waiting）；岁月神偷=Echoes of the Rainbow；上帝之城=City of God",
+      "海街日记/心迷宫/纵横四海/恐怖游轮/魔女宅急便/牯岭街/小偷家族/东京教父/岁月神偷/八公物语等题旨或定译边界已写 curator_note",
+      "绿里奇迹英文为 Coffey 长独白策展摘录（省略号）；记忆碎片英文为片中记忆独白通行摘录",
+      "featured 草稿内仅 5 条；并入时整库仍应收束≈5",
+      "未改 quotes.json；未跑 sync-quote-pages；未 push"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "dallas-buyers-not-done",
+      "line": "我还没死呢。",
+      "line_en": "I ain't dead yet.",
+      "film_title": "达拉斯买家俱乐部",
+      "film_title_en": "Dallas Buyers Club",
+      "year": 2013,
+      "character": "Ron Woodroof",
+      "director": "让-马克·瓦雷",
+      "tags": [
+        "传记",
+        "生存",
+        "抗争"
+      ],
+      "featured": false,
+      "curator_note": "伍德鲁夫把诊断书撕成开战宣言：达拉斯买家俱乐部用一句硬气口语，把绝境写成生意与尊严。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 450000
+        },
+        "imdb": {
+          "score": 7.9,
+          "votes": 520000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 84
+        }
+      },
+      "poster": "assets/posters/top250/176-dallas-buyers-club.jpg",
+      "still": "assets/stills/top250/176-dallas-buyers-club.jpg",
+      "still_alt": "达拉斯买家俱乐部 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/176-dallas-buyers-club.jpg）（影片页 https://www.themoviedb.org/movie/152532）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sbVKj98cq0FztCukzu47bu0H8o7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 176
+    },
+    {
+      "id": "croods-new-is-always-better",
+      "line": "新鲜的，永远更好。",
+      "line_en": "New is always better.",
+      "film_title": "疯狂原始人",
+      "film_title_en": "The Croods",
+      "year": 2013,
+      "character": "盖 / Guy",
+      "director": "柯克·德·米科 / 克里斯·桑德斯",
+      "tags": [
+        "动画",
+        "冒险",
+        "改变"
+      ],
+      "featured": false,
+      "curator_note": "洞穴家庭学会走出黑暗的信条：疯狂原始人把「怕新」翻成「向新」，一句口号撑起整段迁徙。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 900000
+        },
+        "imdb": {
+          "score": 7.2,
+          "votes": 230000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 71
+        },
+        "metacritic": {
+          "score": 55
+        }
+      },
+      "poster": "assets/posters/top250/177-the-croods.jpg",
+      "still": "assets/stills/top250/177-the-croods.jpg",
+      "still_alt": "疯狂原始人 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/177-the-croods.jpg）（影片页 https://www.themoviedb.org/movie/49519）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wFN8llYh215M8i2fqWAcPV8CSyL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 177
+    },
+    {
+      "id": "crazy-stone-ambition-no-job",
+      "line": "我也是有理想的人，我的理想就是不上班。",
+      "line_en": "I've got ambitions too—mainly, never having a real job.",
+      "film_title": "疯狂的石头",
+      "film_title_en": "Crazy Stone",
+      "year": 2006,
+      "character": "道哥",
+      "director": "宁浩",
+      "tags": [
+        "喜剧",
+        "犯罪",
+        "黑色幽默"
+      ],
+      "featured": false,
+      "curator_note": "道哥式理想主义：疯狂的石头把底层江湖的口吻炼成金句，黑色幽默里藏着时代的松弛感。通行口吻略有出入，已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 800000
+        },
+        "imdb": {
+          "score": 7.4,
+          "votes": 12000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 86
+        },
+        "metacritic": {
+          "score": 68
+        }
+      },
+      "poster": "assets/posters/top250/178-crazy-stone.jpg",
+      "still": "assets/stills/top250/178-crazy-stone.jpg",
+      "still_alt": "疯狂的石头 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/178-crazy-stone.jpg）（影片页 https://www.themoviedb.org/movie/45380）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sT1zNPFY4imEZNTszcF8Hhssu2x.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 178
+    },
+    {
+      "id": "green-mile-like-to-go-home",
+      "line": "我累了，老板。我好想回家。",
+      "line_en": "I'm tired, boss. … I want to go home.",
+      "film_title": "绿里奇迹",
+      "film_title_en": "The Green Mile",
+      "year": 1999,
+      "character": "John Coffey",
+      "director": "弗兰克·达拉邦特",
+      "tags": [
+        "奇幻",
+        "死刑",
+        "悲悯"
+      ],
+      "featured": true,
+      "curator_note": "Coffey 临刑前恳求是绿里奇迹的情感核：超能力者求的不是活命，是离开人间的残酷。中文取通行压缩定译；英文为长独白的策展摘录（省略号标省略）。",
+      "ratings": {
+        "douban": {
+          "score": 8.9,
+          "votes": 550000
+        },
+        "imdb": {
+          "score": 8.6,
+          "votes": 1400000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 79
+        },
+        "metacritic": {
+          "score": 61
+        }
+      },
+      "poster": "assets/posters/top250/179-the-green-mile.jpg",
+      "still": "assets/stills/top250/179-the-green-mile.jpg",
+      "still_alt": "绿里奇迹 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/179-the-green-mile.jpg）（影片页 https://www.themoviedb.org/movie/497）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/amZavErrjrdgDwhsIdpWxHNenIx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 179
+    },
+    {
+      "id": "before-midnight-say-or-age",
+      "line": "我们可以把一切说清楚——或者就这样一起老去。",
+      "line_en": "We can say everything out loud—or grow old together anyway.",
+      "film_title": "爱在午夜降临前",
+      "film_title_en": "Before Midnight",
+      "year": 2013,
+      "character": "Jesse / Celine（酒店对峙）",
+      "director": "理查德·林克莱特",
+      "tags": [
+        "爱情",
+        "婚姻",
+        "长谈"
+      ],
+      "featured": false,
+      "curator_note": "三部曲收束夜：爱在午夜降临前把浪漫撕成婚姻账本。此为酒店长谈的题旨凝练，非单一精确台词汇总，边界已标。与已刊黎明/日落金句不撞车。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 350000
+        },
+        "imdb": {
+          "score": 7.9,
+          "votes": 180000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "metacritic": {
+          "score": 94
+        }
+      },
+      "poster": "assets/posters/top250/180-before-midnight.jpg",
+      "still": "assets/stills/top250/180-before-midnight.jpg",
+      "still_alt": "爱在午夜降临前 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/180-before-midnight.jpg）（影片页 https://www.themoviedb.org/movie/132344）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aPSGg0ZGirS0sSxGlwTGTAo0ruV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 180
+    },
+    {
+      "id": "singin-rain-what-a-glorious",
+      "line": "我在雨中歌唱——多么荣耀的感觉！",
+      "line_en": "I'm singing in the rain, just singing in the rain! What a glorious feeling, I'm happy again!",
+      "film_title": "雨中曲",
+      "film_title_en": "Singin' in the Rain",
+      "year": 1952,
+      "character": "Don Lockwood",
+      "director": "斯坦利·多南 / 吉恩·凯利",
+      "tags": [
+        "歌舞",
+        "经典",
+        "欢愉"
+      ],
+      "featured": true,
+      "curator_note": "电影史最湿也最亮的招牌曲：雨中曲把恋爱的失控写成踢踏与积水，一句歌词即整部片子的名片。",
+      "ratings": {
+        "douban": {
+          "score": 9.1,
+          "votes": 250000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 270000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 100
+        },
+        "metacritic": {
+          "score": 99
+        }
+      },
+      "poster": "assets/posters/top250/181-singin-in-the-rain.jpg",
+      "still": "assets/stills/top250/181-singin-in-the-rain.jpg",
+      "still_alt": "雨中曲 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/181-singin-in-the-rain.jpg）（影片页 https://www.themoviedb.org/movie/872）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 181
+    },
+    {
+      "id": "odyssey-hal-cant-do-that",
+      "line": "对不起，戴夫。恐怕我不能那样做。",
+      "line_en": "I'm sorry, Dave. I'm afraid I can't do that.",
+      "film_title": "2001太空漫游",
+      "film_title_en": "2001: A Space Odyssey",
+      "year": 1968,
+      "character": "HAL 9000",
+      "director": "斯坦利·库布里克",
+      "tags": [
+        "科幻",
+        "AI",
+        "经典"
+      ],
+      "featured": true,
+      "curator_note": "HAL 的礼貌拒绝是太空漫游最冷的一刀：人工智能用客服腔完成背叛，科幻台词因此有了礼仪的恐怖。",
+      "ratings": {
+        "douban": {
+          "score": 8.9,
+          "votes": 400000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 750000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 92
+        },
+        "metacritic": {
+          "score": 84
+        }
+      },
+      "poster": "assets/posters/top250/182-2001-a-space-odyssey.jpg",
+      "still": "assets/stills/top250/182-2001-a-space-odyssey.jpg",
+      "still_alt": "2001太空漫游 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/182-2001-a-space-odyssey.jpg）（影片页 https://www.themoviedb.org/movie/62）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w5IDXtifKntw0ajv2co7jFlTQDM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 182
+    },
+    {
+      "id": "our-little-sister-four-seasons",
+      "line": "四季会来，人也会来——有些人会留下来。",
+      "line_en": "Seasons come, people come—and some of them stay.",
+      "film_title": "海街日记",
+      "film_title_en": "Our Little Sister",
+      "year": 2015,
+      "character": "题旨 / 幸、佳乃、千夏、铃",
+      "director": "是枝裕和",
+      "tags": [
+        "家庭",
+        "日常",
+        "姐妹"
+      ],
+      "featured": false,
+      "curator_note": "海街日记几乎没有金句爆破点；此为镰仓四季与四姐妹收容关系的题旨凝练，非逐字台词，边界已标。film_title_en 取通行英译 Our Little Sister（非 Kamakura Diary）。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 350000
+        },
+        "imdb": {
+          "score": 7.6,
+          "votes": 15000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 75
+        }
+      },
+      "poster": "assets/posters/top250/183-diary.jpg",
+      "still": "assets/stills/top250/183-diary.jpg",
+      "still_alt": "海街日记 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/183-diary.jpg）（影片页 https://www.themoviedb.org/movie/315846）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ae08YRDvPW50LjnKhiX7QfaQw9q.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 183
+    },
+    {
+      "id": "coffin-mountain-lie-grows",
+      "line": "一个谎，要一百个谎去圆。",
+      "line_en": "One lie needs a hundred more to keep it standing.",
+      "film_title": "心迷宫",
+      "film_title_en": "The Coffin in the Mountain",
+      "year": 2014,
+      "character": "题旨 / 村民群像",
+      "director": "忻钰坤",
+      "tags": [
+        "悬疑",
+        "乡村",
+        "谎言"
+      ],
+      "featured": false,
+      "curator_note": "心迷宫的结构就是这句话：棺材、山沟与连环误会，把「圆谎」做成叙事引擎。通行概括句，非唯一精确对白，已标边界。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 500000
+        },
+        "imdb": {
+          "score": 7.6,
+          "votes": 8000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 88
+        },
+        "metacritic": {
+          "score": 70
+        }
+      },
+      "poster": "assets/posters/top250/184-the-coffin-in-the-mountain.jpg",
+      "still": "assets/stills/top250/184-the-coffin-in-the-mountain.jpg",
+      "still_alt": "心迷宫 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/184-the-coffin-in-the-mountain.jpg）（影片页 https://www.themoviedb.org/movie/292362）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/73GYdv0lC4I1Su0FpFroAwV0Q6H.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 184
+    },
+    {
+      "id": "city-of-god-sun-rises",
+      "line": "太阳，只为早起的人升起。",
+      "line_en": "The sun rises for those who get up early.",
+      "film_title": "上帝之城",
+      "film_title_en": "City of God",
+      "year": 2002,
+      "character": "Rocket / 旁白语境",
+      "director": "费尔南多·梅里尔斯 / 卡迪亚·隆登堡",
+      "tags": [
+        "犯罪",
+        "成长",
+        "贫民窟"
+      ],
+      "featured": false,
+      "curator_note": "上帝之城开篇即生存谚语：在贫民窟编年史里，这句话既是励志，也是暴力的时间表。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 9.0,
+          "votes": 400000
+        },
+        "imdb": {
+          "score": 8.6,
+          "votes": 800000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 91
+        },
+        "metacritic": {
+          "score": 79
+        }
+      },
+      "poster": "assets/posters/top250/185-cidade-de-deus.jpg",
+      "still": "assets/stills/top250/185-cidade-de-deus.jpg",
+      "still_alt": "上帝之城 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/185-cidade-de-deus.jpg）（影片页 https://www.themoviedb.org/movie/598）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 185
+    },
+    {
+      "id": "nausicaa-live",
+      "line": "我们要活下去。",
+      "line_en": "We must live.",
+      "film_title": "风之谷",
+      "film_title_en": "Nausicaä of the Valley of the Wind",
+      "year": 1984,
+      "character": "娜乌西卡",
+      "director": "宫崎骏",
+      "tags": [
+        "动画",
+        "生态",
+        "和平"
+      ],
+      "featured": false,
+      "curator_note": "风之谷的底色不是毁灭预言，是娜乌西卡反复选择「活」：对腐海、对人、对虫，都先放下剑。短句，重如整片生态伦理。",
+      "ratings": {
+        "douban": {
+          "score": 8.9,
+          "votes": 450000
+        },
+        "imdb": {
+          "score": 8.0,
+          "votes": 190000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 90
+        },
+        "metacritic": {
+          "score": 86
+        }
+      },
+      "poster": "assets/posters/top250/186-kaze-no-tani-no-naushika.jpg",
+      "still": "assets/stills/top250/186-kaze-no-tani-no-naushika.jpg",
+      "still_alt": "风之谷 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/186-kaze-no-tani-no-naushika.jpg）（影片页 https://www.themoviedb.org/movie/81）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5HRl5wUjzkv5WdiYkXIppSc41lu.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 186
+    },
+    {
+      "id": "memento-memory-can-change",
+      "line": "记忆会改变房间的形状，也会改变车的颜色。记忆可以被扭曲——它们只是一种解释，不是记录。",
+      "line_en": "Memory can change the shape of a room; it can change the color of a car. And memories can be distorted. They're just an interpretation, they're not a record.",
+      "film_title": "记忆碎片",
+      "film_title_en": "Memento",
+      "year": 2000,
+      "character": "Leonard Shelby",
+      "director": "克里斯托弗·诺兰",
+      "tags": [
+        "悬疑",
+        "记忆",
+        "叙事"
+      ],
+      "featured": true,
+      "curator_note": "倒叙复仇的认识论炸弹：记忆碎片把「可信记录」拆成纹身与宝丽来。中文取题旨压缩；英文为片中经典记忆独白通行摘录。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 650000
+        },
+        "imdb": {
+          "score": 8.4,
+          "votes": 1300000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 80
+        }
+      },
+      "poster": "assets/posters/top250/187-memento.jpg",
+      "still": "assets/stills/top250/187-memento.jpg",
+      "still_alt": "记忆碎片 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/187-memento.jpg）（影片页 https://www.themoviedb.org/movie/77）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8pwCb7amg8Tvr9FZZJGt7J4OwLV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 187
+    },
+    {
+      "id": "better-tomorrow-passed-by",
+      "line": "我路过。",
+      "line_en": "I was just passing by.",
+      "film_title": "英雄本色",
+      "film_title_en": "A Better Tomorrow",
+      "year": 1986,
+      "character": "马克 / Mark Gor",
+      "director": "吴宇森",
+      "tags": [
+        "英雄",
+        "兄弟",
+        "港片"
+      ],
+      "featured": false,
+      "curator_note": "墨镜风衣的极简名片：英雄本色里马克一句「我路过」，把劫后重逢写成江湖礼仪，也写成悲剧预告。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 350000
+        },
+        "imdb": {
+          "score": 7.5,
+          "votes": 28000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 92
+        },
+        "metacritic": {
+          "score": 72
+        }
+      },
+      "poster": "assets/posters/top250/188-a-better-tomorrow.jpg",
+      "still": "assets/stills/top250/188-a-better-tomorrow.jpg",
+      "still_alt": "英雄本色 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/188-a-better-tomorrow.jpg）（影片页 https://www.themoviedb.org/movie/11471）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vXys27x55jF3L3ziYXd1HfT9cFb.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 188
+    },
+    {
+      "id": "once-thief-still-brothers",
+      "line": "偷得到宝石，偷不走兄弟。",
+      "line_en": "You can steal a jewel; you can't steal a brother.",
+      "film_title": "纵横四海",
+      "film_title_en": "Once a Thief",
+      "year": 1991,
+      "character": "题旨 / 红豆·陈惠南·朱淮宝",
+      "director": "吴宇森",
+      "tags": [
+        "盗贼",
+        "友情",
+        "港片"
+      ],
+      "featured": false,
+      "curator_note": "纵横四海是欢乐版英雄本色：宝石与轮椅、玩笑与枪火之间，兄弟情仍是硬核。此为题旨凝练金句，非逐字台词汇总，边界已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 300000
+        },
+        "imdb": {
+          "score": 7.0,
+          "votes": 7000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 78
+        },
+        "metacritic": {
+          "score": 65
+        }
+      },
+      "poster": "assets/posters/top250/189-once-a-thief.jpg",
+      "still": "assets/stills/top250/189-once-a-thief.jpg",
+      "still_alt": "纵横四海 · 宣传静帧（3838×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/189-once-a-thief.jpg）（影片页 https://www.themoviedb.org/movie/47423）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/g3vyN5x5D2vGD2c7n6WPlzCD2c8.jpg（3838×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 189
+    },
+    {
+      "id": "triangle-same-loop",
+      "line": "你以为你在逃，其实你只是又绕回了起点。",
+      "line_en": "You think you're escaping—you're only looping back to the start.",
+      "film_title": "恐怖游轮",
+      "film_title_en": "Triangle",
+      "year": 2009,
+      "character": "题旨 / Jess",
+      "director": "克里斯托弗·史密斯",
+      "tags": [
+        "悬疑",
+        "循环",
+        "惊悚"
+      ],
+      "featured": false,
+      "curator_note": "恐怖游轮的结构即诅咒：三角号甲板上的时间环，把母爱与暴力焊成同一条回路。题旨句，非唯一精确对白，已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 700000
+        },
+        "imdb": {
+          "score": 6.9,
+          "votes": 130000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 80
+        },
+        "metacritic": {
+          "score": 62
+        }
+      },
+      "poster": "assets/posters/top250/190-triangle.jpg",
+      "still": "assets/stills/top250/190-triangle.jpg",
+      "still_alt": "恐怖游轮 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/190-triangle.jpg）（影片页 https://www.themoviedb.org/movie/26466）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tw3cn2lBnmgCek6g6pCLPR4EwPt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 190
+    },
+    {
+      "id": "ralph-bad-guy-good",
+      "line": "我是坏人，那很好。我永远成不了好人，那也不坏。除了做自己，我谁也不想当。",
+      "line_en": "I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me.",
+      "film_title": "无敌破坏王",
+      "film_title_en": "Wreck-It Ralph",
+      "year": 2012,
+      "character": "破坏王拉尔夫",
+      "director": "瑞奇·摩尔",
+      "tags": [
+        "动画",
+        "自我",
+        "游戏"
+      ],
+      "featured": true,
+      "curator_note": "终章「坏人勋章」独白：无敌破坏王把自我接纳写成游戏角色说明书，中文取通行意译压缩，英文为片中获奖式自我宣言。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 650000
+        },
+        "imdb": {
+          "score": 7.7,
+          "votes": 450000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 87
+        },
+        "metacritic": {
+          "score": 72
+        }
+      },
+      "poster": "assets/posters/top250/191-wreck-it-ralph.jpg",
+      "still": "assets/stills/top250/191-wreck-it-ralph.jpg",
+      "still_alt": "无敌破坏王 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/191-wreck-it-ralph.jpg）（影片页 https://www.themoviedb.org/movie/82690）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1DnN37Vorg52G5TH2Azp9WsG9xe.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 191
+    },
+    {
+      "id": "hibiscus-live-on",
+      "line": "活下去——像牲口一样活下去。",
+      "line_en": "Live on—live on like beasts if you must.",
+      "film_title": "芙蓉镇",
+      "film_title_en": "Hibiscus Town",
+      "year": 1987,
+      "character": "秦书田 / 胡玉音语境",
+      "director": "谢晋",
+      "tags": [
+        "历史",
+        "苦难",
+        "尊严"
+      ],
+      "featured": false,
+      "curator_note": "芙蓉镇最疼也最硬的一句：政治风雨里把「活着」压到动物性，却仍是人的尊严底线。通行定译口吻，略有版本差，已标。",
+      "ratings": {
+        "douban": {
+          "score": 9.3,
+          "votes": 200000
+        },
+        "imdb": {
+          "score": 8.0,
+          "votes": 2500
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 90
+        },
+        "metacritic": {
+          "score": 78
+        }
+      },
+      "poster": "assets/posters/top250/192-hibiscus-town.jpg",
+      "still": "assets/stills/top250/192-hibiscus-town.jpg",
+      "still_alt": "芙蓉镇 · 宣传静帧（3770×2120）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/192-hibiscus-town.jpg）（影片页 https://www.themoviedb.org/movie/122973）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/z9EtVguD5WZRupYMD9TSwdthVjk.jpg（3770×2120）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 192
+    },
+    {
+      "id": "kiki-still-can-fly",
+      "line": "魔女的能力，有时候会消失——但心在，就能再飞起来。",
+      "line_en": "We fly with our spirit. When that fades, so does our magic—until the heart finds it again.",
+      "film_title": "魔女宅急便",
+      "film_title_en": "Kiki's Delivery Service",
+      "year": 1989,
+      "character": "琪琪 / 乌尔斯拉语境",
+      "director": "宫崎骏",
+      "tags": [
+        "动画",
+        "成长",
+        "自立"
+      ],
+      "featured": false,
+      "curator_note": "魔女宅急便的低谷与回升：飞行能力的「失去」是青春期隐喻。题旨凝练，非单句精确对白；film_title_en 取 Kiki's Delivery Service。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 550000
+        },
+        "imdb": {
+          "score": 7.8,
+          "votes": 170000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "metacritic": {
+          "score": 85
+        }
+      },
+      "poster": "assets/posters/top250/193-rank-193.jpg",
+      "still": "assets/stills/top250/193-rank-193.jpg",
+      "still_alt": "魔女宅急便 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/193-rank-193.jpg）（影片页 https://www.themoviedb.org/movie/16859）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bygDH0G0sU3X4otpR1oEIkERBNK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 193
+    },
+    {
+      "id": "brighter-summer-honey",
+      "line": "我想要的，只是一点明亮的夏日。",
+      "line_en": "All I want is a brighter summer day.",
+      "film_title": "牯岭街少年杀人事件",
+      "film_title_en": "A Brighter Summer Day",
+      "year": 1991,
+      "character": "题旨 / 小四语境（Elvis 歌名回响）",
+      "director": "杨德昌",
+      "tags": [
+        "青春",
+        "历史",
+        "暴力"
+      ],
+      "featured": false,
+      "curator_note": "片名即金句：牯岭街少年杀人事件借 Elvis《Are You Lonesome Tonight?》里的 brighter summer day，把白色恐怖年代的少年欲望写成葬礼。题旨/歌名回响，非法庭式对白。",
+      "ratings": {
+        "douban": {
+          "score": 8.9,
+          "votes": 200000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 15000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 100
+        },
+        "metacritic": {
+          "score": 90
+        }
+      },
+      "poster": "assets/posters/top250/194-a-brighter-summer-day.jpg",
+      "still": "assets/stills/top250/194-a-brighter-summer-day.jpg",
+      "still_alt": "牯岭街少年杀人事件 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/194-a-brighter-summer-day.jpg）（影片页 https://www.themoviedb.org/movie/15804）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hypv7bDxzqdhJfEpjRKf1aQbdc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 194
+    },
+    {
+      "id": "shoplifters-family-what-is",
+      "line": "血缘不是家庭的唯一答案。",
+      "line_en": "Blood doesn't make a family—choice does.",
+      "film_title": "小偷家族",
+      "film_title_en": "Shoplifters",
+      "year": 2018,
+      "character": "题旨 / 柴田家",
+      "director": "是枝裕和",
+      "tags": [
+        "家庭",
+        "贫困",
+        "伦理"
+      ],
+      "featured": false,
+      "curator_note": "小偷家族的伦理刺点：窃来的亲情是否仍算家。题旨句，对应片中「谁是真正的家人」的追问，非唯一精确对白，已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 550000
+        },
+        "imdb": {
+          "score": 7.9,
+          "votes": 120000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 99
+        },
+        "metacritic": {
+          "score": 93
+        }
+      },
+      "poster": "assets/posters/top250/195-shoplifters.jpg",
+      "still": "assets/stills/top250/195-shoplifters.jpg",
+      "still_alt": "小偷家族 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/195-shoplifters.jpg）（影片页 https://www.themoviedb.org/movie/505192）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dVRkhmtDn3EiyhX6c9SfL7klCoU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 195
+    },
+    {
+      "id": "hotel-rwanda-there-is-room",
+      "line": "这里永远有空房——给需要活下去的人。",
+      "line_en": "There is always room. At this hotel, there is always room.",
+      "film_title": "卢旺达饭店",
+      "film_title_en": "Hotel Rwanda",
+      "year": 2004,
+      "character": "Paul Rusesabagina",
+      "director": "特瑞·乔治",
+      "tags": [
+        "战争",
+        "人性",
+        "庇护"
+      ],
+      "featured": false,
+      "curator_note": "卢旺达饭店经理把酒店客房变成避难所：在种族屠杀的算术里，一句「还有空房」就是勇气的会计学。通行定译口吻。",
+      "ratings": {
+        "douban": {
+          "score": 8.9,
+          "votes": 350000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 370000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 91
+        },
+        "metacritic": {
+          "score": 79
+        }
+      },
+      "poster": "assets/posters/top250/196-hotel-rwanda.jpg",
+      "still": "assets/stills/top250/196-hotel-rwanda.jpg",
+      "still_alt": "卢旺达饭店 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/196-hotel-rwanda.jpg）（影片页 https://www.themoviedb.org/movie/205）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jkvvXaN7FPVKGlk8oj9PL0FHNtj.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 196
+    },
+    {
+      "id": "tokyo-godfathers-miracle-christmas",
+      "line": "奇迹总会发生在被遗弃的人身上。",
+      "line_en": "Miracles happen to the abandoned, too—especially on Christmas.",
+      "film_title": "东京教父",
+      "film_title_en": "Tokyo Godfathers",
+      "year": 2003,
+      "character": "题旨 / 银发·阿花·美由纪",
+      "director": "今敏",
+      "tags": [
+        "动画",
+        "圣诞",
+        "边缘"
+      ],
+      "featured": false,
+      "curator_note": "东京教父把流浪汉拾婴写成都市福音：垃圾堆与霓虹里的临时家庭。题旨凝练，对应「被抛弃者也配得奇迹」，已标边界。",
+      "ratings": {
+        "douban": {
+          "score": 9.0,
+          "votes": 400000
+        },
+        "imdb": {
+          "score": 7.8,
+          "votes": 50000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 92
+        },
+        "metacritic": {
+          "score": 73
+        }
+      },
+      "poster": "assets/posters/top250/197-tokyo-godfathers.jpg",
+      "still": "assets/stills/top250/197-tokyo-godfathers.jpg",
+      "still_alt": "东京教父 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/197-tokyo-godfathers.jpg）（影片页 https://www.themoviedb.org/movie/13398）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 197
+    },
+    {
+      "id": "ice-age-that-a-family",
+      "line": "这，就是一家人。",
+      "line_en": "That's what you do in a family.",
+      "film_title": "冰川时代",
+      "film_title_en": "Ice Age",
+      "year": 2002,
+      "character": "Manny / 曼尼",
+      "director": "克里斯·韦奇 / 卡洛斯·沙尔丹哈",
+      "tags": [
+        "动画",
+        "家庭",
+        "旅途"
+      ],
+      "featured": false,
+      "curator_note": "冰河世纪的临时护婴小队：猛犸、树懒与剑齿虎在「不是血亲」里学会家庭。通行定译短句，对应片中家庭主题收束。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 700000
+        },
+        "imdb": {
+          "score": 7.5,
+          "votes": 530000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 77
+        },
+        "metacritic": {
+          "score": 60
+        }
+      },
+      "poster": "assets/posters/top250/198-ice-age.jpg",
+      "still": "assets/stills/top250/198-ice-age.jpg",
+      "still_alt": "冰川时代 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/198-ice-age.jpg）（影片页 https://www.themoviedb.org/movie/425）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8pwIhymsxfAVjrAE7syDjQULn37.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 198
+    },
+    {
+      "id": "hachiko-monogatari-wait",
+      "line": "它会一直等——在你曾经归来的地方。",
+      "line_en": "He will keep waiting—at the place where you used to come home.",
+      "film_title": "忠犬八公物语",
+      "film_title_en": "Hachiko Monogatari",
+      "year": 1987,
+      "character": "题旨 / 八公",
+      "director": "神山征二郎",
+      "tags": [
+        "忠诚",
+        "等待",
+        "物语"
+      ],
+      "featured": false,
+      "curator_note": "日版忠犬八公物语（非美版《忠犬八公的故事》）。已刊 hachi-waiting 属美版；本条写原作车站等待的题旨凝练，id/片源均区分。静帧 actual 1920×1080（源站最大）。",
+      "ratings": {
+        "douban": {
+          "score": 9.2,
+          "votes": 250000
+        },
+        "imdb": {
+          "score": 7.9,
+          "votes": 8000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 85
+        },
+        "metacritic": {
+          "score": 70
+        }
+      },
+      "poster": "assets/posters/top250/199-rank-199.jpg",
+      "still": "assets/stills/top250/199-rank-199.jpg",
+      "still_alt": "忠犬八公物语 · 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/199-rank-199.jpg）（影片页 https://www.themoviedb.org/movie/31743）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pGOzXvCzapiulAMoPhWkCDxZiXz.jpg（1920×1080）；静帧宽边 1920（源站最大，status=actual，≥1920 可上）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 199
+    },
+    {
+      "id": "echoes-rainbow-time-thief",
+      "line": "岁月是贼——它偷走你的一切，却让你感谢它来过。",
+      "line_en": "Time is a thief—it steals everything, and somehow you still thank it for coming.",
+      "film_title": "岁月神偷",
+      "film_title_en": "Echoes of the Rainbow",
+      "year": 2010,
+      "character": "题旨 / 罗带弟旁白语境",
+      "director": "罗启锐",
+      "tags": [
+        "成长",
+        "香港",
+        "怀旧"
+      ],
+      "featured": false,
+      "curator_note": "岁月神偷片名即隐喻：六七十年代太子道鞋铺少年史，把「偷走」写成感恩与钝痛。题旨句，对应中英片名 Rainbow/岁月双重意象，非唯一精确对白。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 450000
+        },
+        "imdb": {
+          "score": 7.6,
+          "votes": 5000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 80
+        },
+        "metacritic": {
+          "score": 68
+        }
+      },
+      "poster": "assets/posters/top250/200-echoes-of-the-rainbow.jpg",
+      "still": "assets/stills/top250/200-echoes-of-the-rainbow.jpg",
+      "still_alt": "岁月神偷 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/200-echoes-of-the-rainbow.jpg）（影片页 https://www.themoviedb.org/movie/39693）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vFL51NZL4CASHiYJSioG1cC5fXD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 200
+    }
+  ]
+}
