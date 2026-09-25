@@ -18,10 +18,11 @@
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "Lost in Translation 街边耳语未官方公布，curator_note 已标明",
       "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json",
+      "meta.merged=true；已并入 quotes.json published 549（524+25）；merged_at=2026-09-25T12:39:30+08:00",
       "本批后 batch-yi 剩余 125（TMDB 匹配可续做 42；错配 83 须先修 id）"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T12:39:30+08:00"
   },
   "quotes": [
     {

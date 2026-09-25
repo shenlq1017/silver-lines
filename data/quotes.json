@@ -18759,5 +18759,755 @@
     "still_alt": "战争迷雾 · TMDB 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-fog-of-war-2003.jpg）（影片页 https://www.themoviedb.org/movie/12698）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uxnKSGcoYk9O7UqdIH46aVGMYHv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "nosferatu-comes-by-night",
+    "line": "他夜里来，他夜里走。",
+    "line_en": "He comes by night, and by night he goes.",
+    "film_title": "诺斯费拉图",
+    "film_title_en": "Nosferatu",
+    "year": 1922,
+    "character": "亨特·瓦尔克（字幕）",
+    "director": "弗·茂瑙",
+    "tags": [
+      "默片",
+      "恐怖",
+      "表现主义"
+    ],
+    "featured": false,
+    "curator_note": "据默片字幕通行英译中译；诺斯费拉图关于伯爵行踪的警示性字幕，不同修复版措辞略有差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 2536
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/nosferatu-1922.jpg",
+    "still": "assets/stills/classics/nosferatu-1922.jpg",
+    "still_alt": "诺斯费拉图 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nosferatu-1922.jpg）（影片页 https://www.themoviedb.org/movie/653）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mGUMjeuAW9sa0sZ3Emhua7Yo1Km.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "potemkin-brothers",
+    "line": "兄弟们！",
+    "line_en": "Brothers!",
+    "film_title": "战舰波将金号",
+    "film_title_en": "Battleship Potemkin",
+    "year": 1925,
+    "character": "水兵们（起义口号）",
+    "director": "谢尔盖·爱森斯坦",
+    "tags": [
+      "蒙太奇",
+      "革命",
+      "默片"
+    ],
+    "featured": false,
+    "curator_note": "敖德萨起义段落标志性字幕/口号；中文取通行译法，强调阶级认同的瞬间。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 1338
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/battleship-potemkin-1925.jpg",
+    "still": "assets/stills/classics/battleship-potemkin-1925.jpg",
+    "still_alt": "战舰波将金号 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/battleship-potemkin-1925.jpg）（影片页 https://www.themoviedb.org/movie/643）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5k0KerxrtxBOc8Qqhmtw1kyCzjB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "pandora-want-to-be-happy",
+    "line": "我不是坏女人，我只是想快乐。",
+    "line_en": "I am not a bad woman — I only want to be happy.",
+    "film_title": "潘多拉的魔盒",
+    "film_title_en": "Pandora's Box",
+    "year": 1929,
+    "character": "露露 / Lulu",
+    "director": "格·威·派伯斯特",
+    "tags": [
+      "默片",
+      "欲望",
+      "悲剧"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：压缩露露在欲望与毁灭之间的自我辩白，明确不是逐字字幕引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 270
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/pandora-s-box-1929.jpg",
+    "still": "assets/stills/classics/pandora-s-box-1929.jpg",
+    "still_alt": "潘多拉的魔盒 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pandora-s-box-1929.jpg）（影片页 https://www.themoviedb.org/movie/905）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5BvJ4T5lyYIMekTVdQPpE3OOiTZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "grand-illusion-frontiers",
+    "line": "国界，是人们画在地图上的线。",
+    "line_en": "Frontiers are lines people draw on maps.",
+    "film_title": "大幻影",
+    "film_title_en": "Grand Illusion",
+    "year": 1937,
+    "character": "罗森达尔 / Rosenthal",
+    "director": "让·雷诺阿",
+    "tags": [
+      "战争",
+      "阶级",
+      "人性"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼影片关于国境、阶级与共同人性的核心命题；雷诺阿反战伦理的通行概括，非声称唯一逐字版本。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 805
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/grand-illusion-1937.jpg",
+    "still": "assets/stills/classics/grand-illusion-1937.jpg",
+    "still_alt": "大幻影 · TMDB 宣传静帧（3413×1920）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/grand-illusion-1937.jpg）（影片页 https://www.themoviedb.org/movie/777）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8lxgU9V0zDd5Vf0CXoaGBM5BA7Y.jpg（3413×1920）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "rules-everyone-has-reasons",
+    "line": "人生可怕之处就在于：人人都有自己的理由。",
+    "line_en": "The awful thing about life is this: everyone has their reasons.",
+    "film_title": "游戏规则",
+    "film_title_en": "The Rules of the Game",
+    "year": 1939,
+    "character": "奥克塔夫 / Octave",
+    "director": "让·雷诺阿",
+    "tags": [
+      "上流社会",
+      "讽刺",
+      "法国电影"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：奥克塔夫（雷诺阿饰）的名句；完整语气含“可怕/糟糕之处”，勿简化为“人人皆有其理由”。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 683
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-rules-of-the-game-1939.jpg",
+    "still": "assets/stills/classics/the-rules-of-the-game-1939.jpg",
+    "still_alt": "游戏规则 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-rules-of-the-game-1939.jpg）（影片页 https://www.themoviedb.org/movie/776）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tBVTuHWbhk0bywHQn8q9gvFM9Vd.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "la-strada-pebble-purpose",
+    "line": "石头也有用处。万事万物都有用。",
+    "line_en": "Everything has a purpose — even a pebble.",
+    "film_title": "大路",
+    "film_title_en": "La Strada",
+    "year": 1954,
+    "character": "愚人 / Il Matto",
+    "director": "费德里科·费里尼",
+    "tags": [
+      "马戏团",
+      "命运",
+      "意大利新现实主义余波"
+    ],
+    "featured": false,
+    "curator_note": "愚人向杰尔索米娜讲述“石头的用处”的通行译法；不同字幕版本措辞有差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 1201
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/la-strada-1954.jpg",
+    "still": "assets/stills/classics/la-strada-1954.jpg",
+    "still_alt": "大路 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/la-strada-1954.jpg）（影片页 https://www.themoviedb.org/movie/405）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/p6qM3hlviWYIgpPq4zNwrttn6Io.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "sansho-without-mercy",
+    "line": "没有慈悲，人就不成其为人。",
+    "line_en": "Without mercy, man is not a human being.",
+    "film_title": "山椒大夫",
+    "film_title_en": "Sansho the Bailiff",
+    "year": 1954,
+    "character": "母亲 / 太郎之母（遗训）",
+    "director": "沟口健二",
+    "tags": [
+      "慈悲",
+      "奴役",
+      "日本电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：据沟口片中母亲“对人要有慈悲心”的核心遗训凝成中文主句；通行主题概括，非冒充唯一逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 443
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/sansho-the-bailiff-1954.jpg",
+    "still": "assets/stills/classics/sansho-the-bailiff-1954.jpg",
+    "still_alt": "山椒大夫 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sansho-the-bailiff-1954.jpg）（影片页 https://www.themoviedb.org/movie/20532）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ecsPKlJYFwm9zjWfPqWp32yg8Tm.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "hidden-fortress-our-lives",
+    "line": "公主，这可是我们的命啊。",
+    "line_en": "Princess, this is a matter of life and death for us.",
+    "film_title": "隠し砦の三悪人",
+    "film_title_en": "The Hidden Fortress",
+    "year": 1958,
+    "character": "真壁六郎太 / General Makabe",
+    "director": "黑泽明",
+    "tags": [
+      "冒险",
+      "主仆",
+      "黑泽明"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括六郎太护卫雪姬突围时的紧迫感；影片对白以武士伦理与滑稽农民并置，此处取克制主句。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 743
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-hidden-fortress-1958.jpg",
+    "still": "assets/stills/classics/the-hidden-fortress-1958.jpg",
+    "still_alt": "隠し砦の三悪人 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hidden-fortress-1958.jpg）（影片页 https://www.themoviedb.org/movie/1059）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7UNgpbSbFrsEyK4b2WU62MIbdTt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "autumn-afternoon-living-alone",
+    "line": "一个人生活，也不坏。",
+    "line_en": "Living alone is not so bad.",
+    "film_title": "秋刀鱼之味",
+    "film_title_en": "An Autumn Afternoon",
+    "year": 1962,
+    "character": "平山周吉 / Shuhei Hirayama",
+    "director": "小津安二郎",
+    "tags": [
+      "家庭",
+      "嫁女",
+      "小津"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：压缩周吉嫁女后独酌时的寂寞自况；小津绝笔的克制语气，明确标注非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 339
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/an-autumn-afternoon-1962.jpg",
+    "still": "assets/stills/classics/an-autumn-afternoon-1962.jpg",
+    "still_alt": "秋刀鱼之味 · TMDB 宣传静帧（2208×1242）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/an-autumn-afternoon-1962.jpg）（影片页 https://www.themoviedb.org/movie/50759）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/o80ve9QwW4VFx6SNiJAqpcGyGrT.jpg（2208×1242）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "contempt-i-despise-you",
+    "line": "我轻蔑你。",
+    "line_en": "I despise you. / J'ai mépris pour toi.",
+    "film_title": "轻蔑",
+    "film_title_en": "Contempt",
+    "year": 1963,
+    "character": "卡米尔 / Camille",
+    "director": "让-吕克·戈达尔",
+    "tags": [
+      "婚姻",
+      "电影",
+      "戈达尔"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：卡米尔对保罗说出的核心决裂句；片名主题句，法语原词 mépris。",
+    "ratings": {
+      "imdb": {
+        "score": 7,
+        "votes": 996
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/contempt-1963.jpg",
+    "still": "assets/stills/classics/contempt-1963.jpg",
+    "still_alt": "轻蔑 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/contempt-1963.jpg）（影片页 https://www.themoviedb.org/movie/266）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qBpRJrbaofPzb9pwgi5LiuNDLmM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "fistful-mule-laughing",
+    "line": "我的骡子不喜欢人笑它。",
+    "line_en": "My mule don't like people laughing. He gets the crazy idea you're laughing at him.",
+    "film_title": "荒野大镖客",
+    "film_title_en": "A Fistful of Dollars",
+    "year": 1964,
+    "character": "无名客 / Joe",
+    "director": "塞尔乔·莱昂内",
+    "tags": [
+      "西部片",
+      "冷幽默",
+      "莱昂内"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：无名客开场警告的标志性台词；保留口语语法。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 4871
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-fistful-of-dollars-1964.jpg",
+    "still": "assets/stills/classics/a-fistful-of-dollars-1964.jpg",
+    "still_alt": "荒野大镖客 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-fistful-of-dollars-1964.jpg）（影片页 https://www.themoviedb.org/movie/391）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rTJRWO9zHcB29JecTXHg0wUa4Xs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "rublev-faith-not-miracles",
+    "line": "信仰不是靠奇迹活着的。",
+    "line_en": "Faith does not live by miracles.",
+    "film_title": "安德烈·卢布廖夫",
+    "film_title_en": "Andrei Rublev",
+    "year": 1966,
+    "character": "安德烈·鲁布廖夫 / Andrei Rublev",
+    "director": "安德烈·塔可夫斯基",
+    "tags": [
+      "信仰",
+      "艺术",
+      "塔可夫斯基"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼鲁布廖夫在暴力与怀疑中对圣像与信仰的坚持；塔可夫斯基长片对白稀少，不冒充逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 981
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/andrei-rublev-1966.jpg",
+    "still": "assets/stills/classics/andrei-rublev-1966.jpg",
+    "still_alt": "安德烈·卢布廖夫 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/andrei-rublev-1966.jpg）（影片页 https://www.themoviedb.org/movie/895）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jqha8JCXm0aJ5SJ03Jd0JmGgWRs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "graduate-plastics",
+    "line": "就一个词：塑料。",
+    "line_en": "Just one word: plastics.",
+    "film_title": "毕业生",
+    "film_title_en": "The Graduate",
+    "year": 1967,
+    "character": "麦圭尔先生 / Mr. McGuire",
+    "director": "迈克·尼科尔斯",
+    "tags": [
+      "世代",
+      "美国梦",
+      "黑色幽默"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：泳池边经典忠告的压缩主句；完整对白为“I just want to say one word to you… Plastics.”",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 3818
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-graduate-1967.jpg",
+    "still": "assets/stills/classics/the-graduate-1967.jpg",
+    "still_alt": "毕业生 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-graduate-1967.jpg）（影片页 https://www.themoviedb.org/movie/37247）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "butch-who-are-those-guys",
+    "line": "谁是这些人？",
+    "line_en": "Who are those guys?",
+    "film_title": "虎豹小霸王",
+    "film_title_en": "Butch Cassidy and the Sundance Kid",
+    "year": 1969,
+    "character": "布奇·卡西迪 / Butch Cassidy",
+    "director": "乔治·罗伊·希尔",
+    "tags": [
+      "西部",
+      "友谊",
+      "逃亡"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：被追踪途中反复出现的标志性疑问；轻松口吻下的压迫感。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 2556
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/butch-cassidy-and-the-sundance-kid-1969.jpg",
+    "still": "assets/stills/classics/butch-cassidy-and-the-sundance-kid-1969.jpg",
+    "still_alt": "虎豹小霸王 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/butch-cassidy-and-the-sundance-kid-1969.jpg）（影片页 https://www.themoviedb.org/movie/642）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sxdnIt6WLMKRmOlxrMV6f2YX0kw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "solaris-need-mirrors",
+    "line": "我们不要别的世界。我们要的是镜子。",
+    "line_en": "We don't need other worlds. We need mirrors.",
+    "film_title": "飞向太空",
+    "film_title_en": "Solaris",
+    "year": 1972,
+    "character": "斯诺特 / Dr. Snaut",
+    "director": "安德烈·塔可夫斯基",
+    "tags": [
+      "科幻",
+      "记忆",
+      "塔可夫斯基"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：斯诺特关于人类探索动机的名句；不同字幕版本略有措辞差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 1905
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/solaris-1972.jpg",
+    "still": "assets/stills/classics/solaris-1972.jpg",
+    "still_alt": "飞向太空 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/solaris-1972.jpg）（影片页 https://www.themoviedb.org/movie/593）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4c8DuX0XRkjvqo4BVZBfHuRkz07.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "mirror-not-yet-past",
+    "line": "一切尚未过去。",
+    "line_en": "All is not yet past.",
+    "film_title": "镜子",
+    "film_title_en": "Mirror",
+    "year": 1975,
+    "character": "旁白 / 诗意旁白",
+    "director": "安德烈·塔可夫斯基",
+    "tags": [
+      "记忆",
+      "自传",
+      "诗电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：压缩影片记忆、战争与母亲意象的时间感；《镜子》以诗与旁白交织，此句为策展凝练而非逐字引诗。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 1127
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/mirror-1975.jpg",
+    "still": "assets/stills/classics/mirror-1975.jpg",
+    "still_alt": "镜子 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mirror-1975.jpg）（影片页 https://www.themoviedb.org/movie/1396）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xxtXqeflJXZlkev9Mwb3Got3y9l.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "annie-hall-need-the-eggs",
+    "line": "我们需要那些蛋。",
+    "line_en": "I guess we need the eggs.",
+    "film_title": "安妮·霍尔",
+    "film_title_en": "Annie Hall",
+    "year": 1977,
+    "character": "艾尔维 / Alvy Singer",
+    "director": "伍迪·艾伦",
+    "tags": [
+      "爱情",
+      "喜剧",
+      "纽约"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：片尾关于“弟弟以为自己是鸡、我需要蛋”笑话的收束句；完整段落说明关系非理性但人仍需要。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 4351
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/annie-hall-1977.jpg",
+    "still": "assets/stills/classics/annie-hall-1977.jpg",
+    "still_alt": "安妮·霍尔 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/annie-hall-1977.jpg）（影片页 https://www.themoviedb.org/movie/703）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "stalker-softness-is-great",
+    "line": "柔软是伟大的，强硬一无是处。",
+    "line_en": "Softness is great and strength is worthless.",
+    "film_title": "潜行者",
+    "film_title_en": "Stalker",
+    "year": 1979,
+    "character": "潜行者 / Stalker",
+    "director": "安德烈·塔可夫斯基",
+    "tags": [
+      "寓言",
+      "信仰",
+      "区"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：潜行者关于柔弱与强硬的独白节选（化用道德经意象）；完整段落更长，此处取核心对比句。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 2614
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/stalker-1979.jpg",
+    "still": "assets/stills/classics/stalker-1979.jpg",
+    "still_alt": "潜行者 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/stalker-1979.jpg）（影片页 https://www.themoviedb.org/movie/1398）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mCilWem3lYS16WcE5Idje5Q4lIM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "trois-couleurs-judge",
+    "line": "你以为你可以审判别人吗？",
+    "line_en": "Do you think you can judge others?",
+    "film_title": "蓝白红三部曲之红",
+    "film_title_en": "Three Colors: Red",
+    "year": 1994,
+    "character": "法官 / The Judge",
+    "director": "克日什托夫·基耶斯洛夫斯基",
+    "tags": [
+      "命运",
+      "伦理",
+      "三原色"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼法官窃听与道德审判主题的对峙语气；基耶斯洛夫斯基终章关于偶然与责任，不冒充唯一逐字版。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 1600
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/three-colors-red-1994.jpg",
+    "still": "assets/stills/classics/three-colors-red-1994.jpg",
+    "still_alt": "蓝白红三部曲之红 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/three-colors-red-1994.jpg）（影片页 https://www.themoviedb.org/movie/110）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/n3LjETeI1lAC2UnNRvekcSOdAQk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "magnolia-past-not-through",
+    "line": "我们也许会从过去中走出来，但过去不会放过我们。",
+    "line_en": "We may be through with the past, but the past is not through with us.",
+    "film_title": "木兰花",
+    "film_title_en": "Magnolia",
+    "year": 1999,
+    "character": "旁白 / Narrator",
+    "director": "保罗·托马斯·安德森",
+    "tags": [
+      "群像",
+      "偶然",
+      "和解"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：开场旁白的核心句，影片关于巧合与创伤的主题句。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 4164
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/magnolia-1999.jpg",
+    "still": "assets/stills/classics/magnolia-1999.jpg",
+    "still_alt": "木兰花 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/magnolia-1999.jpg）（影片页 https://www.themoviedb.org/movie/334）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mFfyE5DPFDqoes4HIcElHc2a15y.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "all-about-mother-authentic",
+    "line": "你可以比你想象的更真实。",
+    "line_en": "You can be more authentic than you imagine.",
+    "film_title": "关于我母亲的一切",
+    "film_title_en": "All About My Mother",
+    "year": 1999,
+    "character": "阿格拉多 / Agrado",
+    "director": "佩德罗·阿尔莫多瓦",
+    "tags": [
+      "表演",
+      "母亲",
+      "身份"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：压缩阿格拉多舞台独白中关于真实与整容/身份的精神；阿尔莫多瓦标志性自我宣言，明确非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 2113
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/all-about-my-mother-1999.jpg",
+    "still": "assets/stills/classics/all-about-my-mother-1999.jpg",
+    "still_alt": "关于我母亲的一切 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/all-about-my-mother-1999.jpg）（影片页 https://www.themoviedb.org/movie/99）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7ZjnuFgydOoRbvyR2jOQ8ZX97nP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "amores-perros-title",
+    "line": "爱是一只狗。",
+    "line_en": "Love is a bitch. / Amores perros.",
+    "film_title": "愛情像母狗",
+    "film_title_en": "Amores perros",
+    "year": 2001,
+    "character": "主题 / 片名",
+    "director": "亚历杭德罗·冈萨雷斯·伊纳里图",
+    "tags": [
+      "爱情",
+      "墨西哥",
+      "群像"
+    ],
+    "featured": false,
+    "curator_note": "片名直译的通行理解（amores perros ≈ 爱如狗/糟糕的爱）；作为主题句收录，非角色对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 3011
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/amores-perros-2001.jpg",
+    "still": "assets/stills/classics/amores-perros-2001.jpg",
+    "still_alt": "愛情像母狗 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/amores-perros-2001.jpg）（影片页 https://www.themoviedb.org/movie/55）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iTkxwBriD9YKg4Q35qWEIlLXd6e.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "lost-in-translation-for-now",
+    "line": "就这样吧，现在。",
+    "line_en": "For now.",
+    "film_title": "迷失东京",
+    "film_title_en": "Lost in Translation",
+    "year": 2003,
+    "character": "鲍勃 / Bob Harris（街边低语）",
+    "director": "索菲亚·科波拉",
+    "tags": [
+      "疏离",
+      "东京",
+      "告别"
+    ],
+    "featured": false,
+    "curator_note": "街边耳语内容从未官方公布；此处取公众流传的克制收束意译并明确标注：非经核验的逐字字幕，仅为策展占位的温和收束。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 8326
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/lost-in-translation-2003.jpg",
+    "still": "assets/stills/classics/lost-in-translation-2003.jpg",
+    "still_alt": "迷失东京 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/lost-in-translation-2003.jpg）（影片页 https://www.themoviedb.org/movie/153）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yWzy9SWgQBwTm4Nc7akd9sJ1lfJ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "children-of-men-baby-matters",
+    "line": "婴儿是唯一重要的事。",
+    "line_en": "The baby is all that matters.",
+    "film_title": "人类之子",
+    "film_title_en": "Children of Men",
+    "year": 2006,
+    "character": "西奥 / Theo Faron",
+    "director": "阿方索·卡隆",
+    "tags": [
+      "末世",
+      "希望",
+      "长镜头"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括西奥护送凯护送途中的伦理重心；影片对白克制，此句为通行主题凝练。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 8130
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/children-of-men-2006.jpg",
+    "still": "assets/stills/classics/children-of-men-2006.jpg",
+    "still_alt": "人类之子 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/children-of-men-2006.jpg）（影片页 https://www.themoviedb.org/movie/9693）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/www52jvhbB0ppe9s0zxbf9EYox.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "arrival-language-first-weapon",
+    "line": "语言是文明的基础，也是冲突中拔出的第一件武器。",
+    "line_en": "Language is the foundation of civilization. It is the first weapon drawn in a conflict.",
+    "film_title": "降临",
+    "film_title_en": "Arrival",
+    "year": 2016,
+    "character": "路易斯·班克斯 / Louise Banks",
+    "director": "丹尼斯·维伦纽瓦",
+    "tags": [
+      "语言",
+      "时间",
+      "科幻"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：路易斯著作/旁白中的核心句；完整句含“维系人民的胶水”一层，此处保留首尾两分句。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 19904
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/arrival-2016.jpg",
+    "still": "assets/stills/classics/arrival-2016.jpg",
+    "still_alt": "降临 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/arrival-2016.jpg）（影片页 https://www.themoviedb.org/movie/329865）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]
