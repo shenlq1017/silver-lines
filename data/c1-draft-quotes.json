@@ -1,0 +1,1075 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T11:40:00+08:00",
+    "purpose": "C1/A1 草稿：classics batch-jia 官方候选 25 部各 1 条主金句；status=draft，未并入 quotes.json",
+    "batch": "batch-jia",
+    "selection_source": "tmp/content-fill-plan/candidates-jia-25.json",
+    "stills_source": "tmp/stills-jia-a1/index-fragment.json",
+    "count": 25,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "海报：assets/posters/classics/{slug}.jpg（batch-jia 已备，宽边≥780）",
+      "静帧：assets/stills/classics/{slug}.jpg（PM A1 抓取，本批均为 3840×2160 / status=ok）",
+      "featured=false 全部；并入时整库 featured 仍应收束≈5",
+      "film_title 对齐 candidates-jia-25 / batch-jia；个别通译差异见 curator_note（如 公寓春光/桃色公寓、美丽心灵的永恒阳光/暖暖内含光）",
+      "活着（黑泽明）与已刊《活着》(1994 张艺谋) 不同片，已用括注区分",
+      "评分 imdb/rt/mc/douban 为 2026-09-25 策展快照近似，非实时抓取",
+      "meta.merged=false；勿改 quotes.json，待父代理并入"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "citizen-kane-rosebud",
+      "line": "玫瑰花蕾。",
+      "line_en": "Rosebud.",
+      "film_title": "公民凯恩",
+      "film_title_en": "Citizen Kane",
+      "year": 1941,
+      "character": "Charles Foster Kane",
+      "director": "奥逊·威尔斯",
+      "tags": [
+        "剧情",
+        "悬疑",
+        "遗产"
+      ],
+      "featured": false,
+      "curator_note": "临终一词撑起整座叙述迷宫：公民凯恩把童年雪橇名「Rosebud」做成影史最著名的未解之谜。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.4,
+          "votes": 180000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 480000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 99
+        },
+        "metacritic": {
+          "score": 100
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/citizen-kane-1941.jpg",
+      "still": "assets/stills/classics/citizen-kane-1941.jpg",
+      "still_alt": "公民凯恩 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/citizen-kane-1941.jpg）（影片页 https://www.themoviedb.org/movie/15）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 15,
+      "slug": "citizen-kane-1941"
+    },
+    {
+      "id": "casablanca-looking-at-you",
+      "line": "来日方长，孩子。",
+      "line_en": "Here's looking at you, kid.",
+      "film_title": "卡萨布兰卡",
+      "film_title_en": "Casablanca",
+      "year": 1943,
+      "character": "Rick Blaine",
+      "director": "迈克尔·柯蒂兹",
+      "tags": [
+        "爱情",
+        "战争",
+        "告别"
+      ],
+      "featured": false,
+      "curator_note": "里克对伊尔莎的祝酒式告别：卡萨布兰卡把私情折进世界大战。通行定译；与「我们将永远拥有巴黎」同级名句，本批取更口语的这一句。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 220000
+        },
+        "imdb": {
+          "score": 8.5,
+          "votes": 630000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 99
+        },
+        "metacritic": {
+          "score": 100
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/casablanca-1943.jpg",
+      "still": "assets/stills/classics/casablanca-1943.jpg",
+      "still_alt": "卡萨布兰卡 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/casablanca-1943.jpg）（影片页 https://www.themoviedb.org/movie/289）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tfNuePdHrP9fp6K2VTJwHKKJf8C.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 289,
+      "slug": "casablanca-1943"
+    },
+    {
+      "id": "lawrence-trick-not-minding",
+      "line": "诀窍是——不在乎它疼。",
+      "line_en": "The trick, William Potter, is not minding that it hurts.",
+      "film_title": "阿拉伯的劳伦斯",
+      "film_title_en": "Lawrence of Arabia",
+      "year": 1962,
+      "character": "T. E. Lawrence",
+      "director": "大卫·里恩",
+      "tags": [
+        "史诗",
+        "意志",
+        "战争"
+      ],
+      "featured": false,
+      "curator_note": "吹灭火柴的近景成为意志宣言：阿拉伯的劳伦斯用「不在乎疼」定义自我神话。通行定译略有字幕差，已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 120000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 320000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 100
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/lawrence-of-arabia-1962.jpg",
+      "still": "assets/stills/classics/lawrence-of-arabia-1962.jpg",
+      "still_alt": "阿拉伯的劳伦斯 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/lawrence-of-arabia-1962.jpg）（影片页 https://www.themoviedb.org/movie/947）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eULrEMwgXnWmzdowUfegaw2YYgD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 947,
+      "slug": "lawrence-of-arabia-1962"
+    },
+    {
+      "id": "apocalypse-napalm-morning",
+      "line": "我喜欢硝烟在早晨的味道。",
+      "line_en": "I love the smell of napalm in the morning.",
+      "film_title": "现代启示录",
+      "film_title_en": "Apocalypse Now",
+      "year": 1979,
+      "character": "Lt. Col. Bill Kilgore",
+      "director": "弗朗西斯·福特·科波拉",
+      "tags": [
+        "战争",
+        "荒诞",
+        "越战"
+      ],
+      "featured": false,
+      "curator_note": "基尔戈冲浪旁的战争恋物宣言：现代启示录把暴行说成香水广告。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 280000
+        },
+        "imdb": {
+          "score": 8.4,
+          "votes": 750000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "metacritic": {
+          "score": 94
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/apocalypse-now-1979.jpg",
+      "still": "assets/stills/classics/apocalypse-now-1979.jpg",
+      "still_alt": "现代启示录 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/apocalypse-now-1979.jpg）（影片页 https://www.themoviedb.org/movie/28）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/49fzLedFVKgGgFChLMuulDJBY1c.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 28,
+      "slug": "apocalypse-now-1979"
+    },
+    {
+      "id": "goodfellas-always-gangster",
+      "line": "打记事起，我就一直想当个黑帮。",
+      "line_en": "As far back as I can remember, I always wanted to be a gangster.",
+      "film_title": "好家伙",
+      "film_title_en": "Goodfellas",
+      "year": 1990,
+      "character": "Henry Hill",
+      "director": "马丁·斯科塞斯",
+      "tags": [
+        "犯罪",
+        "旁白",
+        "黑帮"
+      ],
+      "featured": false,
+      "curator_note": "片头旁白定调整部成长犯罪史：好家伙一句童年志愿，既是向往也是判决。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 320000
+        },
+        "imdb": {
+          "score": 8.7,
+          "votes": 1300000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 94
+        },
+        "metacritic": {
+          "score": 92
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/goodfellas-1990.jpg",
+      "still": "assets/stills/classics/goodfellas-1990.jpg",
+      "still_alt": "好家伙 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/goodfellas-1990.jpg）（影片页 https://www.themoviedb.org/movie/769）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7TF4p86ZafnxFuNqWdhpHXFO244.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 769,
+      "slug": "goodfellas-1990"
+    },
+    {
+      "id": "blade-runner-tears-in-rain",
+      "line": "这些瞬间都会消逝在时间里，如同眼泪消失在雨中。",
+      "line_en": "All those moments will be lost in time, like tears in rain.",
+      "film_title": "银翼杀手",
+      "film_title_en": "Blade Runner",
+      "year": 1982,
+      "character": "Roy Batty",
+      "director": "雷德利·斯科特",
+      "tags": [
+        "科幻",
+        "人性",
+        "死亡"
+      ],
+      "featured": false,
+      "curator_note": "复制人临终独白压过追杀：银翼杀手「雨中泪」是类型片里最温柔的末日。通行定译；完整独白前半「我看见了……」常一并引用，本批取压轴喻体。",
+      "ratings": {
+        "douban": {
+          "score": 8.4,
+          "votes": 350000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 850000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 89
+        },
+        "metacritic": {
+          "score": 84
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/blade-runner-1982.jpg",
+      "still": "assets/stills/classics/blade-runner-1982.jpg",
+      "still_alt": "银翼杀手 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/blade-runner-1982.jpg）（影片页 https://www.themoviedb.org/movie/78）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 78,
+      "slug": "blade-runner-1982"
+    },
+    {
+      "id": "bttf-dont-need-roads",
+      "line": "我们要去的地方，不需要路。",
+      "line_en": "Roads? Where we're going, we don't need roads.",
+      "film_title": "回到未来",
+      "film_title_en": "Back to the Future",
+      "year": 1985,
+      "character": "Dr. Emmett Brown",
+      "director": "罗伯特·泽米吉斯",
+      "tags": [
+        "科幻",
+        "冒险",
+        "友情"
+      ],
+      "featured": false,
+      "curator_note": "布朗博士起飞前的台词收束三部曲序章：回到未来把时间旅行说成不必落地的承诺。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 480000
+        },
+        "imdb": {
+          "score": 8.5,
+          "votes": 1400000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 87
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/back-to-the-future-1985.jpg",
+      "still": "assets/stills/classics/back-to-the-future-1985.jpg",
+      "still_alt": "回到未来 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/back-to-the-future-1985.jpg）（影片页 https://www.themoviedb.org/movie/105）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 105,
+      "slug": "back-to-the-future-1985"
+    },
+    {
+      "id": "clockwork-whats-it-gonna-be",
+      "line": "那么——接下来会是什么？",
+      "line_en": "What's it going to be then, eh?",
+      "film_title": "发条橙",
+      "film_title_en": "A Clockwork Orange",
+      "year": 1972,
+      "character": "Alexander DeLarge",
+      "director": "斯坦利·库布里克",
+      "tags": [
+        "反乌托邦",
+        "暴力",
+        "自由意志"
+      ],
+      "featured": false,
+      "curator_note": "亚历克斯旁白开场也是全书卷首：发条橙用一句挑衅式提问，把自由意志扔给观众。通行定译略有字幕差，已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 380000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 900000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 87
+        },
+        "metacritic": {
+          "score": 77
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/a-clockwork-orange-1972.jpg",
+      "still": "assets/stills/classics/a-clockwork-orange-1972.jpg",
+      "still_alt": "发条橙 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-clockwork-orange-1972.jpg）（影片页 https://www.themoviedb.org/movie/185）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 185,
+      "slug": "a-clockwork-orange-1972"
+    },
+    {
+      "id": "chinatown-forget-it-jake",
+      "line": "算了吧，杰克。这儿是唐人街。",
+      "line_en": "Forget it, Jake. It's Chinatown.",
+      "film_title": "唐人街",
+      "film_title_en": "Chinatown",
+      "year": 1974,
+      "character": "Walsh",
+      "director": "罗曼·波兰斯基",
+      "tags": [
+        "黑色",
+        "腐败",
+        "无力"
+      ],
+      "featured": false,
+      "curator_note": "全片最后的安慰即放弃：唐人街用地名收束对体制的无力感。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.4,
+          "votes": 160000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 370000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "metacritic": {
+          "score": 92
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/chinatown-1974.jpg",
+      "still": "assets/stills/classics/chinatown-1974.jpg",
+      "still_alt": "唐人街 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/chinatown-1974.jpg）（影片页 https://www.themoviedb.org/movie/829）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mGcRgFTFoD9qf7eXUXqgSRew4n7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 829,
+      "slug": "chinatown-1974"
+    },
+    {
+      "id": "ikiru-only-then-alive",
+      "line": "直到面对死亡——我才真正开始活着。",
+      "line_en": "Only when facing death did I truly begin to live.",
+      "film_title": "活着（黑泽明）",
+      "film_title_en": "Ikiru",
+      "year": 1956,
+      "character": "渡边勘治 / 题旨",
+      "director": "黑泽明",
+      "tags": [
+        "生命",
+        "官僚",
+        "觉醒"
+      ],
+      "featured": false,
+      "curator_note": "黑泽明《生きる》（本库片名「活着（黑泽明）」）与已刊张艺谋《活着》(1994) 不同片。此句为渡边觉醒弧的通行题旨凝练，非唯一逐字对白，边界已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 90000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 95000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "metacritic": {
+          "score": 91
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/ikiru-1956.jpg",
+      "still": "assets/stills/classics/ikiru-1956.jpg",
+      "still_alt": "活着（黑泽明） · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ikiru-1956.jpg）（影片页 https://www.themoviedb.org/movie/3782）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/twnDNZofnemp2Ulg8cioSXS08vH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 3782,
+      "slug": "ikiru-1956"
+    },
+    {
+      "id": "four-hundred-blows-lie-to-breathe",
+      "line": "我撒谎——是为了能喘气。",
+      "line_en": "I lie so I can breathe.",
+      "film_title": "四百击",
+      "film_title_en": "The 400 Blows",
+      "year": 1959,
+      "character": "Antoine Doinel",
+      "director": "弗朗索瓦·特吕弗",
+      "tags": [
+        "成长",
+        "新浪潮",
+        "少年"
+      ],
+      "featured": false,
+      "curator_note": "心理访谈里安托万的自我辩解：四百击把逃学与偷窃说成呼吸权。通行中文字幕定译略有差，已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 110000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 140000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 99
+        },
+        "metacritic": {
+          "score": 96
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/les-quatre-cents-coups-1959.jpg",
+      "still": "assets/stills/classics/les-quatre-cents-coups-1959.jpg",
+      "still_alt": "四百击 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/les-quatre-cents-coups-1959.jpg）（影片页 https://www.themoviedb.org/movie/147）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 147,
+      "slug": "les-quatre-cents-coups-1959"
+    },
+    {
+      "id": "seventh-seal-want-knowledge",
+      "line": "我要的是知识——不是信仰，不是臆测，是知识。",
+      "line_en": "I want knowledge! Not faith, not assumptions, but knowledge.",
+      "film_title": "第七封印",
+      "film_title_en": "The Seventh Seal",
+      "year": 1958,
+      "character": "Antonius Block",
+      "director": "英格玛·伯格曼",
+      "tags": [
+        "信仰",
+        "死亡",
+        "哲学"
+      ],
+      "featured": false,
+      "curator_note": "骑士对死神的答辩：第七封印把中世纪瘟疫棋局翻成认识论呐喊。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 85000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 210000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 96
+        },
+        "metacritic": {
+          "score": 88
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/det-sjunde-inseglet-1958.jpg",
+      "still": "assets/stills/classics/det-sjunde-inseglet-1958.jpg",
+      "still_alt": "第七封印 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/det-sjunde-inseglet-1958.jpg）（影片页 https://www.themoviedb.org/movie/490）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AcbiIqfaSWAlH9BvGFU71cKKnUs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 490,
+      "slug": "det-sjunde-inseglet-1958"
+    },
+    {
+      "id": "strangelove-war-room",
+      "line": "先生们，不能在这儿打架！这儿是作战室！",
+      "line_en": "Gentlemen, you can't fight in here! This is the War Room!",
+      "film_title": "奇爱博士",
+      "film_title_en": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "character": "President Merkin Muffley",
+      "director": "斯坦利·库布里克",
+      "tags": [
+        "讽刺",
+        "冷战",
+        "荒诞"
+      ],
+      "featured": false,
+      "curator_note": "总统劝架的一本正经：奇爱博士把核战指挥部变成马戏团。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 140000
+        },
+        "imdb": {
+          "score": 8.4,
+          "votes": 530000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "metacritic": {
+          "score": 97
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964.jpg",
+      "still": "assets/stills/classics/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964.jpg",
+      "still_alt": "奇爱博士 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964.jpg）（影片页 https://www.themoviedb.org/movie/935）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hPdgnWRpPstF8y7MrC6ENep8RNI.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 935,
+      "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964"
+    },
+    {
+      "id": "taxi-driver-talkin-to-me",
+      "line": "你是在跟我说话吗？",
+      "line_en": "You talkin' to me?",
+      "film_title": "出租车司机",
+      "film_title_en": "Taxi Driver",
+      "year": 1976,
+      "character": "Travis Bickle",
+      "director": "马丁·斯科塞斯",
+      "tags": [
+        "孤独",
+        "暴力",
+        "城市"
+      ],
+      "featured": false,
+      "curator_note": "镜前独角戏成为流行文化口头禅：出租车司机把无人应答的对话练成拔枪仪式。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 310000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 980000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 89
+        },
+        "metacritic": {
+          "score": 94
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/taxi-driver-1976.jpg",
+      "still": "assets/stills/classics/taxi-driver-1976.jpg",
+      "still_alt": "出租车司机 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/taxi-driver-1976.jpg）（影片页 https://www.themoviedb.org/movie/103）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 103,
+      "slug": "taxi-driver-1976"
+    },
+    {
+      "id": "rear-window-we-are-peeping",
+      "line": "我们都成了偷窥的人。",
+      "line_en": "We've become a race of peeping Toms.",
+      "film_title": "后窗",
+      "film_title_en": "Rear Window",
+      "year": 1954,
+      "character": "Stella",
+      "director": "阿尔弗雷德·希区柯克",
+      "tags": [
+        "悬疑",
+        "偷窥",
+        "希区柯克"
+      ],
+      "featured": false,
+      "curator_note": "护士斯特拉一语道破观影契约：后窗把对面楼窗变成伦理装置。通行定译略有凝练，已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 170000
+        },
+        "imdb": {
+          "score": 8.5,
+          "votes": 550000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "metacritic": {
+          "score": 100
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/rear-window-1954.jpg",
+      "still": "assets/stills/classics/rear-window-1954.jpg",
+      "still_alt": "后窗 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rear-window-1954.jpg）（影片页 https://www.themoviedb.org/movie/567）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2lB06qzQytcUkEJ9p9B4dGwEfP3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 567,
+      "slug": "rear-window-1954"
+    },
+    {
+      "id": "shining-heres-johnny",
+      "line": "嗨——约翰尼！",
+      "line_en": "Here's Johnny!",
+      "film_title": "闪灵",
+      "film_title_en": "The Shining",
+      "year": 1980,
+      "character": "Jack Torrance",
+      "director": "斯坦利·库布里克",
+      "tags": [
+        "恐怖",
+        "疯狂",
+        "旅馆"
+      ],
+      "featured": false,
+      "curator_note": "斧破门的电视串词式狞笑：闪灵把娱乐节目开场白改写成家暴恐怖图标。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.2,
+          "votes": 420000
+        },
+        "imdb": {
+          "score": 8.4,
+          "votes": 1200000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 84
+        },
+        "metacritic": {
+          "score": 66
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/the-shining-1980.jpg",
+      "still": "assets/stills/classics/the-shining-1980.jpg",
+      "still_alt": "闪灵 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-shining-1980.jpg）（影片页 https://www.themoviedb.org/movie/694）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 694,
+      "slug": "the-shining-1980"
+    },
+    {
+      "id": "star-wars-force-with-you",
+      "line": "愿原力与你同在。",
+      "line_en": "May the Force be with you.",
+      "film_title": "星球大战",
+      "film_title_en": "Star Wars",
+      "year": 1977,
+      "character": "众角色 / 题旨祝福",
+      "director": "乔治·卢卡斯",
+      "tags": [
+        "科幻",
+        "冒险",
+        "希望"
+      ],
+      "featured": false,
+      "curator_note": "原力世界观的通行祝福语：星球大战（本库取「星球大战」，非「新希望」长标题）把它变成跨代问候。通行定译；与帝国反击战「我是你的父亲」不撞 id。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 450000
+        },
+        "imdb": {
+          "score": 8.6,
+          "votes": 1500000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 90
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/star-wars-1977.jpg",
+      "still": "assets/stills/classics/star-wars-1977.jpg",
+      "still_alt": "星球大战 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/star-wars-1977.jpg）（影片页 https://www.themoviedb.org/movie/11）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11,
+      "slug": "star-wars-1977"
+    },
+    {
+      "id": "eternal-sunshine-montauk",
+      "line": "蒙托克见。",
+      "line_en": "Meet me in Montauk.",
+      "film_title": "美丽心灵的永恒阳光",
+      "film_title_en": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "character": "Joel Barish / Clementine Kruczynski",
+      "director": "米歇尔·贡德里",
+      "tags": [
+        "爱情",
+        "记忆",
+        "重来"
+      ],
+      "featured": false,
+      "curator_note": "删除记忆后仍被写下的约会坐标：美丽心灵的永恒阳光（亦通译「暖暖内含光」）用三个字把循环爱上锁。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 480000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 1100000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 92
+        },
+        "metacritic": {
+          "score": 89
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/eternal-sunshine-of-the-spotless-mind-2004.jpg",
+      "still": "assets/stills/classics/eternal-sunshine-of-the-spotless-mind-2004.jpg",
+      "still_alt": "美丽心灵的永恒阳光 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/eternal-sunshine-of-the-spotless-mind-2004.jpg）（影片页 https://www.themoviedb.org/movie/38）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/744ybMaYRry1IQKoDakMc4GEU4L.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 38,
+      "slug": "eternal-sunshine-of-the-spotless-mind-2004"
+    },
+    {
+      "id": "no-country-coin-toss",
+      "line": "你在一次抛硬币上，最多输过多少？",
+      "line_en": "What's the most you ever lost on a coin toss?",
+      "film_title": "老无所依",
+      "film_title_en": "No Country for Old Men",
+      "year": 2007,
+      "character": "Anton Chigurh",
+      "director": "乔尔·科恩 / 伊桑·科恩",
+      "tags": [
+        "命运",
+        "暴力",
+        "冷峻"
+      ],
+      "featured": false,
+      "curator_note": "气罐杀手把生死交给硬币：老无所依用一句收银台式提问，定义科恩式命运观。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.3,
+          "votes": 390000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 1100000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 87
+        },
+        "metacritic": {
+          "score": 92
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/no-country-for-old-men-2007.jpg",
+      "still": "assets/stills/classics/no-country-for-old-men-2007.jpg",
+      "still_alt": "老无所依 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/no-country-for-old-men-2007.jpg）（影片页 https://www.themoviedb.org/movie/6977）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7T9e6yS8SQ0EAWLQHrhLSyCtTz7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 6977,
+      "slug": "no-country-for-old-men-2007"
+    },
+    {
+      "id": "gladiator-echoes-eternity",
+      "line": "我们今生所做的一切，都会在永恒中回响。",
+      "line_en": "What we do in life echoes in eternity.",
+      "film_title": "角斗士",
+      "film_title_en": "Gladiator",
+      "year": 2000,
+      "character": "Maximus / Proximo",
+      "director": "雷德利·斯科特",
+      "tags": [
+        "史诗",
+        "荣誉",
+        "罗马"
+      ],
+      "featured": false,
+      "curator_note": "角斗场内外反复回荡的荣光句：角斗士把它做成马克斯穆的伦理底噪。通行定译；与「你们难道不觉得精彩吗」同级，本批取史诗句。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 520000
+        },
+        "imdb": {
+          "score": 8.5,
+          "votes": 1700000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 80
+        },
+        "metacritic": {
+          "score": 67
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/gladiator-2000.jpg",
+      "still": "assets/stills/classics/gladiator-2000.jpg",
+      "still_alt": "角斗士 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/gladiator-2000.jpg）（影片页 https://www.themoviedb.org/movie/98）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 98,
+      "slug": "gladiator-2000"
+    },
+    {
+      "id": "aliens-get-away-from-her",
+      "line": "离她远点，你这该死的东西！",
+      "line_en": "Get away from her, you bitch!",
+      "film_title": "异形2",
+      "film_title_en": "Aliens",
+      "year": 1986,
+      "character": "Ellen Ripley",
+      "director": "詹姆斯·卡梅隆",
+      "tags": [
+        "科幻",
+        "母性",
+        "动作"
+      ],
+      "featured": false,
+      "curator_note": "动力装甲对峙异形后裔：异形2把母性怒火喊成类型片名场面。通行字幕略有差（bitch 译法不一），已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.3,
+          "votes": 280000
+        },
+        "imdb": {
+          "score": 8.4,
+          "votes": 800000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "metacritic": {
+          "score": 84
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/aliens-1986.jpg",
+      "still": "assets/stills/classics/aliens-1986.jpg",
+      "still_alt": "异形2 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/aliens-1986.jpg）（影片页 https://www.themoviedb.org/movie/679）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zFKPAMN9kWr1hJF4owR83DrwjK6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 679,
+      "slug": "aliens-1986"
+    },
+    {
+      "id": "metropolis-heart-mediator",
+      "line": "头脑与双手之间，必须有心灵来做调解。",
+      "line_en": "The mediator between the head and the hands must be the heart!",
+      "film_title": "大都会",
+      "film_title_en": "Metropolis",
+      "year": 1927,
+      "character": "题词 / 玛丽亚",
+      "director": "弗里茨·朗",
+      "tags": [
+        "科幻",
+        "阶级",
+        "默片"
+      ],
+      "featured": false,
+      "curator_note": "默片片尾题词即全片论点：大都会用「心灵」调解劳资分裂。通行中译；对白为字幕卡，非有声台词。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 70000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 200000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 97
+        },
+        "metacritic": {
+          "score": 98
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/metropolis-1927.jpg",
+      "still": "assets/stills/classics/metropolis-1927.jpg",
+      "still_alt": "大都会 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/metropolis-1927.jpg）（影片页 https://www.themoviedb.org/movie/19）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 19,
+      "slug": "metropolis-1927"
+    },
+    {
+      "id": "apartment-shut-up-deal",
+      "line": "闭嘴，发牌。",
+      "line_en": "Shut up and deal.",
+      "film_title": "公寓春光",
+      "film_title_en": "The Apartment",
+      "year": 1960,
+      "character": "Fran Kubelik",
+      "director": "比利·怀尔德",
+      "tags": [
+        "爱情",
+        "喜剧",
+        "都市"
+      ],
+      "featured": false,
+      "curator_note": "弗兰打断告白、重新开牌：公寓春光（亦通译「桃色公寓」）用五个字收束办公室悲剧为轻声承诺。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 95000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 210000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 94
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/the-apartment-1960.jpg",
+      "still": "assets/stills/classics/the-apartment-1960.jpg",
+      "still_alt": "公寓春光 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-apartment-1960.jpg）（影片页 https://www.themoviedb.org/movie/284）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6FQmuTDPd7YxGKYjiesh54VeJ69.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 284,
+      "slug": "the-apartment-1960"
+    },
+    {
+      "id": "some-like-it-hot-nobody-perfect",
+      "line": "没有人是完美的。",
+      "line_en": "Well, nobody's perfect.",
+      "film_title": "热情如火",
+      "film_title_en": "Some Like It Hot",
+      "year": 1959,
+      "character": "Osgood Fielding III",
+      "director": "比利·怀尔德",
+      "tags": [
+        "喜剧",
+        "身份",
+        "包容"
+      ],
+      "featured": false,
+      "curator_note": "游艇上的终极回应：热情如火用一句甩开性别惊吓，收成影史最宽容的笑点。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 150000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 300000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 95
+        },
+        "metacritic": {
+          "score": 98
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/some-like-it-hot-1959.jpg",
+      "still": "assets/stills/classics/some-like-it-hot-1959.jpg",
+      "still_alt": "热情如火 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/some-like-it-hot-1959.jpg）（影片页 https://www.themoviedb.org/movie/239）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/q5wyAOvgo4SrDiVn2XfuOHyMNML.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 239,
+      "slug": "some-like-it-hot-1959"
+    },
+    {
+      "id": "oldboy-live-even-if-pain",
+      "line": "就算哭得撕心裂肺——也请活下去。",
+      "line_en": "Even if you cry your heart out—please live on.",
+      "film_title": "老男孩",
+      "film_title_en": "Oldboy",
+      "year": 2003,
+      "character": "题旨 / 吴大秀与美多",
+      "director": "朴赞郁",
+      "tags": [
+        "复仇",
+        "生存",
+        "韩影"
+      ],
+      "featured": false,
+      "curator_note": "复仇闭环后的生存伦理：老男孩中文圈通行金句口吻，偏题旨凝练而非唯一逐字对白，边界已标。film_title_en 取通行 Oldboy（原韩文片名 올드보이）。",
+      "ratings": {
+        "douban": {
+          "score": 8.4,
+          "votes": 420000
+        },
+        "imdb": {
+          "score": 8.4,
+          "votes": 680000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 81
+        },
+        "metacritic": {
+          "score": 77
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/oldeuboi-2003.jpg",
+      "still": "assets/stills/classics/oldeuboi-2003.jpg",
+      "still_alt": "老男孩 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/oldeuboi-2003.jpg）（影片页 https://www.themoviedb.org/movie/670）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rwf5SUTiEsmfkXAgy15R0UtJUtv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 670,
+      "slug": "oldeuboi-2003"
+    }
+  ]
+}
