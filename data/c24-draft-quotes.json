@@ -1,0 +1,904 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T13:52:44+08:00",
+    "purpose": "C24 classics×25 草稿：batch-yi id-repair 解锁波（wave1 修 tmdb_id 后首次策展）；status=draft，未并入 quotes.json",
+    "batch": "batch-yi",
+    "batch_note": "repaired batch-yi — id-repair unlock wave，非原 C12–C14 matched remainder",
+    "selection_source": "tmp/content-fill-plan/candidates-yi-c24-25.json",
+    "stills_source": "tmp/stills-yi-c24/index-fragment.json",
+    "count": 25,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "source=batch-yi（repaired）；本波为 id-repair unlock，不是原 C12–C14 匹配剩余",
+      "池：tmp/id-repair/yi-repaired-curatable.json（71，gate poster≥780 ∧ backdrop≥1920）",
+      "排除已在 quotes.json 同片：slumdog-millionaire-2008、when-a-woman-ascends-the-stairs-1960、la-haine-1995、harakiri-1962",
+      "质量优先：vote_average 降序，同分 vote_count；取前 25",
+      "海报：assets/posters/classics/{slug}.jpg；入选前校验 width≥780；本批全部 kept，最小海报宽 840；0 替换",
+      "静帧：assets/stills/classics/{slug}.jpg（C24 TMDB original backdrop，宽边≥1920）；25 ok / 0 actual",
+      "quotes.json 未修改；未 push；未用 CloudAgent",
+      "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
+      "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
+      "orphan 未跟踪海报未触碰"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "dunes-sand-trap",
+      "line": "沙子会把一切填平——逃出去的路，也会被重新埋上。",
+      "line_en": "Sand levels everything — even the path you dug out will be buried again.",
+      "film_title": "砂之女",
+      "film_title_en": "Woman in the Dunes",
+      "year": 1964,
+      "character": "鸟饲／女 / Niki / Woman",
+      "director": "勅使河原宏",
+      "tags": [
+        "沙子",
+        "囚禁",
+        "存在",
+        "勅使河原"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括勅使河原宏／安部公房《砂之女》中沙穴劳作与逃脱循环的存在主义题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 545
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/woman-in-the-dunes-1964.jpg",
+      "still": "assets/stills/classics/woman-in-the-dunes-1964.jpg",
+      "still_alt": "砂之女 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/woman-in-the-dunes-1964.jpg，1915×2872）（影片页 https://www.themoviedb.org/movie/16672）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dib5FpHm0gtLyIkPFoCgqbPYtsF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 16672,
+      "slug": "woman-in-the-dunes-1964",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "citizen-above-suspicion",
+      "line": "最干净的人，往往最有资格把自己洗白。",
+      "line_en": "The cleanest man is often the one most entitled to wash himself clean.",
+      "film_title": "对一个不受怀疑的公民的调查",
+      "film_title_en": "Investigation of a Citizen Above Suspicion",
+      "year": 1970,
+      "character": "警官 / the Dottore",
+      "director": "埃利奥·佩特里",
+      "tags": [
+        "权力",
+        "谋杀",
+        "讽刺",
+        "佩特里"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括佩特里《对一个不受怀疑的公民的调查》中权贵自证清白的黑色政治讽刺，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 898
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/investigation-of-a-citizen-above-suspicion-1970.jpg",
+      "still": "assets/stills/classics/investigation-of-a-citizen-above-suspicion-1970.jpg",
+      "still_alt": "对一个不受怀疑的公民的调查 · TMDB 宣传静帧（2666×1500）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/investigation-of-a-citizen-above-suspicion-1970.jpg，1672×2508）（影片页 https://www.themoviedb.org/movie/26451）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4QPW3pHjqOr0moCN3TJXbaKbNFp.jpg（2666×1500）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 26451,
+      "slug": "investigation-of-a-citizen-above-suspicion-1970",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "eight-half-director",
+      "line": "灵感不来的时候，整个生涯都像一场排练。",
+      "line_en": "When inspiration will not come, a whole career feels like a rehearsal.",
+      "film_title": "八部半",
+      "film_title_en": "8½",
+      "year": 1963,
+      "character": "圭多 / Guido Anselmi",
+      "director": "费德里科·费里尼",
+      "tags": [
+        "创作",
+        "幻觉",
+        "导演",
+        "费里尼"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括费里尼《八部半》中导演陷入创作瓶颈与幻想的自反题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 2600
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/8-1963.jpg",
+      "still": "assets/stills/classics/8-1963.jpg",
+      "still_alt": "八部半 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/8-1963.jpg，1323×1746）（影片页 https://www.themoviedb.org/movie/422）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nrOIe2QjldZJFeQe2281p1TKxeR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 422,
+      "slug": "8-1963",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "paris-texas-highway",
+      "line": "公路尽头不是家，是一张还没说完的口信。",
+      "line_en": "At the end of the highway is not home — it is a message still unfinished.",
+      "film_title": "巴黎，德克萨斯",
+      "film_title_en": "Paris, Texas",
+      "year": 1984,
+      "character": "特拉维斯 / Travis",
+      "director": "维姆·文德斯",
+      "tags": [
+        "公路",
+        "家庭",
+        "疏离",
+        "文德斯"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括文德斯《巴黎，德克萨斯》中荒漠归来与隔窗告白的亲情修复题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 2323
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/paris-texas-1984.jpg",
+      "still": "assets/stills/classics/paris-texas-1984.jpg",
+      "still_alt": "巴黎，德克萨斯 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/paris-texas-1984.jpg，1455×2048）（影片页 https://www.themoviedb.org/movie/655）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 655,
+      "slug": "paris-texas-1984",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "dolce-vita-sweet",
+      "line": "甜蜜的生活，甜的是灯光，苦的是清晨。",
+      "line_en": "The sweet life: lights are sweet, mornings are bitter.",
+      "film_title": "甜蜜的生活",
+      "film_title_en": "La Dolce Vita",
+      "year": 1960,
+      "character": "马尔切洛 / Marcello",
+      "director": "费德里科·费里尼",
+      "tags": [
+        "罗马",
+        "虚荣",
+        "记者",
+        "费里尼"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括费里尼《甜蜜的生活》中名流夜宴与晨间空虚并置的现代性寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 2082
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/la-dolce-vita-1960.jpg",
+      "still": "assets/stills/classics/la-dolce-vita-1960.jpg",
+      "still_alt": "甜蜜的生活 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/la-dolce-vita-1960.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/439）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 439,
+      "slug": "la-dolce-vita-1960",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "rocco-brothers-milan",
+      "line": "米兰的光再亮，也洗不掉南方带来的影子。",
+      "line_en": "However bright Milan's lights, they cannot wash away the shadow brought from the South.",
+      "film_title": "洛可兄弟",
+      "film_title_en": "Rocco and His Brothers",
+      "year": 1960,
+      "character": "洛可／西蒙 / Rocco / Simone",
+      "director": "卢奇诺·维斯康蒂",
+      "tags": [
+        "移民",
+        "兄弟",
+        "拳击",
+        "维斯康蒂"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括维斯康蒂《洛可兄弟》中南方家庭迁居米兰后解体与相爱相杀的史诗题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 683
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/rocco-and-his-brothers-1960.jpg",
+      "still": "assets/stills/classics/rocco-and-his-brothers-1960.jpg",
+      "still_alt": "洛可兄弟 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rocco-and-his-brothers-1960.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8422）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eSIAZsNHr7EpTNAJTONNvHY2RR8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 8422,
+      "slug": "rocco-and-his-brothers-1960",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "ugetsu-pottery",
+      "line": "壶里烧出的不是陶器，是贪心的形状。",
+      "line_en": "What the kiln fires is not pottery — it is the shape of greed.",
+      "film_title": "雨月物语",
+      "film_title_en": "Ugetsu",
+      "year": 1953,
+      "character": "源氏／宫木 / Genjūrō / Miyagi",
+      "director": "沟口健二",
+      "tags": [
+        "鬼魅",
+        "贪欲",
+        "战争",
+        "沟口"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括沟口健二《雨月物语》中陶工遇鬼与战乱离合的劝世寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 667
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/ugetsu-1953.jpg",
+      "still": "assets/stills/classics/ugetsu-1953.jpg",
+      "still_alt": "雨月物语 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ugetsu-1953.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/14696）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wA2InDPDhUhZefMZcQNLCgoNOqn.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 14696,
+      "slug": "ugetsu-1953",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "cabiria-smile",
+      "line": "被人骗光之后，还可以对自己笑一次。",
+      "line_en": "After being cheated of everything, you can still smile once — for yourself.",
+      "film_title": "卡比利亚之夜",
+      "film_title_en": "Nights of Cabiria",
+      "year": 1957,
+      "character": "卡比利亚 / Cabiria",
+      "director": "费德里科·费里尼",
+      "tags": [
+        "妓女",
+        "希望",
+        "泪与笑",
+        "费里尼"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括费里尼《卡比利亚之夜》中底层女子屡遭背叛仍走向镜头微笑的人道主义收束，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 883
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/nights-of-cabiria-1957.jpg",
+      "still": "assets/stills/classics/nights-of-cabiria-1957.jpg",
+      "still_alt": "卡比利亚之夜 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nights-of-cabiria-1957.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/19426）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ivVnRPlDAY7KlCQje9TH1aGw6Du.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 19426,
+      "slug": "nights-of-cabiria-1957",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "la-notte-empty",
+      "line": "一整夜的派对，说不清爱是何时冷却的。",
+      "line_en": "A whole night of parties, and no one can say when love went cold.",
+      "film_title": "夜",
+      "film_title_en": "La Notte",
+      "year": 1961,
+      "character": "乔瓦尼／莉迪亚 / Giovanni / Lidia",
+      "director": "米开朗基罗·安东尼奥尼",
+      "tags": [
+        "婚姻",
+        "疏离",
+        "米兰",
+        "安东尼奥尼"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括安东尼奥尼《夜》中中产夫妇一夜游走后确认感情空洞的现代爱情题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 759
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/la-notte-1961.jpg",
+      "still": "assets/stills/classics/la-notte-1961.jpg",
+      "still_alt": "夜 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/la-notte-1961.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/41050）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mCZ5wkTEjPfINzzLU55lgN39KJ8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 41050,
+      "slug": "la-notte-1961",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "algiers-battle",
+      "line": "巷战教给你的，不是胜利，是谁先学会害怕。",
+      "line_en": "Street war teaches you not victory — but who learns to fear first.",
+      "film_title": "阿尔及尔之战",
+      "film_title_en": "The Battle of Algiers",
+      "year": 1966,
+      "character": "阿里／马蒂厄上校等 / Ali / Col. Mathieu et al.",
+      "director": "吉洛·蓬泰科尔沃",
+      "tags": [
+        "殖民",
+        "游击",
+        "阿尔及尔",
+        "蓬泰科尔沃"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括蓬泰科尔沃《阿尔及尔之战》中反殖民巷战双方手段镜像的纪实题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 931
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-battle-of-algiers-1966.jpg",
+      "still": "assets/stills/classics/the-battle-of-algiers-1966.jpg",
+      "still_alt": "阿尔及尔之战 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-battle-of-algiers-1966.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/17295）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uEYLgHivDknXHVOpNjcCfeG8VcM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 17295,
+      "slug": "the-battle-of-algiers-1966",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "army-shadows-silence",
+      "line": "地下活动的第一课：连呼吸都要学会隐瞒。",
+      "line_en": "First lesson of the underground: even breathing must learn to hide.",
+      "film_title": "影子部队",
+      "film_title_en": "Army of Shadows",
+      "year": 1969,
+      "character": "热尔兰等 / Gerbier et al.",
+      "director": "让-皮埃尔·梅尔维尔",
+      "tags": [
+        "抵抗",
+        "沉默",
+        "二战",
+        "梅尔维尔"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括梅尔维尔《影子部队》中法共抵抗组织冷酷纪律与牺牲的灰暗题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 779
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/army-of-shadows-1969.jpg",
+      "still": "assets/stills/classics/army-of-shadows-1969.jpg",
+      "still_alt": "影子部队 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/army-of-shadows-1969.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/15383）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qWXySMKBLbCSpkNq1NUGlrbEoM7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 15383,
+      "slug": "army-of-shadows-1969",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "divorce-italian",
+      "line": "在不许离婚的地方，谋杀成了手续。",
+      "line_en": "Where divorce is forbidden, murder becomes paperwork.",
+      "film_title": "意大利式离婚",
+      "film_title_en": "Divorce Italian Style",
+      "year": 1961,
+      "character": "费迪南多 / Ferdinando",
+      "director": "皮埃特罗·杰尔米",
+      "tags": [
+        "讽刺",
+        "婚姻",
+        "西西里",
+        "杰尔米"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括杰尔米《意大利式离婚》中为另娶而策划杀妻的黑色喜剧法律讽刺，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 552
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/divorce-italian-style-1961.jpg",
+      "still": "assets/stills/classics/divorce-italian-style-1961.jpg",
+      "still_alt": "意大利式离婚 · TMDB 宣传静帧（3150×1770）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/divorce-italian-style-1961.jpg，1120×1600）（影片页 https://www.themoviedb.org/movie/20271）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nUaxF2BGPg0NIsEcToglpErurXu.jpg（3150×1770）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 20271,
+      "slug": "divorce-italian-style-1961",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "amarcord-town",
+      "line": "小镇记得春天、法西斯和每个人的笑话。",
+      "line_en": "The town remembers spring, fascism, and everybody's jokes.",
+      "film_title": "阿玛柯德",
+      "film_title_en": "Amarcord",
+      "year": 1973,
+      "character": "蒂塔／镇民 / Titta / townspeople",
+      "director": "费德里科·费里尼",
+      "tags": [
+        "怀旧",
+        "法西斯",
+        "成长",
+        "费里尼"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括费里尼《阿玛柯德》中里米尼式小镇四季与法西斯日常并置的记忆长卷，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 1245
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/amarcord-1973.jpg",
+      "still": "assets/stills/classics/amarcord-1973.jpg",
+      "still_alt": "阿玛柯德 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/amarcord-1973.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/7857）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/isSZn3vMPbNSke4P662ZzFGTPOU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 7857,
+      "slug": "amarcord-1973",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "hunter-love-hate",
+      "line": "指节上刻着爱与恨——孩子们比大人更早认出哪一只手。",
+      "line_en": "Love and Hate are tattooed on the knuckles — children recognize which hand first.",
+      "film_title": "猎人之夜",
+      "film_title_en": "The Night of the Hunter",
+      "year": 1955,
+      "character": "哈利·鲍威尔 / Harry Powell",
+      "director": "查尔斯·劳顿",
+      "tags": [
+        "童话",
+        "恐怖",
+        "宗教",
+        "劳顿"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：呼应劳顿《猎人之夜》中牧师杀手指节 LOVE/HATE 的著名意象与童话语境，非整句对白逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 1908
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-night-of-the-hunter-1955.jpg",
+      "still": "assets/stills/classics/the-night-of-the-hunter-1955.jpg",
+      "still_alt": "猎人之夜 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-night-of-the-hunter-1955.jpg，2000×2666）（影片页 https://www.themoviedb.org/movie/3112）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sTwVct9k3FJ7Mn1GeIfUJDk7Jyr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 3112,
+      "slug": "the-night-of-the-hunter-1955",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "ace-hole-story",
+      "line": "新闻要的不是救人，是把洞挖得够深。",
+      "line_en": "What the news wants is not a rescue — it is a hole dug deep enough.",
+      "film_title": "冷暖人间",
+      "film_title_en": "Ace in the Hole",
+      "year": 1951,
+      "character": "查克·塔特姆 / Chuck Tatum",
+      "director": "比利·怀尔德",
+      "tags": [
+        "媒体",
+        "炒作",
+        "伦理",
+        "怀尔德"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括怀尔德《冷暖人间》中记者拖延营救以炒作矿难的媒体伦理寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 779
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/ace-in-the-hole-1951.jpg",
+      "still": "assets/stills/classics/ace-in-the-hole-1951.jpg",
+      "still_alt": "冷暖人间 · TMDB 宣传静帧（3648×2052）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ace-in-the-hole-1951.jpg，840×1260）（影片页 https://www.themoviedb.org/movie/25364）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bG8EGUNGvZ6vNcBKlXa8Xkoe3kS.jpg（3648×2052）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 25364,
+      "slug": "ace-in-the-hole-1951",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "face-another-mask",
+      "line": "换一张脸，不等于换得了一个人。",
+      "line_en": "A new face does not give you a new person.",
+      "film_title": "他人之颜",
+      "film_title_en": "The Face of Another",
+      "year": 1966,
+      "character": "冈野／护士 / Okuyama / Nurse",
+      "director": "勅使河原宏",
+      "tags": [
+        "面具",
+        "身份",
+        "疏离",
+        "勅使河原"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括勅使河原宏／安部公房《他人之颜》中面具移植后自我崩解的身份寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 296
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-face-of-another-1966.jpg",
+      "still": "assets/stills/classics/the-face-of-another-1966.jpg",
+      "still_alt": "他人之颜 · TMDB 宣传静帧（3836×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-face-of-another-1966.jpg，1080×1500）（影片页 https://www.themoviedb.org/movie/29452）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jI0TGqXmWlTMcjvcFJ2qW5iTa7m.jpg（3836×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 29452,
+      "slug": "the-face-of-another-1966",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "shoeshine-friendship",
+      "line": "友谊在牢房里比在马背上更难骑稳。",
+      "line_en": "Friendship is harder to keep steady in a cell than on horseback.",
+      "film_title": "擦鞋童",
+      "film_title_en": "Shoeshine",
+      "year": 1946,
+      "character": "帕斯夸莱／朱塞佩 / Pasquale / Giuseppe",
+      "director": "维托里奥·德·西卡",
+      "tags": [
+        "少年",
+        "监狱",
+        "新现实主义",
+        "德·西卡"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括德·西卡《擦鞋童》中战后少年友谊被制度碾碎的新现实主义悲剧，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 281
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/shoeshine-1946.jpg",
+      "still": "assets/stills/classics/shoeshine-1946.jpg",
+      "still_alt": "擦鞋童 · TMDB 宣传静帧（3500×1969）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/shoeshine-1946.jpg，843×1264）（影片页 https://www.themoviedb.org/movie/43469）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mA9iUC4xuDirtG23dK34rurjXnB.jpg（3500×1969）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 43469,
+      "slug": "shoeshine-1946",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "tampopo-ramen",
+      "line": "一碗拉面的完美，比一场决斗更需要勇气。",
+      "line_en": "The perfection of a bowl of ramen takes more courage than a duel.",
+      "film_title": "蒲公英",
+      "film_title_en": "Tampopo",
+      "year": 1985,
+      "character": "戈罗／蒲公英 / Gorō / Tampopo",
+      "director": "伊丹十三",
+      "tags": [
+        "拉面",
+        "美食",
+        "喜剧",
+        "伊丹"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括伊丹十三《蒲公英》中「拉面西部片」式求道与食物崇拜的嬉戏题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 454
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/tampopo-1985.jpg",
+      "still": "assets/stills/classics/tampopo-1985.jpg",
+      "still_alt": "蒲公英 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/tampopo-1985.jpg，1280×1920）（影片页 https://www.themoviedb.org/movie/11830）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/A23O5fbqvH90UBN59BqPeVB4KwD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11830,
+      "slug": "tampopo-1985",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "rififi-silence",
+      "line": "撬开保险柜的那半小时，谁先出声谁就输。",
+      "line_en": "In the half hour that cracks the safe, the first to speak has already lost.",
+      "film_title": "里菲菲",
+      "film_title_en": "Rififi",
+      "year": 1955,
+      "character": "托尼等 / Tony le Stéphanois et al.",
+      "director": "儒勒·达辛",
+      "tags": [
+        "劫案",
+        "沉默",
+        "黑色",
+        "达辛"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括达辛《里菲菲》中著名无对白开保险柜长镜头的冷硬题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 657
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/rififi-1955.jpg",
+      "still": "assets/stills/classics/rififi-1955.jpg",
+      "still_alt": "里菲菲 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rififi-1955.jpg，843×1264）（影片页 https://www.themoviedb.org/movie/934）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/s6uMuw2hvrQauI5BTPyok4OlrFm.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 934,
+      "slug": "rififi-1955",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "kwaidan-hair",
+      "line": "怪谈里最可怕的，不是鬼，是把誓言当成风。",
+      "line_en": "What is most frightening in a ghost story is not the ghost — it is treating a vow like wind.",
+      "film_title": "怪谈",
+      "film_title_en": "Kwaidan",
+      "year": 1964,
+      "character": "各段主人公 / segment protagonists",
+      "director": "小林正树",
+      "tags": [
+        "鬼怪",
+        "誓言",
+        "唯美",
+        "小林"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括小林正树《怪谈》四段式鬼故事中背誓与报应的唯美恐怖题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 475
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/kwaidan-1964.jpg",
+      "still": "assets/stills/classics/kwaidan-1964.jpg",
+      "still_alt": "怪谈 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kwaidan-1964.jpg，1280×1920）（影片页 https://www.themoviedb.org/movie/30959）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w8ySzw0EADuYtwB302UlaUIvnre.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 30959,
+      "slug": "kwaidan-1964",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "leopard-change",
+      "line": "若要一切如故，就必须让一切改变。",
+      "line_en": "If we want things to stay as they are, everything will have to change.",
+      "film_title": "豹",
+      "film_title_en": "The Leopard",
+      "year": 1963,
+      "character": "萨利纳亲王 / Don Fabrizio",
+      "director": "卢奇诺·维斯康蒂",
+      "tags": [
+        "贵族",
+        "革命",
+        "西西里",
+        "维斯康蒂"
+      ],
+      "featured": false,
+      "curator_note": "通行金句意译：维斯康蒂《豹》据兰佩杜萨原著名句「Se vogliamo che tutto rimanga com'è, bisogna che tutto cambi」之中译策展版；非逐场对白核对。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 981
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-leopard-1963.jpg",
+      "still": "assets/stills/classics/the-leopard-1963.jpg",
+      "still_alt": "豹 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-leopard-1963.jpg，1600×2400）（影片页 https://www.themoviedb.org/movie/1040）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tRuX08mBBmbnovd41tR7d4qUnFc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1040,
+      "slug": "the-leopard-1963",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "accattone-rome",
+      "line": "罗马郊外的光，照得见贫穷，照不见出路。",
+      "line_en": "Light on the outskirts of Rome shows poverty — not a way out.",
+      "film_title": "乞丐",
+      "film_title_en": "Accattone",
+      "year": 1961,
+      "character": "阿卡通 / Vittorio Accattone",
+      "director": "皮埃尔·保罗·帕索里尼",
+      "tags": [
+        "底层",
+        "皮条客",
+        "罗马",
+        "帕索里尼"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括帕索里尼首作《乞丐》中罗马郊区流氓无产者自我毁灭的诗意写实，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 528
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/accattone-1961.jpg",
+      "still": "assets/stills/classics/accattone-1961.jpg",
+      "still_alt": "乞丐 · TMDB 宣传静帧（2667×1500）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/accattone-1961.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/12491）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zJlzPJGboWvdbj4DCTyI0TxJ2iM.jpg（2667×1500）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 12491,
+      "slug": "accattone-1961",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "vivre-sa-vie-words",
+      "line": "生活被一句话一句话说完之前，人已经不在场了。",
+      "line_en": "Before life is finished being spoken sentence by sentence, the person has already left the room.",
+      "film_title": "随心所欲",
+      "film_title_en": "Vivre Sa Vie",
+      "year": 1962,
+      "character": "娜娜 / Nana",
+      "director": "让-吕克·戈达尔",
+      "tags": [
+        "卖淫",
+        "自由",
+        "段落",
+        "戈达尔"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括戈达尔《随心所欲》中娜娜十二个段落走向沉沦的存在主义素描，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 721
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/vivre-sa-vie-1962.jpg",
+      "still": "assets/stills/classics/vivre-sa-vie-1962.jpg",
+      "still_alt": "随心所欲 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/vivre-sa-vie-1962.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1626）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/68NGFE8zD2gaQVH6MqJeKzojFJM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1626,
+      "slug": "vivre-sa-vie-1962",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "hiroshima-memory",
+      "line": "你什么也没看见——在广岛。可记忆偏要你看见。",
+      "line_en": "You saw nothing — in Hiroshima. And memory insists that you did.",
+      "film_title": "广岛之恋",
+      "film_title_en": "Hiroshima Mon Amour",
+      "year": 1959,
+      "character": "她／他 / Elle / Lui",
+      "director": "阿伦·雷乃",
+      "tags": [
+        "记忆",
+        "广岛",
+        "爱欲",
+        "雷乃"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：呼应雷乃／杜拉斯《广岛之恋》开场「你在广岛什么也没看见」的经典对位，策展意译而非逐字核对全片。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 957
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/hiroshima-mon-amour-1959.jpg",
+      "still": "assets/stills/classics/hiroshima-mon-amour-1959.jpg",
+      "still_alt": "广岛之恋 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/hiroshima-mon-amour-1959.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/5544）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wM3ITI9a7u4PMqglkZ0bQH0sZdz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 5544,
+      "slug": "hiroshima-mon-amour-1959",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    },
+    {
+      "id": "viridiana-charity",
+      "line": "圣徒把餐桌让给穷人之后，筵席会变成另一场审判。",
+      "line_en": "After the saint yields her table to the poor, the feast becomes another kind of judgment.",
+      "film_title": "维莉蒂安娜",
+      "film_title_en": "Viridiana",
+      "year": 1961,
+      "character": "维莉蒂安娜 / Viridiana",
+      "director": "路易斯·布努埃尔",
+      "tags": [
+        "宗教",
+        "讽刺",
+        "布努埃尔",
+        "慈善"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括布努埃尔《维莉蒂安娜》中修女慈善宴席滑向失序的反教权讽刺，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 568
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/viridiana-1961.jpg",
+      "still": "assets/stills/classics/viridiana-1961.jpg",
+      "still_alt": "维莉蒂安娜 · TMDB 宣传静帧（3024×1701）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/viridiana-1961.jpg，1691×2536）（影片页 https://www.themoviedb.org/movie/4497）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ijfD1DljKFA3GKjumgGfv5OcNjV.jpg（3024×1701）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 4497,
+      "slug": "viridiana-1961",
+      "batch": "batch-yi",
+      "source_wave": "id-repair-wave1"
+    }
+  ]
+}
