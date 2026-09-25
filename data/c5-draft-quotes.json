@@ -17,10 +17,11 @@
       "本批 jia 在排除后仍余 45 部，未从 batch-jia2 top-up",
       "默片条目以片中字幕/题辞为主句，已在 curator_note 标注；其余采用通行译法或意译",
       "评分为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json"
+      "meta.merged=true；已并入 quotes.json published 374（349+25）；merged_at=2026-09-25T12:06:28+08:00"
     ],
-    "merged": false,
-    "published_anchor": "origin/main @ 019c8e1 published=349"
+    "merged": true,
+    "published_anchor": "origin/main @ 019c8e1 published=349",
+    "merged_at": "2026-09-25T12:06:28+08:00"
   },
   "quotes": [
     {
@@ -809,7 +810,7 @@
       "curator_note": "影片中广泛传播的甘地箴言译法。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 257600
         },
         "as_of": "2026-09-25",
