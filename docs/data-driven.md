@@ -4,6 +4,11 @@
 
 ## 扩量步骤
 
+> **Quotes-only（自 C27）**：NEW draft 并入前必须先过  
+> `python3 scripts/check-quotes-only.py data/<batch>-draft-quotes.json`  
+> 仅可核对银幕对白；禁止主题性策展句／非逐字 paraphrases。详见 [`quotes-policy.md`](./quotes-policy.md)。
+
+
 1. **写入 `data/quotes.json`**
    - 追加一条对象，`status` 设为 `"published"`。
    - 必填字段见 README：`id`, `line`, `film_title`, `year`, `tags[]`, `poster`, `still`, `still_alt`, `status`, `ratings`（至少含 `imdb` + `as_of`）。

@@ -60,15 +60,23 @@ silver-lines/
 │   ├── posters/*
 │   └── stills/*
 ├── scripts/
-│   └── sync-quote-pages.mjs # 按 published id 生成/对齐详情壳
+│   ├── sync-quote-pages.mjs # 按 published id 生成/对齐详情壳
+│   └── check-quotes-only.py # NEW draft quotes-only 门禁（merge 前必跑）
 ├── docs/
-│   └── data-driven.md       # 扩量步骤
+│   ├── data-driven.md       # 扩量步骤
+│   └── quotes-policy.md     # 仅可核对对白；禁主题性策展句
 └── README.md
 ```
 
 ## 上架新金句（数据驱动）
 
 扩量步骤 = **写入 `data/quotes.json` + 本地海报/静帧 + 跑同步脚本**。**不用改 `site.js` / CSS**（除非改交互或视觉）。
+
+NEW draft 并入前先跑 quotes-only 门禁（详见 [`docs/quotes-policy.md`](docs/quotes-policy.md)）：
+
+```bash
+python3 scripts/check-quotes-only.py data/<batch>-draft-quotes.json
+```
 
 ```bash
 node scripts/sync-quote-pages.mjs
