@@ -20769,5 +20769,755 @@
     "still_alt": "永恒族 · TMDB 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/eternals-2021.jpg）（影片页 https://www.themoviedb.org/movie/524434）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "nanook-fearless-hunter",
+    "line": "纳努克，无畏的猎人。",
+    "line_en": "Nanook, the fearless hunter.",
+    "film_title": "北方的纳努克",
+    "film_title_en": "Nanook of the North",
+    "year": 1922,
+    "character": "字幕 / Intertitle",
+    "director": "罗伯特·弗拉哈迪",
+    "tags": [
+      "纪录片",
+      "生存",
+      "默片"
+    ],
+    "featured": false,
+    "curator_note": "据弗拉哈迪默片字幕通行译法；开篇对纳努克的标识性介绍，不同发行版措辞略有差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.1,
+        "votes": 335
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/nanook-of-the-north-1922.jpg",
+    "still": "assets/stills/classics/nanook-of-the-north-1922.jpg",
+    "still_alt": "北方的纳努克 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nanook-of-the-north-1922.jpg）（影片页 https://www.themoviedb.org/movie/669）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1Zgfk1raynguQf9Pvcmx9M5dyDN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "drunken-angel-germs",
+    "line": "流氓跟细菌是一样的。",
+    "line_en": "Yakuza are just like germs.",
+    "film_title": "醉天使",
+    "film_title_en": "Drunken Angel",
+    "year": 1948,
+    "character": "卫生所医生 / Doctor Sanada",
+    "director": "黑泽明",
+    "tags": [
+      "战后",
+      "黑道",
+      "疾病"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：志村乔饰医生对三船敏郎饰混混的训诫；把黑道与结核并置，是影片核心隐喻。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 322
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/drunken-angel-1948.jpg",
+    "still": "assets/stills/classics/drunken-angel-1948.jpg",
+    "still_alt": "醉天使 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/drunken-angel-1948.jpg）（影片页 https://www.themoviedb.org/movie/25858）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iyzPSaf6DYnaQj9n9h8m55JfZOz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "tokyo-twilight-lonely",
+    "line": "人一寂寞，就会变坏。",
+    "line_en": "When people get lonely, they go bad.",
+    "film_title": "东京暮色",
+    "film_title_en": "Tokyo Twilight",
+    "year": 1957,
+    "character": "父亲 / The father",
+    "director": "小津安二郎",
+    "tags": [
+      "家庭",
+      "寂寞",
+      "小津"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括小津在《东京暮色》中关于家庭疏离与女儿失足的伦理观察，不冒充唯一逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 160
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/tokyo-twilight-1957.jpg",
+    "still": "assets/stills/classics/tokyo-twilight-1957.jpg",
+    "still_alt": "东京暮色 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/tokyo-twilight-1957.jpg）（影片页 https://www.themoviedb.org/movie/55192）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lr3GODpQbnK2OyxQakefAIx6div.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "human-condition-remain-human",
+    "line": "我绝不能放弃做人。",
+    "line_en": "I will never stop being human.",
+    "film_title": "人间的条件",
+    "film_title_en": "The Human Condition I",
+    "year": 1959,
+    "character": "梶 / Kaji",
+    "director": "小林正树",
+    "tags": [
+      "战争",
+      "人道主义",
+      "日本电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼梶在军队与劳役制度中坚守人道底线的核心立场；不同字幕版本措辞有差异。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 299
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-human-condition-i-1959.jpg",
+    "still": "assets/stills/classics/the-human-condition-i-1959.jpg",
+    "still_alt": "人间的条件 · TMDB 宣传静帧（2047×1151）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-human-condition-i-1959.jpg）（影片页 https://www.themoviedb.org/movie/31217）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/10ObilAqjWNqDKuoU8BN5vpYeW7.jpg（2047×1151）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "woman-stairs-own-bar",
+    "line": "我想有一间自己的店。",
+    "line_en": "I want a place of my own.",
+    "film_title": "女人走上楼梯时",
+    "film_title_en": "A Woman Ascends the Stairs",
+    "year": 1960,
+    "character": "桂子 / Keiko",
+    "director": "成濑巳喜男",
+    "tags": [
+      "女性",
+      "自立",
+      "成濑"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：银座女主人桂子反复说出的自立愿望；影片以此对抗被男性经济关系吞没的命运。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 131
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-woman-ascends-the-stairs-1960.jpg",
+    "still": "assets/stills/classics/a-woman-ascends-the-stairs-1960.jpg",
+    "still_alt": "女人走上楼梯时 · TMDB 宣传静帧（2000×1125）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-woman-ascends-the-stairs-1960.jpg）（影片页 https://www.themoviedb.org/movie/36872）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fmH4wQPqRZVNRKbSE1KP4AZTKwh.jpg（2000×1125）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "mamma-roma-my-son",
+    "line": "我要我的儿子出人头地。",
+    "line_en": "I want my son to become somebody.",
+    "film_title": "罗马妈妈",
+    "film_title_en": "Mamma Roma",
+    "year": 1962,
+    "character": "罗马妈妈 / Mamma Roma",
+    "director": "皮埃尔·保罗·帕索里尼",
+    "tags": [
+      "母亲",
+      "阶级",
+      "意大利电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括安娜·马尼亚尼饰母亲欲令子脱离底层的强烈意志；非声称唯一逐字对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 446
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/mamma-roma-1962.jpg",
+    "still": "assets/stills/classics/mamma-roma-1962.jpg",
+    "still_alt": "罗马妈妈 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mamma-roma-1962.jpg）（影片页 https://www.themoviedb.org/movie/47796）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1fVQih8rDOUavyp5srTWEjY2Ozl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "stage-sisters-life-stage",
+    "line": "唱戏是一辈子的事。",
+    "line_en": "Acting is a lifelong commitment.",
+    "film_title": "舞台姐妹",
+    "film_title_en": "Two Stage Sisters",
+    "year": 1964,
+    "character": "竺春花 / Zhu Chunhua",
+    "director": "谢晋",
+    "tags": [
+      "戏曲",
+      "姐妹",
+      "谢晋"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：将舞台姐妹关于艺术与人生纠缠的伦理压缩为主句，明确不是逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 18
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/two-stage-sisters-1964.jpg",
+    "still": "assets/stills/classics/two-stage-sisters-1964.jpg",
+    "still_alt": "舞台姐妹 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/two-stage-sisters-1964.jpg）（影片页 https://www.themoviedb.org/movie/154633）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3vQ6lTEMQgPiR8NCAcMfSzZ95UC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "sword-of-doom-kill",
+    "line": "杀了人，才能知道自己。",
+    "line_en": "Only by killing do you know yourself.",
+    "film_title": "大菩萨岭",
+    "film_title_en": "The Sword of Doom",
+    "year": 1966,
+    "character": "龙之助 / Ryunosuke Tsukue",
+    "director": "冈本喜八",
+    "tags": [
+      "武士",
+      "虚无",
+      "暴力"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼龙之助虚无杀意的精神逻辑；影片对白版本多，不冒充单一字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 276
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-sword-of-doom-1966.jpg",
+    "still": "assets/stills/classics/the-sword-of-doom-1966.jpg",
+    "still_alt": "大菩萨岭 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-sword-of-doom-1966.jpg）（影片页 https://www.themoviedb.org/movie/19884）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/s0rtkYHEcEQtK9SfrGT5rLrbMwq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "boat-people-want-leave",
+    "line": "我想离开这里。",
+    "line_en": "I want to leave this place.",
+    "film_title": "投奔怒海",
+    "film_title_en": "Boat People",
+    "year": 1982,
+    "character": "阿琴 / Cam Nuong",
+    "director": "许鞍华",
+    "tags": [
+      "难民",
+      "战争",
+      "许鞍华"
+    ],
+    "featured": false,
+    "curator_note": "策展译法：概括影片中越南年轻人求生出境的直接诉求；不同字幕版措辞或有出入。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 60
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/boat-people-1982.jpg",
+    "still": "assets/stills/classics/boat-people-1982.jpg",
+    "still_alt": "投奔怒海 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/boat-people-1982.jpg）（影片页 https://www.themoviedb.org/movie/72445）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8uxcz8W9GZ4dGiL7N6b4PvaZWwh.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "old-beijing-flowers-fell",
+    "line": "爸爸的花儿落了，我也不再是小孩子。",
+    "line_en": "Father's flowers have fallen, and I am no longer a child.",
+    "film_title": "城南旧事",
+    "film_title_en": "My Memories of Old Beijing",
+    "year": 1983,
+    "character": "英子 / Yingzi",
+    "director": "吴贻弓",
+    "tags": [
+      "童年",
+      "成长",
+      "北京"
+    ],
+    "featured": false,
+    "curator_note": "通行名句：林海音原著与影片结尾的经典收束；中文取通行教材/字幕表述。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 29
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/my-memories-of-old-beijing-1983.jpg",
+    "still": "assets/stills/classics/my-memories-of-old-beijing-1983.jpg",
+    "still_alt": "城南旧事 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/my-memories-of-old-beijing-1983.jpg）（影片页 https://www.themoviedb.org/movie/195237）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jwJgZ1aR3656Qe9m3COiPhFrMij.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "vagabond-no-roof",
+    "line": "我不要屋顶，也不要法律。",
+    "line_en": "I want no roof and no law.",
+    "film_title": "旅途中的女人",
+    "film_title_en": "Vagabond",
+    "year": 1985,
+    "character": "莫娜 / Mona Bergeron",
+    "director": "阿涅斯·瓦尔达",
+    "tags": [
+      "流浪",
+      "自由",
+      "瓦尔达"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：将莫娜拒绝被安置、拒绝规训的流浪伦理凝成主句；影片多靠行为而非格言对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 374
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/vagabond-1985.jpg",
+    "still": "assets/stills/classics/vagabond-1985.jpg",
+    "still_alt": "旅途中的女人 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/vagabond-1985.jpg）（影片页 https://www.themoviedb.org/movie/44018）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dsdw2dGnqv59onfnqd9CJw1mLK.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "horse-thief-god-sees",
+    "line": "神看得见。",
+    "line_en": "God sees.",
+    "film_title": "盗马贼",
+    "film_title_en": "The Horse Thief",
+    "year": 1986,
+    "character": "旁白/仪式语境 / Ritual voice",
+    "director": "田壮壮",
+    "tags": [
+      "信仰",
+      "流放",
+      "西藏"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：从盗马贼被宗族放逐与宗教仪式中提炼监督性“看见”；影片对白极少，不冒充逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 6.6,
+        "votes": 56
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-horse-thief-1986.jpg",
+    "still": "assets/stills/classics/the-horse-thief-1986.jpg",
+    "still_alt": "盗马贼 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-horse-thief-1986.jpg）（影片页 https://www.themoviedb.org/movie/42018）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3SrVa2yrtj7SeK794vLDl5CI8CZ.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "autumn-tale-boat-ruler",
+    "line": "在纽约，没有船头尺，你会更难。",
+    "line_en": "In New York, without someone like me, it would be harder for you.",
+    "film_title": "秋天的童话",
+    "film_title_en": "An Autumn's Tale",
+    "year": 1987,
+    "character": "船头尺 / Samuel Pang",
+    "director": "张婉婷",
+    "tags": [
+      "漂泊",
+      "爱情",
+      "香港电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括周润发饰“船头尺”对钟楚红的照看与自嘲式保护；经典对白版本多，不冒充唯一字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 60
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/an-autumn-s-tale-1987.jpg",
+    "still": "assets/stills/classics/an-autumn-s-tale-1987.jpg",
+    "still_alt": "秋天的童话 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/an-autumn-s-tale-1987.jpg）（影片页 https://www.themoviedb.org/movie/64015）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fdLdhu13yNoquf8Ttfjv3FKQazb.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "killer-my-eyes",
+    "line": "我的眼睛，只留给重要的人。",
+    "line_en": "I save my eyes only for those who matter.",
+    "film_title": "喋血双雄",
+    "film_title_en": "The Killer",
+    "year": 1989,
+    "character": "小庄 / Ah Jong",
+    "director": "吴宇森",
+    "tags": [
+      "英雄片",
+      "道义",
+      "吴宇森"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：从杀手护眼、护人的道义逻辑凝成主句；吴宇森对白常有多版粤语/国语字幕差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 941
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-killer-1989.jpg",
+    "still": "assets/stills/classics/the-killer-1989.jpg",
+    "still_alt": "喋血双雄 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-killer-1989.jpg）（影片页 https://www.themoviedb.org/movie/10835）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2Mvx4vWT4dy4vuX2iWiW0x8oME4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "delicatessen-meat-wait",
+    "line": "想吃肉，就得等。",
+    "line_en": "If you want meat, you have to wait.",
+    "film_title": "黑店狂想曲",
+    "film_title_en": "Delicatessen",
+    "year": 1991,
+    "character": "肉铺房东 / The butcher landlord",
+    "director": "让-皮埃尔·热内 / 马克·卡罗",
+    "tags": [
+      "黑色幽默",
+      "末世",
+      "法国电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括末世公寓以肉食稀缺驱动阴谋的荒诞规则；保留黑色喜剧口气，不冒充逐字。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 1695
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/delicatessen-1991.jpg",
+    "still": "assets/stills/classics/delicatessen-1991.jpg",
+    "still_alt": "黑店狂想曲 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/delicatessen-1991.jpg）（影片页 https://www.themoviedb.org/movie/892）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zMVwhccP78PLjYRoKikFiX7OdFc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "cest-la-vie-keep-singing",
+    "line": "我还想再唱一次。",
+    "line_en": "I want to sing one more time.",
+    "film_title": "新不了情",
+    "film_title_en": "C'est la vie, mon chéri",
+    "year": 1993,
+    "character": "敏慧 / Minhui",
+    "director": "尔冬升",
+    "tags": [
+      "爱情",
+      "疾病",
+      "粤语歌"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼袁咏仪饰歌手在病中仍要唱歌的生命意志；与主题曲《新不了情》互文，非声称唯一对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 23
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/c-est-la-vie-mon-cheri-1993.jpg",
+    "still": "assets/stills/classics/c-est-la-vie-mon-cheri-1993.jpg",
+    "still_alt": "新不了情 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/c-est-la-vie-mon-cheri-1993.jpg）（影片页 https://www.themoviedb.org/movie/107682）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dHczrkFkXSJHANHeI5ZVep89ob.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "festen-i-have-a-speech",
+    "line": "我有话要说。",
+    "line_en": "I have something to say.",
+    "film_title": "庆典",
+    "film_title_en": "The Celebration",
+    "year": 1998,
+    "character": "克里斯蒂安 / Christian",
+    "director": "托马斯·文特伯格",
+    "tags": [
+      "家庭",
+      "真相",
+      "教条95"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：家宴上克里斯蒂安揭开真相前的开场句；不同字幕版本或作“我有一篇演讲”。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 1321
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-celebration-1998.jpg",
+    "still": "assets/stills/classics/the-celebration-1998.jpg",
+    "still_alt": "庆典 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-celebration-1998.jpg）（影片页 https://www.themoviedb.org/movie/309）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7rkgM8yZ49LwYTcka5ETGRJAQ9M.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "platform-times-changed",
+    "line": "时代已经不一样了。",
+    "line_en": "The times are already different.",
+    "film_title": "站台",
+    "film_title_en": "Platform",
+    "year": 2001,
+    "character": "崔明亮一辈文工团员 / Performance troupe",
+    "director": "贾樟柯",
+    "tags": [
+      "改革年代",
+      "青年",
+      "贾樟柯"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括文工团少年见证流行文化与体制转向的时代感受；影片金句分散，不冒充单一场景逐字。",
+    "ratings": {
+      "imdb": {
+        "score": 7.1,
+        "votes": 102
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/platform-2001.jpg",
+    "still": "assets/stills/classics/platform-2001.jpg",
+    "still_alt": "站台 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/platform-2001.jpg）（影片页 https://www.themoviedb.org/movie/80427）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/IB5MmLHq7aJUK0IGhCmw9UNTUT.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "dogville-open-eyes",
+    "line": "有些人，不配被宽恕。",
+    "line_en": "Some people do not deserve to be forgiven.",
+    "film_title": "狗镇",
+    "film_title_en": "Dogville",
+    "year": 2003,
+    "character": "格蕾丝 / Grace",
+    "director": "拉斯·冯·提尔",
+    "tags": [
+      "道德",
+      "权力",
+      "冯·提尔"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼格蕾丝最终审判镇民时的伦理翻转；旁白与对白版本复杂，明确为主题压缩而非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 2780
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/dogville-2003.jpg",
+    "still": "assets/stills/classics/dogville-2003.jpg",
+    "still_alt": "狗镇 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dogville-2003.jpg）（影片页 https://www.themoviedb.org/movie/553）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aUAsmVUQLKkUxpUNfBDvj228cgJ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "return-do-as-i-say",
+    "line": "照我说的做。",
+    "line_en": "Do as I say.",
+    "film_title": "回归",
+    "film_title_en": "The Return",
+    "year": 2003,
+    "character": "父亲 / The father",
+    "director": "安德烈·兹维亚金采夫",
+    "tags": [
+      "父亲",
+      "权威",
+      "俄罗斯电影"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：突然归来的父亲对两个儿子反复发出的命令式短句；影片以沉默与命令推动张力。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 727
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-return-2003.jpg",
+    "still": "assets/stills/classics/the-return-2003.jpg",
+    "still_alt": "回归 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-return-2003.jpg）（影片页 https://www.themoviedb.org/movie/11190）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/s1tjAz93Eyxh05ixQGe5MmPzPSc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "still-life-looking-for",
+    "line": "我找人。",
+    "line_en": "I'm looking for someone.",
+    "film_title": "三峡好人",
+    "film_title_en": "Still Life",
+    "year": 2006,
+    "character": "韩三明 / Han Sanming",
+    "director": "贾樟柯",
+    "tags": [
+      "三峡",
+      "寻找",
+      "贾樟柯"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：韩三明在奉节拆迁现场反复说明来意的极简对白；保留贾樟柯式口语克制。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 175
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/still-life-2006.jpg",
+    "still": "assets/stills/classics/still-life-2006.jpg",
+    "still_alt": "三峡好人 · TMDB 宣传静帧（2560×1440）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/still-life-2006.jpg）（影片页 https://www.themoviedb.org/movie/2346）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/grdkVJMCW1DWXXqLZERxg7UdcN.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "secret-sunshine-how-forgive",
+    "line": "你怎么能先原谅他？",
+    "line_en": "How can you forgive him first?",
+    "film_title": "密阳",
+    "film_title_en": "Secret Sunshine",
+    "year": 2007,
+    "character": "申爱 / Shin-ae",
+    "director": "李沧东",
+    "tags": [
+      "信仰",
+      "创伤",
+      "李沧东"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括申爱面对凶手已“被神赦免”时的崩溃质问；是影片信仰伦理的核心转折，字幕版措辞略有差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 246
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/secret-sunshine-2007.jpg",
+    "still": "assets/stills/classics/secret-sunshine-2007.jpg",
+    "still_alt": "密阳 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/secret-sunshine-2007.jpg）（影片页 https://www.themoviedb.org/movie/2015）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mR3hvqEJHfFhze7STjBRRi6cywA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "nanjing-still-human",
+    "line": "我们还是人。",
+    "line_en": "We are still human.",
+    "film_title": "南京！南京！",
+    "film_title_en": "City of Life and Death",
+    "year": 2009,
+    "character": "士兵/幸存者群像 / Soldiers and survivors",
+    "director": "陆川",
+    "tags": [
+      "南京",
+      "战争",
+      "人性"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：将影片在暴行中反复回到“是否仍为人”的命题压缩为主句；不指认单一说话者或伪造字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 248
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/city-of-life-and-death-2009.jpg",
+    "still": "assets/stills/classics/city-of-life-and-death-2009.jpg",
+    "still_alt": "南京！南京！ · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/city-of-life-and-death-2009.jpg）（影片页 https://www.themoviedb.org/movie/21345）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vS6QyKJkdgq9YPJq0y7yygUXfNu.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "burning-great-hunger",
+    "line": "有一种饥饿，再怎么吃也填不满。",
+    "line_en": "There is a hunger that no amount of eating can fill.",
+    "film_title": "燃烧",
+    "film_title_en": "Burning",
+    "year": 2018,
+    "character": "本 / Ben",
+    "director": "李沧东",
+    "tags": [
+      "阶级",
+      "隐喻",
+      "李沧东"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：本关于“极大的饥饿”的著名对白；中文按常见字幕译法，略有版本差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 1901
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/burning-2018.jpg",
+    "still": "assets/stills/classics/burning-2018.jpg",
+    "still_alt": "燃烧 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/burning-2018.jpg）（影片页 https://www.themoviedb.org/movie/491584）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qQEt2FqF8McryFBNX30dyDJKiEK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "roma-women-alone",
+    "line": "我们女人总是独自一人。",
+    "line_en": "We women are always alone.",
+    "film_title": "罗马",
+    "film_title_en": "Roma",
+    "year": 2018,
+    "character": "索菲亚 / Sofía",
+    "director": "阿方索·卡隆",
+    "tags": [
+      "女性",
+      "家务",
+      "墨西哥电影"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：雇主索菲亚对克莱奥说的话；影片关于女性劳动与被遗弃的核心句，不同字幕略有差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 4192
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/roma-2018.jpg",
+    "still": "assets/stills/classics/roma-2018.jpg",
+    "still_alt": "罗马 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/roma-2018.jpg）（影片页 https://www.themoviedb.org/movie/426426）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]

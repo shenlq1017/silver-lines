@@ -18,10 +18,11 @@
       "crows-and-sparrows-1949 因 TMDB backdrop 宽边<1920 被替换为 nanook-of-the-north-1922",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json",
+      "meta.merged=true；已并入 quotes.json published 616（591+25）；merged_at=2026-09-25T12:53:10+08:00",
       "celebration/burning/woman-stairs/drunken-angel/sword-of-doom 的 film_title 相对 batch.title_zh 做了通行名修正（batch 误标或冷僻译名）"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T12:53:10+08:00"
   },
   "quotes": [
     {
@@ -170,7 +171,7 @@
       "curator_note": "通行译法：银座女主人桂子反复说出的自立愿望；影片以此对抗被男性经济关系吞没的命运。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 131
         },
         "as_of": "2026-09-25",
