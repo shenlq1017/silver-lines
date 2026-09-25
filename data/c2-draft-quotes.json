@@ -17,10 +17,11 @@
       "避开 batch-jia 错配：la-battaglia-di-algeri / cool-hand-luke / c-and-apos-era-una-volta-il-west / idi-i-smotri / t-ky-monogatari",
       "异形/大白鲨：film_title 用简体（batch 原繁体已统一），见 curator_note",
       "评分 imdb/rt/mc/douban 为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json（交父代理）"
+      "meta.merged=true；已并入 quotes.json published 299（274+25）；merged_at=2026-09-25T11:50:35+08:00"
     ],
-    "merged": false,
-    "published_anchor": "origin/main @ b2639ca published=274"
+    "merged": true,
+    "published_anchor": "origin/main @ b2639ca published=274",
+    "merged_at": "2026-09-25T11:50:35+08:00"
   },
   "quotes": [
     {
