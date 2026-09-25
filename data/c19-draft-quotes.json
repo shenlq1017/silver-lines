@@ -1,0 +1,695 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T13:15:18+08:00",
+    "purpose": "C19 classics×21 草稿：batch-bing（丙线）在 C18 之后质量优先再取；可用静帧预检仅 21 部（宽边≥1920），不足 25 则全收；status=draft，未并入 quotes.json",
+    "batch": "batch-bing",
+    "selection_source": "tmp/content-fill-plan/candidates-bing-c19-21.json",
+    "stills_source": "tmp/stills-bing-c19/index-fragment.json",
+    "count": 21,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "海报：assets/posters/classics/{slug}.jpg；入选前校验 width≥780，不足则换 TMDB original（prefer zh）；本批最小海报宽 800",
+      "静帧：assets/stills/classics/{slug}.jpg（C19 TMDB original backdrop，宽边≥1920）",
+      "quotes.json 未修改；未 push；未用 CloudAgent",
+      "跳过 the-story-of-women-1995（batch 标红粉但 TMDB id 指向韩国片）",
+      "预检宽边<1920 的 matched 剩余不入选（鸡毛信/祝福/林则徐/人到中年/野山/云水谣/一江春水/青春祭/十字街头/天国逆子/甜蜜蜜/宋家皇朝/桂花巷/爱你爱我/谁先爱上他的/宗方姐妹/晚菊/南部军/橄榄树下的正义/毛拉/乌鸦与麻雀/被爱情遗忘的角落/孩子王 等）"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "jiawu-ram-yoshino",
+      "line": "开足马力，撞沉吉野！",
+      "line_en": "Full speed ahead — ram and sink the Yoshino!",
+      "film_title": "甲午风云",
+      "film_title_en": "The Naval Battle of 1894",
+      "year": 1962,
+      "character": "邓世昌 / Deng Shichang",
+      "director": "林农",
+      "tags": [
+        "北洋水师",
+        "甲午",
+        "爱国"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验：林农《甲午风云》中李默然饰邓世昌冲向日舰「吉野」时的号令，为国产战争片史常见引用句。",
+      "ratings": {
+        "imdb": {
+          "score": 6.3,
+          "votes": 7
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-sino-japanese-war-at-sea-1894-1962.jpg",
+      "still": "assets/stills/classics/the-sino-japanese-war-at-sea-1894-1962.jpg",
+      "still_alt": "甲午风云 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-sino-japanese-war-at-sea-1894-1962.jpg，1080×1620）（影片页 https://www.themoviedb.org/movie/318629）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yNTBTnhS6oMnVaOcXMl0lqiFAd5.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 318629,
+      "slug": "the-sino-japanese-war-at-sea-1894-1962"
+    },
+    {
+      "id": "casanova-empty-seduction",
+      "line": "我征服的不是女人，是她们愿意被征服的幻想。",
+      "line_en": "I do not conquer women — I conquer the fantasy that they wish to be conquered.",
+      "film_title": "卡萨诺瓦",
+      "film_title_en": "Fellini's Casanova",
+      "year": 1976,
+      "character": "卡萨诺瓦 / Casanova",
+      "director": "费德里科·费里尼",
+      "tags": [
+        "情欲",
+        "表演",
+        "空洞"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括费里尼《卡萨诺瓦》中情圣自我作为空洞表演的题眼；影片对白版本与译本多，明确不冒充唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 253
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/fellinis-casanova-1976.jpg",
+      "still": "assets/stills/classics/fellinis-casanova-1976.jpg",
+      "still_alt": "卡萨诺瓦 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/fellinis-casanova-1976.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/42236）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/q94QTkm6UgLT2mL52u1TICCefUH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 42236,
+      "slug": "fellinis-casanova-1976"
+    },
+    {
+      "id": "roundup-power-geometry",
+      "line": "牢房的墙，比鞭子更会说话。",
+      "line_en": "The walls of the prison speak louder than the whip.",
+      "film_title": "无望的人们",
+      "film_title_en": "The Round-Up",
+      "year": 1966,
+      "character": "题眼 / Power geometry",
+      "director": "米克洛什·扬奇",
+      "tags": [
+        "权力",
+        "长镜头",
+        "匈牙利新浪潮"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借扬奇《无望的人们》监狱/旷野的权力几何学概括其少对白、重调度的作者标志；明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 77
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-round-up-1966.jpg",
+      "still": "assets/stills/classics/the-round-up-1966.jpg",
+      "still_alt": "无望的人们 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-round-up-1966.jpg，1600×2400）（影片页 https://www.themoviedb.org/movie/94663）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/a40zUMHVk222aQzHw5UgLXpP0xP.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 94663,
+      "slug": "the-round-up-1966"
+    },
+    {
+      "id": "bound-own-choices-prices",
+      "line": "我们自己做选择，也自己付代价。",
+      "line_en": "We make our own choices. We pay our own prices.",
+      "film_title": "惊世狂花",
+      "film_title_en": "Bound",
+      "year": 1996,
+      "character": "Corky",
+      "director": "莉莉·沃卓斯基 / 拉娜·沃卓斯基",
+      "tags": [
+        "酷儿",
+        "犯罪",
+        "选择"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验对白：沃卓斯基《束缚》中 Corky 的伦理句，剧本/字幕多处收录。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 1151
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/bound-1996.jpg",
+      "still": "assets/stills/classics/bound-1996.jpg",
+      "still_alt": "惊世狂花 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/bound-1996.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/9303）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zYYhb0hLIVLy3Lx7FeBahWDBO1k.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 9303,
+      "slug": "bound-1996"
+    },
+    {
+      "id": "yellow-sea-no-way-back",
+      "line": "海的那边没有活路，海的这边也没有。",
+      "line_en": "There is no way to live on that side of the sea — and none on this side either.",
+      "film_title": "黄海",
+      "film_title_en": "The Yellow Sea",
+      "year": 2010,
+      "character": "题眼 / Border despair",
+      "director": "罗泓轸",
+      "tags": [
+        "跨境",
+        "绝望",
+        "犯罪"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括罗泓轸《黄海》延边—青岛跨境求生的无退路题眼；影片对白克制，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 614
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-yellow-sea-2010.jpg",
+      "still": "assets/stills/classics/the-yellow-sea-2010.jpg",
+      "still_alt": "黄海 · TMDB 宣传静帧（2999×1687）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-yellow-sea-2010.jpg，1300×1950）（影片页 https://www.themoviedb.org/movie/57361）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yHdyvVRaKSaCI9HCR9fxwF3DpEE.jpg（2999×1687）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 57361,
+      "slug": "the-yellow-sea-2010"
+    },
+    {
+      "id": "frontline-before-armistice",
+      "line": "停战前的最后一颗子弹，往往最没有意义。",
+      "line_en": "The last bullet before an armistice is often the most meaningless.",
+      "film_title": "高地战",
+      "film_title_en": "The Front Line",
+      "year": 2011,
+      "character": "高地战伦理 / Front-line ethos",
+      "director": "张勋",
+      "tags": [
+        "朝鲜战争",
+        "停战",
+        "兄弟"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括张勋《高地战》停战钟声前争夺高地的战争虚无；不冒充某一句唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 208
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-front-line-2011.jpg",
+      "still": "assets/stills/classics/the-front-line-2011.jpg",
+      "still_alt": "高地战 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-front-line-2011.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/79553）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/PlGJOdf8ZSh5F6odLCvL1tqhex.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 79553,
+      "slug": "the-front-line-2011"
+    },
+    {
+      "id": "my20th-twin-century",
+      "line": "一个世纪有两副面孔，像一对孪生的女儿。",
+      "line_en": "A century has two faces — like a pair of twin daughters.",
+      "film_title": "我的二十世纪",
+      "film_title_en": "My Twentieth Century",
+      "year": 1989,
+      "character": "题眼 / Twin allegory",
+      "director": "恩耶迪·伊尔迪科",
+      "tags": [
+        "寓言",
+        "双生",
+        "二十世纪"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借恩耶迪《我的二十世纪》双生女与世纪寓言的题眼；诗电影对白稀薄，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 6.5,
+          "votes": 51
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/my-20th-century-1989.jpg",
+      "still": "assets/stills/classics/my-20th-century-1989.jpg",
+      "still_alt": "我的二十世纪 · TMDB 宣传静帧（2024×1139）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/my-20th-century-1989.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/49978）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/NV1IxvmfqxrVsHrDcapgULDdeX.jpg（2024×1139）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 49978,
+      "slug": "my-20th-century-1989"
+    },
+    {
+      "id": "thief-false-father",
+      "line": "他教我叫他爸爸，却先偷走了我的童年。",
+      "line_en": "He taught me to call him father — then stole my childhood first.",
+      "film_title": "小偷",
+      "film_title_en": "The Thief",
+      "year": 1997,
+      "character": "题眼 / False father",
+      "director": "帕维尔·丘赫莱",
+      "tags": [
+        "孤儿",
+        "战后",
+        "父亲"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括丘赫莱《小偷》中冒充父亲的男人与战后孤儿的情感劫掠；明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 105
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-thief-1997.jpg",
+      "still": "assets/stills/classics/the-thief-1997.jpg",
+      "still_alt": "小偷 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-thief-1997.jpg，800×1200）（影片页 https://www.themoviedb.org/movie/46187）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aKd2sEEgAWYZPvnn3NpGRGF2NJE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 46187,
+      "slug": "the-thief-1997"
+    },
+    {
+      "id": "woman-who-ran-walk",
+      "line": "逃走，有时只是去见一个想见面的人。",
+      "line_en": "To run away is sometimes only to go see someone you want to see.",
+      "film_title": "逃走的女人",
+      "film_title_en": "The Woman Who Ran",
+      "year": 2020,
+      "character": "佳英 / Gam-hee",
+      "director": "洪常秀",
+      "tags": [
+        "漫步",
+        "女性",
+        "日常"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括洪常秀《逃走的女人》以拜访与闲聊构成的“逃走”；柏林银熊作者标志，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 112
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-woman-who-ran-2020.jpg",
+      "still": "assets/stills/classics/the-woman-who-ran-2020.jpg",
+      "still_alt": "逃走的女人 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-woman-who-ran-2020.jpg，1200×1800）（影片页 https://www.themoviedb.org/movie/662401）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/m81w0r1wM0ZtiQYf2O3SJDMKmdV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 662401,
+      "slug": "the-woman-who-ran-2020"
+    },
+    {
+      "id": "pigeon-branch-existence",
+      "line": "鸽子停在枝上，思考有没有必要存在。",
+      "line_en": "A pigeon sat on a branch, reflecting on whether existence is necessary.",
+      "film_title": "寒枝雀静",
+      "film_title_en": "A Pigeon Sat on a Branch Reflecting on Existence",
+      "year": 2014,
+      "character": "题眼 / Title tableau",
+      "director": "罗伊·安德森",
+      "tags": [
+        "存在",
+        "静帧",
+        "人间喜剧"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借安德森威尼斯金狮片名点题；片中人物常以静帧式对白呈现，明确不冒充唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 508
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/a-pigeon-sat-on-a-branch-reflecting-on-existence-2014.jpg",
+      "still": "assets/stills/classics/a-pigeon-sat-on-a-branch-reflecting-on-existence-2014.jpg",
+      "still_alt": "寒枝雀静 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-pigeon-sat-on-a-branch-reflecting-on-existence-2014.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/110390）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/o7IHtxgurVCuAuT3UWqrgimVJRD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 110390,
+      "slug": "a-pigeon-sat-on-a-branch-reflecting-on-existence-2014"
+    },
+    {
+      "id": "furnaces-hour-colonized",
+      "line": "熔炉的时刻到了：要么解放，要么灭亡。",
+      "line_en": "The hour of the furnaces has come: liberation or death.",
+      "film_title": "燃火的时刻",
+      "film_title_en": "The Hour of the Furnaces",
+      "year": 1968,
+      "character": "旁白 / Narration ethos",
+      "director": "费尔南多·索拉纳斯 / 奥克塔维奥·赫蒂诺",
+      "tags": [
+        "第三电影",
+        "解放",
+        "纪录片"
+      ],
+      "featured": false,
+      "curator_note": "通行题眼：索拉纳斯/赫蒂诺《燃火的时刻》取自切·格瓦拉名句传统的解放动员语感；影片为宣言式纪录片，取题旨而非某一字幕逐字唯一版。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 32
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-hour-of-the-furnaces-1968.jpg",
+      "still": "assets/stills/classics/the-hour-of-the-furnaces-1968.jpg",
+      "still_alt": "燃火的时刻 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hour-of-the-furnaces-1968.jpg，960×1303）（影片页 https://www.themoviedb.org/movie/89681）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e76PS1NvbAh3zhZpH5soKyoqpwb.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 89681,
+      "slug": "the-hour-of-the-furnaces-1968"
+    },
+    {
+      "id": "elite-squad2-system",
+      "line": "敌人不在山上，在系统里面。",
+      "line_en": "The enemy is not up on the hill — it is inside the system.",
+      "film_title": "精英部队2：大敌当前",
+      "film_title_en": "Elite Squad: The Enemy Within",
+      "year": 2010,
+      "character": "题眼 / System corruption",
+      "director": "何塞·帕迪里亚",
+      "tags": [
+        "里约",
+        "系统",
+        "治安"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括帕迪里亚《精英部队2》从毒枭战场转向议会/警察系统腐败；大众金句场版本多，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 2111
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/elite-squad-the-enemy-within-2010.jpg",
+      "still": "assets/stills/classics/elite-squad-the-enemy-within-2010.jpg",
+      "still_alt": "精英部队2：大敌当前 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/elite-squad-the-enemy-within-2010.jpg，1132×1600）（影片页 https://www.themoviedb.org/movie/47931）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tmowA51oykuOdiyqRCP0jGYU1mB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 47931,
+      "slug": "elite-squad-the-enemy-within-2010"
+    },
+    {
+      "id": "second-mother-house-rules",
+      "line": "在别人家里，爱也要先学会规矩。",
+      "line_en": "In someone else’s house, even love must first learn the rules.",
+      "film_title": "第二个妈妈",
+      "film_title_en": "The Second Mother",
+      "year": 2015,
+      "character": "瓦伦 / Val",
+      "director": "安娜·穆亚拉特",
+      "tags": [
+        "阶级",
+        "家政",
+        "母女"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括穆亚拉特《第二个妈妈》家政工人与雇主家庭的亲密与界限；明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 797
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-second-mother-2015.jpg",
+      "still": "assets/stills/classics/the-second-mother-2015.jpg",
+      "still_alt": "第二个妈妈 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-second-mother-2015.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/310569）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9h5BsxRmxLAvASADo2VcTlTUdb0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 310569,
+      "slug": "the-second-mother-2015"
+    },
+    {
+      "id": "pakeezah-pure-name",
+      "line": "他们叫我纯洁，却不许我走进纯洁的门槛。",
+      "line_en": "They name me pure — yet forbid me to cross the threshold of purity.",
+      "film_title": "墓地里的玫瑰",
+      "film_title_en": "Pakeezah",
+      "year": 1972,
+      "character": "萨希卜简 / Sahibjaan",
+      "director": "卡迈勒·阿姆罗希",
+      "tags": [
+        " courtesan",
+        "纯洁",
+        "歌舞"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借《Pakeezah》（意为“纯洁的”）题眼概括舞女被命名为纯洁却拒于婚姻门槛之外的悲剧；歌舞对白/歌词版本多，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 6.5,
+          "votes": 29
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/pakeezah-1972.jpg",
+      "still": "assets/stills/classics/pakeezah-1972.jpg",
+      "still_alt": "墓地里的玫瑰 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pakeezah-1972.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/54966）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tIl0lDcOTWs34PDY7bfu33VdGmB.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 54966,
+      "slug": "pakeezah-1972"
+    },
+    {
+      "id": "elementary-school-father-teacher",
+      "line": "战后的小学，教的不只是书，还有怎样把人当人。",
+      "line_en": "In a postwar elementary school, they teach not only books — but how to treat a person as a person.",
+      "film_title": "青青校树",
+      "film_title_en": "The Elementary School",
+      "year": 1991,
+      "character": "题眼 / Postwar school",
+      "director": "扬·斯维拉克",
+      "tags": [
+        "战后",
+        "小学",
+        "温情"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括斯维拉克《青青校树》战后小学里父亲般的教师与孩子；明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 67
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-elementary-school-1991.jpg",
+      "still": "assets/stills/classics/the-elementary-school-1991.jpg",
+      "still_alt": "青青校树 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-elementary-school-1991.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/18141）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dU2gpTdeKQr8uMOUH2W4lRFxCrj.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 18141,
+      "slug": "the-elementary-school-1991"
+    },
+    {
+      "id": "gangster-cop-devil-deal",
+      "line": "要抓魔鬼，有时得先跟恶棍握手。",
+      "line_en": "To catch a devil, sometimes you shake hands with a gangster first.",
+      "film_title": "恶人传",
+      "film_title_en": "The Gangster, the Cop, the Devil",
+      "year": 2019,
+      "character": "题眼 / Uneasy alliance",
+      "director": "李元泰",
+      "tags": [
+        "犯罪",
+        "同盟",
+        "类型片"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括李元泰《恶人传》连环杀手、警察与黑帮的三角同盟；类型片对白版本多，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 1580
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-gangster-the-cop-the-devil-2019.jpg",
+      "still": "assets/stills/classics/the-gangster-the-cop-the-devil-2019.jpg",
+      "still_alt": "恶人传 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-gangster-the-cop-the-devil-2019.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/581528）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jtvOhbWcYRWkV60CLNePTjDfCjz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 581528,
+      "slug": "the-gangster-the-cop-the-devil-2019"
+    },
+    {
+      "id": "flight-white-army-run",
+      "line": "溃败的人在跑，跑的不是路，是故乡。",
+      "line_en": "The defeated keep running — not along a road, but away from home.",
+      "film_title": "溃逃",
+      "film_title_en": "The Flight",
+      "year": 1971,
+      "character": "题眼 / Бег",
+      "director": "亚历山大·阿洛夫 / 弗拉基米尔·瑙莫夫",
+      "tags": [
+        "白军",
+        "流亡",
+        "布尔加科夫"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括阿洛夫/瑙莫夫改编布尔加科夫《溃逃》中白军溃退与流亡；明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 5.9,
+          "votes": 25
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-flight-1970.jpg",
+      "still": "assets/stills/classics/the-flight-1970.jpg",
+      "still_alt": "溃逃 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-flight-1970.jpg，1128×1586）（影片页 https://www.themoviedb.org/movie/95431）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6xjIxq8nwdiRDKcBQZiumZXNmPX.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 95431,
+      "slug": "the-flight-1970"
+    },
+    {
+      "id": "tricky-master-fraud-world",
+      "line": "千王之王，骗的不是局，是人心里愿意信的那一下。",
+      "line_en": "The king of swindlers does not cheat the game — he cheats the moment you want to believe.",
+      "film_title": "千王之王2000",
+      "film_title_en": "The Tricky Master",
+      "year": 1999,
+      "character": "题眼 / Con ethos",
+      "director": "王晶",
+      "tags": [
+        "骗术",
+        "周星驰",
+        "贺岁"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括王晶《千王之王2000》千术世界的“愿者上钩”；桥段口语句版本杂多，明确不冒充唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 5.9,
+          "votes": 53
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-tricky-master-1999.jpg",
+      "still": "assets/stills/classics/the-tricky-master-1999.jpg",
+      "still_alt": "千王之王2000 · TMDB 宣传静帧（3835×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-tricky-master-1999.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/53281）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u5sLDHV4w41EthmI9sXUEJ6qHuE.jpg（3835×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 53281,
+      "slug": "the-tricky-master-1999"
+    },
+    {
+      "id": "samurai-cooking-board",
+      "line": "刀可以放下，砧板前的人仍要立身。",
+      "line_en": "You may lay down the sword — but at the cutting board, a person must still stand upright.",
+      "film_title": "武士的食谱",
+      "film_title_en": "A Tale of Samurai Cooking",
+      "year": 2013,
+      "character": "题眼 / Cuisine ethic",
+      "director": "朝原雄三",
+      "tags": [
+        "武士",
+        "料理",
+        "日常"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括朝原雄三《武士的食谱》弃刀从厨的立身伦理；明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 22
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/a-tale-of-samurai-cooking-2013.jpg",
+      "still": "assets/stills/classics/a-tale-of-samurai-cooking-2013.jpg",
+      "still_alt": "武士的食谱 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-tale-of-samurai-cooking-2013.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/208986）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/l37eLB7GlBKTrznuhg0WFjYhteT.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 208986,
+      "slug": "a-tale-of-samurai-cooking-2013"
+    },
+    {
+      "id": "three-brothers-family-farce",
+      "line": "兄弟可以一起闯祸，却很难一起长大。",
+      "line_en": "Brothers can get into trouble together — growing up together is harder.",
+      "film_title": "横冲直撞三兄弟",
+      "film_title_en": "The Three Brothers",
+      "year": 1995,
+      "character": "题眼 / Fraternal farce",
+      "director": "贝尔纳·康潘 / 迪迪埃·布尔东",
+      "tags": [
+        "兄弟",
+        "家庭",
+        "喜剧"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括法国国民喜剧《横冲直撞三兄弟》的手足闹剧与亲情；明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 828
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-three-brothers-1995.jpg",
+      "still": "assets/stills/classics/the-three-brothers-1995.jpg",
+      "still_alt": "横冲直撞三兄弟 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-three-brothers-1995.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/37653）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cW32yqxUEEOsCVhAn9AXg6NgKqJ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 37653,
+      "slug": "the-three-brothers-1995"
+    },
+    {
+      "id": "blue-choker-visible-wound",
+      "line": "脖子上的蓝色勒痕，是他们不肯看见的证据。",
+      "line_en": "The blue mark on the neck is the evidence they refuse to see.",
+      "film_title": "蓝色项圈",
+      "film_title_en": "The Blue Choker",
+      "year": 2018,
+      "character": "题眼 / Visible wound",
+      "director": "张训玮",
+      "tags": [
+        "校园",
+        "暴力",
+        "可见"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借《蓝色项圈》题眼概括校园凌虐留下的可见伤痕与旁观；明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 4.9,
+          "votes": 5
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-blue-choker-2018.jpg",
+      "still": "assets/stills/classics/the-blue-choker-2018.jpg",
+      "still_alt": "蓝色项圈 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-blue-choker-2018.jpg，1200×1794）（影片页 https://www.themoviedb.org/movie/537610）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dJO0irpG8EjPKrs7ahVqdzvtWiB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 537610,
+      "slug": "the-blue-choker-2018"
+    }
+  ]
+}
