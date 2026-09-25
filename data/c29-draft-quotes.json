@@ -1,13 +1,13 @@
 {
   "meta": {
     "created_at": "2026-09-25T14:41:53+08:00",
-    "purpose": "C29 classics×25 草稿：batch-ding quotes-only 可核对对白；merged=false，未并入 quotes.json",
+    "purpose": "C29 classics×25 草稿：batch-ding quotes-only 可核对对白；status=merged，已并入 quotes.json",
     "batch": "batch-ding",
     "batch_note": "丁线 seed slots 1001–1150；dialogue-bias curatable-preflight×140 → 质量优先取样≥30 → 静帧全过 → 核证后保留25",
     "selection_source": "tmp/c29-draft/candidates.json + data/classics-ext/batch-ding.json",
     "stills_source": "tmp/stills-c29/index-fragment.json",
     "count": 25,
-    "merged": false,
+    "merged": true,
     "featured_ids": [],
     "blocked": [],
     "still_pending": [],
@@ -20,8 +20,7 @@
       "候选40 → 静帧全过（ok40+actual0）→ 核证保留25；不可核证 dropped×13；可核但名额让位×2（almost-famous／field-of-dreams）。",
       "质量优先：在可核证片名中按 TMDB vote_average 再 vote_count 排序取至多25。",
       "静帧／海报资产：保留片的资产已入库；未入选片的海报／静帧留作 orphan（不删除）。",
-      "C28 is LIVE Top926 — HOLD merge（本草稿不并入 quotes.json）。",
-      "meta.merged=false；NO push；未改 quotes.json。"
+      "meta.merged=true；已并入 quotes.json published 951（926+25）；ranks 927–951；merged_at=2026-09-25T14:44:23+0800；quotes-only×25（batch-ding×25）；dropped×13 未并入"
     ],
     "updated_at": "2026-09-25T14:42:13+08:00",
     "dropped_unverifiable": [
@@ -42,7 +41,8 @@
     "verified_alternates_not_kept": [
       "almost-famous-2000",
       "field-of-dreams-1989"
-    ]
+    ],
+    "merged_at": "2026-09-25T14:44:23+0800"
   },
   "quotes": [
     {
@@ -952,7 +952,7 @@
       "curator_note": "多萝西回应杰瑞长篇告白时的对白；AFI 百大电影台词第52；Wikiquote／IMDb quotes／片中字幕可核。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 3891
         },
         "as_of": "2026-09-25",
