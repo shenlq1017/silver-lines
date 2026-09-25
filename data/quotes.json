@@ -386,5 +386,563 @@
     "still_alt": "楚门的世界 · 片尾出口门前挥手告别经典帧",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料 https://image.tmdb.org/t/p/original/nwBCPprRB4FzIQPTiSZ3HuF60mC.jpg（2000×3000）（影片页 https://www.themoviedb.org/movie/37165-the-truman-show）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hwBDtutbmTKMkhD95dgubEBB7Vt.jpg（3840×2160）；场景匹配（片尾出口门前挥手告别）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "schindler-one-life",
+    "line": "凡救一命，即救全世界。",
+    "line_en": "Whoever saves one life, saves the world entire.",
+    "film_title": "辛德勒的名单",
+    "film_title_en": "Schindler's List",
+    "year": 1993,
+    "character": "Itzhak Stern",
+    "director": "史蒂文·斯皮尔伯格",
+    "tags": [
+      "剧情",
+      "历史",
+      "人性"
+    ],
+    "featured": true,
+    "curator_note": "碑铭式对白，把个体与世界连在一起。",
+    "ratings": {
+      "douban": {
+        "score": 9.5,
+        "votes": 1300000
+      },
+      "imdb": {
+        "score": 9.0,
+        "votes": 1500000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 98
+      },
+      "metacritic": {
+        "score": 95
+      }
+    },
+    "poster": "assets/posters/top250/011-schindler-s-list.jpg",
+    "still": "assets/stills/top250/011-schindler-s-list.jpg",
+    "still_alt": "辛德勒的名单 · 名单与烛光意象宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/011-schindler-s-list.jpg）（影片页 https://www.themoviedb.org/movie/424）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "hachi-waiting",
+    "line": "它只是你的一条狗，但你却是它的一生。",
+    "line_en": "It's your dog, but you are its whole life.",
+    "film_title": "忠犬八公的故事",
+    "film_title_en": "Hachi: A Dog's Tale",
+    "year": 2009,
+    "character": "旁白意蕴",
+    "director": "拉斯·哈尔斯特姆",
+    "tags": [
+      "剧情",
+      "忠诚",
+      "陪伴"
+    ],
+    "featured": false,
+    "curator_note": "华语流传最广的转述金句（常见转述，非逐字原声核验）。车站与等待的忠诚注脚。",
+    "ratings": {
+      "douban": {
+        "score": 9.4,
+        "votes": 1600000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 320000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/012-hachi-a-dog-s-tale.jpg",
+    "still": "assets/stills/top250/012-hachi-a-dog-s-tale.jpg",
+    "still_alt": "忠犬八公的故事 · 车站守候经典画面",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/012-hachi-a-dog-s-tale.jpg）（影片页 https://www.themoviedb.org/movie/28178）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gOeSj4YzwxZb6FgcYPRK2hEzTdt.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "ocean-keyboard",
+    "line": "键盘有始有终，你却永远无法预知船外的世界有多大。",
+    "line_en": "The keyboard has a beginning and an end. You never know what's out there beyond the boat.",
+    "film_title": "海上钢琴师",
+    "film_title_en": "La leggenda del pianista sull'oceano",
+    "year": 1998,
+    "character": "1900",
+    "director": "朱塞佩·托纳多雷",
+    "tags": [
+      "剧情",
+      "音乐",
+      "选择"
+    ],
+    "featured": true,
+    "curator_note": "拒绝上岸的传奇，一句道尽边界与自由。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 1900000
+      },
+      "imdb": {
+        "score": 8.0,
+        "votes": 75000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/013-la-leggenda-del-pianista-sull-oceano.jpg",
+    "still": "assets/stills/top250/013-la-leggenda-del-pianista-sull-oceano.jpg",
+    "still_alt": "海上钢琴师 · 甲板与钢琴意象宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/013-la-leggenda-del-pianista-sull-oceano.jpg）（影片页 https://www.themoviedb.org/movie/10376）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "zootopia-anyone",
+    "line": "在动物城，任何人都可以成为想成为的人。",
+    "line_en": "In Zootopia, anyone can be anything.",
+    "film_title": "疯狂动物城",
+    "film_title_en": "Zootopia",
+    "year": 2016,
+    "character": "Judy Hopps",
+    "director": "拜伦·霍华德 / 瑞奇·摩尔",
+    "tags": [
+      "动画",
+      "梦想",
+      "偏见"
+    ],
+    "featured": false,
+    "curator_note": "童趣外壳下的城市寓言开场白。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 2400000
+      },
+      "imdb": {
+        "score": 8.0,
+        "votes": 580000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 98
+      },
+      "metacritic": {
+        "score": 78
+      }
+    },
+    "poster": "assets/posters/top250/014-zootopia.jpg",
+    "still": "assets/stills/top250/014-zootopia.jpg",
+    "still_alt": "疯狂动物城 · 城市天际线宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/014-zootopia.jpg）（影片页 https://www.themoviedb.org/movie/269149）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9tOkjBEiiGcaClgJFtwocStZvIT.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "3idiots-excellence",
+    "line": "追求卓越，成功就会在不经意间追上你。",
+    "line_en": "Pursue excellence, and success will come chasing after you.",
+    "film_title": "三傻大闹宝莱坞",
+    "film_title_en": "3 Idiots",
+    "year": 2009,
+    "character": "Rancho",
+    "director": "拉库马·希拉尼",
+    "tags": [
+      "喜剧",
+      "教育",
+      "梦想"
+    ],
+    "featured": false,
+    "curator_note": "印度校园片里最常被引用的一句。",
+    "ratings": {
+      "douban": {
+        "score": 9.2,
+        "votes": 2100000
+      },
+      "imdb": {
+        "score": 8.4,
+        "votes": 450000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/015-3-idiots.jpg",
+    "still": "assets/stills/top250/015-3-idiots.jpg",
+    "still_alt": "三傻大闹宝莱坞 · 校园三人组宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/015-3-idiots.jpg）（影片页 https://www.themoviedb.org/movie/20453）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sUwyPtW8ljfz88YS1KcIy7onVMZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "walle-live",
+    "line": "我不想只是活着，我想要生活。",
+    "line_en": "I don't want to survive. I want to live.",
+    "film_title": "机器人总动员",
+    "film_title_en": "WALL·E",
+    "year": 2008,
+    "character": "Captain",
+    "director": "安德鲁·斯坦顿",
+    "tags": [
+      "动画",
+      "科幻",
+      "觉醒"
+    ],
+    "featured": false,
+    "curator_note": "少言机器人电影里，人类舰长的一声醒转。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 1500000
+      },
+      "imdb": {
+        "score": 8.4,
+        "votes": 1300000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 95
+      },
+      "metacritic": {
+        "score": 95
+      }
+    },
+    "poster": "assets/posters/top250/016-walle.jpg",
+    "still": "assets/stills/top250/016-walle.jpg",
+    "still_alt": "机器人总动员 · WALL·E 与地球废墟宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/016-walle.jpg）（影片页 https://www.themoviedb.org/movie/10681）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "choristes-music",
+    "line": "永远别说永远，凡事都有可能。",
+    "line_en": "Never say never — anything is possible.",
+    "film_title": "放牛班的春天",
+    "film_title_en": "Les choristes",
+    "year": 2004,
+    "character": "Clément Mathieu",
+    "director": "克里斯托夫·巴拉蒂",
+    "tags": [
+      "剧情",
+      "音乐",
+      "教育"
+    ],
+    "featured": false,
+    "curator_note": "马修以音乐唤醒禁锢童年时最常被引用的信念句。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 1500000
+      },
+      "imdb": {
+        "score": 7.9,
+        "votes": 70000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/017-les-choristes.jpg",
+    "still": "assets/stills/top250/017-les-choristes.jpg",
+    "still_alt": "放牛班的春天 · 合唱团宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/017-les-choristes.jpg）（影片页 https://www.themoviedb.org/movie/5528）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eWYrrdCKd4bjOKB9DB0HtRUhI1o.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "infernal-payback",
+    "line": "出来混，迟早是要还的。",
+    "line_en": "If you enter the underworld, sooner or later you have to pay.",
+    "film_title": "无间道",
+    "film_title_en": "Infernal Affairs",
+    "year": 2002,
+    "character": "韩琛",
+    "director": "刘伟强 / 麦兆辉",
+    "tags": [
+      "犯罪",
+      "卧底",
+      "宿命"
+    ],
+    "featured": true,
+    "curator_note": "港片江湖金句，短、狠、传世。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 1600000
+      },
+      "imdb": {
+        "score": 8.0,
+        "votes": 140000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/018-infernal-affairs.jpg",
+    "still": "assets/stills/top250/018-infernal-affairs.jpg",
+    "still_alt": "无间道 · 天台对峙宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/018-infernal-affairs.jpg）（影片页 https://www.themoviedb.org/movie/10775）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4Mm5l3TcKGynSNto0eyRJgBrkJ7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "witness-never-lies",
+    "line": "我妻子从不会说谎。",
+    "line_en": "My wife never lies.",
+    "film_title": "控方证人",
+    "film_title_en": "Witness for the Prosecution",
+    "year": 1957,
+    "character": "Leonard Vole",
+    "director": "比利·怀尔德",
+    "tags": [
+      "悬疑",
+      "法庭",
+      "反转"
+    ],
+    "featured": false,
+    "curator_note": "一句信任，埋下整场审判的炸弹。",
+    "ratings": {
+      "douban": {
+        "score": 9.6,
+        "votes": 800000
+      },
+      "imdb": {
+        "score": 8.4,
+        "votes": 150000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 100
+      },
+      "metacritic": {
+        "score": 90
+      }
+    },
+    "poster": "assets/posters/top250/019-witness-for-the-prosecution.jpg",
+    "still": "assets/stills/top250/019-witness-for-the-prosecution.jpg",
+    "still_alt": "控方证人 · 法庭场景宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/019-witness-for-the-prosecution.jpg）（影片页 https://www.themoviedb.org/movie/37257）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/evUB9YKE5IPPtQOchcEF6hS90BO.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "coco-remember",
+    "line": "请记住我。",
+    "line_en": "Remember me.",
+    "film_title": "寻梦环游记",
+    "film_title_en": "Coco",
+    "year": 2017,
+    "character": "Héctor / Ernesto",
+    "director": "李·昂克里奇",
+    "tags": [
+      "动画",
+      "亲情",
+      "记忆"
+    ],
+    "featured": false,
+    "curator_note": "主题曲《请记住我》（Remember Me）的核心句；亡灵节上最温柔的恳求。",
+    "ratings": {
+      "douban": {
+        "score": 9.1,
+        "votes": 2000000
+      },
+      "imdb": {
+        "score": 8.4,
+        "votes": 650000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 97
+      },
+      "metacritic": {
+        "score": 81
+      }
+    },
+    "poster": "assets/posters/top250/020-coco.jpg",
+    "still": "assets/stills/top250/020-coco.jpg",
+    "still_alt": "寻梦环游记 · 亡灵之城灯海宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/020-coco.jpg）（影片页 https://www.themoviedb.org/movie/354912）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bnkf3C2ZMF6i7MLOemWqEHDMqfh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "dahua-once-love",
+    "line": "曾经有一份真诚的爱情放在我面前，我没有珍惜……",
+    "line_en": "There was once a sincere love placed before me, and I did not cherish it…",
+    "film_title": "大话西游之大圣娶亲",
+    "film_title_en": "西遊記大結局之仙履奇緣",
+    "year": 1995,
+    "character": "至尊宝",
+    "director": "刘镇伟",
+    "tags": [
+      "喜剧",
+      "爱情",
+      "经典"
+    ],
+    "featured": false,
+    "curator_note": "华语影史被背诵最多的深情长独白开篇。",
+    "ratings": {
+      "douban": {
+        "score": 9.2,
+        "votes": 1700000
+      },
+      "imdb": {
+        "score": 7.7,
+        "votes": 18000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/021-rank-021.jpg",
+    "still": "assets/stills/top250/021-rank-021.jpg",
+    "still_alt": "大话西游之大圣娶亲 · 月光与至尊宝宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/021-rank-021.jpg）（影片页 https://www.themoviedb.org/movie/21835）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hbZT53Kng9UXWAq2oHaPPbp4B83.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "furnace-unchanged",
+    "line": "我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。",
+    "line_en": "We fight on, not to change the world, but so the world won't change us.",
+    "film_title": "熔炉",
+    "film_title_en": "도가니",
+    "year": 2011,
+    "character": "崔佑镇",
+    "director": "黄东赫",
+    "tags": [
+      "剧情",
+      "正义",
+      "社会"
+    ],
+    "featured": false,
+    "curator_note": "法庭片里被反复引用的宣言。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 1000000
+      },
+      "imdb": {
+        "score": 8.0,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/022-rank-022.jpg",
+    "still": "assets/stills/top250/022-rank-022.jpg",
+    "still_alt": "熔炉 · 法庭与抗争意象宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/022-rank-022.jpg）（影片页 https://www.themoviedb.org/movie/81481）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e5MvOQIIouSgQcBHCMNA6Rsbwnd.jpg（3000×1688）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "intouchables-live",
+    "line": "我真正的残疾，不是坐在轮椅上，而是没有她的世界。",
+    "line_en": "My true disability isn't the wheelchair — it's living without her.",
+    "film_title": "触不可及",
+    "film_title_en": "Intouchables",
+    "year": 2011,
+    "character": "Philippe",
+    "director": "奥利维·那卡什 / 艾瑞克·托莱达诺",
+    "tags": [
+      "剧情",
+      "友谊",
+      "温暖"
+    ],
+    "featured": false,
+    "curator_note": "菲利普道出触不可及的真相：残缺之外，是失去所爱。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 1300000
+      },
+      "imdb": {
+        "score": 8.5,
+        "votes": 950000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 75
+      },
+      "metacritic": {
+        "score": 57
+      }
+    },
+    "poster": "assets/posters/top250/023-intouchables.jpg",
+    "still": "assets/stills/top250/023-intouchables.jpg",
+    "still_alt": "触不可及 · 双人同行宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/023-intouchables.jpg）（影片页 https://www.themoviedb.org/movie/77338）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cK070s3Qdn1Ib7Gq8RgIyJKgvu3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "godfather-offer",
+    "line": "我会给他一个他无法拒绝的条件。",
+    "line_en": "I'm gonna make him an offer he can't refuse.",
+    "film_title": "教父",
+    "film_title_en": "The Godfather",
+    "year": 1972,
+    "character": "Don Vito Corleone",
+    "director": "弗朗西斯·福特·科波拉",
+    "tags": [
+      "犯罪",
+      "家族",
+      "权力"
+    ],
+    "featured": false,
+    "curator_note": "影史最被引用的黑手党金句。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 1100000
+      },
+      "imdb": {
+        "score": 9.2,
+        "votes": 2100000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 97
+      },
+      "metacritic": {
+        "score": 100
+      }
+    },
+    "poster": "assets/posters/top250/024-the-godfather.jpg",
+    "still": "assets/stills/top250/024-the-godfather.jpg",
+    "still_alt": "教父 · 家族意象宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/024-the-godfather.jpg）（影片页 https://www.themoviedb.org/movie/238）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "potter-wizard",
+    "line": "哈利——你是个巫师。",
+    "line_en": "Harry — yer a wizard.",
+    "film_title": "哈利·波特与魔法石",
+    "film_title_en": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "character": "Rubeus Hagrid",
+    "director": "克里斯·哥伦布",
+    "tags": [
+      "奇幻",
+      "成长",
+      "冒险"
+    ],
+    "featured": false,
+    "curator_note": "魔法世界的入场券，一句唤醒整个系列。",
+    "ratings": {
+      "douban": {
+        "score": 9.2,
+        "votes": 1400000
+      },
+      "imdb": {
+        "score": 7.6,
+        "votes": 900000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 81
+      },
+      "metacritic": {
+        "score": 65
+      }
+    },
+    "poster": "assets/posters/top250/025-harry-potter-and-the-sorcerer-s-stone.jpg",
+    "still": "assets/stills/top250/025-harry-potter-and-the-sorcerer-s-stone.jpg",
+    "still_alt": "哈利·波特与魔法石 · 霍格沃茨意象宣传静帧",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/025-harry-potter-and-the-sorcerer-s-stone.jpg）（影片页 https://www.themoviedb.org/movie/671）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hziiv14OpD73u9gAak4XDDfBKa2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]

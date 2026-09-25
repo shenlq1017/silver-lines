@@ -1,15 +1,15 @@
 # 银幕金句 / Silver Lines
 
-电影质感的银幕金句策展站 · **Phase M1（Top10 冻结）**。
+电影质感的银幕金句策展站 · **Phase M3（Top25 上架）**。
 
 暗色胶片风、静帧叠字、评分徽章可视化。无播放器、无盗链；图片均为相对路径本地氛围示意 PNG（非原片截帧）。
 
-## 状态 · M1
+## 状态 · M3
 
 | 项 | 说明 |
 |----|------|
-| 数据 | `data/quotes.json` 恰好 **10** 条 `status=published` |
-| 片名 | 锁定豆瓣 Top250 意图截取 Top10（冻结日 2026-09-25，见 `data/source.json`） |
+| 数据 | `data/quotes.json` 恰好 **25** 条 `status=published` |
+| 片名 | 对齐豆瓣 Top250 意图截取 Top25（冻结日 2026-09-25，见 `data/source.json`） |
 | 字段 | `id`, `line`, `film_title`, `year`, `tags[]`, `poster`, `still`, `still_alt`, `status`, `ratings`（必有 `imdb` + `as_of`；豆瓣尽量有；RT/MC 有则显） |
 | 可选 | `featured`, `curator_note`, `line_en`, `film_title_en`, `license_note`, `character`, `director` |
 | 图像 | `assets/posters/{id}.png` · `assets/stills/{id}.png`；`license_note` 标明示意非原片截帧 |
@@ -48,10 +48,10 @@ silver-lines/
 ├── about/index.html
 ├── quotes/
 │   ├── index.html
-│   └── {id}/index.html      # 10 条详情
+│   └── {id}/index.html      # 25 条详情
 ├── data/
-│   ├── quotes.json          # 10 条 published
-│   └── source.json          # 来源 / 冻结日 / Top10 名单
+│   ├── quotes.json          # 25 条 published
+│   └── source.json          # 来源 / 冻结日 / Top25 名单
 ├── assets/
 │   ├── css/style.css
 │   ├── js/ratings.js
