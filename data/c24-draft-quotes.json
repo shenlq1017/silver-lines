@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_at": "2026-09-25T13:52:44+08:00",
-    "purpose": "C24 classics×25 草稿：batch-yi id-repair 解锁波（wave1 修 tmdb_id 后首次策展）；status=draft，未并入 quotes.json",
+    "purpose": "C24 classics×25 草稿：batch-yi id-repair 解锁波（wave1 修 tmdb_id 后首次策展）；status=merged，已并入 quotes.json",
     "batch": "batch-yi",
     "batch_note": "repaired batch-yi — id-repair unlock wave，非原 C12–C14 matched remainder",
     "selection_source": "tmp/content-fill-plan/candidates-yi-c24-25.json",
@@ -20,9 +20,11 @@
       "quotes.json 未修改；未 push；未用 CloudAgent",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
-      "orphan 未跟踪海报未触碰"
+      "orphan 未跟踪海报未触碰",
+      "meta.merged=true；已并入 quotes.json published 832（807+25）；merged_at=2026-09-25T13:56:30+08:00；batch-yi id-repair unlock wave1 首次策展并入"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T13:56:30+08:00"
   },
   "quotes": [
     {
@@ -184,7 +186,7 @@
       "curator_note": "主题性策展句：概括费里尼《甜蜜的生活》中名流夜宴与晨间空虚并置的现代性寓言，非逐字引文。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 2082
         },
         "as_of": "2026-09-25",
@@ -219,7 +221,7 @@
       "curator_note": "主题性策展句：概括维斯康蒂《洛可兄弟》中南方家庭迁居米兰后解体与相爱相杀的史诗题旨，非逐字引文。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 683
         },
         "as_of": "2026-09-25",
@@ -254,7 +256,7 @@
       "curator_note": "主题性策展句：概括沟口健二《雨月物语》中陶工遇鬼与战乱离合的劝世寓言，非逐字引文。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 667
         },
         "as_of": "2026-09-25",
@@ -289,7 +291,7 @@
       "curator_note": "主题性策展句：概括费里尼《卡比利亚之夜》中底层女子屡遭背叛仍走向镜头微笑的人道主义收束，非逐字引文。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 883
         },
         "as_of": "2026-09-25",
