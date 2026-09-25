@@ -28894,5 +28894,780 @@
     "still_alt": "放大 · TMDB 宣传静帧（1966×1106）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/blow-up-1966.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1052）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iO2Yn75mqOB4KjVTsxnSoTok0Uj.jpg（1966×1106）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "turtles-satellite",
+    "line": "地雷区的孩子仰望卫星天线，像在等一个不会落地的消息。",
+    "line_en": "Children in a minefield look up at a satellite dish, waiting for news that will never land.",
+    "film_title": "乌龟也会飞",
+    "film_title_en": "Turtles Can Fly",
+    "year": 2004,
+    "character": "卫星／阿格里等 / Satellite / Agrin et al.",
+    "director": "巴赫曼·戈巴迪",
+    "tags": [
+      "战争",
+      "儿童",
+      "边境",
+      "戈巴迪"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括戈巴迪《乌龟也会飞》中伊拉克边境儿童与战争废墟并置的寓言题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 247
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/turtles-can-fly-2004.jpg",
+    "still": "assets/stills/classics/turtles-can-fly-2004.jpg",
+    "still_alt": "乌龟也会飞 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/turtles-can-fly-2004.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/8340）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iHtydgatlWw0G4IvGbYAkmJRNnN.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "mahanagar-work",
+    "line": "妻子出门上班的那天，家里的天平就开始晃。",
+    "line_en": "The day the wife goes out to work, the household scales begin to tip.",
+    "film_title": "大城市",
+    "film_title_en": "The Big City",
+    "year": 1963,
+    "character": "阿娜蒂／苏布拉塔 / Arati / Subrata",
+    "director": "萨蒂亚吉特·雷",
+    "tags": [
+      "家庭",
+      "女性",
+      "加尔各答",
+      "雷"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括萨蒂亚吉特·雷《大城市》中主妇就业冲击传统家庭秩序的现代性题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 110
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-big-city-1963.jpg",
+    "still": "assets/stills/classics/the-big-city-1963.jpg",
+    "still_alt": "大城市 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-big-city-1963.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/60567）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/buaddeWUkt52VJFSujO5mKNx0ab.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "tokikake-leap",
+    "line": "跳过时间并不难，难的是跳回去以后还想不想承认。",
+    "line_en": "Leaping through time is easy; the hard part is whether you still want to admit it after you land.",
+    "film_title": "穿越时空的少女",
+    "film_title_en": "The Girl Who Leapt Through Time",
+    "year": 2006,
+    "character": "绀野真琴 / Makoto Konno",
+    "director": "细田守",
+    "tags": [
+      "时间",
+      "青春",
+      "选择",
+      "细田守"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括细田守《穿越时空的少女》中时间跳跃与青春责任的成长题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 2312
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-girl-who-leapt-through-time-2006.jpg",
+    "still": "assets/stills/classics/the-girl-who-leapt-through-time-2006.jpg",
+    "still_alt": "穿越时空的少女 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-girl-who-leapt-through-time-2006.jpg，2000×2774）（影片页 https://www.themoviedb.org/movie/14069）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6m2qbAqSMJTX4HUwRvVEQI6ioiO.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "goddess-street",
+    "line": "街上叫她神女，家里等她当妈——名字从来不是她选的。",
+    "line_en": "On the street they call her a goddess; at home they wait for a mother — she never chose either name.",
+    "film_title": "神女",
+    "film_title_en": "The Goddess",
+    "year": 1934,
+    "character": "阮嫂 / Ruan",
+    "director": "吴永刚",
+    "tags": [
+      "母性",
+      "默片",
+      "上海",
+      "阮玲玉"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括吴永刚《神女》中阮玲玉饰演的街头母亲双重身份的社会悲剧题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 93
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-goddess-1934.jpg",
+    "still": "assets/stills/classics/the-goddess-1934.jpg",
+    "still_alt": "神女 · TMDB 宣传静帧（2096×1179）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-goddess-1934.jpg，1280×1799）（影片页 https://www.themoviedb.org/movie/112698）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/p9mivDvdkEdZ4h4OVRmF45GsEK2.jpg（2096×1179）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "dijiu-years",
+    "line": "一句对不起，要走几十年才说得出口。",
+    "line_en": "One apology can take decades before it can be spoken.",
+    "film_title": "地久天长",
+    "film_title_en": "So Long, My Son",
+    "year": 2019,
+    "character": "刘耀军／李海燕等 / Liu Yaojun / Li Haiyan et al.",
+    "director": "王小帅",
+    "tags": [
+      "家庭",
+      "创伤",
+      "时代",
+      "王小帅"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括王小帅《地久天长》中计划生育年代创伤与亲情 等待的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 236
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/so-long-my-son-2019.jpg",
+    "still": "assets/stills/classics/so-long-my-son-2019.jpg",
+    "still_alt": "地久天长 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/so-long-my-son-2019.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/493899）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qTdShbHwAUdPQ5o7y0VP7GKNnti.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "stray-gun",
+    "line": "枪丢了，酷暑里的东京就变成一张更大的网。",
+    "line_en": "Once the gun is lost, Tokyo in the heat becomes a wider net.",
+    "film_title": "野良犬",
+    "film_title_en": "Stray Dog",
+    "year": 1949,
+    "character": "村上侦探 / Det. Murakami",
+    "director": "黑泽明",
+    "tags": [
+      "犯罪",
+      "酷暑",
+      "东京",
+      "黑泽明"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括黑泽明《野良犬》中丢枪警察在战后现代东京焦灼追踪的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 380
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/stray-dog-1949.jpg",
+    "still": "assets/stills/classics/stray-dog-1949.jpg",
+    "still_alt": "野良犬 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/stray-dog-1949.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/30368）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cnVqvrCSZ6TyIyWNTxR7LciR0bx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "lie-ri-heart",
+    "line": "烈日下谁都想自保，心却被烤得越来越硬。",
+    "line_en": "Under the scorching sun everyone wants to save themselves — and the heart bakes harder.",
+    "film_title": "烈日灼心",
+    "film_title_en": "The Dead End",
+    "year": 2015,
+    "character": "辛小丰等 / Xin Xiaofeng et al.",
+    "director": "曹保平",
+    "tags": [
+      "法治",
+      "良心",
+      "犯罪",
+      "曹保平"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括曹保平《烈日灼心》中嫌犯与刑警在烈日下良心与法律撕扯的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 90
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-dead-end-2015.jpg",
+    "still": "assets/stills/classics/the-dead-end-2015.jpg",
+    "still_alt": "烈日灼心 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-dead-end-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/344556）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ggLdxFk95plcwhZGIA0pBqXyRzC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "pont-neuf-fireworks",
+    "line": "新桥上的烟火再亮，也照不进无家可归的夜晚。",
+    "line_en": "Even the fireworks over Pont-Neuf cannot light a night with no home.",
+    "film_title": "新桥恋人",
+    "film_title_en": "The Lovers on the Bridge",
+    "year": 1991,
+    "character": "阿莱克斯／米歇尔 / Alex / Michèle",
+    "director": "莱奥·卡拉克斯",
+    "tags": [
+      "巴黎",
+      "流浪",
+      "爱情",
+      "卡拉克斯"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括卡拉克斯《新桥恋人》中巴黎流浪者之爱与国庆烟火并置的浪漫题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 394
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-lovers-on-the-bridge-1991.jpg",
+    "still": "assets/stills/classics/the-lovers-on-the-bridge-1991.jpg",
+    "still_alt": "新桥恋人 · TMDB 宣传静帧（2839×1597）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-lovers-on-the-bridge-1991.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/2767）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xwyfuXslQVAmDqs07Z2jQTygVDV.jpg（2839×1597）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "rouge-wait",
+    "line": "五十年后再见，胭脂还在，人已不是那个人。",
+    "line_en": "Fifty years later the rouge remains — the person does not.",
+    "film_title": "胭脂扣",
+    "film_title_en": "Rouge",
+    "year": 1987,
+    "character": "如花／十二少 / Fleur / Twelfth Master",
+    "director": "关锦鹏",
+    "tags": [
+      "鬼恋",
+      "香港",
+      "等待",
+      "关锦鹏"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括关锦鹏《胭脂扣》中女鬼寻爱跨越半世纪的等待与错位题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 96
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/rouge-1987.jpg",
+    "still": "assets/stills/classics/rouge-1987.jpg",
+    "still_alt": "胭脂扣 · TMDB 宣传静帧（1941×1092）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rouge-1987.jpg，1060×1591）（影片页 https://www.themoviedb.org/movie/68883）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cyxtPMrWCUJGy5UWYY2cSVY8fz5.jpg（1941×1092）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "reinette-mirabelle",
+    "line": "巴黎与乡村之间，四则小品刚好够谈完一次友谊。",
+    "line_en": "Between Paris and the countryside, four sketches are just enough to finish one friendship.",
+    "film_title": "蕾妮特和米拉贝尔的四个冒险",
+    "film_title_en": "Four Adventures of Reinette and Mirabelle",
+    "year": 1987,
+    "character": "蕾妮特／米拉贝尔 / Reinette / Mirabelle",
+    "director": "埃里克·侯麦",
+    "tags": [
+      "友谊",
+      "巴黎",
+      "小品",
+      "侯麦"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括侯麦《蕾妮特和米拉贝尔的四个冒险》中城乡少女友谊的四则道德小品题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 91
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/my-girlfriends-boyfriend-1987.jpg",
+    "still": "assets/stills/classics/my-girlfriends-boyfriend-1987.jpg",
+    "still_alt": "蕾妮特和米拉贝尔的四个冒险 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/my-girlfriends-boyfriend-1987.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/37189）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kv1MSgqXl1rgVHriRdja3ZeDOyI.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "butterfly-tongue",
+    "line": "童年开始学的单词，有一天会被战争改写发音。",
+    "line_en": "The words a child first learns may one day have their pronunciation rewritten by war.",
+    "film_title": "蝴蝶的舌头",
+    "film_title_en": "Butterfly’s Tongue",
+    "year": 1999,
+    "character": "莫尼乔／老师 / Moncho / Don Gregorio",
+    "director": "何塞·路易斯·库埃达",
+    "tags": [
+      "童真",
+      "内战",
+      "教师",
+      "西班牙"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括库埃达《蝴蝶的舌头》中内战前夜乡村教师与孩童告别童真的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 250
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/butterflys-tongue-1999.jpg",
+    "still": "assets/stills/classics/butterflys-tongue-1999.jpg",
+    "still_alt": "蝴蝶的舌头 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/butterflys-tongue-1999.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/31023）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rO9glrSlacyRY6ZePVeA2fogqCk.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "fugitive-strait",
+    "line": "逃过海峡，逃不过自己心里的火。",
+    "line_en": "You can flee across the strait — not the fire inside.",
+    "film_title": "饥饿海峡",
+    "film_title_en": "A Fugitive from the Past",
+    "year": 1965,
+    "character": "稻垣胤石 / Inugai Takichi",
+    "director": "内田吐梦",
+    "tags": [
+      "逃亡",
+      "战后",
+      "北海道",
+      "内田吐梦"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括内田吐梦《饥饿海峡》中战后逃亡者越过海峡仍被罪与欲追赶的黑色史诗题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 50
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-fugitive-from-the-past-1965.jpg",
+    "still": "assets/stills/classics/a-fugitive-from-the-past-1965.jpg",
+    "still_alt": "饥饿海峡 · TMDB 宣传静帧（2048×1152）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-fugitive-from-the-past-1965.jpg，843×1264）（影片页 https://www.themoviedb.org/movie/117212）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/srtgtdDFuvhqUWfNORnsE0rLTLC.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "summer-tale-hesitation",
+    "line": "夏天海滨的犹豫，比告白本身更漫长。",
+    "line_en": "On a summer shore, hesitation lasts longer than the confession itself.",
+    "film_title": "夏天的故事",
+    "film_title_en": "A Summer’s Tale",
+    "year": 1996,
+    "character": "加斯帕尔 / Gaspard",
+    "director": "埃里克·侯麦",
+    "tags": [
+      "夏天",
+      "犹豫",
+      "海滨",
+      "侯麦"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括侯麦《夏天的故事》中海滨青年三角情感与犹豫不决的喜剧题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 279
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-summers-tale-1996.jpg",
+    "still": "assets/stills/classics/a-summers-tale-1996.jpg",
+    "still_alt": "夏天的故事 · TMDB 宣传静帧（3224×1816）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-summers-tale-1996.jpg，1240×1754）（影片页 https://www.themoviedb.org/movie/37563）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wjeyu0xJagU41gUtArjGxyW7IlJ.jpg（3224×1816）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "merry-xmas-camp",
+    "line": "战俘营里说一声圣诞快乐，比投降更危险。",
+    "line_en": "In a POW camp, saying Merry Christmas can be more dangerous than surrender.",
+    "film_title": "战场上的快乐圣诞",
+    "film_title_en": "Merry Christmas, Mr. Lawrence",
+    "year": 1983,
+    "character": "劳伦斯／米野／杰克 / Lawrence / Yonoi / Jack",
+    "director": "大岛渚",
+    "tags": [
+      "战俘",
+      "文化",
+      "情谊",
+      "大岛渚"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括大岛渚《战场上的快乐圣诞》中战俘营内文化冲撞与禁忌情谊的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 546
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/merry-christmas-mr-lawrence-1983.jpg",
+    "still": "assets/stills/classics/merry-christmas-mr-lawrence-1983.jpg",
+    "still_alt": "战场上的快乐圣诞 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/merry-christmas-mr-lawrence-1983.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/11948）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tlR95c16na3nkVwD5WkUZ5NjlRR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "ruan-lingyu-stage",
+    "line": "银幕内外叠在一起，她演的角色终于替她说完遗言。",
+    "line_en": "Screen and life stack together — the role finally speaks the last words she could not.",
+    "film_title": "阮玲玉",
+    "film_title_en": "Center Stage",
+    "year": 1991,
+    "character": "阮玲玉 / Ruan Lingyu",
+    "director": "关锦鹏",
+    "tags": [
+      "传记",
+      "银幕",
+      "命运",
+      "关锦鹏"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括关锦鹏《阮玲玉》中传记与戏中戏叠影、沉默巨星命运的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 94
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/center-stage-1991.jpg",
+    "still": "assets/stills/classics/center-stage-1991.jpg",
+    "still_alt": "阮玲玉 · TMDB 宣传静帧（2757×1551）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/center-stage-1991.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/68004）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8szEjTceyJTtlYoRwCac5Sx6gXg.jpg（2757×1551）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "time-remains-elias",
+    "line": "家园还在日历上，日子却一天天被改写。",
+    "line_en": "Home remains on the calendar, while each day is rewritten.",
+    "film_title": "时光依旧",
+    "film_title_en": "The Time That Remains",
+    "year": 2009,
+    "character": "埃利亚·苏莱曼 / Elia Suleiman",
+    "director": "埃利亚·苏莱曼",
+    "tags": [
+      "巴勒斯坦",
+      "日常",
+      "荒诞",
+      "苏莱曼"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括苏莱曼《时光依旧》中巴勒斯坦家庭编年与荒诞日常并置的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 63
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-time-that-remains-2009.jpg",
+    "still": "assets/stills/classics/the-time-that-remains-2009.jpg",
+    "still_alt": "时光依旧 · TMDB 宣传静帧（1924×1082）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-time-that-remains-2009.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/44898）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1eNhxyCQXNNQD74KEQQDP2X37N1.jpg（1924×1082）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "assassination-mission",
+    "line": "暗杀名单上的人，未必比执行的人更知道自己为何而战。",
+    "line_en": "Those on the assassination list may know no better than the killers why they are fighting.",
+    "film_title": "暗杀",
+    "film_title_en": "Assassination",
+    "year": 2015,
+    "character": "安玉润／韩国独立军等 / Ahn Ok-yun et al.",
+    "director": "崔东勋",
+    "tags": [
+      "抗日",
+      "暗杀",
+      "群像",
+      "崔东勋"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括崔东勋《暗杀》中抗日暗杀行动与身份错位的类型群像题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 290
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/assassination-2015.jpg",
+    "still": "assets/stills/classics/assassination-2015.jpg",
+    "still_alt": "暗杀 · TMDB 宣传静帧（2048×1153）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/assassination-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/291549）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tktmRVVTmHUaspFGHirEsdVfrB1.jpg（2048×1153）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "amour-apres-midi",
+    "line": "午后的诱惑最危险——理智还醒着，心却开始走神。",
+    "line_en": "Afternoon temptation is the most dangerous — reason is still awake while the heart drifts.",
+    "film_title": "午后之爱",
+    "film_title_en": "Love in the Afternoon",
+    "year": 1972,
+    "character": "弗雷德里克 / Frédéric",
+    "director": "埃里克·侯麦",
+    "tags": [
+      "婚姻",
+      "诱惑",
+      "理性",
+      "侯麦"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括侯麦《午后之爱》中已婚男子面对诱惑时理性独白与道德试炼的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 223
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/love-in-the-afternoon-1972.jpg",
+    "still": "assets/stills/classics/love-in-the-afternoon-1972.jpg",
+    "still_alt": "午后之爱 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/love-in-the-afternoon-1972.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/12116）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6ouSSoTqbJ335w9jGrsZGrBHrKv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "veronika-morphine",
+    "line": "明星的光晕褪尽之后，吗啡比镜头更听话。",
+    "line_en": "After a star's halo fades, morphine obeys better than the camera.",
+    "film_title": "维洛尼卡·福斯的欲望",
+    "film_title_en": "Veronika Voss",
+    "year": 1982,
+    "character": "维洛尼卡·福斯 / Veronika Voss",
+    "director": "赖纳·维尔纳·法斯宾德",
+    "tags": [
+      "明星",
+      "成瘾",
+      "战后",
+      "法斯宾德"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括法斯宾德《维洛尼卡·福斯的欲望》中战后明星沉沦与吗啡依赖的布赖登斯坦终章题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 162
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/veronika-voss-1982.jpg",
+    "still": "assets/stills/classics/veronika-voss-1982.jpg",
+    "still_alt": "维洛尼卡·福斯的欲望 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/veronika-voss-1982.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/2262）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xATzVfo4XOmkVHsnkXuEshkjHks.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "yonosuke-kind",
+    "line": "温和到不像这个时代的人，反而把时代照得更清楚。",
+    "line_en": "Someone too gentle for his time ends up lighting that time more clearly.",
+    "film_title": "横道世之介",
+    "film_title_en": "A Story of Yonosuke",
+    "year": 2013,
+    "character": "横道世之介 / Yonosuke Yokomichi",
+    "director": "冲田修一",
+    "tags": [
+      "温和",
+      "青春",
+      "平成",
+      "冲田修一"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括冲田修一《横道世之介》中过分善良的青年映照时代切片的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 76
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-story-of-yonosuke-2013.jpg",
+    "still": "assets/stills/classics/a-story-of-yonosuke-2013.jpg",
+    "still_alt": "横道世之介 · TMDB 宣传静帧（2755×1550）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-story-of-yonosuke-2013.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/200145）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pEMQnOafad8lSlEVTdoh3GYWdNz.jpg（2755×1550）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "runner-gulf",
+    "line": "沿着海湾跑，不是为了赢，是为了不被原油废景吞掉。",
+    "line_en": "Running along the gulf is not to win — it is not to be swallowed by the oil-stained waste.",
+    "film_title": "奔跑者",
+    "film_title_en": "The Runner",
+    "year": 1984,
+    "character": "阿米罗 / Amiro",
+    "director": "阿米尔·纳德里",
+    "tags": [
+      "儿童",
+      "奔跑",
+      "伊朗",
+      "纳德里"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括纳德里《奔跑者》中伊朗海湾儿童以奔跑对抗贫困与废景的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 40
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-runner-1984.jpg",
+    "still": "assets/stills/classics/the-runner-1984.jpg",
+    "still_alt": "奔跑者 · TMDB 宣传静帧（2560×1440）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-runner-1984.jpg，1179×1768）（影片页 https://www.themoviedb.org/movie/213938）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3wD4VskKlCxn5jpwNEjOdR3PgSY.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "nagareru-flow",
+    "line": "艺伎馆的水一直在流，人走了，规矩还在。",
+    "line_en": "Water keeps flowing through the geisha house — people leave, the rules remain.",
+    "film_title": "流浪记",
+    "film_title_en": "Flowing",
+    "year": 1956,
+    "character": "津山家女众 / the women of the house",
+    "director": "成濑巳喜男",
+    "tags": [
+      "艺伎",
+      "女性",
+      "流水",
+      "成濑"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括成濑巳喜男《流浪记》中艺伎馆女性群像如流水般代谢的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 34
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/nagareru-1956.jpg",
+    "still": "assets/stills/classics/nagareru-1956.jpg",
+    "still_alt": "流浪记 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nagareru-1956.jpg，1920×2880）（影片页 https://www.themoviedb.org/movie/46493）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aQxAwhRaf9v7Xs4HA6Uj5dN0gHp.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "april-rwanda",
+    "line": "四月的某几天，兄弟也能被广播分成两边。",
+    "line_en": "In a few days of April, even brothers can be split by a radio broadcast.",
+    "film_title": "四月某时",
+    "film_title_en": "Sometimes in April",
+    "year": 2005,
+    "character": "奥古斯丁／奥诺雷 / Augustin / Honoré",
+    "director": "劳尔·佩克",
+    "tags": [
+      "卢旺达",
+      "种族",
+      "兄弟",
+      "佩克"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括佩克《四月某时》中卢旺达大屠杀里兄弟分裂与 记忆的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.1,
+        "votes": 91
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/sometimes-in-april-2005.jpg",
+    "still": "assets/stills/classics/sometimes-in-april-2005.jpg",
+    "still_alt": "四月某时 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sometimes-in-april-2005.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/16374）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dUrKylt7c9HoqpOnDc4mHDMRXSu.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "hole-leak",
+    "line": "楼上楼下凿开一个洞，千禧年的雨就有了落点。",
+    "line_en": "Cut a hole between floors, and the millennial rain finally has somewhere to land.",
+    "film_title": "洞",
+    "film_title_en": "The Hole",
+    "year": 1998,
+    "character": "上下楼邻居 / the upstairs/downstairs neighbors",
+    "director": "蔡明亮",
+    "tags": [
+      "千禧虫",
+      "漏水",
+      "爱情",
+      "蔡明亮"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括蔡明亮《洞》中千禧虫隔离与漏水公寓里怪异爱情的寓言题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7,
+        "votes": 100
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-hole-1998.jpg",
+    "still": "assets/stills/classics/the-hole-1998.jpg",
+    "still_alt": "洞 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hole-1998.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/47060）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sb174oPl1eQqgiCFSDvINxd3fb7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "winter-tale-faith",
+    "line": "丢了的信未必会回来，但冬天适合把信念再诵一遍。",
+    "line_en": "A lost letter may never return, but winter is a season for repeating one's faith.",
+    "film_title": "冬天的故事",
+    "film_title_en": "A Tale of Winter",
+    "year": 1992,
+    "character": "费莉西 / Félicie",
+    "director": "埃里克·侯麦",
+    "tags": [
+      "冬天",
+      "信念",
+      "等待",
+      "侯麦"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括侯麦《冬天的故事》中失散情书与女主角信念等待的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7,
+        "votes": 185
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-tale-of-winter-1992.jpg",
+    "still": "assets/stills/classics/a-tale-of-winter-1992.jpg",
+    "still_alt": "冬天的故事 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-tale-of-winter-1992.jpg，1200×1800）（影片页 https://www.themoviedb.org/movie/10241）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hfTKQGmXbaeOmiRmHdQ6A4vK95T.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]
