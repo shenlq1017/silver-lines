@@ -16,9 +16,10 @@
       "film_title 对齐 candidates-jia-25 / batch-jia；个别通译差异见 curator_note（如 公寓春光/桃色公寓、美丽心灵的永恒阳光/暖暖内含光）",
       "活着（黑泽明）与已刊《活着》(1994 张艺谋) 不同片，已用括注区分",
       "评分 imdb/rt/mc/douban 为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；勿改 quotes.json，待父代理并入"
+      "meta.merged=true；已并入 quotes.json published 274（249+25）；merged_at=2026-09-25T11:43:30+08:00"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T11:43:30+08:00"
   },
   "quotes": [
     {
