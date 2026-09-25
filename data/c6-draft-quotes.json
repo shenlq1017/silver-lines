@@ -16,9 +16,10 @@
       "排除 data/quotes.json 与 C1–C5 candidates；quotes.json 未修改",
       "默片条目以片首/片中字幕或题辞为主句并在 curator_note 标注；有声片采用通行译法或明确的策展意译",
       "评分为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json"
+      "meta.merged=true；已并入 quotes.json published 399（374+25）；merged_at=2026-09-25T12:10:26+08:00"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T12:10:26+08:00"
   },
   "quotes": [
     {

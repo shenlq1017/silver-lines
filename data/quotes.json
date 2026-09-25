@@ -14257,5 +14257,755 @@
     "still_alt": "甘地傳 · TMDB 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/gandhi-1983.jpg）（影片页 https://www.themoviedb.org/movie/783）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/m0Xj01QPZ3ulBRUcusgfay6nwU5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "caligari-you-must-become",
+    "line": "你必须成为卡里加里！",
+    "line_en": "You must become Caligari!",
+    "film_title": "卡里加里博士的小屋",
+    "film_title_en": "The Cabinet of Dr. Caligari",
+    "year": 1920,
+    "character": "Francis",
+    "director": "罗伯特·维内",
+    "tags": [
+      "表现主义",
+      "默片",
+      "悬疑"
+    ],
+    "featured": false,
+    "curator_note": "结尾身份反转中的字幕/对白意译；卡里加里把精神病院与疯狂统治者的名字合而为一。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 72000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-cabinet-of-dr-caligari-1920.jpg",
+    "still": "assets/stills/classics/the-cabinet-of-dr-caligari-1920.jpg",
+    "still_alt": "卡里加里博士的小屋 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-cabinet-of-dr-caligari-1920.jpg）（影片页 https://www.themoviedb.org/movie/234）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "safety-last-dont-look-down",
+    "line": "别往下看！",
+    "line_en": "Don't look down!",
+    "film_title": "安全末班车",
+    "film_title_en": "Safety Last!",
+    "year": 1923,
+    "character": "哈罗德",
+    "director": "弗雷德·纽迈耶 / 山姆·泰勒",
+    "tags": [
+      "喜剧",
+      "默片",
+      "勇气"
+    ],
+    "featured": false,
+    "curator_note": "钟楼攀爬段的默片字幕/名场面意译；以片中字幕而非伪造有声对白呈现。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 22000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/safety-last-1923.jpg",
+    "still": "assets/stills/classics/safety-last-1923.jpg",
+    "still_alt": "安全末班车 · TMDB 宣传静帧（3490×1964）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/safety-last-1923.jpg）（影片页 https://www.themoviedb.org/movie/22596）；静帧：TMDB backdrop/宣传图 undefined（3490×1964）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "sunrise-song-of-man-and-woman",
+    "line": "这是一首关于男人和女人的歌，它属于任何地方，也属于每个地方；你可能在任何时间、任何地点听见它。",
+    "line_en": "This song of the Man and the Woman is of no place and every place; you might hear it anywhere at any time.",
+    "film_title": "日出",
+    "film_title_en": "Sunrise",
+    "year": 1927,
+    "character": "片首字幕",
+    "director": "F·W·茂瑙",
+    "tags": [
+      "默片",
+      "爱情",
+      "电影宣言"
+    ],
+    "featured": false,
+    "curator_note": "片首字幕原文的通行中译；以字幕作为默片主句。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 56000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/sunrise-1927.jpg",
+    "still": "assets/stills/classics/sunrise-1927.jpg",
+    "still_alt": "日出 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sunrise-1927.jpg）（影片页 https://www.themoviedb.org/movie/631）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "man-with-movie-camera-no-intertitles",
+    "line": "这是一部关于电影语言的实验：不用剧本、不用布景、不用演员，也不借助字幕。",
+    "line_en": "This film is an experiment in cinematic communication of real events without the help of intertitles, without the help of a scenario, without the help of theatre.",
+    "film_title": "持摄影机的人",
+    "film_title_en": "Man with a Movie Camera",
+    "year": 1929,
+    "character": "片首字幕",
+    "director": "吉加·维尔托夫",
+    "tags": [
+      "纪录片",
+      "默片",
+      "电影宣言"
+    ],
+    "featured": false,
+    "curator_note": "片首宣言字幕的节译；这句直接说明影片的形式实验。",
+    "ratings": {
+      "imdb": {
+        "score": 8.3,
+        "votes": 32000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/man-with-a-movie-camera-1929.jpg",
+    "still": "assets/stills/classics/man-with-a-movie-camera-1929.jpg",
+    "still_alt": "持摄影机的人 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/man-with-a-movie-camera-1929.jpg）（影片页 https://www.themoviedb.org/movie/26317）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "l-atalante-love-you",
+    "line": "我不知道你对我做了什么，但我爱你。",
+    "line_en": "I don’t know what you do to me, but I love you.",
+    "film_title": "亚特兰大号",
+    "film_title_en": "L'Atalante",
+    "year": 1934,
+    "character": "朱丽叶特",
+    "director": "让·维果",
+    "tags": [
+      "爱情",
+      "剧情",
+      "诗意"
+    ],
+    "featured": false,
+    "curator_note": "朱丽叶特与让关于无法解释的吸引力的通行意译；保留影片的口语亲密感。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 18000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/l-atalante-1934.jpg",
+    "still": "assets/stills/classics/l-atalante-1934.jpg",
+    "still_alt": "亚特兰大号 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/l-atalante-1934.jpg）（影片页 https://www.themoviedb.org/movie/43904）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "day-of-wrath-you-are-a-witch",
+    "line": "你是个女巫！",
+    "line_en": "You are a witch!",
+    "film_title": "愤怒之日",
+    "film_title_en": "Day of Wrath",
+    "year": 1943,
+    "character": "阿布萨隆",
+    "director": "卡尔·西奥多·德莱叶",
+    "tags": [
+      "宗教",
+      "压抑",
+      "悲剧"
+    ],
+    "featured": false,
+    "curator_note": "审判与猎巫语境中的核心指控；中文采用通行字幕译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 19000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/day-of-wrath-1943.jpg",
+    "still": "assets/stills/classics/day-of-wrath-1943.jpg",
+    "still_alt": "愤怒之日 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/day-of-wrath-1943.jpg）（影片页 https://www.themoviedb.org/movie/41391）；静帧：TMDB backdrop/宣传图 undefined（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "colonel-blimp-war-starts-at-midnight",
+    "line": "战争从午夜开始。",
+    "line_en": "The war starts at midnight.",
+    "film_title": "上校布林普的生平与死亡",
+    "film_title_en": "The Life and Death of Colonel Blimp",
+    "year": 1943,
+    "character": "克莱夫·坎迪",
+    "director": "迈克尔·鲍威尔 / 埃默里克·普雷斯伯格",
+    "tags": [
+      "战争",
+      "友谊",
+      "时代"
+    ],
+    "featured": false,
+    "curator_note": "军官俱乐部争论中的凝练台词意译；影片借此拆解旧式荣誉观。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 25000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-life-and-death-of-colonel-blimp-1943.jpg",
+    "still": "assets/stills/classics/the-life-and-death-of-colonel-blimp-1943.jpg",
+    "still_alt": "上校布林普的生平与死亡 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-life-and-death-of-colonel-blimp-1943.jpg）（影片页 https://www.themoviedb.org/movie/25037）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "brief-encounter-it-happened",
+    "line": "我爱上了你。我并不想这样，但它发生了。",
+    "line_en": "I have fallen in love with you. I didn’t mean to, but it happened.",
+    "film_title": "相见恨晚",
+    "film_title_en": "Brief Encounter",
+    "year": 1945,
+    "character": "劳拉·杰索普",
+    "director": "大卫·里恩",
+    "tags": [
+      "爱情",
+      "告别",
+      "旁白"
+    ],
+    "featured": false,
+    "curator_note": "劳拉旁白的通行意译；把相见恨晚的失控感压缩成一句自白。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 48000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/brief-encounter-1945.jpg",
+    "still": "assets/stills/classics/brief-encounter-1945.jpg",
+    "still_alt": "相见恨晚 · TMDB 宣传静帧（3500×1969）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/brief-encounter-1945.jpg）（影片页 https://www.themoviedb.org/movie/851）；静帧：TMDB backdrop/宣传图 undefined（3500×1969）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "children-of-paradise-love-jealousy",
+    "line": "没有嫉妒，就没有爱情。",
+    "line_en": "There is no love without jealousy.",
+    "film_title": "天堂的孩子",
+    "film_title_en": "Children of Paradise",
+    "year": 1945,
+    "character": "巴蒂斯特",
+    "director": "马塞尔·卡尔内",
+    "tags": [
+      "爱情",
+      "戏剧",
+      "法国电影"
+    ],
+    "featured": false,
+    "curator_note": "舞台与情感纠葛中的通行意译；对应影片关于表演、欲望与占有的核心命题。",
+    "ratings": {
+      "imdb": {
+        "score": 8.3,
+        "votes": 26000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/children-of-paradise-1945.jpg",
+    "still": "assets/stills/classics/children-of-paradise-1945.jpg",
+    "still_alt": "天堂的孩子 · TMDB 宣传静帧（2048×1152）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/children-of-paradise-1945.jpg）（影片页 https://www.themoviedb.org/movie/2457）；静帧：TMDB backdrop/宣传图 undefined（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "lost-weekend-one-drink",
+    "line": "一杯太多，一百杯又不够。",
+    "line_en": "One drink is too many, and a hundred drinks are not enough.",
+    "film_title": "失去的周末",
+    "film_title_en": "The Lost Weekend",
+    "year": 1945,
+    "character": "唐·伯纳姆",
+    "director": "比利·怀尔德",
+    "tags": [
+      "成瘾",
+      "黑色电影",
+      "自白"
+    ],
+    "featured": false,
+    "curator_note": "关于酒精依赖的通行译法；以简短悖论呈现唐的失控循环。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 44000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-lost-weekend-1945.jpg",
+    "still": "assets/stills/classics/the-lost-weekend-1945.jpg",
+    "still_alt": "失去的周末 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-lost-weekend-1945.jpg）（影片页 https://www.themoviedb.org/movie/28580）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "matter-of-life-and-death-gravity",
+    "line": "没有什么比引力定律更强大。",
+    "line_en": "Nothing is stronger than the law of gravity.",
+    "film_title": "生死问题",
+    "film_title_en": "A Matter of Life and Death",
+    "year": 1946,
+    "character": "彼得·卡特",
+    "director": "迈克尔·鲍威尔 / 埃默里克·普雷斯伯格",
+    "tags": [
+      "爱情",
+      "奇幻",
+      "生死"
+    ],
+    "featured": false,
+    "curator_note": "生死法庭语境中的通行意译；影片以它把超现实奇观拉回物理世界。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 28000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-matter-of-life-and-death-1946.jpg",
+    "still": "assets/stills/classics/a-matter-of-life-and-death-1946.jpg",
+    "still_alt": "生死问题 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-matter-of-life-and-death-1946.jpg）（影片页 https://www.themoviedb.org/movie/28162）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "beauty-and-beast-love-beauty",
+    "line": "真正的美，是心灵的美。",
+    "line_en": "True beauty is found within.",
+    "film_title": "美女与野兽",
+    "film_title_en": "Beauty and the Beast",
+    "year": 1946,
+    "character": "野兽",
+    "director": "让·科克托",
+    "tags": [
+      "童话",
+      "爱情",
+      "奇幻"
+    ],
+    "featured": false,
+    "curator_note": "童话寓言主题的通行意译；不冒充逐字字幕，强调影片对外表与内心的反转。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 26000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/beauty-and-the-beast-1946.jpg",
+    "still": "assets/stills/classics/beauty-and-the-beast-1946.jpg",
+    "still_alt": "美女与野兽 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/beauty-and-the-beast-1946.jpg）（影片页 https://www.themoviedb.org/movie/648）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "black-narcissus-all-in-your-mind",
+    "line": "这一切都在你的脑子里。",
+    "line_en": "It’s all in your mind.",
+    "film_title": "黑水仙",
+    "film_title_en": "Black Narcissus",
+    "year": 1947,
+    "character": "露丝修女",
+    "director": "迈克尔·鲍威尔 / 埃默里克·普雷斯伯格",
+    "tags": [
+      "心理",
+      "信仰",
+      "欲望"
+    ],
+    "featured": false,
+    "curator_note": "修道院心理崩解语境中的通行短句；将外部风景与内心欲望折叠在一起。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 35000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/black-narcissus-1947.jpg",
+    "still": "assets/stills/classics/black-narcissus-1947.jpg",
+    "still_alt": "黑水仙 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/black-narcissus-1947.jpg）（影片页 https://www.themoviedb.org/movie/16391）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "out-of-the-past-never-get-away",
+    "line": "你永远逃不掉。",
+    "line_en": "You can never get away from it.",
+    "film_title": "漩涡之外",
+    "film_title_en": "Out of the Past",
+    "year": 1947,
+    "character": "杰夫·贝利",
+    "director": "雅克·特纳",
+    "tags": [
+      "黑色电影",
+      "宿命",
+      "犯罪"
+    ],
+    "featured": false,
+    "curator_note": "黑色电影宿命主题的通行译法；杰夫知道过去并不会放过他。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 42000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/out-of-the-past-1947.jpg",
+    "still": "assets/stills/classics/out-of-the-past-1947.jpg",
+    "still_alt": "漩涡之外 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/out-of-the-past-1947.jpg）（影片页 https://www.themoviedb.org/movie/678）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "spring-in-a-small-town-i-shouldnt-have-returned",
+    "line": "我本不该回来，可我还是回来了。",
+    "line_en": "I shouldn’t have come back, but I came back anyway.",
+    "film_title": "小城之春",
+    "film_title_en": "Spring in a Small Town",
+    "year": 1948,
+    "character": "戴秀梅",
+    "director": "费穆",
+    "tags": [
+      "爱情",
+      "家庭",
+      "中国电影"
+    ],
+    "featured": false,
+    "curator_note": "戴秀梅旁白式意译；以克制语气保留旧情重返小城的重量。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 9000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/spring-in-a-small-town-1948.jpg",
+    "still": "assets/stills/classics/spring-in-a-small-town-1948.jpg",
+    "still_alt": "小城之春 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/spring-in-a-small-town-1948.jpg）（影片页 https://www.themoviedb.org/movie/21058）；静帧：TMDB backdrop/宣传图 undefined（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "red-shoes-why-dance-live",
+    "line": "你为什么想跳舞？——你为什么想活着？",
+    "line_en": "Why do you want to dance? — Why do you want to live?",
+    "film_title": "红菱艳",
+    "film_title_en": "The Red Shoes",
+    "year": 1948,
+    "character": "鲍里斯·莱蒙托夫 / 维多利亚·佩吉",
+    "director": "迈克尔·鲍威尔 / 埃默里克·普雷斯伯格",
+    "tags": [
+      "艺术",
+      "爱情",
+      "芭蕾"
+    ],
+    "featured": false,
+    "curator_note": "影片最著名的艺术选择对话；通行字幕译法，舞蹈与生命在此互为隐喻。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 42000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-red-shoes-1948.jpg",
+    "still": "assets/stills/classics/the-red-shoes-1948.jpg",
+    "still_alt": "红菱艳 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-red-shoes-1948.jpg）（影片页 https://www.themoviedb.org/movie/19542）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "late-spring-no-intention-of-marrying",
+    "line": "我没有结婚的打算。",
+    "line_en": "I have no intention of marrying.",
+    "film_title": "晚春",
+    "film_title_en": "Late Spring",
+    "year": 1949,
+    "character": "纪子",
+    "director": "小津安二郎",
+    "tags": [
+      "家庭",
+      "婚姻",
+      "日本电影"
+    ],
+    "featured": false,
+    "curator_note": "纪子面对婚姻安排的克制回答；以短句呈现小津式日常对话的余韵。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 25000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/late-spring-1949.jpg",
+    "still": "assets/stills/classics/late-spring-1949.jpg",
+    "still_alt": "晚春 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/late-spring-1949.jpg）（影片页 https://www.themoviedb.org/movie/20530）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "los-olvidados-bad-people",
+    "line": "没有坏人，只有坏的环境。",
+    "line_en": "There are no bad people, only bad circumstances.",
+    "film_title": "被遗忘的人们",
+    "film_title_en": "Los Olvidados",
+    "year": 1950,
+    "character": "片首旁白",
+    "director": "路易斯·布努埃尔",
+    "tags": [
+      "社会",
+      "贫困",
+      "现实主义"
+    ],
+    "featured": false,
+    "curator_note": "片首社会寓言的通行意译；影片随后用残酷现实反问这句乐观判断。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 29000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/los-olvidados-1950.jpg",
+    "still": "assets/stills/classics/los-olvidados-1950.jpg",
+    "still_alt": "被遗忘的人们 · TMDB 宣传静帧（2342×1317）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/los-olvidados-1950.jpg）（影片页 https://www.themoviedb.org/movie/800）；静帧：TMDB backdrop/宣传图 undefined（2342×1317）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "orpheus-remain-immortal",
+    "line": "重要的是保持不朽。",
+    "line_en": "The important thing is to remain immortal.",
+    "film_title": "奥菲斯",
+    "film_title_en": "Orpheus",
+    "year": 1950,
+    "character": "奥菲斯",
+    "director": "让·科克托",
+    "tags": [
+      "诗歌",
+      "死亡",
+      "奇幻"
+    ],
+    "featured": false,
+    "curator_note": "诗人与死亡对话的通行意译；不朽在片中既是艺术理想，也是诅咒。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 26000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/orpheus-1950.jpg",
+    "still": "assets/stills/classics/orpheus-1950.jpg",
+    "still_alt": "奥菲斯 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/orpheus-1950.jpg）（影片页 https://www.themoviedb.org/movie/4558）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "monsieur-hulot-holidays-after-all",
+    "line": "毕竟，这是假期。",
+    "line_en": "After all, it’s the holidays.",
+    "film_title": "于洛先生的假期",
+    "film_title_en": "Monsieur Hulot's Holiday",
+    "year": 1953,
+    "character": "于洛先生",
+    "director": "雅克·塔蒂",
+    "tags": [
+      "喜剧",
+      "假期",
+      "默片式喜剧"
+    ],
+    "featured": false,
+    "curator_note": "以片中极少量对白的通行意译呈现；塔蒂的核心笑点更多依靠声音、节奏与身体动作。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 19000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/monsieur-hulot-s-holiday-1953.jpg",
+    "still": "assets/stills/classics/monsieur-hulot-s-holiday-1953.jpg",
+    "still_alt": "于洛先生的假期 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/monsieur-hulot-s-holiday-1953.jpg）（影片页 https://www.themoviedb.org/movie/778）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "diabolique-make-sure-corpse-dead",
+    "line": "第一件事，是确认尸体真的死了。",
+    "line_en": "The first thing is to make sure the corpse is dead.",
+    "film_title": "恶女狄亚波莉克",
+    "film_title_en": "Diabolique",
+    "year": 1955,
+    "character": "米歇尔·德拉萨勒",
+    "director": "亨利-乔治·克鲁佐",
+    "tags": [
+      "悬疑",
+      "惊悚",
+      "罪疚"
+    ],
+    "featured": false,
+    "curator_note": "黑色幽默式谋杀计划对白的通行意译；为影片的尸体与幻觉游戏埋下冷酷伏笔。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 72000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/diabolique-1955.jpg",
+    "still": "assets/stills/classics/diabolique-1955.jpg",
+    "still_alt": "恶女狄亚波莉克 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/diabolique-1955.jpg）（影片页 https://www.themoviedb.org/movie/827）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "ordet-i-believe-in-god",
+    "line": "我相信上帝。",
+    "line_en": "I believe in God.",
+    "film_title": "词语",
+    "film_title_en": "Ordet",
+    "year": 1955,
+    "character": "约翰内斯·博尔根",
+    "director": "卡尔·西奥多·德莱叶",
+    "tags": [
+      "信仰",
+      "奇迹",
+      "家庭"
+    ],
+    "featured": false,
+    "curator_note": "约翰内斯的信仰宣言；中文采用通行译法，保留其在家庭争论中的直截了当。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 19000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/ordet-1955.jpg",
+    "still": "assets/stills/classics/ordet-1955.jpg",
+    "still_alt": "词语 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ordet-1955.jpg）（影片页 https://www.themoviedb.org/movie/48035）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "aparajito-i-want-to-go-calcutta",
+    "line": "我想去加尔各答。",
+    "line_en": "I want to go to Calcutta.",
+    "film_title": "不可征服",
+    "film_title_en": "Aparajito",
+    "year": 1956,
+    "character": "阿普",
+    "director": "萨蒂亚吉特·雷伊",
+    "tags": [
+      "成长",
+      "母子",
+      "印度电影"
+    ],
+    "featured": false,
+    "curator_note": "阿普离开乡村、追求教育与新生活的关键愿望；中文采用通行字幕译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/aparajito-1956.jpg",
+    "still": "assets/stills/classics/aparajito-1956.jpg",
+    "still_alt": "不可征服 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/aparajito-1956.jpg）（影片页 https://www.themoviedb.org/movie/897）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "searchers-thatll-be-the-day",
+    "line": "就是那一天。",
+    "line_en": "That’ll be the day.",
+    "film_title": "搜索者",
+    "film_title_en": "The Searchers",
+    "year": 1956,
+    "character": "伊桑·爱德华兹",
+    "director": "约翰·福特",
+    "tags": [
+      "西部",
+      "复仇",
+      "归返"
+    ],
+    "featured": false,
+    "curator_note": "伊桑反复说出的宿命式短句；中文采用语气化意译，保留其冷硬与预言感。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 100000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-searchers-1956.jpg",
+    "still": "assets/stills/classics/the-searchers-1956.jpg",
+    "still_alt": "搜索者 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-searchers-1956.jpg）（影片页 https://www.themoviedb.org/movie/3114）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "throne-of-blood-spiders-web",
+    "line": "蜘蛛的巢穴很难逃脱。",
+    "line_en": "The spider’s web is hard to escape.",
+    "film_title": "蜘蛛巢城",
+    "film_title_en": "Throne of Blood",
+    "year": 1957,
+    "character": "鹫津武时",
+    "director": "黑泽明",
+    "tags": [
+      "权力",
+      "宿命",
+      "莎士比亚改编"
+    ],
+    "featured": false,
+    "curator_note": "影片「蜘蛛巢城」意象对应的通行意译；命运像森林迷宫一样逐步收紧。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 45000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/throne-of-blood-1957.jpg",
+    "still": "assets/stills/classics/throne-of-blood-1957.jpg",
+    "still_alt": "蜘蛛巢城 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/throne-of-blood-1957.jpg）（影片页 https://www.themoviedb.org/movie/3777）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]
