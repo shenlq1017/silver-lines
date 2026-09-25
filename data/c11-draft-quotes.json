@@ -16,10 +16,11 @@
       "排除 data/quotes.json 与 C6–C10 drafts/candidates；quotes.json 未修改",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json",
+      "meta.merged=true；已并入 quotes.json published 524（499+25）；merged_at=2026-09-25T12:35:13+08:00",
       "本批取尽 batch-jia2 剩余池；thereafter remaining-after-C11 应为 0"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T12:35:13+08:00"
   },
   "quotes": [
     {
@@ -168,7 +169,7 @@
       "curator_note": "通行引录：回乡富婆以巨额赔偿换取旧情人性命时的宣言式对白，影评与发行材料常引此句。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 1500
         },
         "as_of": "2026-09-25",
@@ -264,7 +265,7 @@
       "curator_note": "朵拉留给若苏埃的告别信/旁白通行中译；葡语原意强调思念与被遗忘的恐惧。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 45000
         },
         "as_of": "2026-09-25",
@@ -456,7 +457,7 @@
       "curator_note": "塞尔玛与杰夫铁路桥上的歌曲《I've Seen It All》主句；属片中歌唱对白，通行可核验。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 120000
         },
         "as_of": "2026-09-25",
@@ -520,7 +521,7 @@
       "curator_note": "开场日食演示段落的通行译法；亚诺什用醉汉排演出日食，Goodreads/影评常引 You are the sun…。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 18000
         },
         "as_of": "2026-09-25",
@@ -648,7 +649,7 @@
       "curator_note": "贝尼尼奥劝马可对昏迷的爱人说话的通行对白；片名即由此来。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 130000
         },
         "as_of": "2026-09-25",

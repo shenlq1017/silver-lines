@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>金句详情 · 银幕金句</title>
+  <meta name="description" content="银幕金句详情：静帧叠字与评分徽章">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../assets/css/style.css">
+</head>
+<body class="page-detail" data-base="../../">
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="logo" href="../../">银幕金句 <span>Silver Lines</span></a>
+      <nav>
+        <ul class="nav">
+          <li><a class="back-link" href="../">← 返回金句墙</a></li>
+          <li><a href="../../">首页</a></li>
+          <li><a href="../" aria-current="page">金句</a></li>
+          <li><a href="../../about/">关于</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="detail-root">
+    <p class="error-msg" style="margin:2rem">加载中…</p>
+  </main>
+
+  <footer class="site-footer site-footer--slim">
+    <p>示意非原片截帧</p>
+  </footer>
+
+  <script src="../../assets/js/ratings.js"></script>
+  <script src="../../assets/js/site.js"></script>
+  <script>
+    (function () {
+      function quoteIdFromPath() {
+        const parts = location.pathname.replace(/\/+$/, "").split("/");
+        return parts[parts.length - 1] || "";
+      }
+
+      (async function () {
+        const root = document.getElementById("detail-root");
+        const id = quoteIdFromPath();
+        try {
+          const quotes = await SilverSite.loadQuotes();
+          const q = quotes.find(function (x) {
+            return x.id === id;
+          });
+          if (!q) {
+            root.innerHTML =
+              '<p class="error-msg" style="margin:2rem">未找到金句「' +
+              SilverSite.escapeHtml(id) +
+              '」。<a href="../">返回列表</a></p>';
+            return;
+          }
+          if (q.status && q.status !== "published") {
+            root.innerHTML =
+              '<p class="error-msg" style="margin:2rem">该条目尚未上架。<a href="../">返回列表</a></p>';
+            return;
+          }
+          root.innerHTML = SilverSite.renderDetail(q);
+          SilverSite.bindDetailInfoPanel(root);
+        } catch (e) {
+          root.innerHTML =
+            '<p class="error-msg" style="margin:2rem">无法加载数据。请从站点根启动 http.server。</p>';
+          console.error(e);
+        }
+      })();
+    })();
+  </script>
+</body>
+</html>
