@@ -28,7 +28,9 @@
       "featured 草稿内仅 5 条；并入时整库仍应收束≈5",
       "未改 quotes.json；未跑 sync-quote-pages；未 push"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T10:28:41+08:00",
+    "merged_note": "已并入 quotes.json Top197（M10）；本文件保留 draft 正文备份（含 rank/status=draft）。featured 草稿标记未采用，整库收束为既有 5。"
   },
   "quotes": [
     {
@@ -418,7 +420,7 @@
       "curator_note": "上帝之城开篇即生存谚语：在贫民窟编年史里，这句话既是励志，也是暴力的时间表。通行定译。",
       "ratings": {
         "douban": {
-          "score": 9.0,
+          "score": 9,
           "votes": 400000
         },
         "imdb": {
@@ -463,7 +465,7 @@
           "votes": 450000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 190000
         },
         "as_of": "2026-09-25",
@@ -586,7 +588,7 @@
           "votes": 300000
         },
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 7000
         },
         "as_of": "2026-09-25",
@@ -709,7 +711,7 @@
           "votes": 200000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 2500
         },
         "as_of": "2026-09-25",
@@ -910,7 +912,7 @@
       "curator_note": "东京教父把流浪汉拾婴写成都市福音：垃圾堆与霓虹里的临时家庭。题旨凝练，对应「被抛弃者也配得奇迹」，已标边界。",
       "ratings": {
         "douban": {
-          "score": 9.0,
+          "score": 9,
           "votes": 400000
         },
         "imdb": {
