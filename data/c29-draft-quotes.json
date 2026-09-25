@@ -1,0 +1,974 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T14:41:53+08:00",
+    "purpose": "C29 classics×25 草稿：batch-ding quotes-only 可核对对白；merged=false，未并入 quotes.json",
+    "batch": "batch-ding",
+    "batch_note": "丁线 seed slots 1001–1150；dialogue-bias curatable-preflight×140 → 质量优先取样≥30 → 静帧全过 → 核证后保留25",
+    "selection_source": "tmp/c29-draft/candidates.json + data/classics-ext/batch-ding.json",
+    "stills_source": "tmp/stills-c29/index-fragment.json",
+    "count": 25,
+    "merged": false,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "source_mix": {
+      "batch-ding": 25
+    },
+    "notes": [
+      "quotes-only 政策（2026-09-25）：每片仅一条可核对银幕对白；禁止主题性策展句／非逐字 paraphrases。",
+      "核证依据写入 curator_note（通行译法／字幕对白／Wikiquote／IMDb quotes／AFI 等）；角色字段为说话人物。",
+      "候选40 → 静帧全过（ok40+actual0）→ 核证保留25；不可核证 dropped×13；可核但名额让位×2（almost-famous／field-of-dreams）。",
+      "质量优先：在可核证片名中按 TMDB vote_average 再 vote_count 排序取至多25。",
+      "静帧／海报资产：保留片的资产已入库；未入选片的海报／静帧留作 orphan（不删除）。",
+      "C28 is LIVE Top926 — HOLD merge（本草稿不并入 quotes.json）。",
+      "meta.merged=false；NO push；未改 quotes.json。"
+    ],
+    "updated_at": "2026-09-25T14:42:13+08:00",
+    "dropped_unverifiable": [
+      "joint-security-area-2000",
+      "philadelphia-1993",
+      "beauty-and-the-beast-1991",
+      "brazil-1985",
+      "who-s-afraid-of-virginia-woolf-1966",
+      "the-others-2001",
+      "kramer-vs-kramer-1979",
+      "the-sea-inside-2004",
+      "police-story-1985",
+      "true-romance-1993",
+      "good-bye-lenin-2003",
+      "the-french-connection-1971",
+      "glory-1989"
+    ],
+    "verified_alternates_not_kept": [
+      "almost-famous-2000",
+      "field-of-dreams-1989"
+    ]
+  },
+  "quotes": [
+    {
+      "id": "dogday-attica",
+      "line": "阿提卡！阿提卡！",
+      "line_en": "Attica! Attica!",
+      "film_title": "热天午后",
+      "film_title_en": "Dog Day Afternoon",
+      "year": 1975,
+      "character": "桑尼·沃尔奇克 / Sonny Wortzik",
+      "director": "西德尼·吕美特",
+      "tags": [
+        "反抗",
+        "人质",
+        "纽约",
+        "呼喊"
+      ],
+      "featured": false,
+      "curator_note": "桑尼对街人群与警察高喊的对白（片中反复）；AFI 百大电影台词第86；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 3514
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/dog-day-afternoon-1975.jpg",
+      "still": "assets/stills/classics/dog-day-afternoon-1975.jpg",
+      "still_alt": "热天午后 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dog-day-afternoon-1975.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/968）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kXkgju8nRFggBKxSKbup19G7gD0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 968,
+      "slug": "dog-day-afternoon-1975",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "ygfrank-alive",
+      "line": "活了！它活了！它活了！",
+      "line_en": "Alive! It's alive! It's ALIVE!",
+      "film_title": "新科学怪人",
+      "film_title_en": "Young Frankenstein",
+      "year": 1974,
+      "character": "弗雷德里克·弗兰肯斯坦 / Dr. Frederick Frankenstein",
+      "director": "梅尔·布鲁克斯",
+      "tags": [
+        "喜剧",
+        "科学怪人",
+        "狂欢",
+        "戏仿"
+      ],
+      "featured": false,
+      "curator_note": "弗雷德里克造出怪物瞬间的对白（戏仿原作经典句）；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 3485
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/young-frankenstein-1974.jpg",
+      "still": "assets/stills/classics/young-frankenstein-1974.jpg",
+      "still_alt": "新科学怪人 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/young-frankenstein-1974.jpg，1594×2391）（影片页 https://www.themoviedb.org/movie/3034）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6fjpr4C2JHqF2QlbNUEQKo930KY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 3034,
+      "slug": "young-frankenstein-1974",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "dww-friend",
+      "line": "与狼共舞！我是风中之发。你看得见我是你的朋友吗？你看得见你会永远是我的朋友吗？",
+      "line_en": "Dances With Wolves! I am Wind In His Hair. Do you see that I am your friend? Can you see that you will always be my friend?",
+      "film_title": "与狼共舞",
+      "film_title_en": "Dances with Wolves",
+      "year": 1990,
+      "character": "风中之发 / Wind In His Hair",
+      "director": "凯文·科斯特纳",
+      "tags": [
+        "友情",
+        "告别",
+        "苏族",
+        "西部"
+      ],
+      "featured": false,
+      "curator_note": "风中之发在山脊上对与狼共舞高喊的拉科塔语对白（英文字幕）；Wikiquote／IMDb quotes／通行字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 4831
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/dances-with-wolves-1990.jpg",
+      "still": "assets/stills/classics/dances-with-wolves-1990.jpg",
+      "still_alt": "与狼共舞 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dances-with-wolves-1990.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/581）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2BSujoWEqlo7WdnGP4IdI6D25vl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 581,
+      "slug": "dances-with-wolves-1990",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "liberty-legend",
+      "line": "先生，这就是西部。当传说变成事实，就刊登传说。",
+      "line_en": "This is the West, sir. When the legend becomes fact, print the legend.",
+      "film_title": "双虎屠龙",
+      "film_title_en": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "character": "麦克斯韦·斯科特 / Maxwell Scott",
+      "director": "约翰·福特",
+      "tags": [
+        "西部",
+        "传说",
+        "新闻",
+        "真相"
+      ],
+      "featured": false,
+      "curator_note": "报馆主编斯科特对伦索姆·斯托达德说出的对白；Wikiquote／IMDb quotes／AFI 常引；片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 1339
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-man-who-shot-liberty-valance-1962.jpg",
+      "still": "assets/stills/classics/the-man-who-shot-liberty-valance-1962.jpg",
+      "still_alt": "双虎屠龙 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-man-who-shot-liberty-valance-1962.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/11697）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/n0KKdHQdGvRPbpLsT7UQ61W5YD4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11697,
+      "slug": "the-man-who-shot-liberty-valance-1962",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "shrek-onions",
+      "line": "怪物就像洋葱。",
+      "line_en": "Ogres are like onions.",
+      "film_title": "怪物史莱克",
+      "film_title_en": "Shrek",
+      "year": 2001,
+      "character": "史莱克 / Shrek",
+      "director": "安德鲁·亚当森／维琪·詹森",
+      "tags": [
+        "动画",
+        "自我",
+        "洋葱",
+        "友谊"
+      ],
+      "featured": false,
+      "curator_note": "史莱克对驴子解释「怪物有层次」时的对白；Wikiquote／IMDb quotes／通行华语配音／字幕可核（后接「洋葱有一层一层」）。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 19341
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/shrek-2001.jpg",
+      "still": "assets/stills/classics/shrek-2001.jpg",
+      "still_alt": "怪物史莱克 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/shrek-2001.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/808）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 808,
+      "slug": "shrek-2001",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "misery-fan",
+      "line": "我是你的头号书迷。",
+      "line_en": "I'm your number one fan.",
+      "film_title": "危情十日",
+      "film_title_en": "Misery",
+      "year": 1990,
+      "character": "安妮·威尔克斯 / Annie Wilkes",
+      "director": "罗伯·莱纳",
+      "tags": [
+        "惊悚",
+        "粉丝",
+        "囚禁",
+        "金·凯瑞"
+      ],
+      "featured": false,
+      "curator_note": "安妮初见保罗时说出的对白（后反复出现）；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 5424
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/misery-1990.jpg",
+      "still": "assets/stills/classics/misery-1990.jpg",
+      "still_alt": "危情十日 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/misery-1990.jpg，1600×2400）（影片页 https://www.themoviedb.org/movie/1700）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1700,
+      "slug": "misery-1990",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "breakfast-bizarre",
+      "line": "我们都很古怪。只不过有些人更擅长掩饰罢了。",
+      "line_en": "We're all pretty bizarre. Some of us are just better at hiding it, that's all.",
+      "film_title": "早餐俱乐部",
+      "film_title_en": "The Breakfast Club",
+      "year": 1985,
+      "character": "安德鲁·克拉克 / Andrew Clark",
+      "director": "约翰·休斯",
+      "tags": [
+        "青春",
+        "身份",
+        "周六禁闭",
+        "坦白"
+      ],
+      "featured": false,
+      "curator_note": "安德鲁在图书馆对其他人说出的对白；Wikiquote／IMDb quotes／通行字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 8742
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-breakfast-club-1985.jpg",
+      "still": "assets/stills/classics/the-breakfast-club-1985.jpg",
+      "still_alt": "早餐俱乐部 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-breakfast-club-1985.jpg，1365×2048）（影片页 https://www.themoviedb.org/movie/2108）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/s5HDOmFZaPVQFjk9BxxDrLu1T0g.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 2108,
+      "slug": "the-breakfast-club-1985",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "bride-inigo",
+      "line": "你好。我叫伊尼戈·蒙托亚。你杀了我父亲。准备受死吧。",
+      "line_en": "Hello. My name is Inigo Montoya. You killed my father. Prepare to die.",
+      "film_title": "公主新娘",
+      "film_title_en": "The Princess Bride",
+      "year": 1987,
+      "character": "伊尼戈·蒙托亚 / Inigo Montoya",
+      "director": "罗伯·莱纳",
+      "tags": [
+        "复仇",
+        "决斗",
+        "冒险",
+        "真爱"
+      ],
+      "featured": false,
+      "curator_note": "伊尼戈对六指伯爵反复说出的对白；AFI／Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 5297
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-princess-bride-1987.jpg",
+      "still": "assets/stills/classics/the-princess-bride-1987.jpg",
+      "still_alt": "公主新娘 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-princess-bride-1987.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/2493）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 2493,
+      "slug": "the-princess-bride-1987",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "castaway-tide",
+      "line": "我必须继续呼吸。因为明天太阳还会升起。谁知道潮水会带来什么呢？",
+      "line_en": "I have to keep breathing. Because tomorrow the sun will rise. Who knows what the tide could bring?",
+      "film_title": "荒岛余生",
+      "film_title_en": "Cast Away",
+      "year": 2000,
+      "character": "查克·诺兰 / Chuck Noland",
+      "director": "罗伯特·泽米吉斯",
+      "tags": [
+        "生存",
+        "希望",
+        "荒岛",
+        "独白"
+      ],
+      "featured": false,
+      "curator_note": "查克获救后晚宴上的独白／对白；Wikiquote／IMDb quotes／通行字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 12575
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/cast-away-2000.jpg",
+      "still": "assets/stills/classics/cast-away-2000.jpg",
+      "still_alt": "荒岛余生 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/cast-away-2000.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/8358）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3Epsjs0q4gbkusvAVcCBUCwnjeo.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 8358,
+      "slug": "cast-away-2000",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "apes-blew",
+      "line": "你们这些疯子！你们把它炸掉了！该死！你们都该死！",
+      "line_en": "You Maniacs! You blew it up! God damn you! God damn you all to hell!",
+      "film_title": "人猿星球",
+      "film_title_en": "Planet of the Apes",
+      "year": 1968,
+      "character": "乔治·泰勒 / George Taylor",
+      "director": "富兰克林·J·沙夫纳",
+      "tags": [
+        "反乌托邦",
+        "末日",
+        "自由女神",
+        "科幻"
+      ],
+      "featured": false,
+      "curator_note": "泰勒跪在自由女神像残骸前的末句对白；AFI 百大电影台词第66；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 4122
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/planet-of-the-apes-1968.jpg",
+      "still": "assets/stills/classics/planet-of-the-apes-1968.jpg",
+      "still_alt": "人猿星球 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/planet-of-the-apes-1968.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/871）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 871,
+      "slug": "planet-of-the-apes-1968",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "streetcar-strangers",
+      "line": "不管你是谁——我一向仰赖陌生人的善意。",
+      "line_en": "Whoever you are—I have always depended on the kindness of strangers.",
+      "film_title": "欲望号街车",
+      "film_title_en": "A Streetcar Named Desire",
+      "year": 1951,
+      "character": "布兰奇·杜波依斯 / Blanche DuBois",
+      "director": "伊利亚·卡赞",
+      "tags": [
+        "戏剧",
+        "南方",
+        "幻觉",
+        "悲剧"
+      ],
+      "featured": false,
+      "curator_note": "布兰奇被送走前对医生说出的对白（田纳西·威廉斯原剧句入片）；AFI 百大电影台词第75；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 1527
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/a-streetcar-named-desire-1951.jpg",
+      "still": "assets/stills/classics/a-streetcar-named-desire-1951.jpg",
+      "still_alt": "欲望号街车 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-streetcar-named-desire-1951.jpg，1180×1770）（影片页 https://www.themoviedb.org/movie/702）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nupLvXUu7ImxB2pKdS3jnpeEOVY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 702,
+      "slug": "a-streetcar-named-desire-1951",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "beingthere-watch",
+      "line": "我喜欢看。",
+      "line_en": "I like to watch.",
+      "film_title": "在那里",
+      "film_title_en": "Being There",
+      "year": 1979,
+      "character": "钱斯／园丁 / Chance the Gardner",
+      "director": "哈尔·阿什比",
+      "tags": [
+        "讽刺",
+        "电视",
+        "误解",
+        "政治"
+      ],
+      "featured": false,
+      "curator_note": "钱斯多次说出的标志性对白（被权贵误读）；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 1165
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/being-there-1979.jpg",
+      "still": "assets/stills/classics/being-there-1979.jpg",
+      "still_alt": "在那里 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/being-there-1979.jpg，1778×2666）（影片页 https://www.themoviedb.org/movie/10322）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lzB7ehFA3XQH1rD4kCE2aziAzFO.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 10322,
+      "slug": "being-there-1979",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "harold-live",
+      "line": "L-I-V-E。活着！不然更衣室里你就没什么好吹的。",
+      "line_en": "L-I-V-E. Live! Otherwise, you've got nothing to talk about in the locker room.",
+      "film_title": "哈罗德与莫德",
+      "film_title_en": "Harold and Maude",
+      "year": 1971,
+      "character": "莫德 / Maude",
+      "director": "哈尔·阿什比",
+      "tags": [
+        "生命",
+        "黑色幽默",
+        "忘年",
+        "自由"
+      ],
+      "featured": false,
+      "curator_note": "莫德劝哈罗德抓住生命时的对白；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 1247
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/harold-and-maude-1971.jpg",
+      "still": "assets/stills/classics/harold-and-maude-1971.jpg",
+      "still_alt": "哈罗德与莫德 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/harold-and-maude-1971.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/343）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jKgfnnCATAg4fxMfS0LZThmqOZB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 343,
+      "slug": "harold-and-maude-1971",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "fewgood-truth",
+      "line": "你承受不了真相！",
+      "line_en": "You can't handle the truth!",
+      "film_title": "好人寥寥",
+      "film_title_en": "A Few Good Men",
+      "year": 1992,
+      "character": "纳森·杰塞普上校 / Col. Nathan R. Jessup",
+      "director": "罗伯·莱纳",
+      "tags": [
+        "法庭",
+        "军法",
+        "真相",
+        "权力"
+      ],
+      "featured": false,
+      "curator_note": "杰塞普在军事法庭对卡菲中尉爆发的对白；AFI 百大电影台词第29；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 4334
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/a-few-good-men-1992.jpg",
+      "still": "assets/stills/classics/a-few-good-men-1992.jpg",
+      "still_alt": "好人寥寥 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-few-good-men-1992.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/881）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fZinFiSmvZQPdkbst3LxfwhbupH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 881,
+      "slug": "a-few-good-men-1992",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "ferris-fast",
+      "line": "人生过得很快。如果你不时停下来四处看看，可能就会错过它。",
+      "line_en": "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.",
+      "film_title": "春天不是读书天",
+      "film_title_en": "Ferris Bueller's Day Off",
+      "year": 1986,
+      "character": "费里斯·布勒 / Ferris Bueller",
+      "director": "约翰·休斯",
+      "tags": [
+        "青春",
+        "旷课",
+        "旁白",
+        "人生"
+      ],
+      "featured": false,
+      "curator_note": "费里斯开场／片末对镜头的旁白对白；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 5582
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/ferris-bueller-s-day-off-1986.jpg",
+      "still": "assets/stills/classics/ferris-bueller-s-day-off-1986.jpg",
+      "still_alt": "春天不是读书天 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ferris-bueller-s-day-off-1986.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/9377）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jehzP4JKiFzgTWIaASLFOJocJke.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 9377,
+      "slug": "ferris-bueller-s-day-off-1986",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "shaun-red",
+      "line": "你身上有红的。",
+      "line_en": "You've got red on you.",
+      "film_title": "丧尸肖恩",
+      "film_title_en": "Shaun of the Dead",
+      "year": 2004,
+      "character": "电视主播／众人（反复） / TV anchors / recurring",
+      "director": "埃德加·赖特",
+      "tags": [
+        "丧尸",
+        "喜剧",
+        "反复句",
+        "英国"
+      ],
+      "featured": false,
+      "curator_note": "片中反复出现的标志性对白（电视新闻主播等多次说出，后亦成角色间玩笑）；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 9644
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/shaun-of-the-dead-2004.jpg",
+      "still": "assets/stills/classics/shaun-of-the-dead-2004.jpg",
+      "still_alt": "丧尸肖恩 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/shaun-of-the-dead-2004.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/747）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 747,
+      "slug": "shaun-of-the-dead-2004",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "roger-drawn",
+      "line": "我不坏。我只是被画成这样。",
+      "line_en": "I'm not bad. I'm just drawn that way.",
+      "film_title": "谁陷害了兔子罗杰",
+      "film_title_en": "Who Framed Roger Rabbit",
+      "year": 1988,
+      "character": "杰西卡·拉比特 / Jessica Rabbit",
+      "director": "罗伯特·泽米吉斯",
+      "tags": [
+        "动画",
+        "身份",
+        "卡通",
+        "辩护"
+      ],
+      "featured": false,
+      "curator_note": "杰西卡对艾迪说出的对白；Wikiquote／IMDb quotes／通行字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 6355
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/who-framed-roger-rabbit-1988.jpg",
+      "still": "assets/stills/classics/who-framed-roger-rabbit-1988.jpg",
+      "still_alt": "谁陷害了兔子罗杰 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/who-framed-roger-rabbit-1988.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/856）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 856,
+      "slug": "who-framed-roger-rabbit-1988",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "training-kong",
+      "line": "金刚跟我比都算不了什么！",
+      "line_en": "King Kong ain't got shit on me!",
+      "film_title": "训练日",
+      "film_title_en": "Training Day",
+      "year": 2001,
+      "character": "阿隆佐·哈里斯 / Alonzo Harris",
+      "director": "安东尼·福奎阿",
+      "tags": [
+        "警察",
+        "堕落",
+        "咆哮",
+        "街头"
+      ],
+      "featured": false,
+      "curator_note": "阿隆佐在街头被围时的咆哮对白；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 6852
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/training-day-2001.jpg",
+      "still": "assets/stills/classics/training-day-2001.jpg",
+      "still_alt": "训练日 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/training-day-2001.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/2034）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lVk1hdbmKxtft7iY4II2tYEWker.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 2034,
+      "slug": "training-day-2001",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "et-phonehome",
+      "line": "E.T.打电话回家。",
+      "line_en": "E.T. phone home.",
+      "film_title": "E.T.外星人",
+      "film_title_en": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "character": "E.T.",
+      "director": "史蒂文·斯皮尔伯格",
+      "tags": [
+        "科幻",
+        "童年",
+        "回家",
+        "沟通"
+      ],
+      "featured": false,
+      "curator_note": "E.T.学会说话后反复说出的对白；AFI 百大电影台词第15；Wikiquote／IMDb quotes／通行华语字幕「E.T.打电话回家」可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 12274
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/e-t-the-extra-terrestrial-1982.jpg",
+      "still": "assets/stills/classics/e-t-the-extra-terrestrial-1982.jpg",
+      "still_alt": "E.T.外星人 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/e-t-the-extra-terrestrial-1982.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/601）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nxjkgFpYaT8PtySODYGxcOFa6pS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 601,
+      "slug": "e-t-the-extra-terrestrial-1982",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "rambo-firstblood",
+      "line": "是他们先见了血，不是我。",
+      "line_en": "They drew first blood, not me.",
+      "film_title": "第一滴血",
+      "film_title_en": "First Blood",
+      "year": 1982,
+      "character": "约翰·兰博 / John Rambo",
+      "director": "特德·科特切夫",
+      "tags": [
+        "越战",
+        "警察",
+        "逃亡",
+        "反击"
+      ],
+      "featured": false,
+      "curator_note": "兰博对特劳特上校说出的对白（片名点题）；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 7114
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/first-blood-1982.jpg",
+      "still": "assets/stills/classics/first-blood-1982.jpg",
+      "still_alt": "第一滴血 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/first-blood-1982.jpg，1600×2400）（影片页 https://www.themoviedb.org/movie/1368）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/teCZlGivejMw4rVzyxBSYQNr6XI.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1368,
+      "slug": "first-blood-1982",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "gb-scientist",
+      "line": "退后，伙计。我是科学家。",
+      "line_en": "Back off, man. I'm a scientist.",
+      "film_title": "捉鬼敢死队",
+      "film_title_en": "Ghostbusters",
+      "year": 1984,
+      "character": "彼得·文克曼 / Peter Venkman",
+      "director": "伊万·雷特曼",
+      "tags": [
+        "喜剧",
+        "超自然",
+        "科学家",
+        "纽约"
+      ],
+      "featured": false,
+      "curator_note": "文克曼在开场通灵研究场景的对白；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 10008
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/ghostbusters-1984.jpg",
+      "still": "assets/stills/classics/ghostbusters-1984.jpg",
+      "still_alt": "捉鬼敢死队 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ghostbusters-1984.jpg，1700×2550）（影片页 https://www.themoviedb.org/movie/620）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uUMiW6LbRyRWWPcglinQugBJWhF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 620,
+      "slug": "ghostbusters-1984",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "hero-tianxia",
+      "line": "一个人的痛苦与天下人比，便不再是痛苦。",
+      "line_en": "One person's pain, measured against all under heaven, is no longer pain.",
+      "film_title": "英雄",
+      "film_title_en": "Hero",
+      "year": 2002,
+      "character": "残剑 / Broken Sword",
+      "director": "张艺谋",
+      "tags": [
+        "天下",
+        "刺秦",
+        "和平",
+        "武侠"
+      ],
+      "featured": false,
+      "curator_note": "残剑劝无名放弃刺秦时的对白（与「天下」题旨相连）；华语原声／通行引述／影评常引可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 2597
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/hero-2002.jpg",
+      "still": "assets/stills/classics/hero-2002.jpg",
+      "still_alt": "英雄 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/hero-2002.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/79）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5cWwxxEj6B5ZvlnsfGbXd7pfkXd.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 79,
+      "slug": "hero-2002",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "harry-sally-having",
+      "line": "她点的，我也要一份。",
+      "line_en": "I'll have what she's having.",
+      "film_title": "当哈利遇上莎莉",
+      "film_title_en": "When Harry Met Sally...",
+      "year": 1989,
+      "character": "邻桌老妇人 / Older Woman Customer",
+      "director": "罗伯·莱纳",
+      "tags": [
+        "浪漫喜剧",
+        "餐厅",
+        "高潮",
+        "纽约"
+      ],
+      "featured": false,
+      "curator_note": "凯茨杀青餐厅戏中邻桌老妇人对服务员的对白（饰演者为导演母亲埃丝特尔·莱纳）；AFI 百大电影台词第33；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 4748
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/when-harry-met-sally-1989.jpg",
+      "still": "assets/stills/classics/when-harry-met-sally-1989.jpg",
+      "still_alt": "当哈利遇上莎莉 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/when-harry-met-sally-1989.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/639）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dbdegCWeD4iK5LXxSBjGdIRsVXS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 639,
+      "slug": "when-harry-met-sally-1989",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "wallstreet-greed",
+      "line": "贪婪——找不到更好的词——是好的。",
+      "line_en": "Greed, for lack of a better word, is good.",
+      "film_title": "华尔街",
+      "film_title_en": "Wall Street",
+      "year": 1987,
+      "character": "戈登·盖柯 / Gordon Gekko",
+      "director": "奥利弗·斯通",
+      "tags": [
+        "金融",
+        "贪婪",
+        "演讲",
+        "八〇年代"
+      ],
+      "featured": false,
+      "curator_note": "盖柯在特尔达纸业股东大会演讲中的对白；AFI 百大电影台词第57；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 2326
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/wall-street-1987.jpg",
+      "still": "assets/stills/classics/wall-street-1987.jpg",
+      "still_alt": "华尔街 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/wall-street-1987.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/10673）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 10673,
+      "slug": "wall-street-1987",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    },
+    {
+      "id": "jerry-hello",
+      "line": "你一说「你好」，我就已经心动了。",
+      "line_en": "You had me at \"hello.\"",
+      "film_title": "甜心先生",
+      "film_title_en": "Jerry Maguire",
+      "year": 1996,
+      "character": "多萝西·博伊德 / Dorothy Boyd",
+      "director": "卡梅伦·克罗",
+      "tags": [
+        "爱情",
+        "告白",
+        "体育经纪",
+        "重逢"
+      ],
+      "featured": false,
+      "curator_note": "多萝西回应杰瑞长篇告白时的对白；AFI 百大电影台词第52；Wikiquote／IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 3891
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/jerry-maguire-1996.jpg",
+      "still": "assets/stills/classics/jerry-maguire-1996.jpg",
+      "still_alt": "甜心先生 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/jerry-maguire-1996.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/9390）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/a66PKC32YVZISoqZtRQyz8c9Vx6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 9390,
+      "slug": "jerry-maguire-1996",
+      "batch": "batch-ding",
+      "source_wave": "c29-ding-quotes-only",
+      "pool": "ding",
+      "still_status": "ok"
+    }
+  ]
+}
