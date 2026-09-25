@@ -16,9 +16,10 @@
       "排除 data/quotes.json 与 C6/C7 candidates；quotes.json 未修改",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json"
+      "meta.merged=true；已并入 quotes.json published 449（424+25）；merged_at=2026-09-25T12:16:31+08:00"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T12:16:31+08:00"
   },
   "quotes": [
     {
@@ -489,7 +490,7 @@
       "curator_note": "片首题辞的通行意译；为影片关于罪、命运与职业伦理的冷峻世界定调。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 30000
         },
         "as_of": "2026-09-25",
@@ -809,7 +810,7 @@
       "curator_note": "片名与片中核心命题的通行译法；一句话收束偏见、孤独与跨文化爱情。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 35000
         },
         "as_of": "2026-09-25",
