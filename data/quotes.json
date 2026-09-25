@@ -12757,5 +12757,755 @@
     "still_alt": "码头风云 · 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/on-the-waterfront-1954.jpg）（影片页 https://www.themoviedb.org/movie/654）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6Thcrroze73TyEd7aFdN3gXIddY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "american-history-x-hate-baggage",
+    "line": "你以为仇恨让你更强，其实仇恨是一种负担。人生苦短，没必要一直带着怒火活着。",
+    "line_en": "Hate is baggage. Life’s too short to be pissed off all the time. It’s just not worth it.",
+    "film_title": "美国X档案",
+    "film_title_en": "American History X",
+    "year": 1998,
+    "character": "Derek Vinyard",
+    "director": "托尼·凯",
+    "tags": [
+      "剧情",
+      "成长",
+      "仇恨"
+    ],
+    "featured": false,
+    "curator_note": "仇恨不是力量，而是负重；这句收束了德里克从仇恨走向醒悟的弧线。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.5,
+        "votes": 1300000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/american-history-x-1998.jpg",
+    "still": "assets/stills/classics/american-history-x-1998.jpg",
+    "still_alt": "美国X档案 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/american-history-x-1998.jpg）（影片页 https://www.themoviedb.org/movie/73）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6qHI1IYj7QlLSCwHRzkL62X175s.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "logan-nature-made-freak",
+    "line": "自然让我成为怪物，人类让我成为武器，而上帝让我活得太久。",
+    "line_en": "Nature made me a freak. Man made me a weapon. And God made it last too long.",
+    "film_title": "金刚狼3：殊死一战",
+    "film_title_en": "Logan",
+    "year": 2017,
+    "character": "Logan",
+    "director": "詹姆斯·曼高德",
+    "tags": [
+      "科幻",
+      "告别",
+      "家庭"
+    ],
+    "featured": false,
+    "curator_note": "罗根的自我判词：超级英雄神话在衰老与告别中落地。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 850000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/logan-2017.jpg",
+    "still": "assets/stills/classics/logan-2017.jpg",
+    "still_alt": "金刚狼3：殊死一战 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/logan-2017.jpg）（影片页 https://www.themoviedb.org/movie/263115）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qTdCfGyDisY9e8BLycszlyTsPWx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "into-the-wild-happiness-shared",
+    "line": "幸福只有与人分享时才是真实的。",
+    "line_en": "Happiness is only real when shared.",
+    "film_title": "荒野生存",
+    "film_title_en": "Into the Wild",
+    "year": 2007,
+    "character": "Christopher McCandless",
+    "director": "西恩·潘",
+    "tags": [
+      "冒险",
+      "自由",
+      "孤独"
+    ],
+    "featured": false,
+    "curator_note": "荒野尽头的顿悟：自由并不等于拒绝人与人的连接。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 700000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/into-the-wild-2007.jpg",
+    "still": "assets/stills/classics/into-the-wild-2007.jpg",
+    "still_alt": "荒野生存 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/into-the-wild-2007.jpg）（影片页 https://www.themoviedb.org/movie/5915）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w8Br5nwFRgjfYdFqhxUpU9XuC0H.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "finding-nemo-just-keep-swimming",
+    "line": "当生活让你失望时，你知道该怎么办吗？继续游。继续游。",
+    "line_en": "When life gets you down, you know what you gotta do? Just keep swimming.",
+    "film_title": "海底总动员",
+    "film_title_en": "Finding Nemo",
+    "year": 2003,
+    "character": "Dory",
+    "director": "安德鲁·斯坦顿",
+    "tags": [
+      "动画",
+      "勇气",
+      "亲情"
+    ],
+    "featured": false,
+    "curator_note": "多莉把遗忘变成前进的节奏；一句儿童台词也能成为成人的生存箴言。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 1100000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/finding-nemo-2003.jpg",
+    "still": "assets/stills/classics/finding-nemo-2003.jpg",
+    "still_alt": "海底总动员 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/finding-nemo-2003.jpg）（影片页 https://www.themoviedb.org/movie/12）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pDMndR1yj7WHZmLTwzLxMu16xxD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "eeaao-be-here-with-you",
+    "line": "在所有可能的地方，我只想和你待在这里。",
+    "line_en": "Of all the places I could be, I just want to be here with you.",
+    "film_title": "瞬息全宇宙",
+    "film_title_en": "Everything Everywhere All at Once",
+    "year": 2022,
+    "character": "Waymond Wang",
+    "director": "关家永、丹尼尔·施纳特",
+    "tags": [
+      "科幻",
+      "亲情",
+      "选择"
+    ],
+    "featured": false,
+    "curator_note": "多重宇宙把选择题改写成陪伴题：留下来，本身就是答案。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 500000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/everything-everywhere-all-at-once-2022.jpg",
+    "still": "assets/stills/classics/everything-everywhere-all-at-once-2022.jpg",
+    "still_alt": "瞬息全宇宙 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/everything-everywhere-all-at-once-2022.jpg）（影片页 https://www.themoviedb.org/movie/545611）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "batman-why-we-fall",
+    "line": "我们为什么会跌倒？这样我们才能学会重新站起来。",
+    "line_en": "Why do we fall, Bruce? So we can learn to pick ourselves up.",
+    "film_title": "蝙蝠侠：开战时刻",
+    "film_title_en": "Batman Begins",
+    "year": 2005,
+    "character": "Alfred Pennyworth",
+    "director": "克里斯托弗·诺兰",
+    "tags": [
+      "成长",
+      "勇气",
+      "正义"
+    ],
+    "featured": false,
+    "curator_note": "蝙蝠侠起源的核心训诫：失败不是身份，重新站起才是。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 1600000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/batman-begins-2005.jpg",
+    "still": "assets/stills/classics/batman-begins-2005.jpg",
+    "still_alt": "蝙蝠侠：开战时刻 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/batman-begins-2005.jpg）（影片页 https://www.themoviedb.org/movie/272）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "infinity-war-hardest-choices",
+    "line": "最艰难的选择，需要最坚强的意志。",
+    "line_en": "The hardest choices require the strongest wills.",
+    "film_title": "复仇者联盟3：无限战争",
+    "film_title_en": "Avengers: Infinity War",
+    "year": 2018,
+    "character": "Thanos",
+    "director": "安东尼·罗素、乔·罗素",
+    "tags": [
+      "科幻",
+      "选择",
+      "牺牲"
+    ],
+    "featured": false,
+    "curator_note": "灭霸把牺牲说成哲学命题；正因其冷酷，才成为这部反英雄史诗的钥匙。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.4,
+        "votes": 1200000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/avengers-infinity-war-2018.jpg",
+    "still": "assets/stills/classics/avengers-infinity-war-2018.jpg",
+    "still_alt": "复仇者联盟3：无限战争 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/avengers-infinity-war-2018.jpg）（影片页 https://www.themoviedb.org/movie/299536）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "endgame-love-you-three-thousand",
+    "line": "我爱你三千遍。",
+    "line_en": "I love you three thousand.",
+    "film_title": "复仇者联盟4：终局之战",
+    "film_title_en": "Avengers: Endgame",
+    "year": 2019,
+    "character": "Morgan Stark",
+    "director": "安东尼·罗素、乔·罗素",
+    "tags": [
+      "科幻",
+      "亲情",
+      "告别"
+    ],
+    "featured": false,
+    "curator_note": "终局把宇宙级冒险收回一句家庭告白；简短而具有不可替代的情感重量。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.4,
+        "votes": 1300000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/avengers-endgame-2019.jpg",
+    "still": "assets/stills/classics/avengers-endgame-2019.jpg",
+    "still_alt": "复仇者联盟4：终局之战 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/avengers-endgame-2019.jpg）（影片页 https://www.themoviedb.org/movie/299534）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "to-be-or-not-to-be-shakespeare-poland",
+    "line": "他对莎士比亚做了什么，我们正在对波兰做什么。",
+    "line_en": "What he did to Shakespeare, we are now doing to Poland.",
+    "film_title": "生存还是毁灭",
+    "film_title_en": "To Be or Not to Be",
+    "year": 1942,
+    "character": "Greenberg",
+    "director": "恩斯特·刘别谦",
+    "tags": [
+      "喜剧",
+      "反战",
+      "讽刺"
+    ],
+    "featured": false,
+    "curator_note": "刘别谦把戏剧与现实并置，笑声背后是对纳粹暴力的尖锐反讽。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 45000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/to-be-or-not-to-be-1942.jpg",
+    "still": "assets/stills/classics/to-be-or-not-to-be-1942.jpg",
+    "still_alt": "生存还是毁灭 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/to-be-or-not-to-be-1942.jpg）（影片页 https://www.themoviedb.org/movie/198）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vQ2rRlTeZXTi1wZQurvBItNIg4W.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "sierra-madre-badges",
+    "line": "徽章？我们不需要徽章！",
+    "line_en": "Badges? We ain’t got no badges. We don’t need no badges!",
+    "film_title": "碧血金沙",
+    "film_title_en": "The Treasure of the Sierra Madre",
+    "year": 1948,
+    "character": "Gold Hat",
+    "director": "约翰·休斯顿",
+    "tags": [
+      "冒险",
+      "贪婪",
+      "黑色电影"
+    ],
+    "featured": false,
+    "curator_note": "淘金者与匪徒的荒诞交锋，成为电影史上最常被引用的反权威台词之一。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 300000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/the-treasure-of-the-sierra-madre-1948.jpg",
+    "still": "assets/stills/classics/the-treasure-of-the-sierra-madre-1948.jpg",
+    "still_alt": "碧血金沙 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-treasure-of-the-sierra-madre-1948.jpg）（影片页 https://www.themoviedb.org/movie/3090）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dbmPJixXf68wYpTeIRrPfPJF235.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "the-sting-gimmick",
+    "line": "你得有个噱头。",
+    "line_en": "You gotta have a gimmick.",
+    "film_title": "骗中骗",
+    "film_title_en": "The Sting",
+    "year": 1973,
+    "character": "Lonnegan",
+    "director": "乔治·罗伊·希尔",
+    "tags": [
+      "犯罪",
+      "骗局",
+      "喜剧"
+    ],
+    "featured": false,
+    "curator_note": "骗术不是只有技术，还要有能让观众上钩的戏法。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.3,
+        "votes": 280000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/the-sting-1973.jpg",
+    "still": "assets/stills/classics/the-sting-1973.jpg",
+    "still_alt": "骗中骗 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-sting-1973.jpg）（影片页 https://www.themoviedb.org/movie/9277）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qRsI4gy1yCU4DSaUfHUpMcsHQKC.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "grapes-of-wrath-wherever-fight",
+    "line": "凡是有饥饿的人在争取食物，凡是警察在打人，我都在那里。",
+    "line_en": "Wherever there’s a fight so hungry people can eat, I’ll be there.",
+    "film_title": "愤怒的葡萄",
+    "film_title_en": "The Grapes of Wrath",
+    "year": 1940,
+    "character": "Tom Joad",
+    "director": "约翰·福特",
+    "tags": [
+      "剧情",
+      "正义",
+      "尊严"
+    ],
+    "featured": false,
+    "curator_note": "汤姆·乔德的告别独白把个人流亡升为集体正义。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 100000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/the-grapes-of-wrath-1940.jpg",
+    "still": "assets/stills/classics/the-grapes-of-wrath-1940.jpg",
+    "still_alt": "愤怒的葡萄 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-grapes-of-wrath-1940.jpg）（影片页 https://www.themoviedb.org/movie/596）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xxJ68fIdrRa5pLerYRXsJm8K4aX.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "holy-grail-not-dead-yet",
+    "line": "我还没死呢！",
+    "line_en": "I’m not dead yet!",
+    "film_title": "巨蟒与圣杯",
+    "film_title_en": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "character": "The Not Dead Yet Man",
+    "director": "特里·吉列姆、特里·琼斯",
+    "tags": [
+      "喜剧",
+      "荒诞",
+      "生存"
+    ],
+    "featured": false,
+    "curator_note": "把死亡也变成笑点的荒诞宣言；语气越轻，反抗越顽强。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 550000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/monty-python-and-the-holy-grail-1975.jpg",
+    "still": "assets/stills/classics/monty-python-and-the-holy-grail-1975.jpg",
+    "still_alt": "巨蟒与圣杯 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/monty-python-and-the-holy-grail-1975.jpg）（影片页 https://www.themoviedb.org/movie/762）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "life-of-brian-all-individuals",
+    "line": "你们每个人都是独立的个体。",
+    "line_en": "You’re all individuals.",
+    "film_title": "蒙提·派森之布莱恩的一生",
+    "film_title_en": "Life of Brian",
+    "year": 1979,
+    "character": "Brian",
+    "director": "特里·琼斯",
+    "tags": [
+      "喜剧",
+      "讽刺",
+      "自由"
+    ],
+    "featured": false,
+    "curator_note": "群众高喊一致时，布莱恩坚持每个人都是个体；蒙提·派森式政治讽刺。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 420000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/life-of-brian-1979.jpg",
+    "still": "assets/stills/classics/life-of-brian-1979.jpg",
+    "still_alt": "蒙提·派森之布莱恩的一生 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/life-of-brian-1979.jpg）（影片页 https://www.themoviedb.org/movie/583）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/spG1CLArnPHPocVWS47k9GZUDzm.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "judgment-nuremberg-moral-choice",
+    "line": "一个人若在明知真相后仍保持沉默，他就选择了站在错误的一边。",
+    "line_en": "A man who, knowing the truth, remains silent has chosen to stand on the wrong side.",
+    "film_title": "劫後昇平",
+    "film_title_en": "Judgment at Nuremberg",
+    "year": 1961,
+    "character": "Judge Dan Haywood",
+    "director": "斯坦利·克莱默",
+    "tags": [
+      "法庭",
+      "正义",
+      "历史"
+    ],
+    "featured": false,
+    "curator_note": "法庭片的重点不只在判决，也在每个旁观者如何承担道德选择。通行意译。",
+    "ratings": {
+      "imdb": {
+        "score": 8.3,
+        "votes": 85000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/judgment-at-nuremberg-1961.jpg",
+    "still": "assets/stills/classics/judgment-at-nuremberg-1961.jpg",
+    "still_alt": "劫後昇平 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/judgment-at-nuremberg-1961.jpg）（影片页 https://www.themoviedb.org/movie/821）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6FIak5XWZqS09Wsrh34OBlvLxOT.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "iron-giant-choose-who-you-are",
+    "line": "你是谁，由你自己选择。",
+    "line_en": "You are who you choose to be.",
+    "film_title": "钢铁巨人",
+    "film_title_en": "The Iron Giant",
+    "year": 1999,
+    "character": "Dean McCoppin",
+    "director": "布拉德·伯德",
+    "tags": [
+      "动画",
+      "成长",
+      "选择"
+    ],
+    "featured": false,
+    "curator_note": "钢铁巨人的核心命题：出身与武器属性不能替你决定成为什么人。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 220000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/the-iron-giant-1999.jpg",
+    "still": "assets/stills/classics/the-iron-giant-1999.jpg",
+    "still_alt": "钢铁巨人 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-iron-giant-1999.jpg）（影片页 https://www.themoviedb.org/movie/10386）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ni5cXCrrGzoiIEoIwOzGiIwMZlH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "elephant-man-human",
+    "line": "我不是动物！我是人！我是人！",
+    "line_en": "I am not an animal! I am a human being! I am a man!",
+    "film_title": "象人",
+    "film_title_en": "The Elephant Man",
+    "year": 1980,
+    "character": "John Merrick",
+    "director": "大卫·林奇",
+    "tags": [
+      "剧情",
+      "尊严",
+      "人性"
+    ],
+    "featured": false,
+    "curator_note": "约翰·梅里克对尊严的呐喊，迫使观看者重新理解“正常”与“人”。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 260000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/the-elephant-man-1980.jpg",
+    "still": "assets/stills/classics/the-elephant-man-1980.jpg",
+    "still_alt": "象人 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-elephant-man-1980.jpg）（影片页 https://www.themoviedb.org/movie/1955）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e1pxC4qHLL0uc1Num5jek3GXaK3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "platoon-fought-ourselves",
+    "line": "我们没有和敌人战斗；我们是在和自己战斗。",
+    "line_en": "We did not fight the enemy; we fought ourselves.",
+    "film_title": "野战排",
+    "film_title_en": "Platoon",
+    "year": 1987,
+    "character": "Chris Taylor",
+    "director": "奥利弗·斯通",
+    "tags": [
+      "战争",
+      "反战",
+      "创伤"
+    ],
+    "featured": false,
+    "curator_note": "越战经验被压缩为一句自我审判：真正的战场也在人心内部。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 450000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/platoon-1987.jpg",
+    "still": "assets/stills/classics/platoon-1987.jpg",
+    "still_alt": "野战排 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/platoon-1987.jpg）（影片页 https://www.themoviedb.org/movie/792）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vr0gwTvit5pTZs2wXOkvpsxCfli.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "la-confidential-off-record",
+    "line": "不公开，不留记录，绝对保密。",
+    "line_en": "Off the record, on the QT, and very hush-hush.",
+    "film_title": "鐵面特警隊",
+    "film_title_en": "L.A. Confidential",
+    "year": 1997,
+    "character": "Sid Hudgens",
+    "director": "柯蒂斯·汉森",
+    "tags": [
+      "犯罪",
+      "黑色电影",
+      "媒体"
+    ],
+    "featured": false,
+    "curator_note": "小报编辑的口头禅也是洛城权力网络的运行规则。通行定译。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 620000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/l-a-confidential-1997.jpg",
+    "still": "assets/stills/classics/l-a-confidential-1997.jpg",
+    "still_alt": "鐵面特警隊 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/l-a-confidential-1997.jpg）（影片页 https://www.themoviedb.org/movie/2118）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qKyTxc0tlvo0emi8mQtQIABjYpi.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "gran-torino-get-off-my-lawn",
+    "line": "离我的草坪远点。",
+    "line_en": "Get off my lawn.",
+    "film_title": "驱·逐",
+    "film_title_en": "Gran Torino",
+    "year": 2009,
+    "character": "Walt Kowalski",
+    "director": "克林特·伊斯特伍德",
+    "tags": [
+      "剧情",
+      "告别",
+      "宽恕"
+    ],
+    "featured": false,
+    "curator_note": "粗粝的拒绝最终成为人物边界与孤独的缩写；通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 850000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/gran-torino-2009.jpg",
+    "still": "assets/stills/classics/gran-torino-2009.jpg",
+    "still_alt": "驱·逐 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/gran-torino-2009.jpg）（影片页 https://www.themoviedb.org/movie/13223）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5w0EJM2XT6w0aZtNR3ga6W9IDva.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "casino-keep-them-playing",
+    "line": "赌场生意的首要规则，就是让他们继续玩，让他们不断回来。",
+    "line_en": "In the casino business, the cardinal rule is to keep them playing and to keep them coming back.",
+    "film_title": "赌城风云",
+    "film_title_en": "Casino",
+    "year": 1995,
+    "character": "Sam “Ace” Rothstein",
+    "director": "马丁·斯科塞斯",
+    "tags": [
+      "犯罪",
+      "欲望",
+      "赌场"
+    ],
+    "featured": false,
+    "curator_note": "阿斯的旁白把赌场的诱惑机制说得像一条冷冰冰的商业定律。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 600000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/casino-1995.jpg",
+    "still": "assets/stills/classics/casino-1995.jpg",
+    "still_alt": "赌城风云 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/casino-1995.jpg）（影片页 https://www.themoviedb.org/movie/524）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "v-for-vendetta-people-fear",
+    "line": "人民不应该害怕政府，政府应该害怕人民。",
+    "line_en": "People should not be afraid of their government. Governments should be afraid of their people.",
+    "film_title": "V字仇杀队",
+    "film_title_en": "V for Vendetta",
+    "year": 2006,
+    "character": "V",
+    "director": "詹姆斯·麦克特格",
+    "tags": [
+      "政治",
+      "自由",
+      "反抗"
+    ],
+    "featured": false,
+    "curator_note": "面具演说把个人复仇提升为公民反抗的宣言。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 1200000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/v-for-vendetta-2006.jpg",
+    "still": "assets/stills/classics/v-for-vendetta-2006.jpg",
+    "still_alt": "V字仇杀队 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/v-for-vendetta-2006.jpg）（影片页 https://www.themoviedb.org/movie/752）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dgFzcHaQ3HOAa8sSUeelXEd312B.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "top-gun-maverick-plane-pilot",
+    "line": "关键不在飞机，而在飞行员。",
+    "line_en": "It’s not the plane, it’s the pilot.",
+    "film_title": "壮志凌云2：独行侠",
+    "film_title_en": "Top Gun: Maverick",
+    "year": 2022,
+    "character": "Pete “Maverick” Mitchell",
+    "director": "约瑟夫·科辛斯基",
+    "tags": [
+      "动作",
+      "成长",
+      "传承"
+    ],
+    "featured": false,
+    "curator_note": "老飞行员给新一代的核心课：技术之外，决定胜负的是人。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 750000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/top-gun-maverick-2022.jpg",
+    "still": "assets/stills/classics/top-gun-maverick-2022.jpg",
+    "still_alt": "壮志凌云2：独行侠 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/top-gun-maverick-2022.jpg）（影片页 https://www.themoviedb.org/movie/361743）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "there-will-be-blood-milkshake",
+    "line": "我喝你的奶昔！",
+    "line_en": "I drink your milkshake!",
+    "film_title": "血色将至",
+    "film_title_en": "There Will Be Blood",
+    "year": 2008,
+    "character": "Daniel Plainview",
+    "director": "保罗·托马斯·安德森",
+    "tags": [
+      "剧情",
+      "贪婪",
+      "权力"
+    ],
+    "featured": false,
+    "curator_note": "把资本掠夺变成一场荒诞的吸管游戏；丹尼尔的胜利也是自我毁灭。通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 650000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/there-will-be-blood-2008.jpg",
+    "still": "assets/stills/classics/there-will-be-blood-2008.jpg",
+    "still_alt": "血色将至 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/there-will-be-blood-2008.jpg）（影片页 https://www.themoviedb.org/movie/7345）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "ratatouille-anyone-can-cook",
+    "line": "不是每个人都能成为伟大的艺术家，但伟大的艺术家可以来自任何地方。",
+    "line_en": "Not everyone can become a great artist, but a great artist can come from anywhere.",
+    "film_title": "美食总动员",
+    "film_title_en": "Ratatouille",
+    "year": 2007,
+    "character": "Anton Ego",
+    "director": "布拉德·伯德",
+    "tags": [
+      "动画",
+      "美食",
+      "梦想"
+    ],
+    "featured": false,
+    "curator_note": "结尾评论把天赋从精英手中归还给所有愿意创作的人。通行定译。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 850000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似）"
+    },
+    "poster": "assets/posters/classics/ratatouille-2007.jpg",
+    "still": "assets/stills/classics/ratatouille-2007.jpg",
+    "still_alt": "美食总动员 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ratatouille-2007.jpg）（影片页 https://www.themoviedb.org/movie/2062）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]

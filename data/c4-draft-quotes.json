@@ -17,10 +17,11 @@
       "避开 batch-jia 错配：la-battaglia-di-algeri / cool-hand-luke / c-and-apos-era-una-volta-il-west / idi-i-smotri / t-ky-monogatari",
       "Gandhi 因 TMDB backdrop 仅 1280×720 改选 Gran Torino；Das Boot 因 TMDB images 无 backdrop 改选 Casino",
       "评分为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json"
+      "meta.merged=true；已并入 quotes.json published 349（324+25）；merged_at=2026-09-25T12:02:33+08:00"
     ],
-    "merged": false,
-    "published_anchor": "origin/main @ 53d2497 published=324"
+    "merged": true,
+    "published_anchor": "origin/main @ 53d2497 published=324",
+    "merged_at": "2026-09-25T12:02:33+08:00"
   },
   "quotes": [
     {
@@ -457,7 +458,7 @@
       "curator_note": "群众高喊一致时，布莱恩坚持每个人都是个体；蒙提·派森式政治讽刺。通行译法。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 420000
         },
         "as_of": "2026-09-25",
