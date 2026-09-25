@@ -68,13 +68,9 @@ function renderDetailRatingsBlock(ratings) {
   if (!badges) return "";
   let html = '<div class="detail-badges">' + badges + "</div>";
   if (ratings.as_of) {
-    const note = ratings.source_note
-      ? " · " + ratings.source_note
-      : " · 策展快照，非实时";
     html +=
       '<p class="detail-ratings-asof">评分截至 ' +
       ratings.as_of +
-      note +
       "</p>";
   }
   return html;
