@@ -1,0 +1,966 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T14:31:30+08:00",
+    "purpose": "C28 classics×25 草稿：leftovers（yi-repaired+yi2+jia）quotes-only 可核对对白；merged=false，未并入 quotes.json",
+    "batch": "batch-mixed-c28",
+    "batch_note": "leftovers scrape: yi-repaired below_fill×11 + yi2-repaired×3 + jia residual stills≥1920×20；排除 holds 与 C27 dropped-unverifiable×6",
+    "selection_source": "tmp/next-pool-after-c27/summary.json + tmp/c28-draft/candidates.json",
+    "stills_source": "tmp/stills-c28/index-fragment.json",
+    "count": 25,
+    "merged": false,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "source_mix": {
+      "batch-jia": 20,
+      "batch-yi": 5
+    },
+    "notes": [
+      "quotes-only 政策（2026-09-25）：每片仅一条可核对银幕对白；禁止主题性策展句／非逐字 paraphrases。",
+      "核证依据写入 curator_note（通行译法／字幕对白／影评引文／剧本选场等）；角色字段为说话人物。",
+      "候选 34 → 静帧全过（ok28+actual6）→ 核证后保留 25、删除 9（见 tmp/c28-draft/dropped-unverifiable.json）。",
+      "质量优先：在可核证片名中按 TMDB vote_average 再 vote_count 排序取至多 25。",
+      "静帧／海报资产：保留片的资产已入库；删除片的海报／静帧留作 orphan（不删除）。",
+      "meta.merged=false；C27 Top901 HOLD merge；本任务不并入 quotes.json；不 push。"
+    ],
+    "updated_at": "2026-09-25T14:31:30+08:00",
+    "dropped_unverifiable": [
+      "black-rain-1989",
+      "murmur-of-the-heart-1971",
+      "hidden-2005",
+      "teorema-1968",
+      "pretty-baby-1978",
+      "kings-and-queen-2004",
+      "the-decameron-1971",
+      "fellini-satyricon-1969",
+      "the-green-room-1978"
+    ]
+  },
+  "quotes": [
+    {
+      "id": "klaus-selfless",
+      "line": "真正无私的举动，总会点燃另一个。",
+      "line_en": "A true selfless act always sparks another.",
+      "film_title": "克劳斯：圣诞节的秘密",
+      "film_title_en": "Klaus",
+      "year": 2019,
+      "character": "克劳斯 / Klaus",
+      "director": "塞尔吉奥·帕布洛斯",
+      "tags": [
+        "善意",
+        "圣诞",
+        "动画",
+        "连锁"
+      ],
+      "featured": false,
+      "curator_note": "克劳斯对杰斯帕说出的核心对白（复述亡妻丽迪娅的话）；IMDb quotes／片中字幕稿／完整剧本转录可核。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 4836
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/klaus-2019.jpg",
+      "still": "assets/stills/classics/klaus-2019.jpg",
+      "still_alt": "克劳斯：圣诞节的秘密 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/klaus-2019.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/508965）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/y0AEoiORBSQreA5gtLybJ13rPlB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 508965,
+      "slug": "klaus-2019",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "help-kind-smart",
+      "line": "你善良。你聪明。你重要。",
+      "line_en": "You is kind. You is smart. You is important.",
+      "film_title": "帮助",
+      "film_title_en": "The Help",
+      "year": 2011,
+      "character": "艾比利恩·克拉克 / Aibileen Clark",
+      "director": "泰特·泰勒",
+      "tags": [
+        "尊严",
+        "种族",
+        "养育",
+        "美国南方"
+      ],
+      "featured": false,
+      "curator_note": "艾比利恩对梅·莫布利的叮嘱对白；IMDb quotes／电影剧本／字幕稿逐字可核（保留口语 You is 语感于英译）。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 9287
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-help-2011.jpg",
+      "still": "assets/stills/classics/the-help-2011.jpg",
+      "still_alt": "帮助 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-help-2011.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/50014）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yNDtUGvWVf6hAZeZowWOJTD65z4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 50014,
+      "slug": "the-help-2011",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "prisoners-prepare",
+      "line": "祈求最好的，也要为最坏的做准备。",
+      "line_en": "Pray for the best, but prepare for the worst.",
+      "film_title": "囚徒",
+      "film_title_en": "Prisoners",
+      "year": 2013,
+      "character": "凯勒·多佛 / Keller Dover",
+      "director": "丹尼斯·维伦纽瓦",
+      "tags": [
+        "生存",
+        "父亲",
+        "信仰",
+        "维伦纽瓦"
+      ],
+      "featured": false,
+      "curator_note": "凯勒反复说的家庭信条对白；片末警探洛基亦复述；IMDb quotes／字幕稿可核。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 13526
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/prisoners-2013.jpg",
+      "still": "assets/stills/classics/prisoners-2013.jpg",
+      "still_alt": "囚徒 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/prisoners-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/146233）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 146233,
+      "slug": "prisoners-2013",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "incendies-childhood-knife",
+      "line": "童年是卡在喉咙里的一把刀。不容易拔出来。",
+      "line_en": "Childhood is a knife stuck in your throat. It can't be easily removed.",
+      "film_title": "烈火焚身",
+      "film_title_en": "Incendies",
+      "year": 2011,
+      "character": "纳瓦尔·马万（遗嘱，由公证人宣读） / Nawal Marwan (will)",
+      "director": "丹尼斯·维伦纽瓦",
+      "tags": [
+        "记忆",
+        "承诺",
+        "战争",
+        "维伦纽瓦"
+      ],
+      "featured": false,
+      "curator_note": "纳瓦尔遗嘱开篇句，由公证人让·勒贝尔宣读；IMDb quotes 可核；说话归属为遗嘱作者纳瓦尔。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 3477
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/incendies-2011.jpg",
+      "still": "assets/stills/classics/incendies-2011.jpg",
+      "still_alt": "烈火焚身 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/incendies-2011.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/46738）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u8wmr8QCowIYXUxVeZYSPWVbB9P.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 46738,
+      "slug": "incendies-2011",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "father-losing-leaves",
+      "line": "我觉得自己像在掉叶子。",
+      "line_en": "I feel as if I'm losing all my leaves.",
+      "film_title": "父亲",
+      "film_title_en": "The Father",
+      "year": 2021,
+      "character": "安东尼 / Anthony",
+      "director": "弗洛里安·泽勒",
+      "tags": [
+        "记忆",
+        "衰老",
+        "失智",
+        "霍普金斯"
+      ],
+      "featured": false,
+      "curator_note": "安东尼片末对护理员说出的对白；IMDb 角色语录／导演访谈确认片中原句；通行字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 3779
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-father-2021.jpg",
+      "still": "assets/stills/classics/the-father-2021.jpg",
+      "still_alt": "父亲 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-father-2021.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/600354）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/h3weAFgg06GqchI2xDfufBgSFTj.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 600354,
+      "slug": "the-father-2021",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "das-boot-empty-words",
+      "line": "他们让我们都为这一天受训：「无畏、骄傲、孤独。不需要任何人，只要牺牲。一切为了祖国。」天哪，全是空话。",
+      "line_en": "They made us all train for this day: 'To be fearless and proud and alone. To need no one, just sacrifice. All for the Fatherland.' Oh God, all just empty words.",
+      "film_title": "从海底出击",
+      "film_title_en": "Das Boot",
+      "year": 1982,
+      "character": "维尔纳中尉 / Lt. Werner",
+      "director": "沃尔夫冈·彼得森",
+      "tags": [
+        "战争",
+        "恐惧",
+        "潜艇",
+        "幻灭"
+      ],
+      "featured": false,
+      "curator_note": "维尔纳在艇内危急时对舰长说出的对白；Wikiquote／德语原版意近「我曾想面对某种无情之物……现在这就是现实」；英文字幕通行译法可核。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 2640
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/das-boot-1982.jpg",
+      "still": "assets/stills/classics/das-boot-1982.jpg",
+      "still_alt": "从海底出击 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/das-boot-1982.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/387）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tRI6Csmw4rKzMYDrfUx5xtyBSVE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 387,
+      "slug": "das-boot-1982",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "wolf-sell-pen",
+      "line": "把这支笔卖给我。",
+      "line_en": "Sell me this pen.",
+      "film_title": "华尔街之狼",
+      "film_title_en": "The Wolf of Wall Street",
+      "year": 2013,
+      "character": "乔丹·贝尔福特 / Jordan Belfort",
+      "director": "马丁·斯科塞斯",
+      "tags": [
+        "销售",
+        "欲望",
+        "华尔街",
+        "斯科塞斯"
+      ],
+      "featured": false,
+      "curator_note": "乔丹在宴会上考问销售员的对白；IMDb quotes／剧本可核；片中多次出现。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 26575
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-wolf-of-wall-street-2013.jpg",
+      "still": "assets/stills/classics/the-wolf-of-wall-street-2013.jpg",
+      "still_alt": "华尔街之狼 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-wolf-of-wall-street-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/106646）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 106646,
+      "slug": "the-wolf-of-wall-street-2013",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "ford-7000-rpm",
+      "line": "到了七千转，一切都会隐去。机器变得没了重量，简直消失。只剩一具身体穿过空间与时间。七千转——你在那儿遇见它。它问你唯一要紧的问题：你是谁？",
+      "line_en": "There's a point at 7,000 RPM where everything fades. The machine becomes weightless. Just disappears. And all that's left is a body moving through space and time. 7,000 RPM. That's where you meet it. ... Asks you a question. The only question that matters. Who are you?",
+      "film_title": "赛道狂人",
+      "film_title_en": "Ford v Ferrari",
+      "year": 2019,
+      "character": "卡罗尔·谢尔比 / Carroll Shelby",
+      "director": "詹姆斯·曼高德",
+      "tags": [
+        "赛车",
+        "极限",
+        "身份",
+        "速度"
+      ],
+      "featured": false,
+      "curator_note": "谢尔比开场画外白／旁白；Wikiquote／IMDb quotes 通行字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 9317
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/ford-v-ferrari-2019.jpg",
+      "still": "assets/stills/classics/ford-v-ferrari-2019.jpg",
+      "still_alt": "赛道狂人 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ford-v-ferrari-2019.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/359724）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/n3UanIvmnBlH531pykuzNs4LbH6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 359724,
+      "slug": "ford-v-ferrari-2019",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "requiem-somebody-now",
+      "line": "我现在是个人物了，哈利。大家都喜欢我。",
+      "line_en": "I'm somebody now, Harry. Everybody likes me.",
+      "film_title": "梦之安魂曲",
+      "film_title_en": "Requiem for a Dream",
+      "year": 2000,
+      "character": "萨拉·戈德法布 / Sara Goldfarb",
+      "director": "达伦·阿罗诺夫斯基",
+      "tags": [
+        "成瘾",
+        "幻象",
+        "电视",
+        "阿罗诺夫斯基"
+      ],
+      "featured": false,
+      "curator_note": "萨拉对儿子哈利说的对白；IMDb quotes／字幕稿可核。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 11320
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/requiem-for-a-dream-2000.jpg",
+      "still": "assets/stills/classics/requiem-for-a-dream-2000.jpg",
+      "still_alt": "梦之安魂曲 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/requiem-for-a-dream-2000.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/641）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7tZt3PA948fvSTFx0699YF44Tdt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 641,
+      "slug": "requiem-for-a-dream-2000",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "mdb-magic-boxing",
+      "line": "如果说拳击里有魔法，那是超越耐力、超越断肋、破裂肾脏和脱落视网膜去打仗的魔法。是为了一个只有你看得见的梦，把一切押上去的魔法。",
+      "line_en": "If there's magic in boxing, it's the magic of fighting battles beyond endurance, beyond cracked ribs, ruptured kidneys and detached retinas. It's the magic of risking everything for a dream that nobody sees but you.",
+      "film_title": "百万美元宝贝",
+      "film_title_en": "Million Dollar Baby",
+      "year": 2005,
+      "character": "艾迪·「废铁」·杜普里斯 / Eddie 'Scrap-Iron' Dupris",
+      "director": "克林特·伊斯特伍德",
+      "tags": [
+        "拳击",
+        "梦想",
+        "叙述",
+        "伊斯特伍德"
+      ],
+      "featured": false,
+      "curator_note": "废铁画外叙述开篇；Wikiquote／IMDb quotes 通行字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 10603
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/million-dollar-baby-2005.jpg",
+      "still": "assets/stills/classics/million-dollar-baby-2005.jpg",
+      "still_alt": "百万美元宝贝 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/million-dollar-baby-2005.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/70）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oGMomeS7bE43eN8SGJUaKvQnmud.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 70,
+      "slug": "million-dollar-baby-2005",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "tzp-every-child",
+      "line": "每个孩子都有自己的长处，有自己的能力，有自己的渴望。",
+      "line_en": "Har bachche ki apni khoobi hoti hai, apni kaabiliyat hoti hai, apni chahat hoti hai.",
+      "film_title": "地球上的星星",
+      "film_title_en": "Taare Zameen Par",
+      "year": 2007,
+      "character": "拉姆·尚卡尔·尼昆布 / Ram Shankar Nikumbh",
+      "director": "阿米尔·汗",
+      "tags": [
+        "教育",
+        "孩子",
+        "特殊才能",
+        "印度"
+      ],
+      "featured": false,
+      "curator_note": "尼昆布老师在家长会上的对白；印地语原声；华语／英语通行字幕与台词辑可核。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 1413
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/taare-zameen-par-2007.jpg",
+      "still": "assets/stills/classics/taare-zameen-par-2007.jpg",
+      "still_alt": "地球上的星星 · TMDB 宣传静帧（2048×1152）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/taare-zameen-par-2007.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/7508）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/owqarJSDllJGoEW8EMz8q6cvKDD.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 7508,
+      "slug": "taare-zameen-par-2007",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "actual"
+    },
+    {
+      "id": "ojos-passion",
+      "line": "一个人可以改一切：脸、房子、家庭、女友、宗教，甚至上帝——但有一样他改不了：改不了激情。",
+      "line_en": "A guy can change everything—his face, his home, his family, his girlfriend, his religion, even his God. But there's one thing he can't change: he can't change his passion.",
+      "film_title": "谜一样的双眼",
+      "film_title_en": "The Secret in Their Eyes",
+      "year": 2010,
+      "character": "桑多瓦尔 / Sandoval",
+      "director": "胡安·何塞·坎帕内利亚",
+      "tags": [
+        "激情",
+        "记忆",
+        "罪案",
+        "阿根廷"
+      ],
+      "featured": false,
+      "curator_note": "桑多瓦尔对本哈明说的对白（西语原声）；西语影评／IMDb 西语引文／通行字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 2963
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/el-secreto-de-sus-ojos-2010.jpg",
+      "still": "assets/stills/classics/el-secreto-de-sus-ojos-2010.jpg",
+      "still_alt": "谜一样的双眼 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/el-secreto-de-sus-ojos-2010.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/25376）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ZOSPFuocPH8yKn3mq52vVQmoMK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 25376,
+      "slug": "el-secreto-de-sus-ojos-2010",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "nwh-great-power",
+      "line": "你有天赋，你有力量。而能力越大，责任越大。",
+      "line_en": "You have a gift. You have power. And with great power, there must also come great responsibility.",
+      "film_title": "蜘蛛侠：英雄无归",
+      "film_title_en": "Spider-Man: No Way Home",
+      "year": 2021,
+      "character": "梅·帕克 / May Parker",
+      "director": "乔恩·沃茨",
+      "tags": [
+        "责任",
+        "英雄",
+        "家庭",
+        "漫威"
+      ],
+      "featured": false,
+      "curator_note": "梅婶临终前对彼得说出的对白；IMDb quotes／片中字幕可核（系列经典句在本片由梅亲口说出）。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 23175
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/spider-man-no-way-home-2021.jpg",
+      "still": "assets/stills/classics/spider-man-no-way-home-2021.jpg",
+      "still_alt": "蜘蛛侠：英雄无归 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/spider-man-no-way-home-2021.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/634649）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 634649,
+      "slug": "spider-man-no-way-home-2021",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "separation-father-son",
+      "line": "他知道你是他儿子吗？——可我知道他是我父亲。",
+      "line_en": "Does he know that you are his son? — But I know that he is my dad.",
+      "film_title": "伊朗式分居",
+      "film_title_en": "A Separation",
+      "year": 2011,
+      "character": "西敏／纳德 / Simin / Nader",
+      "director": "阿斯哈·法哈蒂",
+      "tags": [
+        "家庭",
+        "责任",
+        "伊朗",
+        "法哈蒂"
+      ],
+      "featured": false,
+      "curator_note": "开场法庭西敏与纳德的对答；剧本／通行英文字幕可核（两句连成一组经典对白）。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 2025
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/jodaeiye-nader-az-simin-2011.jpg",
+      "still": "assets/stills/classics/jodaeiye-nader-az-simin-2011.jpg",
+      "still_alt": "伊朗式分居 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/jodaeiye-nader-az-simin-2011.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/60243）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kcXBa2ru0PXcGI8U3JiInsG6FRR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 60243,
+      "slug": "jodaeiye-nader-az-simin-2011",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "warrior-too-late",
+      "line": "你在努力？就现在？当初要紧的时候你人在哪儿？我小时候需要这个人。现在不需要你了。太迟了。一切都已经发生了。",
+      "line_en": "You're trying? Now? Where were you when it mattered? I needed this guy back when I was a kid. I don't need you now. It's too late now. Everything's already happened.",
+      "film_title": "勇士",
+      "film_title_en": "Warrior",
+      "year": 2011,
+      "character": "汤米·康伦 / Tommy Conlon",
+      "director": "加文·奥康纳",
+      "tags": [
+        "兄弟",
+        "父亲",
+        "格斗",
+        "创伤"
+      ],
+      "featured": false,
+      "curator_note": "汤米对父亲帕迪的对白；IMDb／通行台词辑可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 5147
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/warrior-2011.jpg",
+      "still": "assets/stills/classics/warrior-2011.jpg",
+      "still_alt": "勇士 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/warrior-2011.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/59440）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zb7b40ieuRGiIc9ebIEapneaCsl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 59440,
+      "slug": "warrior-2011",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "snatch-nemesis",
+      "line": "你知道「复仇女神」是什么意思吗？由合适的代理人体现出来的、正义的报应。就眼下这情形，代理人是个可怕的混蛋：我。",
+      "line_en": "Do you know what 'nemesis' means? A righteous infliction of retribution manifested by an appropriate agent. Personified in this case by an 'orrible cunt: me.",
+      "film_title": "偷拐抢骗",
+      "film_title_en": "Snatch",
+      "year": 2001,
+      "character": "砖头老大 / Brick Top",
+      "director": "盖·里奇",
+      "tags": [
+        "黑帮",
+        "威胁",
+        "伦敦",
+        "盖·里奇"
+      ],
+      "featured": false,
+      "curator_note": "砖头老大对索尔等人的对白；Wikiquote／IMDb quotes 通行英文字幕可核（保留粗口原词于英译）。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 10300
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/snatch-2001.jpg",
+      "still": "assets/stills/classics/snatch-2001.jpg",
+      "still_alt": "偷拐抢骗 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/snatch-2001.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/107）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gj2VEY0jEjJExHa3sdNAssPISbi.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 107,
+      "slug": "snatch-2001",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "spotlight-village",
+      "line": "如果说养大一个孩子需要一整个村子，那么虐待一个孩子，也需要一整个村子。",
+      "line_en": "If it takes a village to raise a child, it takes a village to abuse one.",
+      "film_title": "聚焦",
+      "film_title_en": "Spotlight",
+      "year": 2015,
+      "character": "米切尔·加拉贝迪安 / Mitchell Garabedian",
+      "director": "汤姆·麦卡锡",
+      "tags": [
+        "新闻",
+        "体制",
+        "儿童",
+        "真相"
+      ],
+      "featured": false,
+      "curator_note": "律师加拉贝迪安对记者说的对白；IMDb quotes／片中字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 8984
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/spotlight-2015.jpg",
+      "still": "assets/stills/classics/spotlight-2015.jpg",
+      "still_alt": "聚焦 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/spotlight-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/314365）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/46fdzEQvL3kgJV9ib9I5Bys2YOj.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 314365,
+      "slug": "spotlight-2015",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "rush-wise-enemies",
+      "line": "智者从敌人那里学到的，比傻瓜从朋友那里学到的更多。",
+      "line_en": "A wise man can learn more from his enemies than a fool from his friends.",
+      "film_title": "极速风流",
+      "film_title_en": "Rush",
+      "year": 2013,
+      "character": "尼基·劳达 / Niki Lauda",
+      "director": "朗·霍华德",
+      "tags": [
+        "赛车",
+        "对手",
+        "智慧",
+        "劳达"
+      ],
+      "featured": false,
+      "curator_note": "劳达谈及与亨特竞争时的对白／旁白；IMDb quotes 可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 8049
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/rush-2013.jpg",
+      "still": "assets/stills/classics/rush-2013.jpg",
+      "still_alt": "极速风流 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rush-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/96721）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/caKZWDGmv5iW2U99skHs75MmOmU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 96721,
+      "slug": "rush-2013",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "incredibles-everyone-super",
+      "line": "等人人都成了超人……就谁也不是超人了。",
+      "line_en": "And when everyone's super… no one will be.",
+      "film_title": "超人总动员",
+      "film_title_en": "The Incredibles",
+      "year": 2004,
+      "character": "超能病／巴迪·派恩 / Syndrome (Buddy Pine)",
+      "director": "布拉德·伯德",
+      "tags": [
+        "超能力",
+        "嫉妒",
+        "反派",
+        "皮克斯"
+      ],
+      "featured": false,
+      "curator_note": "超能病独白收束句；Wikiquote／IMDb quotes 通行字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 19325
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-incredibles-2004.jpg",
+      "still": "assets/stills/classics/the-incredibles-2004.jpg",
+      "still_alt": "超人总动员 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-incredibles-2004.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/9806）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 9806,
+      "slug": "the-incredibles-2004",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "aladdin-cosmic-powers",
+      "line": "整个神灯差事的一部分：惊天动地的宇宙神力！巴掌大的住的地方！",
+      "line_en": "Phenomenal cosmic powers! Itty-bitty living space!",
+      "film_title": "阿拉丁",
+      "film_title_en": "Aladdin",
+      "year": 1992,
+      "character": "精灵 / Genie",
+      "director": "约翰·马斯克 / 罗恩·克莱门茨",
+      "tags": [
+        "自由",
+        "魔法",
+        "迪士尼",
+        "幽默"
+      ],
+      "featured": false,
+      "curator_note": "精灵自我介绍对白；Wikiquote／IMDb quotes／迪士尼官方引文可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 12267
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/aladdin-1992.jpg",
+      "still": "assets/stills/classics/aladdin-1992.jpg",
+      "still_alt": "阿拉丁 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/aladdin-1992.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/812）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 812,
+      "slug": "aladdin-1992",
+      "batch": "batch-jia",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "jia-residual",
+      "still_status": "ok"
+    },
+    {
+      "id": "piano-call-me-charlie",
+      "line": "就叫我查理吧。",
+      "line_en": "Just call me Charlie.",
+      "film_title": "枪击钢琴师",
+      "film_title_en": "Shoot the Piano Player",
+      "year": 1960,
+      "character": "查理·科勒／爱德华·萨罗扬 / Charlie Kohler",
+      "director": "弗朗索瓦·特吕弗",
+      "tags": [
+        "身份",
+        "逃亡",
+        "新浪潮",
+        "特吕弗"
+      ],
+      "featured": false,
+      "curator_note": "查理对哥哥齐科纠正旧名时的对白；Kinoafisha／通行英文字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 457
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/shoot-the-piano-player-1960.jpg",
+      "still": "assets/stills/classics/shoot-the-piano-player-1960.jpg",
+      "still_alt": "枪击钢琴师 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/shoot-the-piano-player-1960.jpg，1200×1800）（影片页 https://www.themoviedb.org/movie/1818）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kgAZX0WXLuK6YYQ6lKN2UdF1Tho.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1818,
+      "slug": "shoot-the-piano-player-1960",
+      "batch": "batch-yi",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "yi-repaired",
+      "still_status": "actual"
+    },
+    {
+      "id": "wild-child-no-savage",
+      "line": "你不再是个野人了，即便你还不是个成人。",
+      "line_en": "You're no longer a savage, even if you're not yet a man.",
+      "film_title": "野孩子",
+      "film_title_en": "The Wild Child",
+      "year": 1970,
+      "character": "伊塔尔医生 / Dr. Jean Itard",
+      "director": "弗朗索瓦·特吕弗",
+      "tags": [
+        "教育",
+        "文明",
+        "语言",
+        "特吕弗"
+      ],
+      "featured": false,
+      "curator_note": "伊塔尔在片末对维克多说出的对白；IMDb／BFI 场记与通行字幕可核。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 317
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-wild-child-1970.jpg",
+      "still": "assets/stills/classics/the-wild-child-1970.jpg",
+      "still_alt": "野孩子 · TMDB 宣传静帧（3000×1688）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-wild-child-1970.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1627）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/r5YxRUycbKbiHSWUm4DE5bTyVT6.jpg（3000×1688）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1627,
+      "slug": "the-wild-child-1970",
+      "batch": "batch-yi",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "yi-repaired",
+      "still_status": "ok"
+    },
+    {
+      "id": "alphaville-je-vous-aime",
+      "line": "我爱你。",
+      "line_en": "Je vous aime. / I love you.",
+      "film_title": "阿尔法城",
+      "film_title_en": "Alphaville",
+      "year": 1965,
+      "character": "娜塔莎·冯·布劳恩 / Natacha von Braun",
+      "director": "让-吕克·戈达尔",
+      "tags": [
+        "爱情",
+        "语言",
+        "反乌托邦",
+        "戈达尔"
+      ],
+      "featured": false,
+      "curator_note": "片末娜塔莎找回情感后对莱米说出的法语原句「Je vous aime」；Wikipedia／影评／字幕可核（先结巴后流利重复）。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 634
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/alphaville-1965.jpg",
+      "still": "assets/stills/classics/alphaville-1965.jpg",
+      "still_alt": "阿尔法城 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/alphaville-1965.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8072）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wUsq3mTMmyaQzCUJjJtUSWAljLo.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 8072,
+      "slug": "alphaville-1965",
+      "batch": "batch-yi",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "yi-repaired",
+      "still_status": "ok"
+    },
+    {
+      "id": "weekend-not-a-novel",
+      "line": "这不是小说，这是电影。电影就是生活。",
+      "line_en": "This isn't a novel, it's a film. A film is life.",
+      "film_title": "周末",
+      "film_title_en": "Weekend",
+      "year": 1967,
+      "character": "科琳 / Corinne",
+      "director": "让-吕克·戈达尔",
+      "tags": [
+        "元电影",
+        "新浪潮",
+        "戈达尔",
+        "周末"
+      ],
+      "featured": false,
+      "curator_note": "科琳片中元电影对白；影评引述／通行英文字幕可核（Cinema Fanatic／PopMatters 等引文一致）。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 316
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/weekend-1967.jpg",
+      "still": "assets/stills/classics/weekend-1967.jpg",
+      "still_alt": "周末 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/weekend-1967.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8075）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AoKOzArUqiCus25VQun9csjWOMB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 8075,
+      "slug": "weekend-1967",
+      "batch": "batch-yi",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "yi-repaired",
+      "still_status": "ok"
+    },
+    {
+      "id": "medea-nothing-possible",
+      "line": "别再坚持了！没用的！再也没有什么可能了！",
+      "line_en": "Don't keep insisting! It's useless! Nothing is possible anymore!",
+      "film_title": "美狄亚",
+      "film_title_en": "Medea",
+      "year": 1969,
+      "character": "美狄亚 / Medea",
+      "director": "皮埃尔·保罗·帕索里尼",
+      "tags": [
+        "复仇",
+        "神话",
+        "帕索里尼",
+        "卡拉斯"
+      ],
+      "featured": false,
+      "curator_note": "美狄亚（玛丽亚·卡拉斯）对伊阿宋的末句；剧本转录／Kinoafisha 引文可核。",
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 194
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/medea-1969.jpg",
+      "still": "assets/stills/classics/medea-1969.jpg",
+      "still_alt": "美狄亚 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/medea-1969.jpg，1600×2400）（影片页 https://www.themoviedb.org/movie/26356）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rYg7JCq2nLOeKHrk5JZ4jm8Utqm.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 26356,
+      "slug": "medea-1969",
+      "batch": "batch-yi",
+      "source_wave": "c28-leftovers-quotes-only",
+      "pool": "yi-repaired",
+      "still_status": "ok"
+    }
+  ]
+}
