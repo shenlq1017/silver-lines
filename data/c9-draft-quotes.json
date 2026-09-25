@@ -16,9 +16,10 @@
       "排除 data/quotes.json 与 C6/C7/C8 candidates；quotes.json 未修改",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json"
+      "meta.merged=true；已并入 quotes.json published 474（449+25）；merged_at=2026-09-25T12:20:37+08:00"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T12:20:37+08:00"
   },
   "quotes": [
     {
@@ -231,7 +232,7 @@
       "curator_note": "策展意译：概括菲茨卡拉尔多以不可能工程维持自我的执念，非逐字引文。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 28000
         },
         "as_of": "2026-09-25",
@@ -359,7 +360,7 @@
       "curator_note": "旁白的主题性策展译句；影片为书信式散文，非传统角色对白。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 18000
         },
         "as_of": "2026-09-25",
@@ -455,7 +456,7 @@
       "curator_note": "主题性策展句：概括影片的祈祷与自我牺牲命题，不冒充逐字对白。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 30000
         },
         "as_of": "2026-09-25",
@@ -487,7 +488,7 @@
       "curator_note": "通行英译的策展中译；保留丹弥尔选择成为人的关键转折。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 70000
         },
         "as_of": "2026-09-25",
@@ -519,7 +520,7 @@
       "curator_note": "策展意译：概括都市灾变与超能力觉醒的核心推进，非逐字字幕。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 210000
         },
         "as_of": "2026-09-25",
@@ -551,7 +552,7 @@
       "curator_note": "歌曲《Fight the Power》及影片反复出现的通行译意；出处明确。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 110000
         },
         "as_of": "2026-09-25",
