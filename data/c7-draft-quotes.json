@@ -16,9 +16,10 @@
       "排除 data/quotes.json 与 candidates-jia2-c6-25.json；quotes.json 未修改",
       "默片/少对白/主题性主句均在 curator_note 标注；有声片采用通行译法或明确标注的策展意译",
       "评分为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json"
+      "meta.merged=true；已并入 quotes.json published 424（399+25）；merged_at=2026-09-25T12:13:22+08:00"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T12:13:22+08:00"
   },
   "quotes": [
     {
