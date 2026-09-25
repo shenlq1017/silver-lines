@@ -21519,5 +21519,755 @@
     "still_alt": "罗马 · TMDB 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/roma-2018.jpg）（影片页 https://www.themoviedb.org/movie/426426）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "new-women-weiming-live",
+    "line": "我要活，我要活下去！",
+    "line_en": "I want to live — I want to go on living!",
+    "film_title": "新女性",
+    "film_title_en": "New Women",
+    "year": 1935,
+    "character": "韦明 / Wei Ming",
+    "director": "蔡楚生",
+    "tags": [
+      "女性",
+      "觉醒",
+      "左翼"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：阮玲玉饰韦明在绝境中的求生意念；不同修复/字幕版措辞略有出入，不冒充唯一逐字。",
+    "ratings": {
+      "imdb": {
+        "score": 6.7,
+        "votes": 16
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/new-women-1935.jpg",
+    "still": "assets/stills/classics/new-women-1935.jpg",
+    "still_alt": "新女性 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/new-women-1935.jpg）（影片页 https://www.themoviedb.org/movie/150314）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nJZYl3laBxlt1gt6VdkqIEohGbV.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "myriad-lights-hard-to-live",
+    "line": "日子难过啊。",
+    "line_en": "These days are hard to get through.",
+    "film_title": "万家灯火",
+    "film_title_en": "Myriad of Lights",
+    "year": 1948,
+    "character": "胡智清一家 / The Hu household",
+    "director": "沈浮",
+    "tags": [
+      "市民",
+      "生存",
+      "战后"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括沈浮《万家灯火》中上海小职员家庭被房租与人情压垮的日常叹息；影片金句分散，明确为主题压缩。",
+    "ratings": {
+      "imdb": {
+        "score": 6.4,
+        "votes": 7
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/myriad-of-lights-1948.jpg",
+    "still": "assets/stills/classics/myriad-of-lights-1948.jpg",
+    "still_alt": "万家灯火 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/myriad-of-lights-1948.jpg）（影片页 https://www.themoviedb.org/movie/95372）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fpUhGWN2xiAMB1dpu8Peed8QQzN.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "hen-wind-forgive-me",
+    "line": "原谅我。",
+    "line_en": "Forgive me.",
+    "film_title": "风中的母鸡",
+    "film_title_en": "A Hen in the Wind",
+    "year": 1948,
+    "character": "德子 / Tokiko",
+    "director": "小津安二郎",
+    "tags": [
+      "家庭",
+      "战后",
+      "小津"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：妻子德子被迫卖身后对出狱丈夫的哀求；小津战后伦理片以极简对白承载羞耻与和解。",
+    "ratings": {
+      "imdb": {
+        "score": 7.1,
+        "votes": 65
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-hen-in-the-wind-1948.jpg",
+    "still": "assets/stills/classics/a-hen-in-the-wind-1948.jpg",
+    "still_alt": "风中的母鸡 · TMDB 宣传静帧（2456×1382）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-hen-in-the-wind-1948.jpg）（影片页 https://www.themoviedb.org/movie/126219）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w6a1Y4O2RN4Cu0MCO23LfJ3iXl7.jpg（2456×1382）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "quiet-duel-cannot-marry",
+    "line": "我不能结婚。",
+    "line_en": "I cannot marry.",
+    "film_title": "静寂的决斗",
+    "film_title_en": "The Quiet Duel",
+    "year": 1949,
+    "character": "藤崎恭二 / Kyoji Fujisaki",
+    "director": "黑泽明",
+    "tags": [
+      "伦理",
+      "沉默",
+      "黑泽明"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：军医藤崎染病后对未婚妻反复拒绝的核心短句；影片以沉默与拒绝推动道德决斗。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 96
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-quiet-duel-1949.jpg",
+    "still": "assets/stills/classics/the-quiet-duel-1949.jpg",
+    "still_alt": "静寂的决斗 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-quiet-duel-1949.jpg）（影片页 https://www.themoviedb.org/movie/37513）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aGcWn4GBGTyxMLyg4tCk3WqdjcP.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "idiot-pure-heart",
+    "line": "我只是想相信人。",
+    "line_en": "I only wanted to believe in people.",
+    "film_title": "白痴",
+    "film_title_en": "The Idiot",
+    "year": 1951,
+    "character": "龟田 / Kameda (Myshkin)",
+    "director": "黑泽明",
+    "tags": [
+      "纯真",
+      "陀氏",
+      "黑泽明"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼黑泽明版梅什金式主人公在污浊世界中坚持信任的立场；对白版本多，不冒充单一字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7,
+        "votes": 135
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-idiot-1951.jpg",
+    "still": "assets/stills/classics/the-idiot-1951.jpg",
+    "still_alt": "白痴 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-idiot-1951.jpg）（影片页 https://www.themoviedb.org/movie/24774）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qls00pwmGmjqXikAFYGzQgi9WdN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "sound-mountain-hears",
+    "line": "我听见了山的声音。",
+    "line_en": "I heard the sound of the mountain.",
+    "film_title": "山之音",
+    "film_title_en": "Sound of the Mountain",
+    "year": 1954,
+    "character": "尾形信吾 / Shingo Ogata",
+    "director": "成濑巳喜男",
+    "tags": [
+      "家庭",
+      "衰老",
+      "成濑"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：据川端原著与成濑改编中翁对“山之音”的著名感知；暗示死亡逼近与家庭伦理危机，字幕版措辞略有差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 71
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/sound-of-the-mountain-1954.jpg",
+    "still": "assets/stills/classics/sound-of-the-mountain-1954.jpg",
+    "still_alt": "山之音 · TMDB 宣传静帧（2000×1125）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sound-of-the-mountain-1954.jpg）（影片页 https://www.themoviedb.org/movie/46492）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uxjflMr0CCwmtwxvPRfwgObIYoR.jpg（2000×1125）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "end-summer-family-ends",
+    "line": "这个家，也就这样了。",
+    "line_en": "This family — this is how it ends.",
+    "film_title": "小早川家之秋",
+    "film_title_en": "The End of Summer",
+    "year": 1961,
+    "character": "小早川家众人 / The Kohayagawa family",
+    "director": "小津安二郎",
+    "tags": [
+      "家族",
+      "告别",
+      "小津"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括《小早川家之秋》中酿造厂家族在家长逝去前后的散场感；小津对白克制，不冒充逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 113
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-end-of-summer-1961.jpg",
+    "still": "assets/stills/classics/the-end-of-summer-1961.jpg",
+    "still_alt": "小早川家之秋 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-end-of-summer-1961.jpg）（影片页 https://www.themoviedb.org/movie/28273）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/53uPO1yAWyQpevkmpfw8AqpjWXx.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "red-detachment-change-fate",
+    "line": "要翻身，当红军！",
+    "line_en": "To change our fate — join the Red Army!",
+    "film_title": "红色娘子军",
+    "film_title_en": "Red Detachment of Women",
+    "year": 1961,
+    "character": "吴琼花 / Wu Qionghua",
+    "director": "谢晋",
+    "tags": [
+      "革命",
+      "觉醒",
+      "谢晋"
+    ],
+    "featured": false,
+    "curator_note": "通行译法/舞台互文：琼花觉醒后的解放诉求；电影与芭蕾改编常有口号化表述差异，取通行教养记忆中的压缩句。",
+    "ratings": {
+      "imdb": {
+        "score": 6.6,
+        "votes": 9
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/red-detachment-of-women-1961.jpg",
+    "still": "assets/stills/classics/red-detachment-of-women-1961.jpg",
+    "still_alt": "红色娘子军 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/red-detachment-of-women-1961.jpg）（影片页 https://www.themoviedb.org/movie/184868）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pltFjs82d7tOuK6yli4gMD2c2BU.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "roma-1972-this-is-rome",
+    "line": "这就是罗马。",
+    "line_en": "This is Rome.",
+    "film_title": "罗马风情画",
+    "film_title_en": "Roma",
+    "year": 1972,
+    "character": "旁白/费里尼式画外 / Narration",
+    "director": "费德里科·费里尼",
+    "tags": [
+      "城市",
+      "记忆",
+      "费里尼"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：将费里尼自传拼贴中对罗马街景、回忆与狂欢的反复指认凝成主句；影片多声部，不指认单一说话者。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 375
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/roma-1972.jpg",
+    "still": "assets/stills/classics/roma-1972.jpg",
+    "still_alt": "罗马风情画 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/roma-1972.jpg）（影片页 https://www.themoviedb.org/movie/11035）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/650ScQgJYhQTGtJaqkMoXO3MYXF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "novecento-two-born",
+    "line": "我们同一天出生。",
+    "line_en": "We were born on the same day.",
+    "film_title": "一九零零",
+    "film_title_en": "1900",
+    "year": 1976,
+    "character": "奥尔莫与阿尔弗雷多 / Olmo and Alfredo",
+    "director": "贝纳尔多·贝托鲁奇",
+    "tags": [
+      "阶级",
+      "史诗",
+      "贝托鲁奇"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：地主子与雇农子同日出生的设定性开场信息；影片以平行人生展开二十世纪意大利阶级史。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 699
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/1900-1976.jpg",
+    "still": "assets/stills/classics/1900-1976.jpg",
+    "still_alt": "一九零零 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/1900-1976.jpg）（影片页 https://www.themoviedb.org/movie/3870）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2nFjXkrPxtIM31JupmifUI0qO9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "green-ray-tell-truth",
+    "line": "我想听真话。",
+    "line_en": "I want to hear the truth.",
+    "film_title": "绿光",
+    "film_title_en": "The Green Ray",
+    "year": 1986,
+    "character": "德尔菲娜 / Delphine",
+    "director": "埃里克·侯麦",
+    "tags": [
+      "真诚",
+      "假期",
+      "侯麦"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼德尔菲娜在度假中拒绝虚伪社交、寻觅“绿光”与真话的核心欲望；侯麦对白密，明确为主题压缩。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 290
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-green-ray-1986.jpg",
+    "still": "assets/stills/classics/the-green-ray-1986.jpg",
+    "still_alt": "绿光 · TMDB 宣传静帧（3000×1688）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-green-ray-1986.jpg）（影片页 https://www.themoviedb.org/movie/54898）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/XWbhyDwyqQvKumDFddmFjM6YtT.jpg（3000×1688）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "black-cannon-one-piece",
+    "line": "丢的只是一枚棋子。",
+    "line_en": "It was only a chess piece that was lost.",
+    "film_title": "黑炮事件",
+    "film_title_en": "The Black Cannon Incident",
+    "year": 1986,
+    "character": "赵书信 / Zhao Shuxin",
+    "director": "黄建新",
+    "tags": [
+      "荒诞",
+      "官僚",
+      "改革"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括工程师因电报“黑炮”引发政治审查的荒诞内核；通行评论句，不冒充唯一场景逐字对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 27
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-black-cannon-incident-1986.jpg",
+    "still": "assets/stills/classics/the-black-cannon-incident-1986.jpg",
+    "still_alt": "黑炮事件 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-black-cannon-incident-1986.jpg）（影片页 https://www.themoviedb.org/movie/176643）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/srAVOGdTZo84gnjDrjACiSvJ5Mc.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "summer-grandpa-adult-world",
+    "line": "大人的世界，小孩看不懂。",
+    "line_en": "Children can't understand the adult world.",
+    "film_title": "冬冬的假期",
+    "film_title_en": "A Summer at Grandpa’s",
+    "year": 1984,
+    "character": "冬冬视角 / Dongdong's gaze",
+    "director": "侯孝贤",
+    "tags": [
+      "童年",
+      "侯孝贤",
+      "家庭"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括冬冬在外婆家假期里目击成人裂缝的主题；侯孝贤对白少、靠目光，明确为策展压缩而非逐字。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 56
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-summer-at-grandpas-1984.jpg",
+    "still": "assets/stills/classics/a-summer-at-grandpas-1984.jpg",
+    "still_alt": "冬冬的假期 · TMDB 宣传静帧（2048×1152）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-summer-at-grandpas-1984.jpg）（影片页 https://www.themoviedb.org/movie/92989）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nqan3ZFdyVp1RkYNAfti2kzKD3y.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "city-on-fire-brothers",
+    "line": "我们是兄弟。",
+    "line_en": "We're brothers.",
+    "film_title": "龙虎风云",
+    "film_title_en": "City on Fire",
+    "year": 1987,
+    "character": "高秋与卧底 / Ko Chow and undercover",
+    "director": "林岭东",
+    "tags": [
+      "兄弟",
+      "卧底",
+      "港产"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：林岭东警匪片中卧底与悍匪之间反复确认的兄弟情义短句；粤语/国语字幕常有版本差。",
+    "ratings": {
+      "imdb": {
+        "score": 7,
+        "votes": 183
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/city-on-fire-1987.jpg",
+    "still": "assets/stills/classics/city-on-fire-1987.jpg",
+    "still_alt": "龙虎风云 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/city-on-fire-1987.jpg）（影片页 https://www.themoviedb.org/movie/42120）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mQwEEij6q6A3rbLP2QNwtpKiuQ9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "old-well-keep-digging",
+    "line": "井，一定要打出来。",
+    "line_en": "The well must be dug — no matter what.",
+    "film_title": "老井",
+    "film_title_en": "Old Well",
+    "year": 1987,
+    "character": "孙旺泉 / Sun Wangquan",
+    "director": "吴天明",
+    "tags": [
+      "生存",
+      "土地",
+      "集体"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼太行缺水村落数代打井的生存意志；影片以劳动场面胜于格言对白，明确为主题压缩。",
+    "ratings": {
+      "imdb": {
+        "score": 7.1,
+        "votes": 17
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/old-well-1987.jpg",
+    "still": "assets/stills/classics/old-well-1987.jpg",
+    "still_alt": "老井 · TMDB 宣传静帧（3840×2159）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/old-well-1987.jpg）（影片页 https://www.themoviedb.org/movie/127200）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yzoE4YA5ba9A8LZ9W2LNtJzGLKi.jpg（3840×2159）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "bullet-head-friends-end",
+    "line": "我们还能做朋友吗？",
+    "line_en": "Can we still be friends?",
+    "film_title": "喋血街头",
+    "film_title_en": "Bullet in the Head",
+    "year": 1990,
+    "character": "阿辉一辈 / The three friends",
+    "director": "吴宇森",
+    "tags": [
+      "友情",
+      "战争",
+      "吴宇森"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括三位少年在乱世中友情崩解前的质问；吴宇森对白多版粤语/国语字幕，不冒充唯一逐字。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 334
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/bullet-in-the-head-1990.jpg",
+    "still": "assets/stills/classics/bullet-in-the-head-1990.jpg",
+    "still_alt": "喋血街头 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/bullet-in-the-head-1990.jpg）（影片页 https://www.themoviedb.org/movie/11909）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/llPr868m7jtx63Xr0ZItmvYZokv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "cyrano-my-panache",
+    "line": "我仍保有——我的羽饰（panache）。",
+    "line_en": "Yet something stays mine — my panache.",
+    "film_title": "大鼻子情圣",
+    "film_title_en": "Cyrano de Bergerac",
+    "year": 1990,
+    "character": "西哈诺 / Cyrano",
+    "director": "让-保罗·拉佩诺",
+    "tags": [
+      "自尊",
+      "浪漫",
+      "戏剧"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：Rostand 末句与 1990 拉佩诺电影/Burgess 字幕传统中的 “panache”；中文取“羽饰/气度”通行译，不同译本差异大。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 850
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/cyrano-de-bergerac-1990.jpg",
+    "still": "assets/stills/classics/cyrano-de-bergerac-1990.jpg",
+    "still_alt": "大鼻子情圣 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/cyrano-de-bergerac-1990.jpg）（影片页 https://www.themoviedb.org/movie/11673）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zDCP6ILlzPOsuYaLTt1IdE8BisP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "king-masks-pass-on",
+    "line": "变脸的绝活，只传男不传女。",
+    "line_en": "The secret of face-changing is passed only to males.",
+    "film_title": "变脸",
+    "film_title_en": "The King of Masks",
+    "year": 1996,
+    "character": "变脸王 / The King of Masks",
+    "director": "吴天明",
+    "tags": [
+      "传承",
+      "性别",
+      "戏曲"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：老艺人坚持“传男不传女”的行规与收留假扮男童的狗娃形成伦理冲突；是影片核心设定句。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 65
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-king-of-masks-1996.jpg",
+    "still": "assets/stills/classics/the-king-of-masks-1996.jpg",
+    "still_alt": "变脸 · TMDB 宣传静帧（3000×1687）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-king-of-masks-1996.jpg）（影片页 https://www.themoviedb.org/movie/25471）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/CGlwHevhR9vIg4A7ayjYlmpIO7.jpg（3000×1687）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "postmen-xiangtou-ideal",
+    "line": "想头，也叫理想。人有想头，就什么都有。",
+    "line_en": "What we call hope is also called an ideal. If you have hope, you have everything.",
+    "film_title": "那山那人那狗",
+    "film_title_en": "Postmen in the Mountains",
+    "year": 1999,
+    "character": "父亲 / The father",
+    "director": "霍建起",
+    "tags": [
+      "父子",
+      "乡土",
+      "邮路"
+    ],
+    "featured": false,
+    "curator_note": "通行名句：父亲对儿子解释山路邮差苦中有“想头”；中文取通行字幕/影评引用，略有版本差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 61
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/postmen-in-the-mountains-1999.jpg",
+    "still": "assets/stills/classics/postmen-in-the-mountains-1999.jpg",
+    "still_alt": "那山那人那狗 · TMDB 宣传静帧（2343×1318）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/postmen-in-the-mountains-1999.jpg）（影片页 https://www.themoviedb.org/movie/108954）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7UPrFqc6lhMjJZMOjYlOUvT5QsQ.jpg（2343×1318）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "oasis-love-anyway",
+    "line": "就算别人觉得恶心，我也要爱。",
+    "line_en": "Even if others find it disgusting, I will love.",
+    "film_title": "绿洲",
+    "film_title_en": "Oasis",
+    "year": 2002,
+    "character": "洪钟斗 / Hong Jong-du",
+    "director": "李沧东",
+    "tags": [
+      "边缘",
+      "爱欲",
+      "李沧东"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼钟斗对共惠不顾社会歧视的执拗爱意；影片多靠行为与爆发场面，明确为主题压缩。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 290
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/oasis-2002.jpg",
+    "still": "assets/stills/classics/oasis-2002.jpg",
+    "still_alt": "绿洲 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/oasis-2002.jpg）（影片页 https://www.themoviedb.org/movie/26955）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qXW5LF40Gu2H6EzI9Zu4tPU6zga.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "thirst-want-to-love",
+    "line": "我想做一个能够去爱的神父。",
+    "line_en": "I want to be a priest who can love.",
+    "film_title": "蝙蝠",
+    "film_title_en": "Thirst",
+    "year": 2009,
+    "character": "尚贤 / Sang-hyun",
+    "director": "朴赞郁",
+    "tags": [
+      "欲望",
+      "信仰",
+      "朴赞郁"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：神父在吸血前后对爱欲与圣职冲突的自我告白；韩语字幕中文版措辞略有差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.1,
+        "votes": 1123
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/thirst-2009.jpg",
+    "still": "assets/stills/classics/thirst-2009.jpg",
+    "still_alt": "蝙蝠 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/thirst-2009.jpg）（影片页 https://www.themoviedb.org/movie/22536）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9IMZqBKbALO7d2bwr6ECKP4igoe.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "anatolia-what-is-man",
+    "line": "人到底是什么？",
+    "line_en": "What, after all, is a man?",
+    "film_title": "小亚细亚往事",
+    "film_title_en": "Once Upon a Time in Anatolia",
+    "year": 2011,
+    "character": "检察官/医生夜谈 / Prosecutor and doctor",
+    "director": "努里·比格·锡兰",
+    "tags": [
+      "哲思",
+      "官僚",
+      "锡兰"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼长夜寻尸途中检察官与医生关于人性、记忆与真相的谈话内核；锡兰对白绵密，不冒充单一逐字。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 565
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/once-upon-a-time-in-anatolia-2011.jpg",
+    "still": "assets/stills/classics/once-upon-a-time-in-anatolia-2011.jpg",
+    "still_alt": "小亚细亚往事 · TMDB 宣传静帧（2560×1440）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/once-upon-a-time-in-anatolia-2011.jpg）（影片页 https://www.themoviedb.org/movie/74879）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/213Gdu9zjGsVeWQl6p5gJrBq8n8.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "touch-sin-forced",
+    "line": "人被逼急了，什么都做得出来。",
+    "line_en": "When people are driven to the edge, they can do anything.",
+    "film_title": "天注定",
+    "film_title_en": "A Touch of Sin",
+    "year": 2013,
+    "character": "大海等群像 / Dahai and others",
+    "director": "贾樟柯",
+    "tags": [
+      "暴力",
+      "愤怒",
+      "贾樟柯"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括《天注定》四则故事中被逼到极限后的暴力逻辑；片名互文“天注定”，不指认伪造单一字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 395
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-touch-of-sin-2013.jpg",
+    "still": "assets/stills/classics/a-touch-of-sin-2013.jpg",
+    "still_alt": "天注定 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-touch-of-sin-2013.jpg）（影片页 https://www.themoviedb.org/movie/187022）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iSTQ3RtiSW2dhapZRVo6ArAstTI.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "kaguya-born-to-live",
+    "line": "我生下来就是为了活着啊！",
+    "line_en": "I was born to live!",
+    "film_title": "辉夜姬物语",
+    "film_title_en": "The Tale of the Princess Kaguya",
+    "year": 2013,
+    "character": "辉夜姬 / Princess Kaguya",
+    "director": "高畑勋",
+    "tags": [
+      "自由",
+      "自然",
+      "高畑勋"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：辉夜姬反抗被安排的“幸福”、渴望如鸟兽般活着的著名哭喊；中文取常见字幕表述。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 2050
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-tale-of-the-princess-kaguya-2013.jpg",
+    "still": "assets/stills/classics/the-tale-of-the-princess-kaguya-2013.jpg",
+    "still_alt": "辉夜姬物语 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-tale-of-the-princess-kaguya-2013.jpg）（影片页 https://www.themoviedb.org/movie/149871）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w5TxOZpPahv3fAhN49mVFSrKUXs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "leviathan-where-were-you",
+    "line": "当我立大地根基的时候，你在哪里？",
+    "line_en": "Where were you when I laid the foundations of the earth?",
+    "film_title": "利维坦",
+    "film_title_en": "Leviathan",
+    "year": 2014,
+    "character": "神父援引《约伯记》 / Priest citing Job",
+    "director": "安德烈·萨金塞夫",
+    "tags": [
+      "权力",
+      "信仰",
+      "约伯"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：影片关键场景援引《约伯记》质问；与小镇被官府/教会吞没的情节互文，中文取和合本通行表述。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 1001
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/leviathan-2014.jpg",
+    "still": "assets/stills/classics/leviathan-2014.jpg",
+    "still_alt": "利维坦 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/leviathan-2014.jpg）（影片页 https://www.themoviedb.org/movie/265180）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/f7lytGw0yAeXg1KvmnVPJPqCPmf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]
