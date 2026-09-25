@@ -1,0 +1,687 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T13:36:09+08:00",
+    "purpose": "C23 classics×20 草稿：batch-yi2（乙二线）C22 之后收尾批（取尽仍≥1920+海报≥780）；status=draft，未并入 quotes.json",
+    "batch": "batch-yi2",
+    "selection_source": "tmp/content-fill-plan/candidates-yi2-c23-20.json",
+    "stills_source": "tmp/stills-yi2-c23/index-fragment.json",
+    "count": 20,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "source=yi2（乙二线）；承接 C22 yi2×25 之后的剩余匹配池，取尽仍过门禁者（N=20＜25）",
+      "海报：assets/posters/classics/{slug}.jpg；入选前校验 width≥780，不足则换 TMDB original（prefer zh）；本批最小海报宽 960；换源：bright-future-2003",
+      "静帧：assets/stills/classics/{slug}.jpg（C23 TMDB original backdrop，宽边≥1920）；16 ok / 4 actual",
+      "quotes.json 未修改；未 push；未用 CloudAgent",
+      "TMDB 严格 title/year 匹配池沿用 C20 核验；错配跳过 3（kings-and-queen-2004、hidden-2005、black-rain-1989）",
+      "静帧宽边<1920 不入选：time-out-2001、seduced-and-abandoned-1964（C23 复检仍分别为 1281 / 1500）",
+      "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
+      "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
+      "orphan 未跟踪海报未触碰"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "pauline-beach-lies",
+      "line": "大人恋爱时说的谎，小孩在旁边看得一清二楚。",
+      "line_en": "The lies adults tell in love are perfectly clear to the child standing beside them.",
+      "film_title": "海滩上的宝琳",
+      "film_title_en": "Pauline at the Beach",
+      "year": 1983,
+      "character": "宝琳 / Pauline",
+      "director": "埃里克·侯麦",
+      "tags": [
+        "海边",
+        "谎言",
+        "成长",
+        "侯麦"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括侯麦《海滩上的宝琳》中少女旁观成人恋爱自欺的喜剧道德题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 266
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/pauline-at-the-beach-1983.jpg",
+      "still": "assets/stills/classics/pauline-at-the-beach-1983.jpg",
+      "still_alt": "海滩上的宝琳 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pauline-at-the-beach-1983.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/10293）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7ZBgXi1WVgEmGwOyn9a0yncJAla.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 10293,
+      "slug": "pauline-at-the-beach-1983"
+    },
+    {
+      "id": "kids-return-fork",
+      "line": "拳台和黑道两条路，都没能把我们送回教室。",
+      "line_en": "Neither the ring nor the underworld ever brought us back to the classroom.",
+      "film_title": "坏孩子的天空",
+      "film_title_en": "Kids Return",
+      "year": 1996,
+      "character": "新一／慎二 / Shinji / Masaru",
+      "director": "北野武",
+      "tags": [
+        "青春",
+        "拳击",
+        "歧路",
+        "北野武"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括北野武《坏孩子的天空》中不良少年拳击与黑道歧路最终败退的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 346
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/kids-return-1996.jpg",
+      "still": "assets/stills/classics/kids-return-1996.jpg",
+      "still_alt": "坏孩子的天空 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kids-return-1996.jpg，1200×1600）（影片页 https://www.themoviedb.org/movie/27233）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ccWdu0PKGTJswruh6pihHlqH7YW.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 27233,
+      "slug": "kids-return-1996"
+    },
+    {
+      "id": "two-days-vote",
+      "line": "请不要为了我丢掉自己的奖金——可我还是想求你投我一票。",
+      "line_en": "Please don't lose your bonus for me — and still, I ask you to vote for me.",
+      "film_title": "两天一夜",
+      "film_title_en": "Two Days, One Night",
+      "year": 2014,
+      "character": "桑德拉 / Sandra",
+      "director": "让-皮埃尔·达尔登",
+      "tags": [
+        "工作",
+        "尊严",
+        "投票",
+        "达尔登"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括达尔登兄弟《两天一夜》中女工为保住工作逐一恳求同事投票的尊严张力，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 1034
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/two-days-one-night-2014.jpg",
+      "still": "assets/stills/classics/two-days-one-night-2014.jpg",
+      "still_alt": "两天一夜 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/two-days-one-night-2014.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/221902）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/PS5u6V1ZWzkZYFHYUCCStz1Yhu.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 221902,
+      "slug": "two-days-one-night-2014"
+    },
+    {
+      "id": "youth-silence",
+      "line": "最难的不是老去，是学会对过去的旋律保持沉默。",
+      "line_en": "The hardest part is not growing old — it is learning to stay silent before the melodies of the past.",
+      "film_title": "青年",
+      "film_title_en": "Youth",
+      "year": 2015,
+      "character": "弗雷德 / Fred Ballinger",
+      "director": "保罗·索伦蒂诺",
+      "tags": [
+        "衰老",
+        "音乐",
+        "记忆",
+        "索伦蒂诺"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括索伦蒂诺《青年》中退休作曲家拒绝重奏旧作、面对衰老与记忆的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 2270
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/youth-2015.jpg",
+      "still": "assets/stills/classics/youth-2015.jpg",
+      "still_alt": "青年 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/youth-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/310593）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7nFfW8RM50PANBIdfI9Ut3FdoSB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 310593,
+      "slug": "youth-2015"
+    },
+    {
+      "id": "beat-heart-piano",
+      "line": "拳头学会的节奏，钢琴未必肯认。",
+      "line_en": "The rhythm the fists learned, the piano may refuse to acknowledge.",
+      "film_title": "心跳停歇",
+      "film_title_en": "The Beat That My Heart Skipped",
+      "year": 2005,
+      "character": "汤姆 / Tom",
+      "director": "雅克·奥迪亚尔",
+      "tags": [
+        "钢琴",
+        "暴力",
+        "身份",
+        "奥迪亚尔"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括奥迪亚尔《心跳停歇》中地产打手与钢琴天才双重身份撕扯的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 505
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-beat-that-my-heart-skipped-2005.jpg",
+      "still": "assets/stills/classics/the-beat-that-my-heart-skipped-2005.jpg",
+      "still_alt": "心跳停歇 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-beat-that-my-heart-skipped-2005.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1553）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xqjIVyovqfl3g6u0kJEvteclrbc.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1553,
+      "slug": "the-beat-that-my-heart-skipped-2005"
+    },
+    {
+      "id": "bright-future-jellyfish",
+      "line": "水母在毒药里也能发光，人却未必。",
+      "line_en": "A jellyfish can glow even in poison — a person may not.",
+      "film_title": "光明的未来",
+      "film_title_en": "Bright Future",
+      "year": 2003,
+      "character": "宁／真知 / Nimura / Mamoru",
+      "director": "黑泽清",
+      "tags": [
+        "水母",
+        "疏离",
+        "青年",
+        "黑泽清"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：呼应黑泽清《光明的未来》片名反讽与水母意象并置的疏离寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 56
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/bright-future-2003.jpg",
+      "still": "assets/stills/classics/bright-future-2003.jpg",
+      "still_alt": "光明的未来 · TMDB 宣传静帧（3740×2105）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/bright-future-2003.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/26886）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eVsHFtqpy5DvTXLtRO56XAztsIs.jpg（3740×2105）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 26886,
+      "slug": "bright-future-2003"
+    },
+    {
+      "id": "gomorrah-system",
+      "line": "在这套体系里，你不是在犯罪，你是在上班。",
+      "line_en": "Inside this system, you are not committing crimes — you are going to work.",
+      "film_title": "格莫拉",
+      "film_title_en": "Gomorrah",
+      "year": 2008,
+      "character": "群像 / ensemble",
+      "director": "马泰奥·加洛内",
+      "tags": [
+        "黑手党",
+        "体系",
+        "那不勒斯",
+        "加洛内"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括加洛内《格莫拉》中黑手党如产业般运转、人物被体系吞没的纪实题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 1332
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/gomorrah-2008.jpg",
+      "still": "assets/stills/classics/gomorrah-2008.jpg",
+      "still_alt": "格莫拉 · TMDB 宣传静帧（2000×1123）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/gomorrah-2008.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/8882）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hNJZrwAP2HneYoVDUrrxVXNFwJJ.jpg（2000×1123）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 8882,
+      "slug": "gomorrah-2008"
+    },
+    {
+      "id": "empire-passion-ghost",
+      "line": "杀了人，爱并没有完——亡灵会把夜路照得更亮。",
+      "line_en": "After the murder, love is not finished — the dead light the night road even brighter.",
+      "film_title": "爱之亡灵",
+      "film_title_en": "Empire of Passion",
+      "year": 1978,
+      "character": "关／丰 / Seki / Toyoji",
+      "director": "大岛渚",
+      "tags": [
+        "通奸",
+        "亡灵",
+        "乡村",
+        "大岛渚"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括大岛渚《爱之亡灵》中通奸杀夫后被亡灵纠缠的情欲/超自然题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.8,
+          "votes": 141
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/empire-of-passion-1978.jpg",
+      "still": "assets/stills/classics/empire-of-passion-1978.jpg",
+      "still_alt": "爱之亡灵 · TMDB 宣传静帧（3584×2016）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/empire-of-passion-1978.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/49096）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3bRyHPo0Z1D1Zc5bkS63Gd32Jnt.jpg（3584×2016）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 49096,
+      "slug": "empire-of-passion-1978"
+    },
+    {
+      "id": "christmas-tale-family",
+      "line": "过节团聚，是把旧账和新病放在同一张桌上。",
+      "line_en": "A holiday reunion puts old scores and new illnesses on the same table.",
+      "film_title": "圣诞故事",
+      "film_title_en": "A Christmas Tale",
+      "year": 2008,
+      "character": "乌炤家族 / the Vuillard family",
+      "director": "阿诺·德斯普利钦",
+      "tags": [
+        "家族",
+        "疾病",
+        "圣诞",
+        "德斯普利钦"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括德斯普利钦《圣诞故事》中家族团聚、骨髓移植与旧怨并置的群像题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.8,
+          "votes": 178
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/a-christmas-tale-2008.jpg",
+      "still": "assets/stills/classics/a-christmas-tale-2008.jpg",
+      "still_alt": "圣诞故事 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-christmas-tale-2008.jpg，1165×1748）（影片页 https://www.themoviedb.org/movie/8892）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/srUN7sS82rD7zJYBMgB0yPuMBcl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 8892,
+      "slug": "a-christmas-tale-2008"
+    },
+    {
+      "id": "boy-meets-night",
+      "line": "巴黎的夜很长，刚好够两个陌生人走丢又相遇。",
+      "line_en": "Paris nights are long enough for two strangers to get lost — and meet again.",
+      "film_title": "男孩遇见女孩",
+      "film_title_en": "Boy Meets Girl",
+      "year": 1984,
+      "character": "阿列克斯／米蕾耶 / Alex / Mireille",
+      "director": "莱奥·卡拉克斯",
+      "tags": [
+        "巴黎",
+        "青春",
+        "偶遇",
+        "卡拉克斯"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括卡拉克斯首作《男孩遇见女孩》中巴黎夜晚漫游的青春孤独与偶遇题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.7,
+          "votes": 129
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/boy-meets-girl-1984.jpg",
+      "still": "assets/stills/classics/boy-meets-girl-1984.jpg",
+      "still_alt": "男孩遇见女孩 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/boy-meets-girl-1984.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/63418）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vFIC5xBv81hPHKnGU2noTid0HjE.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 63418,
+      "slug": "boy-meets-girl-1984"
+    },
+    {
+      "id": "pulse-connect",
+      "line": "连上网络的那一刻，幽灵也找到了入口。",
+      "line_en": "The moment you connect, the ghosts find their doorway too.",
+      "film_title": "回路",
+      "film_title_en": "Pulse",
+      "year": 2001,
+      "character": "川岛／阳子等 / Kawashima / Yoko et al.",
+      "director": "黑泽清",
+      "tags": [
+        "网络",
+        "幽灵",
+        "恐惧",
+        "黑泽清"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括黑泽清《回路》中网络连接与幽灵感染交织的世纪末都市恐怖寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.7,
+          "votes": 724
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/pulse-2001.jpg",
+      "still": "assets/stills/classics/pulse-2001.jpg",
+      "still_alt": "回路 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pulse-2001.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/27324）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/l0Jctg1xdWQVws2evcrKS8hEOsV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 27324,
+      "slug": "pulse-2001"
+    },
+    {
+      "id": "gods-men-stay",
+      "line": "留下或离开，祷告都要先问自己怕不怕死。",
+      "line_en": "Stay or leave — prayer first asks whether you fear death.",
+      "film_title": "人神之间",
+      "film_title_en": "Of Gods and Men",
+      "year": 2010,
+      "character": "克里斯蒂安院长等 / Frère Christian et al.",
+      "director": "格扎维埃·博瓦",
+      "tags": [
+        "信仰",
+        "殉道",
+        "修道院",
+        "博瓦"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括博瓦《人神之间》中阿尔及利亚修士面对圣战威胁抉择去留的信仰题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.7,
+          "votes": 425
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/of-gods-and-men-2010.jpg",
+      "still": "assets/stills/classics/of-gods-and-men-2010.jpg",
+      "still_alt": "人神之间 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/of-gods-and-men-2010.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/46332）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2TiTGCp0UgFgATSH6hHqHUofyPz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 46332,
+      "slug": "of-gods-and-men-2010"
+    },
+    {
+      "id": "realm-senses-limit",
+      "line": "爱到尽头，身体与死亡只剩一张薄纸。",
+      "line_en": "At the end of love, the body and death are only a thin sheet apart.",
+      "film_title": "感官世界",
+      "film_title_en": "In the Realm of the Senses",
+      "year": 1976,
+      "character": "阿部定／石田 / Sada / Kichizo",
+      "director": "大岛渚",
+      "tags": [
+        "情欲",
+        "死亡",
+        "极限",
+        "大岛渚"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括大岛渚《感官世界》中情欲推向死亡极限的题旨，非逐字引文；本片尺度极高，策展句只点题不复述场面。",
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 760
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/in-the-realm-of-the-senses-1976.jpg",
+      "still": "assets/stills/classics/in-the-realm-of-the-senses-1976.jpg",
+      "still_alt": "感官世界 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/in-the-realm-of-the-senses-1976.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/5879）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/td9xa3PiG2u80IHVstUILfexMd9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 5879,
+      "slug": "in-the-realm-of-the-senses-1976"
+    },
+    {
+      "id": "gate-flesh-rule",
+      "line": "废墟里的规矩只有一条：肉体换口粮，背叛就挨打。",
+      "line_en": "In the ruins there is only one rule: flesh for rations — betrayal means a beating.",
+      "film_title": "肉体之门",
+      "film_title_en": "Gate of Flesh",
+      "year": 1964,
+      "character": "妓女团体 / the prostitutes' gang",
+      "director": "铃木清顺",
+      "tags": [
+        "战后",
+        "肉体",
+        "规矩",
+        "铃木清顺"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括铃木清顺《肉体之门》中战后废墟妓女团体以肉体法则求生的残酷寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 77
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/gate-of-flesh-1964.jpg",
+      "still": "assets/stills/classics/gate-of-flesh-1964.jpg",
+      "still_alt": "肉体之门 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/gate-of-flesh-1964.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/86666）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/54txsq2E7HHf2Ks79VKap3rV7EG.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 86666,
+      "slug": "gate-of-flesh-1964"
+    },
+    {
+      "id": "girlhood-hair",
+      "line": "剪短头发、换上新衣，并不等于立刻长成大人。",
+      "line_en": "Cutting your hair and changing clothes does not make you grown overnight.",
+      "film_title": "少女时代",
+      "film_title_en": "Girlhood",
+      "year": 2014,
+      "character": "玛丽艾玛 / Marieme / Vic",
+      "director": "塞莉娜·席安玛",
+      "tags": [
+        "成长",
+        "友情",
+        "郊区",
+        "席安玛"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括席安玛《少女时代》中巴黎郊外少女以造型与帮派友情试探成人边界的成长题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.5,
+          "votes": 409
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/girlhood-2014.jpg",
+      "still": "assets/stills/classics/girlhood-2014.jpg",
+      "still_alt": "少女时代 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/girlhood-2014.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/266082）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u446W9oVJ3YAFhHUayjq9ltwdeG.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 266082,
+      "slug": "girlhood-2014"
+    },
+    {
+      "id": "waiting-happiness-shore",
+      "line": "幸福若在对岸，港口就只会一直等人上船。",
+      "line_en": "If happiness is across the water, the port will only keep waiting for someone to board.",
+      "film_title": "等待幸福",
+      "film_title_en": "Waiting for Happiness",
+      "year": 2002,
+      "character": "阿卜杜拉／地方群像 / Abdallah / locals",
+      "director": "阿布德拉马纳·西萨科",
+      "tags": [
+        "等待",
+        "港口",
+        "过渡",
+        "西萨科"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括西萨科《等待幸福》中毛里塔尼亚港口小镇疏离与离境等待的过渡题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.5,
+          "votes": 30
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/waiting-for-happiness-2002.jpg",
+      "still": "assets/stills/classics/waiting-for-happiness-2002.jpg",
+      "still_alt": "等待幸福 · TMDB 宣传静帧（2048×1152）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/waiting-for-happiness-2002.jpg，960×1440）（影片页 https://www.themoviedb.org/movie/47226）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fgkt6KVenMAiKtEMNV67KZPueyq.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 47226,
+      "slug": "waiting-for-happiness-2002"
+    },
+    {
+      "id": "titane-metal",
+      "line": "身体可以长出金属，爱却还得用人的样子去求。",
+      "line_en": "The body can grow metal — love still has to beg in a human shape.",
+      "film_title": "钛",
+      "film_title_en": "Titane",
+      "year": 2021,
+      "character": "阿莱克西娅／樊尚 / Alexia / Vincent",
+      "director": "朱莉娅·杜科纳",
+      "tags": [
+        "身体",
+        "金属",
+        "性别",
+        "杜科纳"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括杜科纳《钛》中身体变异、性别扮演与暴力之后仍求亲密的金属寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.3,
+          "votes": 1748
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/titane-2021.jpg",
+      "still": "assets/stills/classics/titane-2021.jpg",
+      "still_alt": "钛 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/titane-2021.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/630240）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zEddiBK6yZNUGVnmBJzmnYcEWiR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 630240,
+      "slug": "titane-2021"
+    },
+    {
+      "id": "young-ahmed-path",
+      "line": "有人教你一条窄路，走出门才知道世界比路宽。",
+      "line_en": "Someone teaches you a narrow path — only outdoors do you learn the world is wider.",
+      "film_title": "少年艾哈迈德",
+      "film_title_en": "Young Ahmed",
+      "year": 2019,
+      "character": "艾哈迈德 / Ahmed",
+      "director": "让-皮埃尔·达尔登",
+      "tags": [
+        "极端",
+        "少年",
+        "教育",
+        "达尔登"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括达尔登兄弟《少年艾哈迈德》中比利时少年在极端宗教影响下的激化与教育拉扯，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.3,
+          "votes": 175
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/young-ahmed-2019.jpg",
+      "still": "assets/stills/classics/young-ahmed-2019.jpg",
+      "still_alt": "少年艾哈迈德 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/young-ahmed-2019.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/522373）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/y31BYaEd4IEtcUyMqmIoUhvm1OP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 522373,
+      "slug": "young-ahmed-2019"
+    },
+    {
+      "id": "happy-end-cold",
+      "line": "家庭宴席照开，窗外的难民与室内的冷漠隔着一层玻璃。",
+      "line_en": "The family banquet goes on — refugees outside and coldness inside are only a pane of glass apart.",
+      "film_title": "快乐结局",
+      "film_title_en": "Happy End",
+      "year": 2017,
+      "character": "洛朗家族 / the Laurent family",
+      "director": "迈克尔·哈内克",
+      "tags": [
+        "冷漠",
+        "家族",
+        "难民",
+        "哈内克"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括哈内克《快乐结局》中布尔乔亚家族冷漠与欧洲难民危机并置的讽刺题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.2,
+          "votes": 443
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/happy-end-2017.jpg",
+      "still": "assets/stills/classics/happy-end-2017.jpg",
+      "still_alt": "快乐结局 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/happy-end-2017.jpg，960×1440）（影片页 https://www.themoviedb.org/movie/399031）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7DYkTG9eS7nGLlsl9YMav4mcHw6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 399031,
+      "slug": "happy-end-2017"
+    },
+    {
+      "id": "heading-south-buy",
+      "line": "在南边，金钱可以买到夏天，买不到不被看穿。",
+      "line_en": "Down south, money can buy a summer — not the right not to be seen through.",
+      "film_title": "南行",
+      "film_title_en": "Heading South",
+      "year": 2005,
+      "character": "艾伦／布伦达等 / Ellen / Brenda et al.",
+      "director": "洛朗·康泰",
+      "tags": [
+        "欲望",
+        "后殖民",
+        "海地",
+        "康泰"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括康泰《南行》中白人女游客在海地以金钱兑换年轻肉体的后殖民欲望寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 5.4,
+          "votes": 39
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/heading-south-2005.jpg",
+      "still": "assets/stills/classics/heading-south-2005.jpg",
+      "still_alt": "南行 · TMDB 宣传静帧（3262×1835）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/heading-south-2005.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/1540）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/i7Z2hHvm0bKEFB4EvXpk6kFYDyV.jpg（3262×1835）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1540,
+      "slug": "heading-south-2005"
+    }
+  ]
+}
