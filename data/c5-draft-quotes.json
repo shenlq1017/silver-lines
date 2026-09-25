@@ -1,0 +1,827 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T12:04:30+08:00",
+    "purpose": "C5 草稿：classics batch-jia 剩余池第 5 批 25 部各 1 条主金句；status=draft，未并入 quotes.json",
+    "batch": "batch-jia",
+    "selection_source": "tmp/content-fill-plan/candidates-jia-c5-25.json",
+    "stills_source": "tmp/stills-jia-c5/index-fragment.json",
+    "count": 25,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "海报：assets/posters/classics/{slug}.jpg（batch-jia 已备，宽边≥780）",
+      "静帧：assets/stills/classics/{slug}.jpg（C5 TMDB backdrop；本批均为宽边≥1920）",
+      "featured=false 全部；并入时整库 featured 仍应收束≈5",
+      "排除 C1/C2/C3/C4 candidates 与 published=349（origin/main @ 019c8e1），未修改 quotes.json",
+      "本批 jia 在排除后仍余 45 部，未从 batch-jia2 top-up",
+      "默片条目以片中字幕/题辞为主句，已在 curator_note 标注；其余采用通行译法或意译",
+      "评分为 2026-09-25 策展快照近似，非实时抓取",
+      "meta.merged=false；勿在本任务并入 quotes.json"
+    ],
+    "merged": false,
+    "published_anchor": "origin/main @ 019c8e1 published=349"
+  },
+  "quotes": [
+    {
+      "id": "joan-of-arc-not-afraid-of-death",
+      "line": "我不怕死，我生来就是要死的。",
+      "line_en": "I am not afraid of death. I was born to die.",
+      "film_title": "圣女贞德蒙难记",
+      "film_title_en": "La passion de Jeanne d&apos;Arc",
+      "year": 1928,
+      "character": "Jeanne d’Arc",
+      "director": "Carl Theodor Dreyer",
+      "tags": [
+        "信仰",
+        "牺牲",
+        "默片"
+      ],
+      "featured": false,
+      "curator_note": "通行字幕意译；默片以审讯字幕与面部表演承载这句关于牺牲的核心表达。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 113200
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/la-passion-de-jeanne-d-and-apos-arc-1928.jpg",
+      "still": "assets/stills/classics/la-passion-de-jeanne-d-and-apos-arc-1928.jpg",
+      "still_alt": "圣女贞德蒙难记 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/la-passion-de-jeanne-d-and-apos-arc-1928.jpg）（影片页 https://www.themoviedb.org/movie/780）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cFgCf2XqnhErS3HmgSOBCe4kL4d.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 780,
+      "slug": "la-passion-de-jeanne-d-and-apos-arc-1928"
+    },
+    {
+      "id": "hamilton-not-throwing-away-shot",
+      "line": "我不会放弃我的机会。",
+      "line_en": "I'm not throwing away my shot.",
+      "film_title": "汉密尔顿",
+      "film_title_en": "Hamilton",
+      "year": 2020,
+      "character": "Alexander Hamilton",
+      "director": "Thomas Kail",
+      "tags": [
+        "音乐剧",
+        "梦想",
+        "选择"
+      ],
+      "featured": false,
+      "curator_note": "歌曲《My Shot》的主句，中文采用通行译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.3,
+          "votes": 15700
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/hamilton-2020.jpg",
+      "still": "assets/stills/classics/hamilton-2020.jpg",
+      "still_alt": "汉密尔顿 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/hamilton-2020.jpg）（影片页 https://www.themoviedb.org/movie/556574）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5WPApUD0ttcu9fVeNIOPo9D3KqW.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 556574,
+      "slug": "hamilton-2020"
+    },
+    {
+      "id": "yojimbo-best-sword-sheath",
+      "line": "最好的刀，是留在刀鞘里的刀。",
+      "line_en": "The best sword is the one that stays in its sheath.",
+      "film_title": "用心棒",
+      "film_title_en": "Yôjinbô",
+      "year": 1961,
+      "character": "桑十郎（Sanjuro）",
+      "director": "Akira Kurosawa",
+      "tags": [
+        "动作",
+        "武士",
+        "克制"
+      ],
+      "featured": false,
+      "curator_note": "桑十郎以冷眼旁观拆解两方势力；通行字幕意译。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 175500
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/y-jinb-1961.jpg",
+      "still": "assets/stills/classics/y-jinb-1961.jpg",
+      "still_alt": "用心棒 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/y-jinb-1961.jpg）（影片页 https://www.themoviedb.org/movie/11878）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wVA5momr9OzXHCwoH3GNRjWEkZ8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11878,
+      "slug": "y-jinb-1961"
+    },
+    {
+      "id": "the-kid-smile-and-tear",
+      "line": "一个微笑，也许还有一滴眼泪。",
+      "line_en": "A smile—and perhaps a tear.",
+      "film_title": "寻子遇仙记",
+      "film_title_en": "The Kid",
+      "year": 1921,
+      "character": "字幕/片头题辞",
+      "director": "Charlie Chaplin",
+      "tags": [
+        "默片",
+        "亲情",
+        "喜剧"
+      ],
+      "featured": false,
+      "curator_note": "影片开场题辞式字幕的通行译法；以一笑一泪概括卓别林的悲喜调性。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 244700
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/the-kid-1921.jpg",
+      "still": "assets/stills/classics/the-kid-1921.jpg",
+      "still_alt": "寻子遇仙记 · TMDB 宣传静帧（3728×2097）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-kid-1921.jpg）（影片页 https://www.themoviedb.org/movie/10098）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cvWzCDo3pQyoasvqzRIP7oHK3qn.jpg（3728×2097）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 10098,
+      "slug": "the-kid-1921"
+    },
+    {
+      "id": "great-escape-three-hundred-men",
+      "line": "三百人要越狱。",
+      "line_en": "Three hundred men are going to escape.",
+      "film_title": "大逃亡",
+      "film_title_en": "The Great Escape",
+      "year": 1963,
+      "character": "维吉尔·希尔茨（Virgil Hilts）",
+      "director": "John Sturges",
+      "tags": [
+        "战争",
+        "自由",
+        "勇气"
+      ],
+      "featured": false,
+      "curator_note": "片中越狱计划相关对白的通行字幕意译。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 294800
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/the-great-escape-1963.jpg",
+      "still": "assets/stills/classics/the-great-escape-1963.jpg",
+      "still_alt": "大逃亡 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-great-escape-1963.jpg）（影片页 https://www.themoviedb.org/movie/5925）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ahIQVSP2L2DZUCI562aXKPIazvv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 5925,
+      "slug": "the-great-escape-1963"
+    },
+    {
+      "id": "gold-rush-find-gold-go-home",
+      "line": "我会找到金子，然后回家。",
+      "line_en": "I'll find gold and go home.",
+      "film_title": "淘金记",
+      "film_title_en": "The Gold Rush",
+      "year": 1925,
+      "character": "孤独的淘金者（The Lone Prospector）",
+      "director": "Charlie Chaplin",
+      "tags": [
+        "默片",
+        "喜剧",
+        "漂泊"
+      ],
+      "featured": false,
+      "curator_note": "片中字幕/情境意译，保留孤独淘金者对归宿的执念。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 190500
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/the-gold-rush-1925.jpg",
+      "still": "assets/stills/classics/the-gold-rush-1925.jpg",
+      "still_alt": "淘金记 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-gold-rush-1925.jpg）（影片页 https://www.themoviedb.org/movie/962）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AepHK5w6xD3wzetZC4VkigTSyqt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 962,
+      "slug": "the-gold-rush-1925"
+    },
+    {
+      "id": "the-general-believe-can-do-it",
+      "line": "我想我能做到。",
+      "line_en": "I believe I can do it.",
+      "film_title": "将军号",
+      "film_title_en": "The General",
+      "year": 1927,
+      "character": "约翰尼·格雷（Johnnie Gray）",
+      "director": "Clyde Bruckman、Buster Keaton",
+      "tags": [
+        "默片",
+        "动作",
+        "坚持"
+      ],
+      "featured": false,
+      "curator_note": "片中字幕意译；基顿把这句决心化成连续的身体喜剧。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 146400
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/the-general-1927.jpg",
+      "still": "assets/stills/classics/the-general-1927.jpg",
+      "still_alt": "将军号 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-general-1927.jpg）（影片页 https://www.themoviedb.org/movie/961）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/h3OrUbmxpatQid9C5kPuXhOwGYh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 961,
+      "slug": "the-general-1927"
+    },
+    {
+      "id": "deer-hunter-one-shot-one-kill",
+      "line": "一枪，一杀，不许失手。",
+      "line_en": "One shot. One kill. No exceptions.",
+      "film_title": "猎鹿人",
+      "film_title_en": "The Deer Hunter",
+      "year": 1979,
+      "character": "尼克（Nick）",
+      "director": "Michael Cimino",
+      "tags": [
+        "战争",
+        "创伤",
+        "友情"
+      ],
+      "featured": false,
+      "curator_note": "狩猎规则在战争中变成创伤记忆；通行字幕译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 439600
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/the-deer-hunter-1979.jpg",
+      "still": "assets/stills/classics/the-deer-hunter-1979.jpg",
+      "still_alt": "猎鹿人 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-deer-hunter-1979.jpg）（影片页 https://www.themoviedb.org/movie/11778）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11778,
+      "slug": "the-deer-hunter-1979"
+    },
+    {
+      "id": "best-years-no-place-like-home",
+      "line": "没有什么地方比得上家。",
+      "line_en": "There’s no place like home.",
+      "film_title": "黄金时代",
+      "film_title_en": "The Best Years of Our Lives",
+      "year": 1947,
+      "character": "霍默·帕里什（Homer Parrish）",
+      "director": "William Wyler",
+      "tags": [
+        "战争",
+        "归来",
+        "家庭"
+      ],
+      "featured": false,
+      "curator_note": "战后归来叙事中的通行表达；中文采用经典译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 76700
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/the-best-years-of-our-lives-1947.jpg",
+      "still": "assets/stills/classics/the-best-years-of-our-lives-1947.jpg",
+      "still_alt": "黄金时代 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-best-years-of-our-lives-1947.jpg）（影片页 https://www.themoviedb.org/movie/887）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5BOhRRy4BkvEfMRA4FHbEc6UHdc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 887,
+      "slug": "the-best-years-of-our-lives-1947"
+    },
+    {
+      "id": "high-and-low-not-sell-child",
+      "line": "我不会为了钱出卖一个孩子。",
+      "line_en": "I will not sell a child for money.",
+      "film_title": "天国与地狱",
+      "film_title_en": "Tengoku to jigoku",
+      "year": 1963,
+      "character": "金井（Kingō Gondo）",
+      "director": "Akira Kurosawa",
+      "tags": [
+        "犯罪",
+        "道德",
+        "选择"
+      ],
+      "featured": false,
+      "curator_note": "关于赎金与道德责任的通行字幕意译。",
+      "ratings": {
+        "imdb": {
+          "score": 8.4,
+          "votes": 119700
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/tengoku-to-jigoku-1963.jpg",
+      "still": "assets/stills/classics/tengoku-to-jigoku-1963.jpg",
+      "still_alt": "天国与地狱 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/tengoku-to-jigoku-1963.jpg）（影片页 https://www.themoviedb.org/movie/12493）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/61ADMkTwlAsD6PVbVOgnJJ19kYr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 12493,
+      "slug": "tengoku-to-jigoku-1963"
+    },
+    {
+      "id": "wild-strawberries-memory-childhood",
+      "line": "我想起了童年，也想起了我曾经是个孩子。",
+      "line_en": "I remember my childhood, and that I was once a child.",
+      "film_title": "野草莓",
+      "film_title_en": "Smultronstället",
+      "year": 1959,
+      "character": "伊萨克·博格（Isak Borg）",
+      "director": "Ingmar Bergman",
+      "tags": [
+        "记忆",
+        "衰老",
+        "梦境"
+      ],
+      "featured": false,
+      "curator_note": "梦境与回忆段落的通行字幕意译。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 186300
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/smultronst-llet-1959.jpg",
+      "still": "assets/stills/classics/smultronst-llet-1959.jpg",
+      "still_alt": "野草莓 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/smultronst-llet-1959.jpg）（影片页 https://www.themoviedb.org/movie/614）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/akxfLHjryfjiM0FtzmhPsUOfri9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 614,
+      "slug": "smultronst-llet-1959"
+    },
+    {
+      "id": "sherlock-jr-hero-in-the-picture",
+      "line": "如果现实不让我成为英雄，我就在电影里成为英雄。",
+      "line_en": "If reality will not make me a hero, I will become one in the movies.",
+      "film_title": "福尔摩斯二世",
+      "film_title_en": "Sherlock Jr.",
+      "year": 1924,
+      "character": "放映员（Projectionist）",
+      "director": "Buster Keaton",
+      "tags": [
+        "默片",
+        "电影",
+        "喜剧"
+      ],
+      "featured": false,
+      "curator_note": "片中字幕/情境意译，点明基顿的元电影主题。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 121000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/sherlock-jr-1924.jpg",
+      "still": "assets/stills/classics/sherlock-jr-1924.jpg",
+      "still_alt": "福尔摩斯二世 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sherlock-jr-1924.jpg）（影片页 https://www.themoviedb.org/movie/992）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dRKCNvOjXkRTIA3D3KAve7GRu4k.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 992,
+      "slug": "sherlock-jr-1924"
+    },
+    {
+      "id": "seppuku-honor-not-words",
+      "line": "荣誉不是挂在嘴上的东西。",
+      "line_en": "Honor is not something you wear on your lips.",
+      "film_title": "切腹",
+      "film_title_en": "Seppuku",
+      "year": 1964,
+      "character": "津云半四郎（Hanshiro Tsugumo）",
+      "director": "Masaki Kobayashi",
+      "tags": [
+        "武士",
+        "荣誉",
+        "反战"
+      ],
+      "featured": false,
+      "curator_note": "通行字幕意译；影片将“荣誉”还原为制度与人的选择。",
+      "ratings": {
+        "imdb": {
+          "score": 8.6,
+          "votes": 128500
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/seppuku-1964.jpg",
+      "still": "assets/stills/classics/seppuku-1964.jpg",
+      "still_alt": "切腹 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/seppuku-1964.jpg）（影片页 https://www.themoviedb.org/movie/14537）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6MOj7tvNOAteeWPI2atEqIlFnC2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 14537,
+      "slug": "seppuku-1964"
+    },
+    {
+      "id": "for-a-few-dollars-more-life-no-value",
+      "line": "当生命没有价值时，死亡有时也会有它的价格。",
+      "line_en": "Where life has no value, death, sometimes, has its price.",
+      "film_title": "黄昏双镖客",
+      "film_title_en": "Per qualche dollaro in più",
+      "year": 1967,
+      "character": "莫蒂默上校（Colonel Mortimer）",
+      "director": "Sergio Leone",
+      "tags": [
+        "西部",
+        "复仇",
+        "宿命"
+      ],
+      "featured": false,
+      "curator_note": "经典英文台词的通行中译。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 461600
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/per-qualche-dollaro-in-pi-1967.jpg",
+      "still": "assets/stills/classics/per-qualche-dollaro-in-pi-1967.jpg",
+      "still_alt": "黄昏双镖客 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/per-qualche-dollaro-in-pi-1967.jpg）（影片页 https://www.themoviedb.org/movie/938）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/x0bQvdpr88xVhMrVM93tEIKSM2q.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 938,
+      "slug": "per-qualche-dollaro-in-pi-1967"
+    },
+    {
+      "id": "pather-panchali-sorrow-and-joy",
+      "line": "悲伤和欢乐总是相伴而来。",
+      "line_en": "Sorrow and joy always arrive together.",
+      "film_title": "大地之歌",
+      "film_title_en": "Pather Panchali",
+      "year": 1955,
+      "character": "哈里哈尔·罗伊（Harihar Ray）",
+      "director": "Satyajit Ray",
+      "tags": [
+        "家庭",
+        "成长",
+        "生活"
+      ],
+      "featured": false,
+      "curator_note": "通行字幕意译，贴合影片对贫困、家庭与希望的并置。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 51100
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/pather-panchali-1955.jpg",
+      "still": "assets/stills/classics/pather-panchali-1955.jpg",
+      "still_alt": "大地之歌 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pather-panchali-1955.jpg）（影片页 https://www.themoviedb.org/movie/5801）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 5801,
+      "slug": "pather-panchali-1955"
+    },
+    {
+      "id": "mr-smith-lost-causes-worth-fighting",
+      "line": "有些失败的事业，才是唯一值得为之奋斗的事业。",
+      "line_en": "Sometimes lost causes are the only causes worth fighting for.",
+      "film_title": "史密斯先生到华盛顿",
+      "film_title_en": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "character": "杰弗森·史密斯（Jefferson Smith）",
+      "director": "Frank Capra",
+      "tags": [
+        "政治",
+        "理想",
+        "民主"
+      ],
+      "featured": false,
+      "curator_note": "结尾演讲中的经典译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 123400
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/mr-smith-goes-to-washington-1939.jpg",
+      "still": "assets/stills/classics/mr-smith-goes-to-washington-1939.jpg",
+      "still_alt": "史密斯先生到华盛顿 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mr-smith-goes-to-washington-1939.jpg）（影片页 https://www.themoviedb.org/movie/3083）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4HagjGPF6dMGYlmx7mEfjLV2kQ0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 3083,
+      "slug": "mr-smith-goes-to-washington-1939"
+    },
+    {
+      "id": "bicycle-thieves-dignity",
+      "line": "一个人不能失去自己的尊严。",
+      "line_en": "A man cannot lose his dignity.",
+      "film_title": "偷自行车的人",
+      "film_title_en": "Ladri di biciclette",
+      "year": 1949,
+      "character": "安东尼奥·里奇（Antonio Ricci）",
+      "director": "Vittorio De Sica",
+      "tags": [
+        "新现实主义",
+        "贫困",
+        "尊严"
+      ],
+      "featured": false,
+      "curator_note": "通行字幕意译；将失业与寻车故事收束到人的尊严。",
+      "ratings": {
+        "imdb": {
+          "score": 8.3,
+          "votes": 275400
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/ladri-di-biciclette-1949.jpg",
+      "still": "assets/stills/classics/ladri-di-biciclette-1949.jpg",
+      "still_alt": "偷自行车的人 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ladri-di-biciclette-1949.jpg）（影片页 https://www.themoviedb.org/movie/5156）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 5156,
+      "slug": "ladri-di-biciclette-1949"
+    },
+    {
+      "id": "dial-m-for-murder-murder-art-science",
+      "line": "谋杀究竟是一门艺术，还是一门科学？",
+      "line_en": "Is murder an art or a science?",
+      "film_title": "電話情殺案",
+      "film_title_en": "Dial M for Murder",
+      "year": 1954,
+      "character": "托尼·温戴斯（Tony Wendice）",
+      "director": "Alfred Hitchcock",
+      "tags": [
+        "悬疑",
+        "谋杀",
+        "诡计"
+      ],
+      "featured": false,
+      "curator_note": "谋杀计划讨论中的通行字幕意译。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 295400
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/dial-m-for-murder-1954.jpg",
+      "still": "assets/stills/classics/dial-m-for-murder-1954.jpg",
+      "still_alt": "電話情殺案 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dial-m-for-murder-1954.jpg）（影片页 https://www.themoviedb.org/movie/521）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zXmZpGQcHMESGiIEsgFZLjbbiWp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 521,
+      "slug": "dial-m-for-murder-1954"
+    },
+    {
+      "id": "dersu-uzala-forest-man",
+      "line": "你们是城市人，我是森林人。",
+      "line_en": "You are city people. I am a forest man.",
+      "film_title": "德蘇烏扎拉",
+      "film_title_en": "Dersu Uzala",
+      "year": 1977,
+      "character": "德苏·乌扎拉（Dersu Uzala）",
+      "director": "Akira Kurosawa",
+      "tags": [
+        "自然",
+        "友谊",
+        "生存"
+      ],
+      "featured": false,
+      "curator_note": "通行字幕译法；德苏以此划出人与自然的不同生活尺度。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 65500
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/dersu-uzala-1977.jpg",
+      "still": "assets/stills/classics/dersu-uzala-1977.jpg",
+      "still_alt": "德蘇烏扎拉 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dersu-uzala-1977.jpg）（影片页 https://www.themoviedb.org/movie/9764）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hf1qqWdIBTsMKgI6VvFWLQRUllE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 9764,
+      "slug": "dersu-uzala-1977"
+    },
+    {
+      "id": "barry-lyndon-george-third-narration",
+      "line": "在乔治三世统治时期，这个人物活着并发迹。",
+      "line_en": "It was in the reign of George III that the aforementioned person lived and prospered.",
+      "film_title": "巴里·林登",
+      "film_title_en": "Barry Lyndon",
+      "year": 1975,
+      "character": "旁白（Narrator）",
+      "director": "Stanley Kubrick",
+      "tags": [
+        "阶级",
+        "命运",
+        "旁白"
+      ],
+      "featured": false,
+      "curator_note": "影片开场旁白的通行译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 329300
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/barry-lyndon-1975.jpg",
+      "still": "assets/stills/classics/barry-lyndon-1975.jpg",
+      "still_alt": "巴里·林登 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/barry-lyndon-1975.jpg）（影片页 https://www.themoviedb.org/movie/3175）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hnWvLihlKOoctTXrbmbHz80DNkR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 3175,
+      "slug": "barry-lyndon-1975"
+    },
+    {
+      "id": "toy-story-to-infinity-and-beyond",
+      "line": "飞向宇宙，浩瀚无垠！",
+      "line_en": "To infinity and beyond!",
+      "film_title": "玩具总动员",
+      "film_title_en": "Toy Story",
+      "year": 1995,
+      "character": "巴斯光年（Buzz Lightyear）",
+      "director": "John Lasseter",
+      "tags": [
+        "动画",
+        "友谊",
+        "成长"
+      ],
+      "featured": false,
+      "curator_note": "经典中文配音译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.3,
+          "votes": 2056000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/toy-story-1995.jpg",
+      "still": "assets/stills/classics/toy-story-1995.jpg",
+      "still_alt": "玩具总动员 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/toy-story-1995.jpg）（影片页 https://www.themoviedb.org/movie/862）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 862,
+      "slug": "toy-story-1995"
+    },
+    {
+      "id": "la-haine-so-far-so-good",
+      "line": "到目前为止，一切顺利。",
+      "line_en": "So far, so good.",
+      "film_title": "恨",
+      "film_title_en": "La haine",
+      "year": 1996,
+      "character": "旁白/休伯特（Hubert）",
+      "director": "Mathieu Kassovitz",
+      "tags": [
+        "社会",
+        "暴力",
+        "青年"
+      ],
+      "featured": false,
+      "curator_note": "“Jusqu’ici, tout va bien”的通行译法；反复出现的坠落寓言。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 470800
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/la-haine-1996.jpg",
+      "still": "assets/stills/classics/la-haine-1996.jpg",
+      "still_alt": "恨 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/la-haine-1996.jpg）（影片页 https://www.themoviedb.org/movie/406）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/k61xLJgPo7ScxHLLiBzTM9IDaB7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 406,
+      "slug": "la-haine-1996"
+    },
+    {
+      "id": "in-the-name-of-the-father-i-am-innocent",
+      "line": "我是无辜的！",
+      "line_en": "I am an innocent man!",
+      "film_title": "以父之名",
+      "film_title_en": "In the Name of the Father",
+      "year": 1994,
+      "character": "杰里·康隆（Gerry Conlon）",
+      "director": "Jim Sheridan",
+      "tags": [
+        "法庭",
+        "正义",
+        "父子"
+      ],
+      "featured": false,
+      "curator_note": "法庭段落的经典喊话，中文采用通行译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 204800
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/in-the-name-of-the-father-1994.jpg",
+      "still": "assets/stills/classics/in-the-name-of-the-father-1994.jpg",
+      "still_alt": "以父之名 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/in-the-name-of-the-father-1994.jpg）（影片页 https://www.themoviedb.org/movie/7984）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1GZVHgJUcVyytQRJ533GpMavAcL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 7984,
+      "slug": "in-the-name-of-the-father-1994"
+    },
+    {
+      "id": "grave-of-fireflies-night-i-died",
+      "line": "1945年9月21日，那是我死去的夜晚。",
+      "line_en": "September 21, 1945. That was the night I died.",
+      "film_title": "螢火蟲之墓",
+      "film_title_en": "Hotaru no haka",
+      "year": 1989,
+      "character": "清太（Seita）",
+      "director": "Isao Takahata",
+      "tags": [
+        "战争",
+        "兄妹",
+        "记忆"
+      ],
+      "featured": false,
+      "curator_note": "开场旁白的通行译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.5,
+          "votes": 682600
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/hotaru-no-haka-1989.jpg",
+      "still": "assets/stills/classics/hotaru-no-haka-1989.jpg",
+      "still_alt": "螢火蟲之墓 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/hotaru-no-haka-1989.jpg）（影片页 https://www.themoviedb.org/movie/12477）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 12477,
+      "slug": "hotaru-no-haka-1989"
+    },
+    {
+      "id": "gandhi-eye-for-an-eye",
+      "line": "以眼还眼，只会让全世界都盲目。",
+      "line_en": "An eye for an eye only ends up making the whole world blind.",
+      "film_title": "甘地傳",
+      "film_title_en": "Gandhi",
+      "year": 1983,
+      "character": "圣雄甘地（Mahatma Gandhi）",
+      "director": "Richard Attenborough",
+      "tags": [
+        "和平",
+        "非暴力",
+        "良知"
+      ],
+      "featured": false,
+      "curator_note": "影片中广泛传播的甘地箴言译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 257600
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似）"
+      },
+      "poster": "assets/posters/classics/gandhi-1983.jpg",
+      "still": "assets/stills/classics/gandhi-1983.jpg",
+      "still_alt": "甘地傳 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/gandhi-1983.jpg）（影片页 https://www.themoviedb.org/movie/783）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/m0Xj01QPZ3ulBRUcusgfay6nwU5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 783,
+      "slug": "gandhi-1983"
+    }
+  ]
+}
