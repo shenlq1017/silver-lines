@@ -244,7 +244,7 @@ main { padding: 2.5rem 0 3rem; min-height: 60vh; }
 .badge--rt { background: rgba(250, 50, 10, 0.12); border-color: rgba(250, 50, 10, 0.35); color: #ff6b4a; }
 .badge--mc { background: rgba(255, 204, 51, 0.1); border-color: rgba(255, 204, 51, 0.35); color: var(--mc); }
 
-/* —— Detail page · one-screen stage —— */
+/* —— Detail page · fullscreen still + corner info —— */
 body.page-detail {
   height: 100vh;
   overflow: hidden;
@@ -254,6 +254,7 @@ body.page-detail main {
   padding: 0;
   min-height: 0;
   height: 100vh;
+  overflow: hidden;
 }
 body.page-detail .site-header {
   position: absolute;
@@ -269,6 +270,7 @@ body.page-detail .site-header {
     transparent 100%
   );
   backdrop-filter: none;
+  z-index: 40;
 }
 body.page-detail .site-header__inner {
   height: 56px;
@@ -284,13 +286,13 @@ body.page-detail .site-footer--slim {
   margin: 0;
   border: none;
   padding: 0;
-  height: 30px;
+  height: 26px;
   display: flex;
   align-items: center;
   justify-content: center;
   background: transparent;
   pointer-events: none;
-  z-index: 5;
+  z-index: 30;
 }
 body.page-detail .site-footer--slim p {
   color: var(--text-dim);
@@ -300,18 +302,19 @@ body.page-detail .site-footer--slim p {
 }
 
 .detail-stage {
-  display: grid;
-  grid-template-columns: 58fr 42fr;
+  position: relative;
   height: 100vh;
   width: 100%;
   overflow: hidden;
+  background: #000;
 }
 
 .detail-stage__still {
-  position: relative;
+  position: absolute;
+  inset: 0;
   overflow: hidden;
   background: #000;
-  height: 100%;
+  z-index: 0;
 }
 .detail-stage__still img {
   width: 100%;
@@ -323,47 +326,62 @@ body.page-detail .site-footer--slim p {
   position: absolute;
   inset: 0;
   pointer-events: none;
-  background:
-    radial-gradient(ellipse at center, transparent 45%, rgba(0, 0, 0, 0.45) 100%),
-    linear-gradient(to right, transparent 70%, rgba(10, 10, 12, 0.55) 100%);
+  background: radial-gradient(
+    ellipse at center,
+    transparent 42%,
+    rgba(0, 0, 0, 0.38) 100%
+  );
+}
+.detail-stage__bottom-fade {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 35%;
+  pointer-events: none;
+  background: linear-gradient(
+    to top,
+    rgba(10, 10, 12, 0.45) 0%,
+    transparent 100%
+  );
 }
 
-.detail-stage__panel {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  height: 100%;
-  padding: 72px 56px 48px;
-  background: rgba(10, 10, 12, 0.92);
-  border-left: 1px solid rgba(201, 162, 39, 0.35);
-  overflow: hidden;
-}
-
+/* C1: lower-third, slightly left */
 .detail-stage__quote-block {
-  flex: 0 1 auto;
-  max-width: 540px;
-  margin-bottom: 1.75rem;
-  /* optical center slightly above: push content up a bit via padding-bottom bias */
-  padding-bottom: 4vh;
+  position: absolute;
+  left: 9%;
+  bottom: 20%;
+  z-index: 10;
+  max-width: 680px;
+  width: min(680px, 52vw);
+  padding: 1.35rem 1.6rem 1.45rem 1.5rem;
+  pointer-events: none;
+  /* local readability bloom — not a full-screen blackout */
+  background: radial-gradient(
+    ellipse at 35% 45%,
+    rgba(10, 10, 12, 0.78) 0%,
+    rgba(10, 10, 12, 0.55) 42%,
+    rgba(10, 10, 12, 0.18) 72%,
+    transparent 100%
+  );
+  border-radius: 10px;
 }
 
 .detail-quote {
   font-family: var(--font-serif);
-  font-size: 48px;
+  font-size: 44px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--text);
-  max-width: 540px;
-  text-shadow: 0 2px 24px rgba(0, 0, 0, 0.6);
+  text-shadow: 0 2px 20px rgba(0, 0, 0, 0.55);
 }
 .detail-quote--short {
-  font-size: 56px;
+  font-size: 52px;
   line-height: 1.45;
 }
 .detail-quote--long {
-  font-size: 42px;
+  font-size: 38px;
   line-height: 1.5;
 }
 .detail-quote::before {
@@ -380,59 +398,130 @@ body.page-detail .site-footer--slim p {
 .detail-quote-en {
   color: var(--text-muted);
   font-style: italic;
-  font-size: 17px;
+  font-size: 16px;
   line-height: 1.55;
-  margin-top: 14px;
-  max-width: 520px;
+  margin-top: 12px;
+  max-width: 640px;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
   line-clamp: 3;
   overflow: hidden;
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.5);
 }
 
-.detail-stage__meta {
-  flex: 0 0 auto;
-  max-width: 540px;
-  padding-top: 1.25rem;
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
+/* corner info anchor (top-right) */
+.detail-info-anchor {
+  position: absolute;
+  top: 80px;
+  right: 32px;
+  z-index: 50;
   display: flex;
   flex-direction: column;
-  gap: 0.65rem;
+  align-items: flex-end;
 }
 
-.detail-meta-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem 1rem;
+.detail-info-btn {
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
   align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1px solid rgba(232, 228, 220, 0.35);
+  background: rgba(10, 10, 12, 0.35);
+  color: rgba(232, 228, 220, 0.7);
+  cursor: pointer;
+  padding: 0;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+.detail-info-btn:hover,
+.detail-info-btn.is-active,
+.detail-info-btn[aria-expanded="true"] {
+  color: var(--accent);
+  border-color: rgba(201, 162, 39, 0.65);
+  background: rgba(10, 10, 12, 0.55);
+}
+.detail-info-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.detail-info-panel {
+  margin-top: 10px;
+  width: 350px;
+  max-height: 420px;
+  overflow: hidden;
+  padding: 1rem 1.1rem 1.05rem;
+  background: rgba(18, 18, 24, 0.94);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.55);
   color: var(--text-muted);
   font-size: 0.88rem;
 }
-.detail-meta-row--title strong {
+.detail-info-panel[hidden] {
+  display: none !important;
+}
+.detail-info-panel.is-open {
+  display: block;
+}
+
+.detail-info-panel__head {
+  margin-bottom: 0.55rem;
+}
+.detail-info-panel__title-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+.detail-info-panel__title {
   color: var(--text);
+  font-family: var(--font-serif);
   font-weight: 500;
   font-size: 1.15rem;
-  font-family: var(--font-serif);
   letter-spacing: 0.04em;
+  line-height: 1.35;
 }
-.detail-meta-en {
+.detail-info-panel__year {
   color: var(--text-muted);
   font-size: 0.85rem;
+  flex-shrink: 0;
 }
-.detail-meta-row--crew {
+.detail-info-panel__title-en {
+  color: var(--text-muted);
   font-size: 0.82rem;
+  margin-top: 0.25rem;
+  line-height: 1.4;
 }
-.detail-meta-row--ratings {
-  gap: 0.5rem 0.75rem;
-  align-items: center;
+.detail-info-panel__row {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-top: 0.35rem;
+  line-height: 1.45;
 }
-.detail-meta-row--ratings .detail-badges {
+.detail-info-panel__tags {
+  margin-top: 0.75rem;
+  padding-top: 0.7rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+.detail-info-panel__ratings {
+  margin-top: 0.75rem;
+  padding-top: 0.7rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+.detail-info-panel__ratings .detail-badges {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
 }
-.detail-meta-row--ratings .detail-ratings-asof {
+.detail-info-panel__ratings .detail-ratings-asof {
   margin: 0;
   color: var(--text-dim);
   font-size: 0.7rem;
@@ -467,16 +556,24 @@ body.page-detail .back-link {
 }
 body.page-detail .back-link:hover { color: var(--accent); }
 
-/* legacy selectors kept inert (no second screen) */
+/* legacy / forbidden on detail: no poster, no second screen, no side panel */
 .detail-body,
 .detail-poster,
-.detail-hero { display: none !important; }
+.detail-hero,
+.detail-stage__panel,
+.detail-stage__meta { display: none !important; }
 
 @media (max-width: 1100px) {
-  .detail-quote { font-size: 36px; }
-  .detail-quote--short { font-size: 44px; }
-  .detail-quote--long { font-size: 32px; }
-  .detail-stage__panel { padding: 64px 36px 40px; }
+  .detail-quote { font-size: 34px; }
+  .detail-quote--short { font-size: 42px; }
+  .detail-quote--long { font-size: 30px; }
+  .detail-stage__quote-block {
+    left: 6%;
+    bottom: 16%;
+    max-width: min(560px, 78vw);
+    width: auto;
+  }
+  .detail-info-panel { width: min(340px, calc(100vw - 48px)); }
 }
 
 /* —— About —— */

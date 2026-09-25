@@ -63,6 +63,7 @@
             return;
           }
           root.innerHTML = SilverSite.renderDetail(q);
+          SilverSite.bindDetailInfoPanel(root);
         } catch (e) {
           root.innerHTML =
             '<p class="error-msg" style="margin:2rem">无法加载数据。请从站点根启动 http.server。</p>';
