@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-09-25T10:05:00+08:00",
-    "purpose": "M7 草稿：豆瓣 Top250 rank 101–125 各 1 条主金句；status=draft，meta.merged=false；禁止并入 quotes.json / 禁止改 published / 禁止 push",
-    "published_lock": "quotes.json published=100（Top100）M6 冻结，直至策展验+PM 终验后并入",
+    "purpose": "M7 草稿：豆瓣 Top250 rank 101–125（除 108）各 1 条主金句；status=draft，已并入（备份保留）",
+    "published_lock": "quotes.json published=124（Top124）M7 并入后",
     "count": 24,
     "rank_range": [
       101,
@@ -35,7 +35,9 @@
       "featured 草稿内仅 5 条；并入时整库仍应收束≈5",
       "未改 quotes.json；未跑 sync-quote-pages；未 push"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T10:09:07+08:00",
+    "merged_note": "已并入 quotes.json published（Top124 / M7）；跳过 rank 108 茶馆（meta.blocked）；本文件保留备份；rank 已去掉；featured 整库收束为既有 5 条（未采用草稿 5 条 featured 标记）"
   },
   "quotes": [
     {

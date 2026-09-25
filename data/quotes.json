@@ -3854,5 +3854,938 @@
     "still_alt": "唐伯虎点秋香 · 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/100-flirting-scholar.jpg）（影片页 https://www.themoviedb.org/movie/37703）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sYuSTFIKNnAGYItluwRNUmFDr7R.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "jagten-look-into-eyes",
+    "line": "看着我的眼睛。你认识我的。",
+    "line_en": "Look into my eyes. You know who I am.",
+    "film_title": "狩猎",
+    "film_title_en": "Jagten",
+    "year": 2012,
+    "character": "Lucas",
+    "director": "托马斯·温特伯格",
+    "tags": [
+      "剧情",
+      "误会",
+      "人性"
+    ],
+    "featured": false,
+    "curator_note": "卢卡斯对旧友的质问：一场幼儿园谣言把邻里温情烧成猎巫；眼神即最后的信任证据。",
+    "ratings": {
+      "douban": {
+        "score": 9.1,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 8.3,
+        "votes": 370000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 92
+      },
+      "metacritic": {
+        "score": 77
+      }
+    },
+    "poster": "assets/posters/top250/101-jagten.jpg",
+    "still": "assets/stills/top250/101-jagten.jpg",
+    "still_alt": "狩猎 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/101-jagten.jpg）（影片页 https://www.themoviedb.org/movie/103663）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/guJLZQ0glrGpyOydxrpvnlNByae.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "mononoke-live",
+    "line": "活着。即使被诅咒，也要好好地活着。",
+    "line_en": "Live. Even if you are cursed, live.",
+    "film_title": "幽灵公主",
+    "film_title_en": "もののけ姫",
+    "year": 1997,
+    "character": "阿席达卡",
+    "director": "宫崎骏",
+    "tags": [
+      "动画",
+      "生存",
+      "自然"
+    ],
+    "featured": false,
+    "curator_note": "阿席达卡把「生きろ」喊成全片伦理：在神与人的杀伐里，活着本身就是抵抗。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 650000
+      },
+      "imdb": {
+        "score": 8.3,
+        "votes": 450000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 93
+      },
+      "metacritic": {
+        "score": 76
+      }
+    },
+    "poster": "assets/posters/top250/102-rank-102.jpg",
+    "still": "assets/stills/top250/102-rank-102.jpg",
+    "still_alt": "幽灵公主 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/102-rank-102.jpg）（影片页 https://www.themoviedb.org/movie/128）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w7Lj720FNJf9bh9yOc314pRILcW.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "parasite-no-plan",
+    "line": "你知道什么计划不会失败吗？没有计划。",
+    "line_en": "You know what kind of plan never fails? No plan at all.",
+    "film_title": "寄生虫",
+    "film_title_en": "기생충",
+    "year": 2019,
+    "character": "基泽",
+    "director": "奉俊昊",
+    "tags": [
+      "剧情",
+      "阶级",
+      "讽刺"
+    ],
+    "featured": false,
+    "curator_note": "半地下室父亲的黑色顿悟：精密寄生一旦撞上暴雨与旧主人，唯一「完美计划」是放弃计划。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 1700000
+      },
+      "imdb": {
+        "score": 8.5,
+        "votes": 1000000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 99
+      },
+      "metacritic": {
+        "score": 96
+      }
+    },
+    "poster": "assets/posters/top250/103-rank-103.jpg",
+    "still": "assets/stills/top250/103-rank-103.jpg",
+    "still_alt": "寄生虫 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/103-rank-103.jpg）（影片页 https://www.themoviedb.org/movie/496243）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "comrades-found-you",
+    "line": "原来你也在这里。",
+    "line_en": "So you were here too.",
+    "film_title": "甜蜜蜜",
+    "film_title_en": "Comrades: Almost a Love Story",
+    "year": 1996,
+    "character": "黎小军 / 李翘",
+    "director": "陈可辛",
+    "tags": [
+      "爱情",
+      "移民",
+      "重逢"
+    ],
+    "featured": false,
+    "curator_note": "纽约街头《甜蜜蜜》响起的重逢：半生错过收成六个字；对齐片末题旨，略作口语定型。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 8,
+        "votes": 10000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 88
+      }
+    },
+    "poster": "assets/posters/top250/104-comrades-almost-a-love-story.jpg",
+    "still": "assets/stills/top250/104-comrades-almost-a-love-story.jpg",
+    "still_alt": "甜蜜蜜 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/104-comrades-almost-a-love-story.jpg）（影片页 https://www.themoviedb.org/movie/37185）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ytIUBlSJ92M8x1RyJFUkAFDe7s9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "dkr-hero-anyone",
+    "line": "英雄可以是任何人。",
+    "line_en": "A hero can be anyone.",
+    "film_title": "蝙蝠侠：黑暗骑士崛起",
+    "film_title_en": "The Dark Knight Rises",
+    "year": 2012,
+    "character": "Jim Gordon / Bruce Wayne",
+    "director": "克里斯托弗·诺兰",
+    "tags": [
+      "英雄",
+      "希望",
+      "Gotham"
+    ],
+    "featured": false,
+    "curator_note": "戈登对孤儿讲披风的意义：把蝙蝠侠从符号交还给普通人的肩膀。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 900000
+      },
+      "imdb": {
+        "score": 8.4,
+        "votes": 1900000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 87
+      },
+      "metacritic": {
+        "score": 78
+      }
+    },
+    "poster": "assets/posters/top250/105-the-dark-knight-rises.jpg",
+    "still": "assets/stills/top250/105-the-dark-knight-rises.jpg",
+    "still_alt": "蝙蝠侠：黑暗骑士崛起 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/105-the-dark-knight-rises.jpg）（影片页 https://www.themoviedb.org/movie/49026）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/c3OHQncTAnKFhdOTX7D3LTW6son.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "tianshu-for-people",
+    "line": "天书的本事，要传给能造福于百姓的人。",
+    "line_en": "The power of the heavenly book must go to those who can benefit the people.",
+    "film_title": "天书奇谭",
+    "film_title_en": "The Legend of Sealed Book",
+    "year": 1983,
+    "character": "袁公 / 题旨",
+    "director": "王树忱 / 钱运达",
+    "tags": [
+      "动画",
+      "神话",
+      "造福"
+    ],
+    "featured": false,
+    "curator_note": "对齐袁公盗书授蛋生的核心动机；美影厂经典对白零散，标为题旨句。year 取 1983（top250.json 原缺 year，region 误作 2021 系 4K 重映年份串位）。",
+    "ratings": {
+      "douban": {
+        "score": 9.2,
+        "votes": 250000
+      },
+      "imdb": {
+        "score": 7.8,
+        "votes": 1000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/106-the-legend-of-sealed-book.jpg",
+    "still": "assets/stills/top250/106-the-legend-of-sealed-book.jpg",
+    "still_alt": "天书奇谭 · 宣传静帧（3556×2000）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/106-the-legend-of-sealed-book.jpg）（影片页 https://www.themoviedb.org/movie/134575）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5KhfynEvQChmdFVLUhA9lFOMbPm.jpg（3556×2000）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "baymax-healthcare",
+    "line": "我是大白，你的个人健康顾问。",
+    "line_en": "I am Baymax, your personal healthcare companion.",
+    "film_title": "超能陆战队",
+    "film_title_en": "Big Hero 6",
+    "year": 2014,
+    "character": "Baymax",
+    "director": "唐·霍尔 / 克里斯·威廉姆斯",
+    "tags": [
+      "动画",
+      "陪伴",
+      "治愈"
+    ],
+    "featured": false,
+    "curator_note": "充气医疗机器人的标准自我介绍：一句设定台词，抱成整代观众的情绪支持系统。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 1100000
+      },
+      "imdb": {
+        "score": 7.8,
+        "votes": 500000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 90
+      },
+      "metacritic": {
+        "score": 74
+      }
+    },
+    "poster": "assets/posters/top250/107-big-hero-6.jpg",
+    "still": "assets/stills/top250/107-big-hero-6.jpg",
+    "still_alt": "超能陆战队 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/107-big-hero-6.jpg）（影片页 https://www.themoviedb.org/movie/177572）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "sixth-sense-dead-people",
+    "line": "我看得见死人。",
+    "line_en": "I see dead people.",
+    "film_title": "第六感",
+    "film_title_en": "The Sixth Sense",
+    "year": 1999,
+    "character": "Cole Sear",
+    "director": "M·奈特·沙马兰",
+    "tags": [
+      "悬疑",
+      "惊吓",
+      "童言"
+    ],
+    "featured": false,
+    "curator_note": "科尔耳语四个英文词，改写千年「见鬼」叙事；中文定译取通行版。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 750000
+      },
+      "imdb": {
+        "score": 8.2,
+        "votes": 1100000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 86
+      },
+      "metacritic": {
+        "score": 64
+      }
+    },
+    "poster": "assets/posters/top250/109-the-sixth-sense.jpg",
+    "still": "assets/stills/top250/109-the-sixth-sense.jpg",
+    "still_alt": "第六感 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/109-the-sixth-sense.jpg）（影片页 https://www.themoviedb.org/movie/745）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/grG6sAPaJXcm2bHOzzKAFt0xhUn.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "miracle-room7-gift",
+    "line": "这是爸爸送给你的礼物。",
+    "line_en": "This is Daddy's present for you.",
+    "film_title": "7号房的礼物",
+    "film_title_en": "7번방의 선물",
+    "year": 2013,
+    "character": "龙俊浩 / Yong-gu",
+    "director": "李焕庆",
+    "tags": [
+      "亲情",
+      "冤案",
+      "父爱"
+    ],
+    "featured": false,
+    "curator_note": "对齐片名「礼物」与狱中父女羁绊的题旨收束；韩语对白中文定译取通行感人表述并标边界。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 650000
+      },
+      "imdb": {
+        "score": 8.2,
+        "votes": 50000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/110-7.jpg",
+    "still": "assets/stills/top250/110-7.jpg",
+    "still_alt": "7号房的礼物 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/110-7.jpg）（影片页 https://www.themoviedb.org/movie/158445）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pXKeJseekxTofz7yP4YzZvPwAud.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "before-sunset-miss-plane",
+    "line": "宝贝，你要误机了。",
+    "line_en": "Baby, you are gonna miss that plane.",
+    "film_title": "爱在日落黄昏时",
+    "film_title_en": "Before Sunset",
+    "year": 2004,
+    "character": "Celine",
+    "director": "理查德·林克莱特",
+    "tags": [
+      "爱情",
+      "巴黎",
+      "抉择"
+    ],
+    "featured": false,
+    "curator_note": "日落将尽的最后通牒：误机即留下，留下即重写九年。三部曲里最短也最准的一句。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 450000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 300000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 95
+      },
+      "metacritic": {
+        "score": 90
+      }
+    },
+    "poster": "assets/posters/top250/111-before-sunset.jpg",
+    "still": "assets/stills/top250/111-before-sunset.jpg",
+    "still_alt": "爱在日落黄昏时 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/111-before-sunset.jpg）（影片页 https://www.themoviedb.org/movie/80）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vMI8oOEQbhaCQnBFM9mXvJGyEKc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "before-sunrise-dream-me",
+    "line": "如果你今晚做梦，请梦到我。",
+    "line_en": "If you dream tonight, dream of me.",
+    "film_title": "爱在黎明破晓前",
+    "film_title_en": "Before Sunrise",
+    "year": 1995,
+    "character": "Jesse / Celine",
+    "director": "理查德·林克莱特",
+    "tags": [
+      "爱情",
+      "一夜",
+      "维也纳"
+    ],
+    "featured": false,
+    "curator_note": "黎明列车将别：用「梦到我」把还未发生的余生轻轻托付；中文取通行译法。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 500000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 350000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 100
+      },
+      "metacritic": {
+        "score": 77
+      }
+    },
+    "poster": "assets/posters/top250/112-before-sunrise.jpg",
+    "still": "assets/stills/top250/112-before-sunrise.jpg",
+    "still_alt": "爱在黎明破晓前 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/112-before-sunrise.jpg）（影片页 https://www.themoviedb.org/movie/76）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tD3an4ybgcEKwRgEmfT2vSwlW2m.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "inside-out-to-the-moon",
+    "line": "带她去月球看看。",
+    "line_en": "Take her to the moon for me.",
+    "film_title": "头脑特工队",
+    "film_title_en": "Inside Out",
+    "year": 2015,
+    "character": "Bing Bong",
+    "director": "彼特·道格特",
+    "tags": [
+      "动画",
+      "成长",
+      "告别"
+    ],
+    "featured": false,
+    "curator_note": "冰棍幻想朋友坠入遗忘深渊前的托付：把童年交还给莱莉，也交还给所有长大的人。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 900000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 800000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 98
+      },
+      "metacritic": {
+        "score": 94
+      }
+    },
+    "poster": "assets/posters/top250/113-inside-out.jpg",
+    "still": "assets/stills/top250/113-inside-out.jpg",
+    "still_alt": "头脑特工队 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/113-inside-out.jpg）（影片页 https://www.themoviedb.org/movie/150540）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "goblet-hearts-open",
+    "line": "若目标相同、心胸开阔，习惯与语言的差异便不足道。",
+    "line_en": "Differences of habit and language are nothing at all if our aims are identical and our hearts are open.",
+    "film_title": "哈利·波特与火焰杯",
+    "film_title_en": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "character": "Albus Dumbledore",
+    "director": "迈克·纽维尔",
+    "tags": [
+      "奇幻",
+      "团结",
+      "悼词"
+    ],
+    "featured": false,
+    "curator_note": "塞德里克葬后邓布利多对三所学校的演说：火焰杯的竞赛收成反沙文主义的公开课。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 550000
+      },
+      "imdb": {
+        "score": 7.7,
+        "votes": 700000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 88
+      },
+      "metacritic": {
+        "score": 81
+      }
+    },
+    "poster": "assets/posters/top250/114-harry-potter-and-the-goblet-of-fire.jpg",
+    "still": "assets/stills/top250/114-harry-potter-and-the-goblet-of-fire.jpg",
+    "still_alt": "哈利·波特与火焰杯 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/114-harry-potter-and-the-goblet-of-fire.jpg）（影片页 https://www.themoviedb.org/movie/674）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cClWTo3ftVXvV1sF8vlLuWfnlph.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "perfect-blue-who-am-i",
+    "line": "谁才是真正的我？",
+    "line_en": "Who is the real me?",
+    "film_title": "未麻的部屋",
+    "film_title_en": "Perfect Blue",
+    "year": 1997,
+    "character": "未麻 / 题旨",
+    "director": "今敏",
+    "tags": [
+      "动画",
+      "身份",
+      "疯狂"
+    ],
+    "featured": false,
+    "curator_note": "偶像、演员与跟踪妄想叠影；片中少可上墙箴言，取身份崩解题旨句并标边界。",
+    "ratings": {
+      "douban": {
+        "score": 9.1,
+        "votes": 400000
+      },
+      "imdb": {
+        "score": 8,
+        "votes": 90000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 97
+      }
+    },
+    "poster": "assets/posters/top250/115-perfect-blue.jpg",
+    "still": "assets/stills/top250/115-perfect-blue.jpg",
+    "still_alt": "未麻的部屋 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/115-perfect-blue.jpg）（影片页 https://www.themoviedb.org/movie/10494）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pe8uvGKecWx9M312mpJ445R0keP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "matsuko-glad-alive",
+    "line": "能活着，真好。",
+    "line_en": "I'm glad I was alive.",
+    "film_title": "被嫌弃的松子的一生",
+    "film_title_en": "嫌われ松子の一生",
+    "year": 2006,
+    "character": "川尻葵（旁白意境）/ 松子",
+    "director": "中岛哲也",
+    "tags": [
+      "剧情",
+      "女性",
+      "悲悯"
+    ],
+    "featured": false,
+    "curator_note": "对齐片末侄子回望松子一生的题旨余味；歌舞残酷童话少金句对白，标旁白意境边界。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 7.9,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/116-rank-116.jpg",
+    "still": "assets/stills/top250/116-rank-116.jpg",
+    "still_alt": "被嫌弃的松子的一生 · 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/116-rank-116.jpg）（影片页 https://www.themoviedb.org/movie/31512）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4stepMoz737edm7Tb5Y9C5o8cJs.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "chungking-expiry",
+    "line": "不知道从什么时候开始，在什么东西上面都有个日期……我开始怀疑，在这个世界上，还有什么东西是不会过期的？",
+    "line_en": "I don't know when it started… everything comes with an expiry date. I wonder if there's anything in this world that doesn't.",
+    "film_title": "重庆森林",
+    "film_title_en": "Chungking Express",
+    "year": 1994,
+    "character": "何志武（223）",
+    "director": "王家卫",
+    "tags": [
+      "爱情",
+      "都市",
+      "过期"
+    ],
+    "featured": false,
+    "curator_note": "金城武开场旁白：凤梨罐头与五月一日，把整座重庆大厦做成会过期的感情寓言。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 900000
+      },
+      "imdb": {
+        "score": 8,
+        "votes": 90000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 89
+      },
+      "metacritic": {
+        "score": 78
+      }
+    },
+    "poster": "assets/posters/top250/117-chungking-express.jpg",
+    "still": "assets/stills/top250/117-chungking-express.jpg",
+    "still_alt": "重庆森林 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/117-chungking-express.jpg）（影片页 https://www.themoviedb.org/movie/11104）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hqyA3dCWdc0cCH2Ba8ZhZTjDA8y.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "arrietty-borrower",
+    "line": "我叫阿莉埃蒂。我是个借东西的小人。",
+    "line_en": "I'm Arrietty. I'm a borrower.",
+    "film_title": "借东西的小人阿莉埃蒂",
+    "film_title_en": "借りぐらしのアリエッティ",
+    "year": 2010,
+    "character": "阿莉埃蒂",
+    "director": "米林宏昌",
+    "tags": [
+      "动画",
+      "奇幻",
+      "自我"
+    ],
+    "featured": false,
+    "curator_note": "小人族女孩对翔的自我介绍：借而不偷的伦理，一句设定成整部片的名字与尊严。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 550000
+      },
+      "imdb": {
+        "score": 7.6,
+        "votes": 100000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 95
+      },
+      "metacritic": {
+        "score": 87
+      }
+    },
+    "poster": "assets/posters/top250/118-rank-118.jpg",
+    "still": "assets/stills/top250/118-rank-118.jpg",
+    "still_alt": "借东西的小人阿莉埃蒂 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/118-rank-118.jpg）（影片页 https://www.themoviedb.org/movie/51739）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8YRpajoAHTZfuIzK43w6yfeAoMz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "kikujiro-im-here",
+    "line": "有我在，别怕。",
+    "line_en": "I'm here. Don't be afraid.",
+    "film_title": "菊次郎的夏天",
+    "film_title_en": "Kikujirô no natsu",
+    "year": 1999,
+    "character": "菊次郎",
+    "director": "北野武",
+    "tags": [
+      "亲情",
+      "旅途",
+      "夏天"
+    ],
+    "featured": false,
+    "curator_note": "流氓大叔一路骂骂咧咧的护送，收成一句可上墙的保镖承诺；对白碎，标为题旨浓缩。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 600000
+      },
+      "imdb": {
+        "score": 7.8,
+        "votes": 30000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 73
+      }
+    },
+    "poster": "assets/posters/top250/119-kikujiro-no-natsu.jpg",
+    "still": "assets/stills/top250/119-kikujiro-no-natsu.jpg",
+    "still_alt": "菊次郎的夏天 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/119-kikujiro-no-natsu.jpg）（影片页 https://www.themoviedb.org/movie/4291）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/go25MVNckpF3Ci7oY7do0oGXN1A.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "okuribito-send-off",
+    "line": "把逝者送上旅途，是为了让生者继续前行。",
+    "line_en": "We send the dead on their way so the living can go on.",
+    "film_title": "入殓师",
+    "film_title_en": "おくりびと",
+    "year": 2008,
+    "character": "佐佐木 / 题旨",
+    "director": "泷田洋二郎",
+    "tags": [
+      "生死",
+      "职业",
+      "尊严"
+    ],
+    "featured": false,
+    "curator_note": "对齐纳棺师职业伦理的中文策展概括；片中礼仪重于箴言，标题旨。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 750000
+      },
+      "imdb": {
+        "score": 8,
+        "votes": 60000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 88
+      },
+      "metacritic": {
+        "score": 68
+      }
+    },
+    "poster": "assets/posters/top250/120-rank-120.jpg",
+    "still": "assets/stills/top250/120-rank-120.jpg",
+    "still_alt": "入殓师 · 宣传静帧（2048×1152）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/120-rank-120.jpg）（影片页 https://www.themoviedb.org/movie/16804）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kYYpR0okoW7O1gwXwWMlRkgL2sa.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "brokeback-quit-you",
+    "line": "我多希望我知道怎么戒掉你。",
+    "line_en": "I wish I knew how to quit you.",
+    "film_title": "断背山",
+    "film_title_en": "Brokeback Mountain",
+    "year": 2005,
+    "character": "Jack Twist",
+    "director": "李安",
+    "tags": [
+      "爱情",
+      "压抑",
+      "牛仔"
+    ],
+    "featured": false,
+    "curator_note": "电话那头的崩溃告白：断背山上的风雪，落成一句无法戒断的爱。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 7.7,
+        "votes": 400000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 88
+      },
+      "metacritic": {
+        "score": 87
+      }
+    },
+    "poster": "assets/posters/top250/121-brokeback-mountain.jpg",
+    "still": "assets/stills/top250/121-brokeback-mountain.jpg",
+    "still_alt": "断背山 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/121-brokeback-mountain.jpg）（影片页 https://www.themoviedb.org/movie/142）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u7pSxGzHkRRD8lNtvdhRCcGc4S8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "scissorhands-when-it-snows",
+    "line": "每到下雪，我就会想起他。",
+    "line_en": "You can still see him when it snows.",
+    "film_title": "剪刀手爱德华",
+    "film_title_en": "Edward Scissorhands",
+    "year": 1990,
+    "character": "Kim（旁白）",
+    "director": "蒂姆·波顿",
+    "tags": [
+      "奇幻",
+      "爱情",
+      "孤独"
+    ],
+    "featured": false,
+    "curator_note": "金的老年旁白：剪刀手在山上继续雕刻，雪花即他未完成的温柔。",
+    "ratings": {
+      "douban": {
+        "score": 8.7,
+        "votes": 1100000
+      },
+      "imdb": {
+        "score": 7.9,
+        "votes": 500000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 90
+      },
+      "metacritic": {
+        "score": 74
+      }
+    },
+    "poster": "assets/posters/top250/122-edward-scissorhands.jpg",
+    "still": "assets/stills/top250/122-edward-scissorhands.jpg",
+    "still_alt": "剪刀手爱德华 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/122-edward-scissorhands.jpg）（影片页 https://www.themoviedb.org/movie/162）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qnj3fS6TORu09K2Ehp12ctb6GXU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "braveheart-freedom",
+    "line": "他们也许能夺走我们的生命，但永远夺不走我们的自由！",
+    "line_en": "They may take our lives, but they'll never take our freedom!",
+    "film_title": "勇敢的心",
+    "film_title_en": "Braveheart",
+    "year": 1995,
+    "character": "William Wallace",
+    "director": "梅尔·吉布森",
+    "tags": [
+      "自由",
+      "战争",
+      "演说"
+    ],
+    "featured": false,
+    "curator_note": "斯特灵战前呐喊：好莱坞史诗里最被传颂的「自由」一声，中文定译取通行版。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 8.3,
+        "votes": 1100000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 75
+      },
+      "metacritic": {
+        "score": 68
+      }
+    },
+    "poster": "assets/posters/top250/123-braveheart.jpg",
+    "still": "assets/stills/top250/123-braveheart.jpg",
+    "still_alt": "勇敢的心 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/123-braveheart.jpg）（影片页 https://www.themoviedb.org/movie/197）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8U85ezt7remQlOXVssUO0BngURC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "about-time-chosen-day",
+    "line": "我只是试着把每一天，都过成自己精心选择的日子。",
+    "line_en": "I just try to live every day as if I've deliberately chosen it as the day I wanted to live.",
+    "film_title": "时空恋旅人",
+    "film_title_en": "About Time",
+    "year": 2013,
+    "character": "Tim（旁白）/ Dad",
+    "director": "理查德·柯蒂斯",
+    "tags": [
+      "亲情",
+      "时间",
+      "珍惜"
+    ],
+    "featured": false,
+    "curator_note": "继承父亲的时间旅行遗产后，不再回跳改错，而是把「今天」过成自愿的选择。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 850000
+      },
+      "imdb": {
+        "score": 7.8,
+        "votes": 400000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 70
+      },
+      "metacritic": {
+        "score": 55
+      }
+    },
+    "poster": "assets/posters/top250/124-about-time.jpg",
+    "still": "assets/stills/top250/124-about-time.jpg",
+    "still_alt": "时空恋旅人 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/124-about-time.jpg）（影片页 https://www.themoviedb.org/movie/122906）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fzZmcKQv7ZTGIiPvocPhNs3wUyK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "toy3-so-long-partner",
+    "line": "再见了，伙伴。",
+    "line_en": "So long, partner.",
+    "film_title": "玩具总动员3",
+    "film_title_en": "Toy Story 3",
+    "year": 2010,
+    "character": "Andy / Woody",
+    "director": "李·昂克里奇",
+    "tags": [
+      "动画",
+      "成长",
+      "告别"
+    ],
+    "featured": false,
+    "curator_note": "安迪把胡迪交到小女孩手上：童年正式毕业，西部搭档的告别礼成三部曲泪点。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 8.3,
+        "votes": 900000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 98
+      },
+      "metacritic": {
+        "score": 92
+      }
+    },
+    "poster": "assets/posters/top250/125-toy-story-3.jpg",
+    "still": "assets/stills/top250/125-toy-story-3.jpg",
+    "still_alt": "玩具总动员3 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/125-toy-story-3.jpg）（影片页 https://www.themoviedb.org/movie/10193）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]
