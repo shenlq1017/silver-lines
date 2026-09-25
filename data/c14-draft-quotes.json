@@ -17,10 +17,11 @@
       "仅选用 TMDB id 与片名/年份核验通过的 batch-yi 剩余匹配条目（83/150 错配仍未入选，见 C12 report）",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json",
+      "meta.merged=true；已并入 quotes.json published 591（574+17）；merged_at=2026-09-25T12:48:23+08:00",
       "本批后 batch-yi TMDB 匹配可续做 0；错配 83 须先修 id（orphans/错配池不动）"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T12:48:23+08:00"
   },
   "quotes": [
     {
@@ -41,7 +42,7 @@
       "curator_note": "猫女觉醒后的通行名句；中文取常见字幕译法，感叹号保留通行传播形态。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 7300
         },
         "as_of": "2026-09-25",
@@ -105,7 +106,7 @@
       "curator_note": "旺卡箴言式对白（伯顿版亦保留）；中文取通行译法。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 16405
         },
         "as_of": "2026-09-25",

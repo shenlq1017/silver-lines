@@ -1,6 +1,6 @@
 {
-  "name": "银幕金句 数据来源说明（Top249 + Classics C1+C2+C3+C4+C5+C6+C7+C8+C9+C10+C11+C12+C13）",
-  "intent": "豆瓣电影 Top250 榜单截取名次 1–250（除 108 茶馆静帧缺口）的冻结策展意图已落地 Top249；另并入 Classics C1/A1 + C2 + C3 + C4 + C5（batch-jia）+ C6+C7+C8+C9+C10+C11（batch-jia2）+ C12+C13（batch-yi）影史经典共 325 条主金句。库内 published 现为 574（249+325）。未上架仅余 rank 108 茶馆（源站 backdrop 宽边 <1920）。",
+  "name": "银幕金句 数据来源说明（Top249 + Classics C1+C2+C3+C4+C5+C6+C7+C8+C9+C10+C11+C12+C13+C14）",
+  "intent": "豆瓣电影 Top250 榜单截取名次 1–250（除 108 茶馆静帧缺口）的冻结策展意图已落地 Top249；另并入 Classics C1/A1 + C2 + C3 + C4 + C5（batch-jia）+ C6+C7+C8+C9+C10+C11（batch-jia2）+ C12+C13+C14（batch-yi）影史经典共 342 条主金句。库内 published 现为 591（249+342）。未上架仅余 rank 108 茶馆（源站 backdrop 宽边 <1920）。",
   "freeze_date": "2026-09-25",
   "source_label": "豆瓣 Top250（公开榜单意图快照，非 API 实时抓取）",
   "top10_locked": [
@@ -17,7 +17,7 @@
   ],
   "ratings_policy": "评分均为策展手抄公开分数的合理近似；source_note=策展快照；禁止爬虫实时抓取。",
   "imagery_policy": "海报与静帧为 TMDB original 本地缓存（JPEG）；详情全屏用 still cover；禁止 w500 与外链热图。Top250 海报见 assets/posters/top250/。",
-  "count_published": 574,
+  "count_published": 591,
   "top250": {
     "freeze_date": "2026-09-25",
     "label": "豆瓣电影 Top250 全部条目冻结快照（仅素材入库，不扩页面展示）",
@@ -31,7 +31,7 @@
     "poster_policy": "本地 JPEG；一律 TMDB /t/p/original（宽边≥780）；禁止 w500。Top10 金句海报仍用 assets/posters/{quote-id}.png，与 top250/ 并存。",
     "poster_ok": 250,
     "poster_missing": 0,
-    "scope_note": "片单+海报+静帧已入库；Top250 意图截取仍为 Top249（跳过 rank 108 茶馆）。整库 published 另含 Classics C1+C2+C3+C4+C5+C6+C7+C8+C9+C10+C11+C12+C13×325 → 574。"
+    "scope_note": "片单+海报+静帧已入库；Top250 意图截取仍为 Top249（跳过 rank 108 茶馆）。整库 published 另含 Classics C1+C2+C3+C4+C5+C6+C7+C8+C9+C10+C11+C12+C13+C14×342 → 591。"
   },
   "top25_locked": [
     "肖申克的救赎",
@@ -2260,5 +2260,35 @@
     "stills_index_note": "data/stills-index.json 的 by_rank 仅服务 Top250；本批 classics 静帧不写入 by_rank。站点以 quote.still 路径引用即可。素材清单见 tmp/stills-yi-c13/index-fragment.json。",
     "featured_policy": "整库 featured 保持既有 5；C13 条目均为 featured=false",
     "note": "25 条 classics draft 并入 published；去掉 draft 专有 tmdb_id/slug；详情路由已 sync；stills-index by_rank 不扩 classics；未推送。batch-yi 第二批（C13）；batch-yi 后续待续。"
+  },
+  "c14": {
+    "merged_at": "2026-09-25T12:48:23+08:00",
+    "added": 17,
+    "batch": "batch-yi",
+    "draft_backup": "data/c14-draft-quotes.json",
+    "quote_ids": [
+      "batman-returns-lifes-a-bitch",
+      "mr-mrs-smith-skip-dancing",
+      "wonka-little-nonsense",
+      "juno-etch-a-sketch",
+      "seven-pounds-seven-seconds",
+      "avengers-always-angry",
+      "hobbit-going-on-adventure",
+      "justice-league-not-alone",
+      "iron-man-3-own-demons",
+      "showman-made-difference",
+      "black-panther-wakanda-forever",
+      "catching-fire-if-we-burn",
+      "guardians-i-am-groot",
+      "kingsman-manners-maketh",
+      "thor-ragnarok-asgard-people",
+      "quiet-place-protect-them",
+      "eternals-love-protect"
+    ],
+    "poster_dir": "assets/posters/classics/",
+    "still_dir": "assets/stills/classics/",
+    "stills_index_note": "data/stills-index.json 的 by_rank 仅服务 Top250；本批 classics 静帧不写入 by_rank。站点以 quote.still 路径引用即可。素材清单见 tmp/stills-yi-c14/index-fragment.json。",
+    "featured_policy": "整库 featured 保持既有 5；C14 条目均为 featured=false",
+    "note": "17 条 classics draft 并入 published；去掉 draft 专有 tmdb_id/slug；详情路由已 sync；stills-index by_rank 不扩 classics；未推送。batch-yi 匹配池已闭合（yi matched pool closed）；错配池不动。"
   }
 }

@@ -20259,5 +20259,515 @@
     "still_alt": "芭比 · TMDB 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/barbie-2023.jpg）（影片页 https://www.themoviedb.org/movie/346698）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "batman-returns-lifes-a-bitch",
+    "line": "生活是个婊子，现在，我也是！",
+    "line_en": "Life's a bitch, now so am I!",
+    "film_title": "蝙蝠侠归来",
+    "film_title_en": "Batman Returns",
+    "year": 1992,
+    "character": "塞琳娜·凯尔 / 猫女 Selina Kyle (Catwoman)",
+    "director": "蒂姆·伯顿",
+    "tags": [
+      "哥谭",
+      "反英雄",
+      "黑暗童话"
+    ],
+    "featured": false,
+    "curator_note": "猫女觉醒后的通行名句；中文取常见字幕译法，感叹号保留通行传播形态。",
+    "ratings": {
+      "imdb": {
+        "score": 7,
+        "votes": 7300
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/batman-returns-1992.jpg",
+    "still": "assets/stills/classics/batman-returns-1992.jpg",
+    "still_alt": "蝙蝠侠归来 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/batman-returns-1992.jpg）（影片页 https://www.themoviedb.org/movie/364）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7x4SNxO5HWArighxxFeet5sn3il.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "mr-mrs-smith-skip-dancing",
+    "line": "要不我们跳过跳舞，直接进入我杀你的环节？",
+    "line_en": "How about we just skip the dancing and get right to the part where I kill you?",
+    "film_title": "史密斯夫妇",
+    "film_title_en": "Mr. & Mrs. Smith",
+    "year": 2005,
+    "character": "简·史密斯 / Jane Smith",
+    "director": "道格·里曼",
+    "tags": [
+      "婚姻",
+      "特工",
+      "黑色幽默"
+    ],
+    "featured": false,
+    "curator_note": "夫妇在发现彼此身份后的通行对白；中文取常见字幕压缩译法。",
+    "ratings": {
+      "imdb": {
+        "score": 6.7,
+        "votes": 11519
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/mr-and-mrs-smith-2005.jpg",
+    "still": "assets/stills/classics/mr-and-mrs-smith-2005.jpg",
+    "still_alt": "史密斯夫妇 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mr-and-mrs-smith-2005.jpg）（影片页 https://www.themoviedb.org/movie/787）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bxGxbLqzZmOxlCSmoBOS2A2su7g.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "wonka-little-nonsense",
+    "line": "偶尔一点荒唐，连最聪明的人也津津有味。",
+    "line_en": "A little nonsense now and then is relished by the wisest men.",
+    "film_title": "查理和巧克力工厂",
+    "film_title_en": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "character": "威利·旺卡 / Willy Wonka",
+    "director": "蒂姆·伯顿",
+    "tags": [
+      "奇幻",
+      "荒诞",
+      "寓言"
+    ],
+    "featured": false,
+    "curator_note": "旺卡箴言式对白（伯顿版亦保留）；中文取通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 7,
+        "votes": 16405
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/charlie-and-the-chocolate-factory-2005.jpg",
+    "still": "assets/stills/classics/charlie-and-the-chocolate-factory-2005.jpg",
+    "still_alt": "查理和巧克力工厂 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/charlie-and-the-chocolate-factory-2005.jpg）（影片页 https://www.themoviedb.org/movie/118）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "juno-etch-a-sketch",
+    "line": "那可不是一块写字板——这一笔，可擦不掉了，伙计。",
+    "line_en": "That ain't no Etch A Sketch. This is one doodle that can't be undid, homeskillet.",
+    "film_title": "朱诺",
+    "film_title_en": "Juno",
+    "year": 2007,
+    "character": "莉娅 / Leah",
+    "director": "贾森·雷特曼",
+    "tags": [
+      "青春",
+      "成长",
+      "独立电影"
+    ],
+    "featured": false,
+    "curator_note": "莉娅得知朱诺怀孕时的通行口语金句；homeskillet 等俚语取常见字幕意译。",
+    "ratings": {
+      "imdb": {
+        "score": 7.1,
+        "votes": 7828
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/juno-2007.jpg",
+    "still": "assets/stills/classics/juno-2007.jpg",
+    "still_alt": "朱诺 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/juno-2007.jpg）（影片页 https://www.themoviedb.org/movie/7326）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "seven-pounds-seven-seconds",
+    "line": "上帝用七天创造了世界。而我，用七秒钟就摧毁了自己的世界。",
+    "line_en": "In seven days, God created the world. And in seven seconds, I shattered mine.",
+    "film_title": "七磅",
+    "film_title_en": "Seven Pounds",
+    "year": 2008,
+    "character": "本·托马斯 / Ben Thomas",
+    "director": "加布里尔·穆奇诺",
+    "tags": [
+      "救赎",
+      "伦理",
+      "牺牲"
+    ],
+    "featured": false,
+    "curator_note": "片头/预告通行旁白；中文取豆瓣与字幕常见译法（「摧毁/毁灭自己的世界」）。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 7394
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/seven-pounds-2008.jpg",
+    "still": "assets/stills/classics/seven-pounds-2008.jpg",
+    "still_alt": "七磅 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/seven-pounds-2008.jpg）（影片页 https://www.themoviedb.org/movie/11321）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gIZH0sC1nRJEeXTVfQXfYyJgNHR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "avengers-always-angry",
+    "line": "这就是我的秘密，队长。我一直都很愤怒。",
+    "line_en": "That's my secret, Captain. I'm always angry.",
+    "film_title": "复仇者联盟",
+    "film_title_en": "The Avengers",
+    "year": 2012,
+    "character": "布鲁斯·班纳 / Bruce Banner",
+    "director": "乔斯·韦登",
+    "tags": [
+      "超级英雄",
+      "漫威",
+      "团队"
+    ],
+    "featured": false,
+    "curator_note": "纽约决战变身前对美国队长的通行名句；中文取 MCU 常见译法。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 39820
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-avengers-2012.jpg",
+    "still": "assets/stills/classics/the-avengers-2012.jpg",
+    "still_alt": "复仇者联盟 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-avengers-2012.jpg）（影片页 https://www.themoviedb.org/movie/24428）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "hobbit-going-on-adventure",
+    "line": "我要去冒险了！",
+    "line_en": "I'm going on an adventure!",
+    "film_title": "霍比特人1：意外之旅",
+    "film_title_en": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "character": "比尔博·巴金斯 / Bilbo Baggins",
+    "director": "彼得·杰克逊",
+    "tags": [
+      "中土",
+      "冒险",
+      "奇幻"
+    ],
+    "featured": false,
+    "curator_note": "比尔博冲出袋底洞时的通行短句；与甘道夫邀约「分享一场冒险」呼应。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 20097
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-hobbit-an-unexpected-journey-2012.jpg",
+    "still": "assets/stills/classics/the-hobbit-an-unexpected-journey-2012.jpg",
+    "still_alt": "霍比特人1：意外之旅 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hobbit-an-unexpected-journey-2012.jpg）（影片页 https://www.themoviedb.org/movie/49051）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e9XpCB9XoTSvek6O7PNvJMhSlIK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "justice-league-not-alone",
+    "line": "我没有垮掉。而且，我并不孤单。",
+    "line_en": "I'm not broken. And I'm not alone.",
+    "film_title": "正义联盟",
+    "film_title_en": "Justice League",
+    "year": 2017,
+    "character": "维克多·斯通 / Cyborg",
+    "director": "扎克·施奈德 / 乔斯·韦登",
+    "tags": [
+      "超级英雄",
+      "DC",
+      "归属"
+    ],
+    "featured": false,
+    "curator_note": "钢骨自我接纳段落的通行短句；中文取常见字幕译法（broken≈垮掉/破碎）。",
+    "ratings": {
+      "imdb": {
+        "score": 6.1,
+        "votes": 13954
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/justice-league-2017.jpg",
+    "still": "assets/stills/classics/justice-league-2017.jpg",
+    "still_alt": "正义联盟 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/justice-league-2017.jpg）（影片页 https://www.themoviedb.org/movie/141052）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "iron-man-3-own-demons",
+    "line": "我们创造自己的恶魔。",
+    "line_en": "We create our own demons.",
+    "film_title": "钢铁侠3",
+    "film_title_en": "Iron Man 3",
+    "year": 2013,
+    "character": "托尼·斯塔克 / Tony Stark",
+    "director": "沙恩·布莱克",
+    "tags": [
+      "超级英雄",
+      "创伤",
+      "漫威"
+    ],
+    "featured": false,
+    "curator_note": "片头旁白通行金句；亦是整部「心魔/后遗症」主题的标题句。",
+    "ratings": {
+      "imdb": {
+        "score": 6.9,
+        "votes": 23906
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/iron-man-3-2013.jpg",
+    "still": "assets/stills/classics/iron-man-3-2013.jpg",
+    "still_alt": "钢铁侠3 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/iron-man-3-2013.jpg）（影片页 https://www.themoviedb.org/movie/68721）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/l8VlFqcxoxhLKmlGqvBr4prJX7t.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "showman-made-difference",
+    "line": "从来没有人，是靠和别人一样，而改变世界的。",
+    "line_en": "No one ever made a difference by being like everyone else.",
+    "film_title": "马戏之王",
+    "film_title_en": "The Greatest Showman",
+    "year": 2017,
+    "character": "P.T.巴纳姆 / P.T. Barnum",
+    "director": "迈克尔·格雷西",
+    "tags": [
+      "音乐",
+      "梦想",
+      "自我"
+    ],
+    "featured": false,
+    "curator_note": "巴纳姆主题金句的通行译法；亦常见于片宣。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 10246
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-greatest-showman-2017.jpg",
+    "still": "assets/stills/classics/the-greatest-showman-2017.jpg",
+    "still_alt": "马戏之王 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-greatest-showman-2017.jpg）（影片页 https://www.themoviedb.org/movie/316029）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "black-panther-wakanda-forever",
+    "line": "瓦坎达永存！",
+    "line_en": "Wakanda forever!",
+    "film_title": "黑豹",
+    "film_title_en": "Black Panther",
+    "year": 2018,
+    "character": "特查拉 / T'Challa（及瓦坎达众人）",
+    "director": "瑞恩·库格勒",
+    "tags": [
+      "超级英雄",
+      "认同",
+      "漫威"
+    ],
+    "featured": false,
+    "curator_note": "片中礼敬与战斗口号的通行译法（forever≈永存/万岁，取「永存」）。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 23993
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/black-panther-2018.jpg",
+    "still": "assets/stills/classics/black-panther-2018.jpg",
+    "still_alt": "黑豹 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/black-panther-2018.jpg）（影片页 https://www.themoviedb.org/movie/284054）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "catching-fire-if-we-burn",
+    "line": "如果我们燃烧，你们也要一起烧！",
+    "line_en": "If we burn, you burn with us!",
+    "film_title": "饥饿游戏2：星火燎原",
+    "film_title_en": "The Hunger Games: Catching Fire",
+    "year": 2013,
+    "character": "凯特尼斯·伊夫狄恩 / Katniss Everdeen",
+    "director": "弗朗西斯·劳伦斯",
+    "tags": [
+      "反乌托邦",
+      "革命",
+      "反抗"
+    ],
+    "featured": false,
+    "curator_note": "District 12 暴动段落通行口号句；中文取常见字幕译法。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 18801
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-hunger-games-catching-fire-2013.jpg",
+    "still": "assets/stills/classics/the-hunger-games-catching-fire-2013.jpg",
+    "still_alt": "饥饿游戏2：星火燎原 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hunger-games-catching-fire-2013.jpg）（影片页 https://www.themoviedb.org/movie/101299）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "guardians-i-am-groot",
+    "line": "我是格鲁特。",
+    "line_en": "I am Groot.",
+    "film_title": "银河护卫队",
+    "film_title_en": "Guardians of the Galaxy",
+    "year": 2014,
+    "character": "格鲁特 / Groot",
+    "director": "詹姆斯·古恩",
+    "tags": [
+      "超级英雄",
+      "友情",
+      "漫威"
+    ],
+    "featured": false,
+    "curator_note": "格鲁特唯一（亦是全部）通行对白；中文音译取「格鲁特」。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 30342
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/guardians-of-the-galaxy-2014.jpg",
+    "still": "assets/stills/classics/guardians-of-the-galaxy-2014.jpg",
+    "still_alt": "银河护卫队 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/guardians-of-the-galaxy-2014.jpg）（影片页 https://www.themoviedb.org/movie/118340）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "kingsman-manners-maketh",
+    "line": "明礼方能成人。",
+    "line_en": "Manners maketh man.",
+    "film_title": "王牌特工：特工学院",
+    "film_title_en": "Kingsman: The Secret Service",
+    "year": 2014,
+    "character": "哈利·哈特 / Harry Hart",
+    "director": "马修·沃恩",
+    "tags": [
+      "特工",
+      "绅士",
+      "英伦"
+    ],
+    "featured": false,
+    "curator_note": "教堂大战前后的核心短句；中文取常见字幕「明礼方能成人」。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 18181
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/kingsman-the-secret-service-2014.jpg",
+    "still": "assets/stills/classics/kingsman-the-secret-service-2014.jpg",
+    "still_alt": "王牌特工：特工学院 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kingsman-the-secret-service-2014.jpg）（影片页 https://www.themoviedb.org/movie/207703）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xEMkMNFVL0Lllw0hTuuaiqJ0Yr7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "thor-ragnarok-asgard-people",
+    "line": "阿斯加德不是一个地方，从来都不是。这里也可以是阿斯加德。阿斯加德，就是我们的子民所在之处。",
+    "line_en": "Asgard is not a place. Never was. This could be Asgard. Asgard is where our people stand.",
+    "film_title": "雷神3：诸神黄昏",
+    "film_title_en": "Thor: Ragnarok",
+    "year": 2017,
+    "character": "奥丁 / Odin",
+    "director": "塔伊加·维迪提",
+    "tags": [
+      "神话",
+      "家园",
+      "漫威"
+    ],
+    "featured": false,
+    "curator_note": "奥丁临终教诲的通行译法；略取完整三段以便策展，非逐字加戏。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 22520
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/thor-ragnarok-2017.jpg",
+    "still": "assets/stills/classics/thor-ragnarok-2017.jpg",
+    "still_alt": "雷神3：诸神黄昏 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/thor-ragnarok-2017.jpg）（影片页 https://www.themoviedb.org/movie/284053）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "quiet-place-protect-them",
+    "line": "如果我们不能保护他们，我们还算什么？",
+    "line_en": "Who are we if we can't protect them?",
+    "film_title": "寂静之地",
+    "film_title_en": "A Quiet Place",
+    "year": 2018,
+    "character": "伊芙琳·艾博特 / Evelyn Abbott",
+    "director": "约翰·卡拉辛斯基",
+    "tags": [
+      "恐怖",
+      "亲情",
+      "生存"
+    ],
+    "featured": false,
+    "curator_note": "伊芙琳对李说出的伦理核心句（IMDb 可核验）；后半「We have to protect them」略去以取短金句。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 15737
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-quiet-place-2018.jpg",
+    "still": "assets/stills/classics/a-quiet-place-2018.jpg",
+    "still_alt": "寂静之地 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-quiet-place-2018.jpg）（影片页 https://www.themoviedb.org/movie/447332）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "eternals-love-protect",
+    "line": "当你爱一样东西，你就会保护它。",
+    "line_en": "When you love something, you protect it.",
+    "film_title": "永恒族",
+    "film_title_en": "Eternals",
+    "year": 2021,
+    "character": "阿雅克 / Ajak",
+    "director": "赵婷",
+    "tags": [
+      "超级英雄",
+      "守护",
+      "漫威"
+    ],
+    "featured": false,
+    "curator_note": "阿雅克主题金句的通行译法（片宣亦作 fight for it 变体）；取 protect 通行字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 6.8,
+        "votes": 9434
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/eternals-2021.jpg",
+    "still": "assets/stills/classics/eternals-2021.jpg",
+    "still_alt": "永恒族 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/eternals-2021.jpg）（影片页 https://www.themoviedb.org/movie/524434）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]
