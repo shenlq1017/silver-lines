@@ -18,9 +18,11 @@
       "静帧宽边<1920 不入选：time-out-2001、seduced-and-abandoned-1964",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
-      "orphan 未跟踪海报未触碰"
+      "orphan 未跟踪海报未触碰",
+      "meta.merged=true；已并入 quotes.json published 762（737+25）；merged_at=2026-09-25T13:30:36+08:00"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T13:30:36+08:00"
   },
   "quotes": [
     {
