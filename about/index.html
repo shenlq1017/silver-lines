@@ -28,7 +28,7 @@
     <div class="container">
       <article class="prose">
         <h1>关于银幕金句</h1>
-        <p class="lead">Silver Lines · 电影质感的银幕金句策展站。当前为 Phase <strong>M1</strong>：锁定豆瓣 Top250 意图截取下的 Top10，各 1 条主金句。</p>
+        <p class="lead">Silver Lines · 电影质感的银幕金句策展站。当前范围仍锁 Top10（豆瓣 Top250 意图截取），各 1 条主金句；海报与静帧已换为可标注的本地宣传物料。</p>
 
         <h2>本站是什么</h2>
         <p>收集值得回看的电影金句：大静帧叠字、暗色胶片风、评分徽章可视化。不做片源、不做播放器、不盗链外站媒体。</p>
@@ -37,7 +37,7 @@
         <ul>
           <li>静态 HTML + 本地 JSON（<code>data/quotes.json</code>）</li>
           <li>恰好 10 条 <code>status=published</code>，片名锁定 Top10</li>
-          <li>海报 / 静帧为本地氛围示意 <strong>PNG</strong>（非原片截帧；待合规剧照替换）</li>
+          <li>海报 / 静帧为本地缓存的发行宣传物料（PNG），出处见各条 <code>license_note</code></li>
           <li>评分字段为策展快照（含 <code>as_of</code>），非实时抓取；详见 <code>data/source.json</code></li>
         </ul>
 
@@ -49,7 +49,9 @@
         <h2>版权与素材声明</h2>
         <ul>
           <li>金句文案：引用自公映电影对白，仅用于策展展示与评论，非商业片源分发。</li>
-          <li>海报 / 静帧：自绘氛围 PNG 示意，非正式片宣物料、非原片截帧；正式上线前须替换为已授权或自有素材。</li>
+          <li>海报 / 静帧：经 <a href="https://www.themoviedb.org/" rel="noopener noreferrer" target="_blank">TMDB</a> 可标注取用的发行宣传物料，已下载为站内本地文件（禁止外链热图）。版权归各制片方 / 发行方；本站仅作策展展示。This product uses the TMDB API but is not endorsed or certified by TMDB.</li>
+          <li>静帧多为宣传 / 剧照级画面，非逐句对白精确截帧；细节见各条 <code>license_note</code>。</li>
+          <li>权利方如需下架，请通过仓库 Issue 联系，我们将在合理周期内移除相关条目与素材。</li>
           <li>评分徽章：展示策展写入的快照数值；不代表与豆瓣 / IMDb / RT / Metacritic 有任何官方合作。</li>
           <li>商标与片名归各自权利方所有。</li>
         </ul>
