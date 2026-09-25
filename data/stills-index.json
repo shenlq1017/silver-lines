@@ -2330,6 +2330,44 @@
       "meets_2560": true,
       "status": "ok"
     },
+    "141": {
+      "rank": 141,
+      "title_zh": "阳光灿烂的日子",
+      "title_en": "In the Heat of the Sun",
+      "tmdb_id": 161285,
+      "slug": "141-in-the-heat-of-the-sun",
+      "path": "assets/stills/top250/141-in-the-heat-of-the-sun.jpg",
+      "source": "tmdb:backdrop:original",
+      "tmdb_backdrop_path": "/xEURgJFFdOBkHUlM5xr3krbB6uD.jpg",
+      "source_url": "https://image.tmdb.org/t/p/original/xEURgJFFdOBkHUlM5xr3krbB6uD.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 253618,
+      "claimed_width": 1920,
+      "claimed_height": 1080,
+      "meets_2560": false,
+      "status": "actual",
+      "note": "actual 1920x1080 (max available original)"
+    },
+    "142": {
+      "rank": 142,
+      "title_zh": "哪吒闹海",
+      "title_en": "Prince Nezha's Triumph Against Dragon King",
+      "tmdb_id": 74037,
+      "slug": "142-prince-nezha-s-triumph-against-dragon-king",
+      "path": "assets/stills/top250/142-prince-nezha-s-triumph-against-dragon-king.jpg",
+      "source": "tmdb:backdrop:original",
+      "tmdb_backdrop_path": "/t1RtHKe6LLuXEslrZqO2F1rG00t.jpg",
+      "source_url": "https://image.tmdb.org/t/p/original/t1RtHKe6LLuXEslrZqO2F1rG00t.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 373515,
+      "claimed_width": 1920,
+      "claimed_height": 1080,
+      "meets_2560": false,
+      "status": "actual",
+      "note": "actual 1920x1080 (max available original)"
+    },
     "143": {
       "rank": 143,
       "title_zh": "侧耳倾听",
@@ -4280,6 +4318,6 @@
       "status": "ok"
     }
   },
-  "updated_at": "2026-09-25T09:13:27.325629+08:00",
+  "updated_at": "2026-09-25T10:47:19+08:00",
   "source": "tmdb backdrop original local jpeg"
 }
