@@ -18,9 +18,11 @@
       "静帧宽边<1920 不入选：time-out-2001、seduced-and-abandoned-1964",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
-      "orphan 未跟踪海报未触碰"
+      "orphan 未跟踪海报未触碰",
+      "meta.merged=true；已并入 quotes.json published 737（712+25）；merged_at=2026-09-25T13:25:59+08:00"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T13:25:59+08:00"
   },
   "quotes": [
     {
@@ -141,7 +143,7 @@
       "curator_note": "通行可核验：新海诚《天气之子》阳菜安慰性口头禅「大丈夫、晴れるよ」的通行中译。",
       "ratings": {
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 2718
         },
         "as_of": "2026-09-25",

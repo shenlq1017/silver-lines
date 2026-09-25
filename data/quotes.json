@@ -24399,5 +24399,780 @@
     "still_alt": "蓝色项圈 · TMDB 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-blue-choker-2018.jpg，1200×1794）（影片页 https://www.themoviedb.org/movie/537610）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dJO0irpG8EjPKrs7ahVqdzvtWiB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "silent-voice-want-friends",
+    "line": "我想交朋友。但首先，我得学会喜欢自己。",
+    "line_en": "I want friends. But first, I have to learn to like myself.",
+    "film_title": "声之形",
+    "film_title_en": "A Silent Voice",
+    "year": 2016,
+    "character": "石田将也 / Shoya Ishida",
+    "director": "山田尚子",
+    "tags": [
+      "校园",
+      "霸凌",
+      "赎罪",
+      "动画"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：凝聚《声之形》将也从霸凌者走向自我接纳的主线，不冒充单一字幕逐字转译。",
+    "ratings": {
+      "imdb": {
+        "score": 8.4,
+        "votes": 4695
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-silent-voice-2016.jpg",
+    "still": "assets/stills/classics/a-silent-voice-2016.jpg",
+    "still_alt": "声之形 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-silent-voice-2016.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/378064）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "wolf-children-live-as-human",
+    "line": "想做人就做人，想做狼就做狼。你们自己选。",
+    "line_en": "Live as humans, or live as wolves. You choose.",
+    "film_title": "狼的孩子雨和雪",
+    "film_title_en": "Wolf Children",
+    "year": 2012,
+    "character": "花 / Hana",
+    "director": "细田守",
+    "tags": [
+      "母职",
+      "成长",
+      "身份",
+      "动画"
+    ],
+    "featured": false,
+    "curator_note": "通行可核验意译：细田守《狼的孩子雨和雪》中母亲把物种身份的选择交给孩子，影迷引用常见。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 2541
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/wolf-children-2012.jpg",
+    "still": "assets/stills/classics/wolf-children-2012.jpg",
+    "still_alt": "狼的孩子雨和雪 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/wolf-children-2012.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/110420）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oMqgJMCaNIqeJtilc71D4nRqdmt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "portrait-lovers-inventing",
+    "line": "是不是所有恋人，都觉得自己在发明什么？",
+    "line_en": "Do all lovers feel they're inventing something?",
+    "film_title": "燃烧女子的肖像",
+    "film_title_en": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "character": "海伦 / Héloïse",
+    "director": "塞莉娜·席安玛",
+    "tags": [
+      "凝视",
+      "绘画",
+      "女性",
+      "爱情"
+    ],
+    "featured": false,
+    "curator_note": "通行可核验：席安玛《燃烧女子的肖像》中海伦关于恋人与发明的对白，英法字幕广泛引用。",
+    "ratings": {
+      "imdb": {
+        "score": 8.1,
+        "votes": 3052
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/portrait-of-a-lady-on-fire-2019.jpg",
+    "still": "assets/stills/classics/portrait-of-a-lady-on-fire-2019.jpg",
+    "still_alt": "燃烧女子的肖像 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/portrait-of-a-lady-on-fire-2019.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/531428）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ivJ5UzT6IzucLVfbZwCCwiJJoBz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "weathering-it-will-clear",
+    "line": "没事的，会放晴的。",
+    "line_en": "It's okay — it'll clear up.",
+    "film_title": "天气之子",
+    "film_title_en": "Weathering with You",
+    "year": 2019,
+    "character": "阳菜 / Hina Amano",
+    "director": "新海诚",
+    "tags": [
+      "天气",
+      "青春",
+      "牺牲",
+      "动画"
+    ],
+    "featured": false,
+    "curator_note": "通行可核验：新海诚《天气之子》阳菜安慰性口头禅「大丈夫、晴れるよ」的通行中译。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 2718
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/weathering-with-you-2019.jpg",
+    "still": "assets/stills/classics/weathering-with-you-2019.jpg",
+    "still_alt": "天气之子 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/weathering-with-you-2019.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/568160）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jFK8BOPL6ZeWyjMVWX8ajsTTinp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "monster-who-is-monster",
+    "line": "到底谁才是怪物？",
+    "line_en": "Who is the monster, really?",
+    "film_title": "怪物",
+    "film_title_en": "Monster",
+    "year": 2023,
+    "character": "旁白题旨 / thematic",
+    "director": "是枝裕和",
+    "tags": [
+      "视角",
+      "误解",
+      "童年",
+      "是枝"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：对应是枝《怪物》多视角叙事下「怪物」标签的错位，不冒充单一角色逐字台词。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 962
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/monster-2023.jpg",
+    "still": "assets/stills/classics/monster-2023.jpg",
+    "still_alt": "怪物 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/monster-2023.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1050035）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vAsxVpXP53cMSsD9u4EekQKz4ur.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "love-exposure-i-love-you",
+    "line": "我爱你。这句话，比任何教义都重。",
+    "line_en": "I love you — that weighs more than any doctrine.",
+    "film_title": "爱的曝光",
+    "film_title_en": "Love Exposure",
+    "year": 2008,
+    "character": "汤川勇 / Yu Honda",
+    "director": "园子温",
+    "tags": [
+      "信仰",
+      "爱欲",
+      "极端",
+      "日本电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：把园子温《爱的曝光》里信仰与告白的冲撞压成主句，不冒充逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 542
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/love-exposure-2008.jpg",
+    "still": "assets/stills/classics/love-exposure-2008.jpg",
+    "still_alt": "爱的曝光 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/love-exposure-2008.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/28422）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vfGru7Anmn8UV13wX2ZbPeKurcy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "postino-poetry-belongs",
+    "line": "诗不属于写它的人，而属于需要它的人。",
+    "line_en": "Poetry doesn't belong to those who write it, but to those who need it.",
+    "film_title": "邮差",
+    "film_title_en": "Il Postino",
+    "year": 1994,
+    "character": "巴勃罗·聂鲁达 / Pablo Neruda",
+    "director": "迈克尔·拉德福德",
+    "tags": [
+      "诗歌",
+      "邮差",
+      "智利",
+      "意大利"
+    ],
+    "featured": false,
+    "curator_note": "通行可核验：拉德福德《邮差》中聂鲁达对马里奥说的名句，多语种字幕与影评广泛引用。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 1250
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/il-postino-1994.jpg",
+    "still": "assets/stills/classics/il-postino-1994.jpg",
+    "still_alt": "邮差 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/il-postino-1994.jpg，1200×1800）（影片页 https://www.themoviedb.org/movie/11010）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rNqt77rD3Ge3xkp4PX7iN18Iiqo.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "umberto-d-dignity",
+    "line": "哪怕只剩一条狗，人也要活得像个人。",
+    "line_en": "Even with only a dog left, a man must still live like a man.",
+    "film_title": "温别尔托·D",
+    "film_title_en": "Umberto D.",
+    "year": 1952,
+    "character": "温别尔托 / Umberto D.",
+    "director": "维托里奥·德·西卡",
+    "tags": [
+      "新现实主义",
+      "老年",
+      "尊严",
+      "意大利"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括德·西卡《温别尔托·D》中老人与狗的生存尊严，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 766
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/umberto-d-1952.jpg",
+    "still": "assets/stills/classics/umberto-d-1952.jpg",
+    "still_alt": "温别尔托·D · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/umberto-d-1952.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/833）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eYW94MLPQGu9hFxu60cqEXz2aJ5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "perfect-strangers-secrets",
+    "line": "有些秘密，说出来，朋友就做不成了。",
+    "line_en": "Some secrets, once spoken, end a friendship.",
+    "film_title": "完美陌生人",
+    "film_title_en": "Perfect Strangers",
+    "year": 2016,
+    "character": "晚宴众人 / dinner guests",
+    "director": "保罗·杰诺韦塞",
+    "tags": [
+      "手机",
+      "秘密",
+      "社交",
+      "意大利"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：对应杰诺韦塞《完美陌生人》手机坦白游戏的核心风险，不冒充单一字幕句。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 4691
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/perfect-strangers-2016.jpg",
+    "still": "assets/stills/classics/perfect-strangers-2016.jpg",
+    "still_alt": "完美陌生人 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/perfect-strangers-2016.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/381341）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1YhiocGm8aOwILGX7mwlkdbr0ph.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "amour-things-will-go-on",
+    "line": "事情还会像以前一样继续下去。",
+    "line_en": "Things will go on as they have done up until now.",
+    "film_title": "爱",
+    "film_title_en": "Amour",
+    "year": 2012,
+    "character": "乔治 / Georges",
+    "director": "迈克尔·哈内克",
+    "tags": [
+      "老年",
+      "照护",
+      "尊严",
+      "爱情"
+    ],
+    "featured": false,
+    "curator_note": "通行可核验意译：哈内克《爱》中乔治对病中妻子的安抚句，英法评论常见引用。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 1820
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/amour-2012.jpg",
+    "still": "assets/stills/classics/amour-2012.jpg",
+    "still_alt": "爱 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/amour-2012.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/86837）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w7Z4BVMin49voNN61IUWyN9DopV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "porco-better-pig-than-fascist",
+    "line": "与其做法西斯，我宁可做猪。",
+    "line_en": "I'd rather be a pig than a fascist.",
+    "film_title": "红猪",
+    "film_title_en": "Porco Rosso",
+    "year": 1992,
+    "character": "波鲁克·罗素 / Porco Rosso",
+    "director": "宫崎骏",
+    "tags": [
+      "反战",
+      "飞行员",
+      "宫崎骏",
+      "动画"
+    ],
+    "featured": false,
+    "curator_note": "通行可核验：宫崎骏《红猪》主角对法西斯的拒绝句，多语种影迷引用极广。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 3823
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/porco-rosso-1992.jpg",
+    "still": "assets/stills/classics/porco-rosso-1992.jpg",
+    "still_alt": "红猪 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/porco-rosso-1992.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/11621）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ec4m0EvVlEtVl5aySdw6ab9uG0b.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "wind-rises-must-live",
+    "line": "风起了，唯有努力生存。",
+    "line_en": "The wind is rising! We must try to live.",
+    "film_title": "起风了",
+    "film_title_en": "The Wind Rises",
+    "year": 2013,
+    "character": "堀越二郎 / Jiro Horikoshi",
+    "director": "宫崎骏",
+    "tags": [
+      "飞行",
+      "战争",
+      "生存",
+      "动画"
+    ],
+    "featured": false,
+    "curator_note": "通行可核验：宫崎骏《起风了》引用堀辰雄／瓦莱里名句「Le vent se lève! Il faut tenter de vivre.」的通行中译。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 3490
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-wind-rises-2013.jpg",
+    "still": "assets/stills/classics/the-wind-rises-2013.jpg",
+    "still_alt": "起风了 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-wind-rises-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/149870）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oTzps90guRdPVkUw7CmErG4nLDX.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "day-for-night-cinema-life",
+    "line": "拍电影的时候，生活反而成了幻觉。",
+    "line_en": "While we make films, life itself becomes the illusion.",
+    "film_title": "日以作夜",
+    "film_title_en": "Day for Night",
+    "year": 1973,
+    "character": "费拉尔 / Ferrand",
+    "director": "弗朗索瓦·特吕弗",
+    "tags": [
+      "片场",
+      "电影",
+      "特吕弗",
+      "法国"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：对应特吕弗《日以作夜》对片场与生活倒置关系的题旨，不冒充逐字台词。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 680
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/day-for-night-1973.jpg",
+    "still": "assets/stills/classics/day-for-night-1973.jpg",
+    "still_alt": "日以作夜 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/day-for-night-1973.jpg，1018×1527）（影片页 https://www.themoviedb.org/movie/1675）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vEbTuew9kEJwRBS0tELNyEo0u8s.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "oharu-womans-fate",
+    "line": "女人的一生，常常不是自己选的路。",
+    "line_en": "A woman's life is so often a road she did not choose.",
+    "film_title": "西鹤一代女",
+    "film_title_en": "The Life of Oharu",
+    "year": 1952,
+    "character": "阿春 / Oharu",
+    "director": "沟口健二",
+    "tags": [
+      "女性",
+      "江户",
+      "沉浮",
+      "沟口"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括沟口《西鹤一代女》中阿春被命运推落的轨迹，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 206
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-life-of-oharu-1952.jpg",
+    "still": "assets/stills/classics/the-life-of-oharu-1952.jpg",
+    "still_alt": "西鹤一代女 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-life-of-oharu-1952.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/43364）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2GVpGnNQzU5fPG85l4cVJ0XWbTy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "dreams-van-gogh",
+    "line": "为什么你不停地画？因为太阳驱使着我。",
+    "line_en": "Why do you paint without rest? Because the sun drives me.",
+    "film_title": "梦",
+    "film_title_en": "Dreams",
+    "year": 1990,
+    "character": "梵高 / Vincent van Gogh",
+    "director": "黑泽明",
+    "tags": [
+      "梦境",
+      "梵高",
+      "黑泽明",
+      "艺术"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：对应黑泽明《梦》「乌鸦」段落中梵高被太阳驱使的创作狂热，非逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 599
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/dreams-1990.jpg",
+    "still": "assets/stills/classics/dreams-1990.jpg",
+    "still_alt": "梦 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dreams-1990.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/12516）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/g2Y4A9qgkHhecPBnYMaAIzTlmcN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "bellissima-star-dream",
+    "line": "他们要的不是孩子，是能卖钱的脸。",
+    "line_en": "They don't want a child — they want a face that sells.",
+    "film_title": "最美的",
+    "film_title_en": "Bellissima",
+    "year": 1951,
+    "character": "马达莱娜 / Maddalena",
+    "director": "卢奇诺·维斯康蒂",
+    "tags": [
+      "星梦",
+      "母亲",
+      "电影工业",
+      "意大利"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括维斯康蒂《最美的》对星探与母亲幻觉的讽刺，不冒充逐字对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 259
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/bellissima-1951.jpg",
+    "still": "assets/stills/classics/bellissima-1951.jpg",
+    "still_alt": "最美的 · TMDB 宣传静帧（3648×2052）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/bellissima-1951.jpg，937×1404）（影片页 https://www.themoviedb.org/movie/43372）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bapk1v5CEY3ZHzkFAv13t7dRCQr.jpg（3648×2052）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "like-father-time-spent",
+    "line": "血缘很重要，但陪伴的时间更重要。",
+    "line_en": "Blood matters — but time spent together matters more.",
+    "film_title": "如父如子",
+    "film_title_en": "Like Father, Like Son",
+    "year": 2013,
+    "character": "野野宫良多 / Ryota Nonomiya",
+    "director": "是枝裕和",
+    "tags": [
+      "父子",
+      "血缘",
+      "陪伴",
+      "是枝"
+    ],
+    "featured": false,
+    "curator_note": "通行可核验意译：是枝《如父如子》关于血缘与陪伴的核心判断，影评与观众引用常见。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 826
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/like-father-like-son-2013.jpg",
+    "still": "assets/stills/classics/like-father-like-son-2013.jpg",
+    "still_alt": "如父如子 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/like-father-like-son-2013.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/177945）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kpBl6nGmRaUKmvASc1S3hB9F71q.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "bpm-silence-equals-death",
+    "line": "沉默等于死亡。行动起来。",
+    "line_en": "Silence = Death. Act up.",
+    "film_title": "每分钟跳动次数",
+    "film_title_en": "BPM (Beats per Minute)",
+    "year": 2017,
+    "character": "ACT UP 成员 / activists",
+    "director": "罗宾·坎皮洛",
+    "tags": [
+      "艾滋病",
+      "行动主义",
+      "爱",
+      "法国"
+    ],
+    "featured": false,
+    "curator_note": "通行可核验：坎皮洛《每分钟跳动次数》中 ACT UP 口号「Silence = Death」的历史原句与片中行动语境。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 1406
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/bpm-beats-per-minute-2017.jpg",
+    "still": "assets/stills/classics/bpm-beats-per-minute-2017.jpg",
+    "still_alt": "每分钟跳动次数 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/bpm-beats-per-minute-2017.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/451945）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dzFHA2XXlgc5vV8XFTg4GTLMX17.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "mustang-we-will-leave",
+    "line": "有一天我们会离开这里。不是逃走，是出发。",
+    "line_en": "One day we'll leave this place — not fleeing, but setting out.",
+    "film_title": "野马",
+    "film_title_en": "Mustang",
+    "year": 2015,
+    "character": "姐妹们 / the sisters",
+    "director": "德尼兹·加姆泽·厄尔居文",
+    "tags": [
+      "姐妹",
+      "自由",
+      "父权",
+      "土耳其"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：对应厄尔居文《野马》五姐妹对自由的集体渴望，不冒充单一字幕句。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 1490
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/mustang-2015.jpg",
+    "still": "assets/stills/classics/mustang-2015.jpg",
+    "still_alt": "野马 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mustang-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/336804）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e26lUsaE9Ni7MmdhaVHVNbuzVyo.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "il-divo-power-shadow",
+    "line": "权力最大的时候，人反而消失在阴影里。",
+    "line_en": "At the height of power, a man vanishes into shadow.",
+    "film_title": "政客",
+    "film_title_en": "Il Divo",
+    "year": 2008,
+    "character": "朱利奥·安德烈奥蒂 / Giulio Andreotti",
+    "director": "保罗·索伦蒂诺",
+    "tags": [
+      "政治",
+      "权力",
+      "意大利",
+      "索伦蒂诺"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：概括索伦蒂诺《政客》中安德烈奥蒂式权力迷宫，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 1207
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/il-divo-2008.jpg",
+    "still": "assets/stills/classics/il-divo-2008.jpg",
+    "still_alt": "政客 · TMDB 宣传静帧（2670×1500）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/il-divo-2008.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8832）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5hFCQu0856yDUsvdJYZ25ufCIgW.jpg（2670×1500）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "eclisse-empty-afternoon",
+    "line": "我们约好见面，然后让整座城市替我们缺席。",
+    "line_en": "We agree to meet — then let the whole city keep our absence.",
+    "film_title": "蚀",
+    "film_title_en": "L'Eclisse",
+    "year": 1962,
+    "character": "维多莉亚 / Vittoria",
+    "director": "米开朗基罗·安东尼奥尼",
+    "tags": [
+      "疏离",
+      "现代性",
+      "罗马",
+      "安东尼奥尼"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：对应安东尼奥尼《蚀》片尾恋人缺席的城市蒙太奇，非角色对白引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 568
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/l-eclisse-1962.jpg",
+    "still": "assets/stills/classics/l-eclisse-1962.jpg",
+    "still_alt": "蚀 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/l-eclisse-1962.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/21135）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ozA4PzQphcrZ7mG812NK4Z0cLMf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "prophet-learn-to-read",
+    "line": "在这里想活下去，先学会读懂规则。",
+    "line_en": "To survive here, first learn to read the rules.",
+    "film_title": "预言者",
+    "film_title_en": "A Prophet",
+    "year": 2009,
+    "character": "马利克 / Malik El Djebena",
+    "director": "雅克·奥迪亚尔",
+    "tags": [
+      "监狱",
+      "生存",
+      "成长",
+      "法国"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括奥迪亚尔《预言者》中马利克在狱中权力网络里的生存学习，不冒充逐字台词。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 1784
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-prophet-2009.jpg",
+    "still": "assets/stills/classics/a-prophet-2009.jpg",
+    "still_alt": "预言者 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-prophet-2009.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/21575）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jEJDjDBT6KCoS4WOBq68vZMbFk2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "green-tea-rice-home",
+    "line": "家的味道，往往是最普通的那一碗。",
+    "line_en": "The taste of home is often the plainest bowl.",
+    "film_title": "茶泡饭的味道",
+    "film_title_en": "The Flavor of Green Tea over Rice",
+    "year": 1952,
+    "character": "佐藤夫妻 / the Satakes",
+    "director": "小津安二郎",
+    "tags": [
+      "家庭",
+      "日常",
+      "婚姻",
+      "小津"
+    ],
+    "featured": false,
+    "curator_note": "主题性策展句：对应小津《茶泡饭的味道》以日常饮食修复婚姻温度的题旨，非逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 108
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-flavor-of-green-tea-over-rice-1952.jpg",
+    "still": "assets/stills/classics/the-flavor-of-green-tea-over-rice-1952.jpg",
+    "still_alt": "茶泡饭的味道 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-flavor-of-green-tea-over-rice-1952.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/55197）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/brGZLkmPzzidh2H3YHVYg3xnSdg.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "hand-of-god-destiny",
+    "line": "有时候命运像一只手，把你往电影那边推。",
+    "line_en": "Sometimes fate is a hand that pushes you toward cinema.",
+    "film_title": "上帝之手",
+    "film_title_en": "The Hand of God",
+    "year": 2021,
+    "character": "法比亚托 / Fabietto",
+    "director": "保罗·索伦蒂诺",
+    "tags": [
+      "那不勒斯",
+      "命运",
+      "电影",
+      "索伦蒂诺"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：对应索伦蒂诺《上帝之手》中丧亲之后走向影业的自传转折，不冒充逐字对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 1815
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-hand-of-god-2021.jpg",
+    "still": "assets/stills/classics/the-hand-of-god-2021.jpg",
+    "still_alt": "上帝之手 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hand-of-god-2021.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/722778）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dTvGUMFc5WCziTzXZKZ2EfW2bEM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "sonatine-game-over",
+    "line": "游戏结束了。",
+    "line_en": "The game is over.",
+    "film_title": "奏鸣曲",
+    "film_title_en": "Sonatine",
+    "year": 1993,
+    "character": "村上 / Murakawa",
+    "director": "北野武",
+    "tags": [
+      "暴力",
+      "海滩",
+      "北野武",
+      "日本电影"
+    ],
+    "featured": false,
+    "curator_note": "通行可核验意译：北野武《奏鸣曲》冷硬收束语气的常用概括句；字幕版本或有差异，保留其「玩完了」的终结感。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 708
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/sonatine-1993.jpg",
+    "still": "assets/stills/classics/sonatine-1993.jpg",
+    "still_alt": "奏鸣曲 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sonatine-1993.jpg，1200×1800）（影片页 https://www.themoviedb.org/movie/7500）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8fEv1RvXxYnal1gBc0kC1QpT878.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]
