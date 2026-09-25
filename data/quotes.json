@@ -2863,5 +2863,996 @@
     "still_alt": "看不见的客人 · 山间公路与雨夜意象宣传静帧",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/075-contratiempo.jpg）（影片页 https://www.themoviedb.org/movie/411088）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/157QuwzU58D5RtXmkBl5iNaxigN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "ryan-earn-this",
+    "line": "好好活下去。",
+    "line_en": "Earn this.",
+    "film_title": "拯救大兵瑞恩",
+    "film_title_en": "Saving Private Ryan",
+    "year": 1998,
+    "character": "Capt. John Miller",
+    "director": "史蒂文·斯皮尔伯格",
+    "tags": [
+      "战争",
+      "牺牲",
+      "责任"
+    ],
+    "featured": false,
+    "curator_note": "米勒临终托付：把活着变成亏欠与责任，战争片里最沉的三个英文词。",
+    "ratings": {
+      "douban": {
+        "score": 9.1,
+        "votes": 900000
+      },
+      "imdb": {
+        "score": 8.6,
+        "votes": 1500000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 94
+      },
+      "metacritic": {
+        "score": 91
+      }
+    },
+    "poster": "assets/posters/top250/076-saving-private-ryan.jpg",
+    "still": "assets/stills/top250/076-saving-private-ryan.jpg",
+    "still_alt": "拯救大兵瑞恩 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/076-saving-private-ryan.jpg）（影片页 https://www.themoviedb.org/movie/857）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bdD39MpSVhKjxarTxLSfX6baoMP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "lambs-hello-clarice",
+    "line": "你好，克拉丽斯。",
+    "line_en": "Hello, Clarice.",
+    "film_title": "沉默的羔羊",
+    "film_title_en": "The Silence of the Lambs",
+    "year": 1991,
+    "character": "Hannibal Lecter",
+    "director": "乔纳森·戴米",
+    "tags": [
+      "惊悚",
+      "心理",
+      "对峙"
+    ],
+    "featured": false,
+    "curator_note": "莱克特隔栏相迎的四个音节，比吃肝名场面更先钉进文化记忆；中文定译沿用流行译法。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 850000
+      },
+      "imdb": {
+        "score": 8.6,
+        "votes": 1600000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 95
+      },
+      "metacritic": {
+        "score": 85
+      }
+    },
+    "poster": "assets/posters/top250/077-the-silence-of-the-lambs.jpg",
+    "still": "assets/stills/top250/077-the-silence-of-the-lambs.jpg",
+    "still_alt": "沉默的羔羊 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/077-the-silence-of-the-lambs.jpg）（影片页 https://www.themoviedb.org/movie/274）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "children-heaven-shoes",
+    "line": "姐姐，这双鞋给你。",
+    "line_en": "Sister, these shoes are for you.",
+    "film_title": "小鞋子",
+    "film_title_en": "بچه های آسمان",
+    "year": 1997,
+    "character": "Ali / 题旨",
+    "director": "马基德·马基迪",
+    "tags": [
+      "亲情",
+      "童真",
+      "贫穷"
+    ],
+    "featured": false,
+    "curator_note": "对齐片题旨与结尾赛跑动机：一双鞋写尽兄妹情与伊朗新浪潮的克制悲悯；非逐字核验原声，标为题旨句。",
+    "ratings": {
+      "douban": {
+        "score": 9.2,
+        "votes": 550000
+      },
+      "imdb": {
+        "score": 8.2,
+        "votes": 90000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 83
+      },
+      "metacritic": {
+        "score": 77
+      }
+    },
+    "poster": "assets/posters/top250/078-rank-078.jpg",
+    "still": "assets/stills/top250/078-rank-078.jpg",
+    "still_alt": "小鞋子 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/078-rank-078.jpg）（影片页 https://www.themoviedb.org/movie/21334）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6Jjuu1abyLFNgVKjOTt4vi8M6Jy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "butterfly-change-everything",
+    "line": "你改动过去的一点点，就会改写整个未来。",
+    "line_en": "Change one thing, change everything.",
+    "film_title": "蝴蝶效应",
+    "film_title_en": "The Butterfly Effect",
+    "year": 2004,
+    "character": "题旨 / 片句浓缩",
+    "director": "埃里克·布雷斯 / J·麦基·格鲁伯",
+    "tags": [
+      "科幻",
+      "命运",
+      "悔恨"
+    ],
+    "featured": false,
+    "curator_note": "对齐片名与流行中文题旨句；本片对白多碎裂闪回，取可上墙的因果铁律表述并标明浓缩。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 1200000
+      },
+      "imdb": {
+        "score": 7.6,
+        "votes": 500000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 34
+      },
+      "metacritic": {
+        "score": 30
+      }
+    },
+    "poster": "assets/posters/top250/079-the-butterfly-effect.jpg",
+    "still": "assets/stills/top250/079-the-butterfly-effect.jpg",
+    "still_alt": "蝴蝶效应 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/079-the-butterfly-effect.jpg）（影片页 https://www.themoviedb.org/movie/1954）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/75UPGUm2Zm6M60szq1gQisDF4g.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "ancora-domani-tomorrow",
+    "line": "还有明天。",
+    "line_en": "There's still tomorrow.",
+    "film_title": "还有明天",
+    "film_title_en": "C'è ancora domani",
+    "year": 2023,
+    "character": "题旨 / 片名",
+    "director": "保拉·科尔泰莱西",
+    "tags": [
+      "女性",
+      "勇气",
+      "战后"
+    ],
+    "featured": false,
+    "curator_note": "片名即题旨：战后罗马主妇把「明天」喊成反抗家暴与父权的口号；对白少箴言，标片名题旨句。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 200000
+      },
+      "imdb": {
+        "score": 7.7,
+        "votes": 30000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 92
+      },
+      "metacritic": {
+        "score": 78
+      }
+    },
+    "poster": "assets/posters/top250/080-c-e-ancora-domani.jpg",
+    "still": "assets/stills/top250/080-c-e-ancora-domani.jpg",
+    "still_alt": "还有明天 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/080-c-e-ancora-domani.jpg）（影片页 https://www.themoviedb.org/movie/1026227）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fNXUCk54vGcoKr34olN14ohUSFY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "budapest-glimmers",
+    "line": "在这曾被称为人性的野蛮屠场里，文明仍有微光。",
+    "line_en": "There are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity.",
+    "film_title": "布达佩斯大饭店",
+    "film_title_en": "The Grand Budapest Hotel",
+    "year": 2014,
+    "character": "M. Gustave",
+    "director": "韦斯·安德森",
+    "tags": [
+      "文明",
+      "礼仪",
+      "幽默"
+    ],
+    "featured": false,
+    "curator_note": "古斯塔夫的文明宣言：粉红对称世界里最锋利的一句悲观乐观主义。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 900000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 900000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 92
+      },
+      "metacritic": {
+        "score": 88
+      }
+    },
+    "poster": "assets/posters/top250/081-the-grand-budapest-hotel.jpg",
+    "still": "assets/stills/top250/081-the-grand-budapest-hotel.jpg",
+    "still_alt": "布达佩斯大饭店 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/081-the-grand-budapest-hotel.jpg）（影片页 https://www.themoviedb.org/movie/120467）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9udCLTxTFl28RxnK8Q05E154ZGa.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "cuckoo-at-least-tried",
+    "line": "可我试过了，对不对？该死，至少我试过了。",
+    "line_en": "But I tried, didn't I? Goddamnit, at least I did that.",
+    "film_title": "飞越疯人院",
+    "film_title_en": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "character": "Chief Bromden（旁白/结句意境） / McMurphy 精神",
+    "director": "米洛斯·福曼",
+    "tags": [
+      "自由",
+      "反抗",
+      "体制"
+    ],
+    "featured": false,
+    "curator_note": "对齐原著结句与影片精神遗产；中文定译取通行译本。麦克默菲用「试过」对抗疯人院规训。",
+    "ratings": {
+      "douban": {
+        "score": 9.1,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 8.7,
+        "votes": 1100000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 93
+      },
+      "metacritic": {
+        "score": 84
+      }
+    },
+    "poster": "assets/posters/top250/082-one-flew-over-the-cuckoo-s-nest.jpg",
+    "still": "assets/stills/top250/082-one-flew-over-the-cuckoo-s-nest.jpg",
+    "still_alt": "飞越疯人院 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/082-one-flew-over-the-cuckoo-s-nest.jpg）（影片页 https://www.themoviedb.org/movie/510）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "shutter-monster-or-man",
+    "line": "哪种更糟：活成怪物，还是死成好人？",
+    "line_en": "Which would be worse: to live as a monster, or to die as a good man?",
+    "film_title": "禁闭岛",
+    "film_title_en": "Shutter Island",
+    "year": 2010,
+    "character": "Teddy Daniels",
+    "director": "马丁·斯科塞斯",
+    "tags": [
+      "悬疑",
+      "自我",
+      "救赎"
+    ],
+    "featured": false,
+    "curator_note": "灯塔结局的自问：把整部叙事诡计收成道德选择题，传世。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 1300000
+      },
+      "imdb": {
+        "score": 8.2,
+        "votes": 1500000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 68
+      },
+      "metacritic": {
+        "score": 63
+      }
+    },
+    "poster": "assets/posters/top250/083-shutter-island.jpg",
+    "still": "assets/stills/top250/083-shutter-island.jpg",
+    "still_alt": "禁闭岛 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/083-shutter-island.jpg）（影片页 https://www.themoviedb.org/movie/11324）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "hunting-not-your-fault",
+    "line": "这不是你的错。",
+    "line_en": "It's not your fault.",
+    "film_title": "心灵捕手",
+    "film_title_en": "Good Will Hunting",
+    "year": 1997,
+    "character": "Sean Maguire",
+    "director": "格斯·范·桑特",
+    "tags": [
+      "治愈",
+      "创伤",
+      "师徒"
+    ],
+    "featured": false,
+    "curator_note": "肖恩连说直到威尔崩溃那一段：五个字拆开童年罪责，治愈系金句天花板。",
+    "ratings": {
+      "douban": {
+        "score": 9,
+        "votes": 1100000
+      },
+      "imdb": {
+        "score": 8.3,
+        "votes": 1100000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 97
+      },
+      "metacritic": {
+        "score": 70
+      }
+    },
+    "poster": "assets/posters/top250/084-good-will-hunting.jpg",
+    "still": "assets/stills/top250/084-good-will-hunting.jpg",
+    "still_alt": "心灵捕手 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/084-good-will-hunting.jpg）（影片页 https://www.themoviedb.org/movie/489）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "prestige-watching-closely",
+    "line": "你看仔细了吗？",
+    "line_en": "Are you watching closely?",
+    "film_title": "致命魔术",
+    "film_title_en": "The Prestige",
+    "year": 2006,
+    "character": "Narrator / Cutter",
+    "director": "克里斯托弗·诺兰",
+    "tags": [
+      "魔术",
+      "执念",
+      "叙事"
+    ],
+    "featured": false,
+    "curator_note": "开场即契约：承诺、转身、打乱——把观影变成魔术三幕。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 1000000
+      },
+      "imdb": {
+        "score": 8.5,
+        "votes": 1500000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 76
+      },
+      "metacritic": {
+        "score": 66
+      }
+    },
+    "poster": "assets/posters/top250/085-the-prestige.jpg",
+    "still": "assets/stills/top250/085-the-prestige.jpg",
+    "still_alt": "致命魔术 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/085-the-prestige.jpg）（影片页 https://www.themoviedb.org/movie/1124）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/z3br1ub7spqGMkxgjgJSdM4DC21.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "pulp-try-to-shepherd",
+    "line": "我在努力，林戈。我在很努力地想当个牧羊人。",
+    "line_en": "I'm tryin', Ringo. I'm tryin' real hard to be the shepherd.",
+    "film_title": "低俗小说",
+    "film_title_en": "Pulp Fiction",
+    "year": 1994,
+    "character": "Jules Winnfield",
+    "director": "昆汀·塔伦蒂诺",
+    "tags": [
+      "犯罪",
+      "救赎",
+      "选择"
+    ],
+    "featured": false,
+    "curator_note": "尤尔斯以西结书演讲收束：从「恶人暴政」转向「牧羊人」——低俗外壳下的改宗时刻。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 850000
+      },
+      "imdb": {
+        "score": 8.9,
+        "votes": 2200000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 92
+      },
+      "metacritic": {
+        "score": 95
+      }
+    },
+    "poster": "assets/posters/top250/086-pulp-fiction.jpg",
+    "still": "assets/stills/top250/086-pulp-fiction.jpg",
+    "still_alt": "低俗小说 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/086-pulp-fiction.jpg）（影片页 https://www.themoviedb.org/movie/680）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cOGysF4SXauEKz18mFGmkZW6O2T.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "chamber-our-choices",
+    "line": "决定我们成为什么人的，不是我们的能力，而是我们的选择。",
+    "line_en": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+    "film_title": "哈利·波特与密室",
+    "film_title_en": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "character": "Albus Dumbledore",
+    "director": "克里斯·哥伦布",
+    "tags": [
+      "奇幻",
+      "选择",
+      "成长"
+    ],
+    "featured": false,
+    "curator_note": "邓布利多对哈利说的选择论，系列伦理核心；密室篇写进银幕。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 7.4,
+        "votes": 700000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 82
+      },
+      "metacritic": {
+        "score": 63
+      }
+    },
+    "poster": "assets/posters/top250/087-harry-potter-and-the-chamber-of-secrets.jpg",
+    "still": "assets/stills/top250/087-harry-potter-and-the-chamber-of-secrets.jpg",
+    "still_alt": "哈利·波特与密室 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/087-harry-potter-and-the-chamber-of-secrets.jpg）（影片页 https://www.themoviedb.org/movie/672）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bvRnPaai6JL7XHF4K6414DdSHro.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "yiyi-life-three-times",
+    "line": "电影发明以后，人类的生命延长了三倍。",
+    "line_en": "Movies give us three times as much life.",
+    "film_title": "一一",
+    "film_title_en": "Yi yi",
+    "year": 2000,
+    "character": "NJ（旁白意境） / 杨德昌题旨",
+    "director": "杨德昌",
+    "tags": [
+      "家庭",
+      "日常",
+      "电影"
+    ],
+    "featured": false,
+    "curator_note": "对齐杨德昌多次阐述的电影观与片中洋洋拍照动机；华语影史题旨句，标出典边界。",
+    "ratings": {
+      "douban": {
+        "score": 9.1,
+        "votes": 450000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 30000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 99
+      },
+      "metacritic": {
+        "score": 92
+      }
+    },
+    "poster": "assets/posters/top250/088-yi-yi.jpg",
+    "still": "assets/stills/top250/088-yi-yi.jpg",
+    "still_alt": "一一 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/088-yi-yi.jpg）（影片页 https://www.themoviedb.org/movie/25538）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/x903dx8Km6XNLFEmvbXc98vePSV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "detachment-pleasant-lies",
+    "line": "大多数人宁愿被甜蜜的谎言说服，也不愿听刺耳的真话。",
+    "line_en": "Most people would rather be persuaded by pleasant lies than by unpleasant facts.",
+    "film_title": "超脱",
+    "film_title_en": "Detachment",
+    "year": 2011,
+    "character": "Henry Barthes（旁白）",
+    "director": "托尼·凯耶",
+    "tags": [
+      "教育",
+      "疏离",
+      "真实"
+    ],
+    "featured": false,
+    "curator_note": "巴特旁白金句：把代课教师的职业倦怠写成文明诊断。",
+    "ratings": {
+      "douban": {
+        "score": 9,
+        "votes": 500000
+      },
+      "imdb": {
+        "score": 7.7,
+        "votes": 90000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 57
+      },
+      "metacritic": {
+        "score": 52
+      }
+    },
+    "poster": "assets/posters/top250/089-detachment.jpg",
+    "still": "assets/stills/top250/089-detachment.jpg",
+    "still_alt": "超脱 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/089-detachment.jpg）（影片页 https://www.themoviedb.org/movie/74308）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aU6Mj8yFZhOnTpXjobqcwrB4KPP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "comedy-king-i-actor",
+    "line": "其实，我是一个演员。",
+    "line_en": "Actually, I'm an actor.",
+    "film_title": "喜剧之王",
+    "film_title_en": "King of Comedy",
+    "year": 1999,
+    "character": "尹天仇",
+    "director": "周星驰 / 李力持",
+    "tags": [
+      "喜剧",
+      "梦想",
+      "自嘲"
+    ],
+    "featured": false,
+    "curator_note": "天仇名片式开场：把「演员」说成信仰，荒诞里最真的一句。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 1400000
+      },
+      "imdb": {
+        "score": 7.3,
+        "votes": 20000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 80
+      }
+    },
+    "poster": "assets/posters/top250/090-king-of-comedy.jpg",
+    "still": "assets/stills/top250/090-king-of-comedy.jpg",
+    "still_alt": "喜剧之王 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/090-king-of-comedy.jpg）（影片页 https://www.themoviedb.org/movie/53168）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fGzO3qGIaBlLlW53fsaRSUPEjw0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "identity-who-are-you",
+    "line": "你到底是谁？",
+    "line_en": "Who are you?",
+    "film_title": "致命ID",
+    "film_title_en": "Identity",
+    "year": 2003,
+    "character": "题旨 / 多角色回环",
+    "director": "詹姆斯·曼高德",
+    "tags": [
+      "悬疑",
+      "身份",
+      "心理"
+    ],
+    "featured": false,
+    "curator_note": "暴雨旅馆连环杀的核心质问；对白随人格分裂回环，取可上墙题旨句并标明。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 800000
+      },
+      "imdb": {
+        "score": 7.3,
+        "votes": 250000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 62
+      },
+      "metacritic": {
+        "score": 64
+      }
+    },
+    "poster": "assets/posters/top250/091-identity.jpg",
+    "still": "assets/stills/top250/091-identity.jpg",
+    "still_alt": "致命ID · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/091-identity.jpg）（影片页 https://www.themoviedb.org/movie/2832）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iiPBXynI88EgnpunHoUlBCnLpSE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "memories-murder-looking",
+    "line": "你在看什么？",
+    "line_en": "What are you looking at?",
+    "film_title": "杀人回忆",
+    "film_title_en": "살인의 추억",
+    "year": 2003,
+    "character": "朴探员（结局凝视）",
+    "director": "奉俊昊",
+    "tags": [
+      "犯罪",
+      "未解",
+      "凝视"
+    ],
+    "featured": false,
+    "curator_note": "片尾直视镜头的无声控诉常被中文影评概括为此问；标为结局题旨，非强制对白核验。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 250000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 95
+      },
+      "metacritic": {
+        "score": 82
+      }
+    },
+    "poster": "assets/posters/top250/092-rank-092.jpg",
+    "still": "assets/stills/top250/092-rank-092.jpg",
+    "still_alt": "杀人回忆 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/092-rank-092.jpg）（影片页 https://www.themoviedb.org/movie/11423）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "modern-times-smile",
+    "line": "微笑吧。",
+    "line_en": "Smile.",
+    "film_title": "摩登时代",
+    "film_title_en": "Modern Times",
+    "year": 1936,
+    "character": "题旨 / 主题曲",
+    "director": "查理·卓别林",
+    "tags": [
+      "默片",
+      "工业",
+      "希望"
+    ],
+    "featured": false,
+    "curator_note": "默片少对白，取后补主题曲《Smile》题旨与片尾相拥上路的乐观；标歌曲/题旨边界。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 450000
+      },
+      "imdb": {
+        "score": 8.5,
+        "votes": 270000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 98
+      },
+      "metacritic": {
+        "score": 96
+      }
+    },
+    "poster": "assets/posters/top250/093-modern-times.jpg",
+    "still": "assets/stills/top250/093-modern-times.jpg",
+    "still_alt": "摩登时代 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/093-modern-times.jpg）（影片页 https://www.themoviedb.org/movie/3082）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/t3vImPBh5aV9rU94hw4oT7m4nvk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "pirates-almost-caught",
+    "line": "今天，将是你永远记得的日子——差点抓住杰克·斯派洛船长的日子！",
+    "line_en": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow!",
+    "film_title": "加勒比海盗",
+    "film_title_en": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "character": "Captain Jack Sparrow",
+    "director": "戈尔·维宾斯基",
+    "tags": [
+      "冒险",
+      "海盗",
+      "机锋"
+    ],
+    "featured": false,
+    "curator_note": "开场逃港名句：把失败说成传奇，杰克人设一次成型。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 1000000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 1200000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 79
+      },
+      "metacritic": {
+        "score": 63
+      }
+    },
+    "poster": "assets/posters/top250/094-pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg",
+    "still": "assets/stills/top250/094-pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg",
+    "still_alt": "加勒比海盗 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/094-pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg）（影片页 https://www.themoviedb.org/movie/22）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "happy-together-start-over",
+    "line": "不如我们从头来过。",
+    "line_en": "Let's start over.",
+    "film_title": "春光乍泄",
+    "film_title_en": "Happy Together",
+    "year": 1997,
+    "character": "黎耀辉 / 何宝荣",
+    "director": "王家卫",
+    "tags": [
+      "爱情",
+      "漂泊",
+      "重来"
+    ],
+    "featured": false,
+    "curator_note": "阿根廷夜色里最痛的提议：重来即认输，也是唯一的温柔。",
+    "ratings": {
+      "douban": {
+        "score": 9,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 7.7,
+        "votes": 40000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 84
+      },
+      "metacritic": {
+        "score": 73
+      }
+    },
+    "poster": "assets/posters/top250/095-happy-together.jpg",
+    "still": "assets/stills/top250/095-happy-together.jpg",
+    "still_alt": "春光乍泄 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/095-happy-together.jpg）（影片页 https://www.themoviedb.org/movie/18329）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "cove-if-you-knew",
+    "line": "如果你知道他们在做什么，你还会保持沉默吗？",
+    "line_en": "If you knew what they were doing, would you still stay silent?",
+    "film_title": "海豚湾",
+    "film_title_en": "The Cove",
+    "year": 2009,
+    "character": "题旨 / 纪录片控诉",
+    "director": "路易·西霍尤斯",
+    "tags": [
+      "纪录片",
+      "海洋",
+      "良知"
+    ],
+    "featured": false,
+    "curator_note": "对齐影片环保控诉主旨的中文策展概括句；纪录片少金句对白，标题旨。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 350000
+      },
+      "imdb": {
+        "score": 8.4,
+        "votes": 60000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 95
+      },
+      "metacritic": {
+        "score": 82
+      }
+    },
+    "poster": "assets/posters/top250/096-the-cove.jpg",
+    "still": "assets/stills/top250/096-the-cove.jpg",
+    "still_alt": "海豚湾 · 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/096-the-cove.jpg）（影片页 https://www.themoviedb.org/movie/23128）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pWXaHX2CdAebf2f4JyVewnIzl7.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "america-once-aging",
+    "line": "老了以后，你会发现，即使是你最在意的往事，有时也会想不起来。",
+    "line_en": "All I see is a boy, with a curious look…",
+    "film_title": "美国往事",
+    "film_title_en": "Once Upon a Time in America",
+    "year": 1984,
+    "character": "Noodles（老化旁白意境）",
+    "director": "赛尔乔·莱昂内",
+    "tags": [
+      "黑帮",
+      "时光",
+      "悔恨"
+    ],
+    "featured": false,
+    "curator_note": "对齐华语影迷圈流传的「往事」题旨表述；原片多意式旁白与闪回，中文取可上墙衰老回望句并标边界。",
+    "ratings": {
+      "douban": {
+        "score": 9.1,
+        "votes": 500000
+      },
+      "imdb": {
+        "score": 8.3,
+        "votes": 380000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 87
+      },
+      "metacritic": {
+        "score": 75
+      }
+    },
+    "poster": "assets/posters/top250/097-once-upon-a-time-in-america.jpg",
+    "still": "assets/stills/top250/097-once-upon-a-time-in-america.jpg",
+    "still_alt": "美国往事 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/097-once-upon-a-time-in-america.jpg）（影片页 https://www.themoviedb.org/movie/311）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "se7en-whats-in-box",
+    "line": "盒子里是什么？",
+    "line_en": "What's in the box?",
+    "film_title": "七宗罪",
+    "film_title_en": "Se7en",
+    "year": 1995,
+    "character": "Detective David Mills",
+    "director": "大卫·芬奇",
+    "tags": [
+      "犯罪",
+      "恐惧",
+      "结局"
+    ],
+    "featured": false,
+    "curator_note": "荒原交货的三字质问：七宗罪收束成一个看不见的翻盖，文化模因级。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 1100000
+      },
+      "imdb": {
+        "score": 8.6,
+        "votes": 1900000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 83
+      },
+      "metacritic": {
+        "score": 65
+      }
+    },
+    "poster": "assets/posters/top250/098-se7en.jpg",
+    "still": "assets/stills/top250/098-se7en.jpg",
+    "still_alt": "七宗罪 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/098-se7en.jpg）（影片页 https://www.themoviedb.org/movie/807）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "paprika-dreams-open",
+    "line": "梦是会传染的。",
+    "line_en": "Dreams are contagious.",
+    "film_title": "红辣椒",
+    "film_title_en": "パプリカ",
+    "year": 2006,
+    "character": "题旨 / 千叶敦子意境",
+    "director": "今敏",
+    "tags": [
+      "动画",
+      "梦境",
+      "失控"
+    ],
+    "featured": false,
+    "curator_note": "对齐 DC迷你与红辣椒装置的核心设定；中文策展浓缩句，标题旨。",
+    "ratings": {
+      "douban": {
+        "score": 9,
+        "votes": 400000
+      },
+      "imdb": {
+        "score": 7.7,
+        "votes": 100000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 95
+      },
+      "metacritic": {
+        "score": 81
+      }
+    },
+    "poster": "assets/posters/top250/099-rank-099.jpg",
+    "still": "assets/stills/top250/099-rank-099.jpg",
+    "still_alt": "红辣椒 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/099-rank-099.jpg）（影片页 https://www.themoviedb.org/movie/4977）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6oXn0037WWw4fTCc3Qczof71lSp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "flirting-scholar-not-mad",
+    "line": "别人笑我忒疯癫，我笑他人看不穿。",
+    "line_en": "Others laugh at me for being too crazy; I laugh at them for not seeing through.",
+    "film_title": "唐伯虎点秋香",
+    "film_title_en": "Flirting Scholar",
+    "year": 1993,
+    "character": "唐伯虎（古典引句入戏）",
+    "director": "李力持",
+    "tags": [
+      "喜剧",
+      "才子",
+      "自嘲"
+    ],
+    "featured": false,
+    "curator_note": "片中化用唐寅《桃花庵歌》名句入戏，华语观众认得的「唐伯虎」声口；标古典引句边界。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 1200000
+      },
+      "imdb": {
+        "score": 7.2,
+        "votes": 8000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照"
+    },
+    "poster": "assets/posters/top250/100-flirting-scholar.jpg",
+    "still": "assets/stills/top250/100-flirting-scholar.jpg",
+    "still_alt": "唐伯虎点秋香 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/100-flirting-scholar.jpg）（影片页 https://www.themoviedb.org/movie/37703）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sYuSTFIKNnAGYItluwRNUmFDr7R.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]
