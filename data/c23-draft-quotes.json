@@ -18,9 +18,11 @@
       "静帧宽边<1920 不入选：time-out-2001、seduced-and-abandoned-1964（C23 复检仍分别为 1281 / 1500）",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
-      "orphan 未跟踪海报未触碰"
+      "orphan 未跟踪海报未触碰",
+      "meta.merged=true；已并入 quotes.json published 807（787+20）；merged_at=2026-09-25T13:38:57+08:00；yi2 可策展池已关闭（收尾批）"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T13:38:57+08:00"
   },
   "quotes": [
     {
@@ -42,7 +44,7 @@
       "curator_note": "主题性策展句：概括侯麦《海滩上的宝琳》中少女旁观成人恋爱自欺的喜剧道德题旨，非逐字引文。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 266
         },
         "as_of": "2026-09-25",
