@@ -16,9 +16,10 @@
       "排除 data/quotes.json 与 C6/C7/C8/C9 candidates；quotes.json 未修改",
       "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
       "评分为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；勿在本任务并入 quotes.json"
+      "meta.merged=true；已并入 quotes.json published 499（474+25）；merged_at=2026-09-25T12:24:42+08:00"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T12:24:42+08:00"
   },
   "quotes": [
     {

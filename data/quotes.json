@@ -17259,5 +17259,755 @@
     "still_alt": "穆赫兰道 · TMDB 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mulholland-drive-2001.jpg）（影片页 https://www.themoviedb.org/movie/1018）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/A5n963lCjuVhiCHtBLTxMz1KgCF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "alice-cities-childhood",
+    "line": "我想知道，做一个孩子是什么感觉。",
+    "line_en": "I want to know what it feels like to be a child.",
+    "film_title": "爱丽丝漫游城市",
+    "film_title_en": "Alice in the Cities",
+    "year": 1974,
+    "character": "菲利普·温特 / Philip Winter",
+    "director": "维姆·文德斯",
+    "tags": [
+      "公路电影",
+      "童年",
+      "记忆"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：将菲利普面对爱丽丝与自身记忆的凝视压缩为主句，不冒充逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/alice-in-the-cities-1974.jpg",
+    "still": "assets/stills/classics/alice-in-the-cities-1974.jpg",
+    "still_alt": "爱丽丝漫游城市 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/alice-in-the-cities-1974.jpg）（影片页 https://www.themoviedb.org/movie/2204）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5yf7OaoaCd6n6MF72aipvXiS3OK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "kaspar-we-are-all-children",
+    "line": "我们都曾是孩子，只是后来学会了服从。",
+    "line_en": "We were all children once; later, we learned to obey.",
+    "film_title": "卡斯帕·豪泽之谜",
+    "film_title_en": "The Enigma of Kaspar Hauser",
+    "year": 1974,
+    "character": "卡斯帕·豪泽 / Kaspar Hauser",
+    "director": "维尔纳·赫尔佐格",
+    "tags": [
+      "寓言",
+      "语言",
+      "文明"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：从卡斯帕被社会化的寓言中提炼主句，明确不是影片逐字对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 20000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-enigma-of-kaspar-hauser-1974.jpg",
+    "still": "assets/stills/classics/the-enigma-of-kaspar-hauser-1974.jpg",
+    "still_alt": "卡斯帕·豪泽之谜 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-enigma-of-kaspar-hauser-1974.jpg）（影片页 https://www.themoviedb.org/movie/11710）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9zYXDMmhBKTbCbImJclf9hEbqZC.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "nashville-it-dont-worry-me",
+    "line": "这不会让我烦恼。",
+    "line_en": "It don't worry me.",
+    "film_title": "纳什维尔",
+    "film_title_en": "Nashville",
+    "year": 1975,
+    "character": "芭芭拉·琼 / Barbara Jean",
+    "director": "罗伯特·奥特曼",
+    "tags": [
+      "群像",
+      "音乐",
+      "美国"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：影片反复出现的歌曲副歌，作为舞台现场的主句保留口语语法；不是普通对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 29000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/nashville-1975.jpg",
+    "still": "assets/stills/classics/nashville-1975.jpg",
+    "still_alt": "纳什维尔 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nashville-1975.jpg）（影片页 https://www.themoviedb.org/movie/3121）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kwS2HfUiJbgLomBkVhYf3y00uy0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "picnic-time-and-place",
+    "line": "一切都在恰好的时间与地点开始，也结束。",
+    "line_en": "Everything begins and ends at exactly the right time and place.",
+    "film_title": "悬崖上的野餐",
+    "film_title_en": "Picnic at Hanging Rock",
+    "year": 1975,
+    "character": "阿波利斯小姐 / Miss Appleyard",
+    "director": "彼得·威尔",
+    "tags": [
+      "悬疑",
+      "青春",
+      "不可知"
+    ],
+    "featured": false,
+    "curator_note": "通行英文字幕句的中译；影片关于时间、地点与失踪的核心命题，保留其格言式语气。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 44000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/picnic-at-hanging-rock-1975.jpg",
+    "still": "assets/stills/classics/picnic-at-hanging-rock-1975.jpg",
+    "still_alt": "悬崖上的野餐 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/picnic-at-hanging-rock-1975.jpg）（影片页 https://www.themoviedb.org/movie/11020）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sogEXuabmoOhPZLnbxFgl3WHbAK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "harlan-coal-killing-us",
+    "line": "煤炭正在杀死我们。",
+    "line_en": "The coal is killing us.",
+    "film_title": "哈兰县",
+    "film_title_en": "Harlan County U.S.A.",
+    "year": 1976,
+    "character": "矿工家属 / Miners and families",
+    "director": "芭芭拉·科普尔",
+    "tags": [
+      "纪录片",
+      "劳工",
+      "抗争"
+    ],
+    "featured": false,
+    "curator_note": "现场发言的策展译法；将片中矿工与家属关于职业伤害的真实声音压缩为一句，不指认单一说话者。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 8000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/harlan-county-u-s-a-1976.jpg",
+    "still": "assets/stills/classics/harlan-county-u-s-a-1976.jpg",
+    "still_alt": "哈兰县 · TMDB 宣传静帧（2522×1419）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/harlan-county-u-s-a-1976.jpg）（影片页 https://www.themoviedb.org/movie/33324）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6SgerYw7IPtaUK65Ktui4XLWF7b.jpg（2522×1419）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "ascent-no-betrayal",
+    "line": "我不会背叛任何人。",
+    "line_en": "I will not betray anyone.",
+    "film_title": "上升",
+    "film_title_en": "The Ascent",
+    "year": 1977,
+    "character": "索特尼科夫 / Sotnikov",
+    "director": "拉莉莎·舍皮琴科",
+    "tags": [
+      "战争",
+      "道德",
+      "牺牲"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括索特尼科夫在审讯与死亡面前的道德选择，不冒充逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 8.2,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-ascent-1977.jpg",
+    "still": "assets/stills/classics/the-ascent-1977.jpg",
+    "still_alt": "上升 · TMDB 宣传静帧（2400×1350）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-ascent-1977.jpg）（影片页 https://www.themoviedb.org/movie/50183）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aRVf8iNXzzcicU4SzqCdNDuYA7u.jpg（2400×1350）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "maria-braun-war-not-over",
+    "line": "战争还没有结束。",
+    "line_en": "The war is not over yet.",
+    "film_title": "玛丽娅·布劳恩的婚姻",
+    "film_title_en": "The Marriage of Maria Braun",
+    "year": 1979,
+    "character": "玛丽娅·布劳恩 / Maria Braun",
+    "director": "赖纳·维尔纳·法斯宾德",
+    "tags": [
+      "战后",
+      "爱情",
+      "德国电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：将影片把私人婚姻与战后德国经济秩序相连的冷峻命题压缩为主句。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 14000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-marriage-of-maria-braun-1979.jpg",
+    "still": "assets/stills/classics/the-marriage-of-maria-braun-1979.jpg",
+    "still_alt": "玛丽娅·布劳恩的婚姻 · TMDB 宣传静帧（2048×1152）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-marriage-of-maria-braun-1979.jpg）（影片页 https://www.themoviedb.org/movie/661）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ejp6CZQ64mEvewfit2fSIpOYxGR.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "tin-drum-not-grow-up",
+    "line": "我决定不再长大。",
+    "line_en": "I decided not to grow up.",
+    "film_title": "铁皮鼓",
+    "film_title_en": "The Tin Drum",
+    "year": 1979,
+    "character": "奥斯卡·马策拉特 / Oskar Matzerath",
+    "director": "沃尔克·施隆多夫",
+    "tags": [
+      "反成长",
+      "战争",
+      "寓言"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：奥斯卡拒绝成人世界的核心宣言；不同字幕版本略有措辞差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 39000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-tin-drum-1979.jpg",
+    "still": "assets/stills/classics/the-tin-drum-1979.jpg",
+    "still_alt": "铁皮鼓 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-tin-drum-1979.jpg）（影片页 https://www.themoviedb.org/movie/659）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uZJjc4hMgckb3H3tVkTmbmcBhIT.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "missing-want-to-know",
+    "line": "我想知道我的儿子发生了什么。",
+    "line_en": "I want to know what happened to my son.",
+    "film_title": "失踪",
+    "film_title_en": "Missing",
+    "year": 1982,
+    "character": "埃德·霍曼 / Ed Horman",
+    "director": "科斯塔-加夫拉斯",
+    "tags": [
+      "政治惊悚",
+      "失踪",
+      "真相"
+    ],
+    "featured": false,
+    "curator_note": "策展译法：保留埃德寻找儿子的直接诉求；不同字幕版本措辞有差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 24000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/missing-1982.jpg",
+    "still": "assets/stills/classics/missing-1982.jpg",
+    "still_alt": "失踪 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/missing-1982.jpg）（影片页 https://www.themoviedb.org/movie/15600）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/49rQkLwYxUK7zQP69e87MspS4E2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "local-hero-beautiful-place",
+    "line": "这是个美丽的地方。",
+    "line_en": "It is a beautiful place.",
+    "film_title": "地方英雄",
+    "film_title_en": "Local Hero",
+    "year": 1983,
+    "character": "菲利克斯·哈珀 / Felix Happer",
+    "director": "比尔·福赛斯",
+    "tags": [
+      "地方",
+      "资本",
+      "喜剧"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：影片反复回到海岸与村落时的简洁感叹，保留其温柔而不煽情的语气。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 31000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/local-hero-1983.jpg",
+    "still": "assets/stills/classics/local-hero-1983.jpg",
+    "still_alt": "地方英雄 · TMDB 宣传静帧（2400×1350）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/local-hero-1983.jpg）（影片页 https://www.themoviedb.org/movie/11235）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oPntydPBR7n4c3RHfhJcJaawhQe.jpg（2400×1350）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "narayama-mountain-waits",
+    "line": "山在等着我。",
+    "line_en": "The mountain is waiting for me.",
+    "film_title": "楢山节考",
+    "film_title_en": "The Ballad of Narayama",
+    "year": 1983,
+    "character": "阿玲 / Orin",
+    "director": "今村昌平",
+    "tags": [
+      "生存",
+      "家庭",
+      "日本电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：将阿玲赴山仪式中的宿命感压缩为一句，不声称是逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-ballad-of-narayama-1983.jpg",
+    "still": "assets/stills/classics/the-ballad-of-narayama-1983.jpg",
+    "still_alt": "楢山节考 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-ballad-of-narayama-1983.jpg）（影片页 https://www.themoviedb.org/movie/42113）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/19krEG30w8f2PMqhFKrQpVoKNuI.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "shoah-you-cannot-imagine",
+    "line": "你无法想象。",
+    "line_en": "You cannot imagine it.",
+    "film_title": "浩劫",
+    "film_title_en": "Shoah",
+    "year": 1985,
+    "character": "证言者 / Witnesses",
+    "director": "克劳德·朗兹曼",
+    "tags": [
+      "纪录片",
+      "记忆",
+      "历史"
+    ],
+    "featured": false,
+    "curator_note": "见证者口述中的反复表达；中文为策展译法，保留影片拒绝替代性想象的伦理边界，不指认单一说话者。",
+    "ratings": {
+      "imdb": {
+        "score": 8.7,
+        "votes": 14000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/shoah-1985.jpg",
+    "still": "assets/stills/classics/shoah-1985.jpg",
+    "still_alt": "浩劫 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/shoah-1985.jpg）（影片页 https://www.themoviedb.org/movie/42044）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bJolDsqM8vnlusFJdnCi9rg1nX7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "official-story-want-truth",
+    "line": "我想知道真相。",
+    "line_en": "I want to know the truth.",
+    "film_title": "官方说法",
+    "film_title_en": "The Official Story",
+    "year": 1985,
+    "character": "艾丽西亚 / Alicia",
+    "director": "路易斯·普恩佐",
+    "tags": [
+      "历史创伤",
+      "家庭",
+      "真相"
+    ],
+    "featured": false,
+    "curator_note": "策展译法：概括艾丽西亚从自我保护走向追问的核心诉求；不冒充唯一逐字版本。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 12000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-official-story-1985.jpg",
+    "still": "assets/stills/classics/the-official-story-1985.jpg",
+    "still_alt": "官方说法 · TMDB 宣传静帧（1945×1094）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-official-story-1985.jpg）（影片页 https://www.themoviedb.org/movie/29263）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gCqWZ8T6Vf2geiDPVWAtOYrpuq.jpg（1945×1094）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "withnail-holiday-by-mistake",
+    "line": "我们是误打误撞来度假的。",
+    "line_en": "We have gone on holiday by mistake.",
+    "film_title": "我与长指甲",
+    "film_title_en": "Withnail and I",
+    "year": 1987,
+    "character": "马斯特斯 / Withnail",
+    "director": "布鲁斯·罗宾逊",
+    "tags": [
+      "cult电影",
+      "友谊",
+      "英国电影"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：影片开场的标志性台词，中文按常见字幕译法处理。",
+    "ratings": {
+      "imdb": {
+        "score": 7.6,
+        "votes": 45000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/withnail-and-i-1987.jpg",
+    "still": "assets/stills/classics/withnail-and-i-1987.jpg",
+    "still_alt": "我与长指甲 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/withnail-and-i-1987.jpg）（影片页 https://www.themoviedb.org/movie/13446）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bOgKCymrdPHPHozhRBNr9XhVD87.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "short-film-good-death",
+    "line": "没有所谓好的死亡。",
+    "line_en": "There is no such thing as a good death.",
+    "film_title": "杀人短片",
+    "film_title_en": "A Short Film About Killing",
+    "year": 1988,
+    "character": "皮奥特 / Piotr Balicki",
+    "director": "克日什托夫·基耶斯洛夫斯基",
+    "tags": [
+      "道德",
+      "犯罪",
+      "波兰电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼影片对私人暴力与国家惩罚并置的伦理判断，非声称逐字对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 20000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-short-film-about-killing-1988.jpg",
+    "still": "assets/stills/classics/a-short-film-about-killing-1988.jpg",
+    "still_alt": "杀人短片 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-short-film-about-killing-1988.jpg）（影片页 https://www.themoviedb.org/movie/10754）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/viZs59bz8Iv78m0GJSQM0nusPzj.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "red-sorghum-life-like-wine",
+    "line": "人活着，就像高粱酒一样，越烧越烈。",
+    "line_en": "Life is like sorghum wine: the more it burns, the stronger it becomes.",
+    "film_title": "红高粱",
+    "film_title_en": "Red Sorghum",
+    "year": 1988,
+    "character": "余占鳌 / Yu Zhan’ao",
+    "director": "张艺谋",
+    "tags": [
+      "乡土",
+      "爱情",
+      "中国电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：将影片的酒、土地与生命力意象合并为中文主句，不冒充逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.4,
+        "votes": 10000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/red-sorghum-1988.jpg",
+    "still": "assets/stills/classics/red-sorghum-1988.jpg",
+    "still_alt": "红高粱 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/red-sorghum-1988.jpg）（影片页 https://www.themoviedb.org/movie/42006）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5WTVU4t7T0an1YOf9Zx8oNXobhB.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "thin-blue-line-didnt-kill",
+    "line": "我没有杀人。",
+    "line_en": "I did not kill anybody.",
+    "film_title": "细细的蓝线",
+    "film_title_en": "The Thin Blue Line",
+    "year": 1988,
+    "character": "兰道尔·亚当斯 / Randall Adams",
+    "director": "埃罗尔·莫里斯",
+    "tags": [
+      "纪录片",
+      "司法",
+      "证词"
+    ],
+    "featured": false,
+    "curator_note": "证词中的直接否认；中文按语境作简洁译法，保留纪录片中“谁在讲述真相”的张力。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-thin-blue-line-1988.jpg",
+    "still": "assets/stills/classics/the-thin-blue-line-1988.jpg",
+    "still_alt": "细细的蓝线 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-thin-blue-line-1988.jpg）（影片页 https://www.themoviedb.org/movie/14285）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9ndhlUu1VQ44pX5dVFo5Y19KqAl.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "city-of-sadness-cannot-hear",
+    "line": "我听不见，但我看得见。",
+    "line_en": "I cannot hear, but I can see.",
+    "film_title": "悲情城市",
+    "film_title_en": "A City of Sadness",
+    "year": 1989,
+    "character": "林文清 / Lin Wen-ching",
+    "director": "侯孝贤",
+    "tags": [
+      "历史",
+      "家庭",
+      "台湾电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：从林文清的失聪与摄影凝视提炼主句；影片的沉默性应优先于伪造对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 13000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/a-city-of-sadness-1989.jpg",
+    "still": "assets/stills/classics/a-city-of-sadness-1989.jpg",
+    "still_alt": "悲情城市 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-city-of-sadness-1989.jpg）（影片页 https://www.themoviedb.org/movie/49982）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/20mcBpayrzj8lwwRm81fFLSN6M0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "naked-human-race-doomed",
+    "line": "人类注定要灭亡。",
+    "line_en": "The human race is doomed.",
+    "film_title": "赤裸",
+    "film_title_en": "Naked",
+    "year": 1993,
+    "character": "约翰尼 / Johnny",
+    "director": "迈克·李",
+    "tags": [
+      "城市",
+      "末世",
+      "英国电影"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：约翰尼漫长辩论中的核心断言；不同字幕版本有轻微差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 33000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/naked-1993.jpg",
+    "still": "assets/stills/classics/naked-1993.jpg",
+    "still_alt": "赤裸 · TMDB 宣传静帧（2560×1440）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/naked-1993.jpg）（影片页 https://www.themoviedb.org/movie/21450）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ezHoUXvVFlgti7h47hLR4zDsaL3.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "puppetmaster-life-a-play",
+    "line": "人生就是一场戏。",
+    "line_en": "Life is a play.",
+    "film_title": "戏梦人生",
+    "film_title_en": "The Puppetmaster",
+    "year": 1993,
+    "character": "李天禄 / Li Tian-lu",
+    "director": "侯孝贤",
+    "tags": [
+      "纪录片",
+      "记忆",
+      "台湾电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：以布袋戏艺人的口述与人生回望凝成主句，明确不是逐字引文。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 6000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-puppetmaster-1993.jpg",
+    "still": "assets/stills/classics/the-puppetmaster-1993.jpg",
+    "still_alt": "戏梦人生 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-puppetmaster-1993.jpg）（影片页 https://www.themoviedb.org/movie/96712）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1XI6hkAhfprvBq5jZIjFonMt1TC.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "hoop-dreams-just-make-it",
+    "line": "我只想闯出一条路。",
+    "line_en": "I just want to make it.",
+    "film_title": "篮球梦",
+    "film_title_en": "Hoop Dreams",
+    "year": 1994,
+    "character": "阿瑟·阿吉 / Arthur Agee",
+    "director": "史蒂夫·詹姆斯",
+    "tags": [
+      "纪录片",
+      "梦想",
+      "阶级"
+    ],
+    "featured": false,
+    "curator_note": "策展译法：概括阿瑟关于篮球、教育与出路的真实发言，不冒充单一场景逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 8.3,
+        "votes": 27000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/hoop-dreams-1994.jpg",
+    "still": "assets/stills/classics/hoop-dreams-1994.jpg",
+    "still_alt": "篮球梦 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/hoop-dreams-1994.jpg）（影片页 https://www.themoviedb.org/movie/14275）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pYeiEm55NySzK9ksKlQGlFQNapz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "fallen-angels-heartbreak",
+    "line": "每个人都有失恋的时候。",
+    "line_en": "Everyone goes through a period of heartbreak.",
+    "film_title": "堕落天使",
+    "film_title_en": "Fallen Angels",
+    "year": 1995,
+    "character": "何志武 / He Zhiwu",
+    "director": "王家卫",
+    "tags": [
+      "都市",
+      "孤独",
+      "爱情"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：影片旁白式对白的常见中译，保留王家卫关于失恋与时间的轻盈语气。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 20000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/fallen-angels-1995.jpg",
+    "still": "assets/stills/classics/fallen-angels-1995.jpg",
+    "still_alt": "堕落天使 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/fallen-angels-1995.jpg）（影片页 https://www.themoviedb.org/movie/11220）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/p59dhIltEZ0MBU9ODlR64sXkQ0x.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "safe-just-get-well",
+    "line": "我只想好起来。",
+    "line_en": "I just want to get well.",
+    "film_title": "安全",
+    "film_title_en": "Safe",
+    "year": 1995,
+    "character": "卡罗尔·怀特 / Carol White",
+    "director": "托德·海因斯",
+    "tags": [
+      "身体",
+      "恐惧",
+      "美国独立电影"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：卡罗尔在病痛与自我规训之间的直接诉求；不同字幕版本略有差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 24000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/safe-1995.jpg",
+    "still": "assets/stills/classics/safe-1995.jpg",
+    "still_alt": "安全 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/safe-1995.jpg）（影片页 https://www.themoviedb.org/movie/32646）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/p8O3WhMWumLrLp21BRW80kBND4d.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "secrets-lies-where-from",
+    "line": "我想知道我来自哪里。",
+    "line_en": "I want to know where I come from.",
+    "film_title": "秘密与谎言",
+    "film_title_en": "Secrets & Lies",
+    "year": 1996,
+    "character": "霍滕西 / Hortense",
+    "director": "迈克·李",
+    "tags": [
+      "家庭",
+      "身份",
+      "和解"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：霍滕西追问身世的核心台词，中文保持其平静而坚定的语气。",
+    "ratings": {
+      "imdb": {
+        "score": 8,
+        "votes": 46000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/secrets-lies-1996.jpg",
+    "still": "assets/stills/classics/secrets-lies-1996.jpg",
+    "still_alt": "秘密与谎言 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/secrets-lies-1996.jpg）（影片页 https://www.themoviedb.org/movie/11159）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6Q3Ui5pNykSEHOiAdHGZtfNoJ4y.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "taste-cherry-worth-living",
+    "line": "樱桃的滋味，值得你活下去。",
+    "line_en": "The taste of a cherry is worth living for.",
+    "film_title": "樱桃的滋味",
+    "film_title_en": "Taste of Cherry",
+    "year": 1997,
+    "character": "巴迪 / Mr. Badii",
+    "director": "阿巴斯·基亚罗斯塔米",
+    "tags": [
+      "生死",
+      "选择",
+      "伊朗电影"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：提炼影片关于活着的辩论与结尾感官经验，不冒充逐字字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.7,
+        "votes": 35000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（IMDb 近似，非实时抓取）"
+    },
+    "poster": "assets/posters/classics/taste-of-cherry-1997.jpg",
+    "still": "assets/stills/classics/taste-of-cherry-1997.jpg",
+    "still_alt": "樱桃的滋味 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/taste-of-cherry-1997.jpg）（影片页 https://www.themoviedb.org/movie/30020）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/44SNTCSZTdbF5bzgUy4IfPV3DUq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]
