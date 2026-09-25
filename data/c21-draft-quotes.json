@@ -1,0 +1,852 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T13:27:35+08:00",
+    "purpose": "C21 classics×25 草稿：batch-yi2（乙二线）C20 之后质量优先再取；status=draft，未并入 quotes.json",
+    "batch": "batch-yi2",
+    "selection_source": "tmp/content-fill-plan/candidates-yi2-c21-25.json",
+    "stills_source": "tmp/stills-yi2-c21/index-fragment.json",
+    "count": 25,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "source=yi2（乙二线）；承接 C20 yi2×25 之后的剩余匹配池",
+      "海报：assets/posters/classics/{slug}.jpg；入选前校验 width≥780，不足则换 TMDB original（prefer zh）；本批最小海报宽 800；equinox-flower-1958 已换源",
+      "静帧：assets/stills/classics/{slug}.jpg（C21 TMDB original backdrop，宽边≥1920）；21 ok / 4 actual",
+      "quotes.json 未修改；未 push；未用 CloudAgent",
+      "TMDB 严格 title/year 匹配池沿用 C20 核验；错配跳过 3（kings-and-queen-2004、hidden-2005、black-rain-1989）",
+      "静帧宽边<1920 不入选：time-out-2001、seduced-and-abandoned-1964",
+      "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
+      "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
+      "orphan 未跟踪海报未触碰"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "dogman-dignity-dogs",
+      "line": "人和狗之间，有时比人和人之间更像同盟。",
+      "line_en": "Between a man and his dogs, the alliance can feel stronger than among men.",
+      "film_title": "狗人",
+      "film_title_en": "Dogman",
+      "year": 2018,
+      "character": "马切洛 / Marcello",
+      "director": "马泰奥·加洛内",
+      "tags": [
+        "底层",
+        "暴力",
+        "尊严",
+        "意大利"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括加洛内《狗人》中驯犬师与狗的同盟对照邻里暴力，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 2321
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/dogman-2018.jpg",
+      "still": "assets/stills/classics/dogman-2018.jpg",
+      "still_alt": "狗人 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dogman-2018.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/483184）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zquMDqlhGYXdXiteRguQSlVGznx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 483184,
+      "slug": "dogman-2018"
+    },
+    {
+      "id": "great-beauty-high-life",
+      "line": "我并不是想过上那种生活，我是想成为那种生活的王。",
+      "line_en": "I didn't just want to live the high life — I wanted to be king of the high life.",
+      "film_title": "绝美之城",
+      "film_title_en": "The Great Beauty",
+      "year": 2013,
+      "character": "杰普 / Jep Gambardella",
+      "director": "保罗·索伦蒂诺",
+      "tags": [
+        "罗马",
+        "美",
+        "虚无",
+        "索伦蒂诺"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验意译：索伦蒂诺《绝美之城》开场杰普自述年轻时立志成为上流夜生活之王的名句，多语种字幕与影评常见。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 3361
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-great-beauty-2013.jpg",
+      "still": "assets/stills/classics/the-great-beauty-2013.jpg",
+      "still_alt": "绝美之城 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-great-beauty-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/179144）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4T5d7KGrpx3BTDq9IKm6KpMeeNp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 179144,
+      "slug": "the-great-beauty-2013"
+    },
+    {
+      "id": "scene-at-sea-waves",
+      "line": "听不见浪声，也能学会跟海相处。",
+      "line_en": "Even without hearing the waves, you can still learn to live with the sea.",
+      "film_title": "那年夏天，宁静的海",
+      "film_title_en": "A Scene at the Sea",
+      "year": 1991,
+      "character": "清水 / Shigeru",
+      "director": "北野武",
+      "tags": [
+        "冲浪",
+        "静观",
+        "聋人",
+        "北野武"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：对应北野武《那年夏天，宁静的海》聋人青年以身体而非听觉与海相处的意象，片中对白极少，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 231
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/a-scene-at-the-sea-1991.jpg",
+      "still": "assets/stills/classics/a-scene-at-the-sea-1991.jpg",
+      "still_alt": "那年夏天，宁静的海 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-scene-at-the-sea-1991.jpg，1280×1920）（影片页 https://www.themoviedb.org/movie/23606）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2F5VRSmiPQgPA6MMLdn8tpXwHzG.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 23606,
+      "slug": "a-scene-at-the-sea-1991"
+    },
+    {
+      "id": "death-by-hanging-who-am-i",
+      "line": "如果连自己是谁都不知道，死刑又怎样执行？",
+      "line_en": "If a man no longer knows who he is, how can you hang him?",
+      "film_title": "绞死刑",
+      "film_title_en": "Death by Hanging",
+      "year": 1968,
+      "character": "R / R",
+      "director": "大岛渚",
+      "tags": [
+        "死刑",
+        "身份",
+        "政治",
+        "大岛渚"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括大岛渚《绞死刑》中死刑犯失忆后当局无法执行的荒诞逻辑，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 120
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/death-by-hanging-1968.jpg",
+      "still": "assets/stills/classics/death-by-hanging-1968.jpg",
+      "still_alt": "绞死刑 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/death-by-hanging-1968.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/98193）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AgIRKvX5azkrDQSEEWk7oDLZqub.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 98193,
+      "slug": "death-by-hanging-1968"
+    },
+    {
+      "id": "summer-wars-family-network",
+      "line": "再大的网络，也大不过一家人同心。",
+      "line_en": "No network is bigger than a family pulling together.",
+      "film_title": "夏日大作战",
+      "film_title_en": "Summer Wars",
+      "year": 2009,
+      "character": "阵内家 / the Jinnouchi family",
+      "director": "细田守",
+      "tags": [
+        "家族",
+        "虚拟世界",
+        "动画",
+        "细田守"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：对应细田守《夏日大作战》中「家族团结对抗OZ危机」的核心收束，不冒充单一字幕逐字句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 1071
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/summer-wars-2009.jpg",
+      "still": "assets/stills/classics/summer-wars-2009.jpg",
+      "still_alt": "夏日大作战 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/summer-wars-2009.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/28874）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hoJXsNKJvtMRP9funUAtC7NErE8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 28874,
+      "slug": "summer-wars-2009"
+    },
+    {
+      "id": "sicario-land-of-wolves",
+      "line": "你在这里活不下去。你不是狼，而这里是狼的土地。",
+      "line_en": "You will not survive here. You are not a wolf. And this is a land of wolves.",
+      "film_title": "边境杀手",
+      "film_title_en": "Sicario",
+      "year": 2015,
+      "character": "亚历杭德罗 / Alejandro",
+      "director": "丹尼斯·维伦纽瓦",
+      "tags": [
+        "边境",
+        "缉毒",
+        "道德模糊",
+        "维伦纽瓦"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验：维伦纽瓦《边境杀手》中亚历杭德罗对凯特说的名句，英文字幕与影评广泛引用。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 9891
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/sicario-2015.jpg",
+      "still": "assets/stills/classics/sicario-2015.jpg",
+      "still_alt": "边境杀手 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sicario-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/273481）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 273481,
+      "slug": "sicario-2015"
+    },
+    {
+      "id": "yesterday-today-survive",
+      "line": "昨天、今天、明天——女人用身体换来的，往往只是活下去。",
+      "line_en": "Yesterday, today, tomorrow — what a woman bargains with her body is often just survival.",
+      "film_title": "昨天今天明天",
+      "film_title_en": "Yesterday, Today and Tomorrow",
+      "year": 1963,
+      "character": "阿德莉娜等 / Adelina et al.",
+      "director": "维托里奥·德·西卡",
+      "tags": [
+        "喜剧",
+        "生存",
+        "女性",
+        "德·西卡"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括德·西卡《昨天今天明天》三段式中女性以机智与身体周旋生存的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 483
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/yesterday-today-and-tomorrow-1963.jpg",
+      "still": "assets/stills/classics/yesterday-today-and-tomorrow-1963.jpg",
+      "still_alt": "昨天今天明天 · TMDB 宣传静帧（2457×1382）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/yesterday-today-and-tomorrow-1963.jpg，1742×2600）（影片页 https://www.themoviedb.org/movie/42801）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5UXeGAO7i47VnNu9a8BnzrLYqlJ.jpg（2457×1382）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 42801,
+      "slug": "yesterday-today-and-tomorrow-1963"
+    },
+    {
+      "id": "tokyo-sonata-keep-going",
+      "line": "外面的世界塌了，家里的琴声还得继续。",
+      "line_en": "When the outside world collapses, the piano at home still has to go on.",
+      "film_title": "东京奏鸣曲",
+      "film_title_en": "Tokyo Sonata",
+      "year": 2008,
+      "character": "佐佐木家 / the Sasaki family",
+      "director": "黑泽清",
+      "tags": [
+        "失业",
+        "家庭",
+        "钢琴",
+        "黑泽清"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：对应黑泽清《东京奏鸣曲》失业中产家庭在崩解中借钢琴重建秩序的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 294
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/tokyo-sonata-2008.jpg",
+      "still": "assets/stills/classics/tokyo-sonata-2008.jpg",
+      "still_alt": "东京奏鸣曲 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/tokyo-sonata-2008.jpg，1727×2591）（影片页 https://www.themoviedb.org/movie/8937）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1BV2KqW1LHRZpa8QhXOzpooOR57.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 8937,
+      "slug": "tokyo-sonata-2008"
+    },
+    {
+      "id": "equinox-flower-daughter",
+      "line": "女儿要走的路，做父亲的终究拦不住。",
+      "line_en": "A father cannot forever block the road his daughter chooses.",
+      "film_title": "彼岸花",
+      "film_title_en": "Equinox Flower",
+      "year": 1958,
+      "character": "平山 / Hirayama",
+      "director": "小津安二郎",
+      "tags": [
+        "婚姻",
+        "父女",
+        "小津",
+        "日常"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验意译：小津《彼岸花》中父亲面对女儿自主婚恋一步步退让的核心题旨，影评常用概括；非保证单一字幕逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 168
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/equinox-flower-1958.jpg",
+      "still": "assets/stills/classics/equinox-flower-1958.jpg",
+      "still_alt": "彼岸花 · TMDB 宣传静帧（2560×1440）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/equinox-flower-1958.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/28272）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sTBoI70IP3mlELLRCBAHW3F1SKz.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 28272,
+      "slug": "equinox-flower-1958"
+    },
+    {
+      "id": "jin-roh-wolf-or-man",
+      "line": "你把我当成了人，可我其实是狼。",
+      "line_en": "You thought I was human — but I am the wolf.",
+      "film_title": "人狼",
+      "film_title_en": "Jin-Roh: The Wolf Brigade",
+      "year": 1999,
+      "character": "伏一枪 / Kazuki Fuse",
+      "director": "冲浦启之",
+      "tags": [
+        "寓言",
+        "身份",
+        "动画",
+        "押井守"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验意译：对应《人狼》片中小红帽童话改写的狼/人身份对位（冲浦启之执导、押井守脚本），影迷引用常见；字幕措辞或有出入。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 594
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/jin-roh-the-wolf-brigade-1999.jpg",
+      "still": "assets/stills/classics/jin-roh-the-wolf-brigade-1999.jpg",
+      "still_alt": "人狼 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/jin-roh-the-wolf-brigade-1999.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/823）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hbvTkT1JQoLMR1GZPzUGj9xlgor.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 823,
+      "slug": "jin-roh-the-wolf-brigade-1999"
+    },
+    {
+      "id": "only-yesterday-what-i-want",
+      "line": "长大以后，我还想做小时候真正想做的事吗？",
+      "line_en": "Grown up — do I still want what the child in me truly wanted?",
+      "film_title": "岁月的童话",
+      "film_title_en": "Only Yesterday",
+      "year": 1991,
+      "character": "冈岛妙子 / Taeko Okajima",
+      "director": "高畑勋",
+      "tags": [
+        "童年",
+        "回忆",
+        "动画",
+        "高畑勋"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：对应高畑勋《岁月的童话》妙子在乡下重新审视童年愿望与都市生活的抉择，不冒充单一字幕句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 1296
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/only-yesterday-1991.jpg",
+      "still": "assets/stills/classics/only-yesterday-1991.jpg",
+      "still_alt": "岁月的童话 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/only-yesterday-1991.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/15080）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uexCp8khBL9lBEPhis1qewyMj5b.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 15080,
+      "slug": "only-yesterday-1991"
+    },
+    {
+      "id": "patlabor2-peace-price",
+      "line": "和平若只靠忘记危险来维持，那它随时会碎。",
+      "line_en": "If peace is kept only by forgetting danger, it can shatter at any moment.",
+      "film_title": "机动警察2",
+      "film_title_en": "Patlabor 2: The Movie",
+      "year": 1993,
+      "character": "后藤队长等 / Captain Goto et al.",
+      "director": "押井守",
+      "tags": [
+        "政治",
+        "军事",
+        "动画",
+        "押井守"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括押井守《机动警察2》对「虚假和平」与政变危机的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 156
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/patlabor-2-the-movie-1993.jpg",
+      "still": "assets/stills/classics/patlabor-2-the-movie-1993.jpg",
+      "still_alt": "机动警察2 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/patlabor-2-the-movie-1993.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/14572）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/428jZbj3Ue4B6fhptMbo0ixaNaZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 14572,
+      "slug": "patlabor-2-the-movie-1993"
+    },
+    {
+      "id": "kuroneko-revenge",
+      "line": "被蹂躏的人若化作猫，复仇便不再讲人间道理。",
+      "line_en": "When the violated return as cats, revenge no longer answers to human reason.",
+      "film_title": "黑猫",
+      "film_title_en": "Kuroneko",
+      "year": 1968,
+      "character": "母女亡灵 / the ghost mother and daughter",
+      "director": "新藤兼人",
+      "tags": [
+        "复仇",
+        "鬼怪",
+        "武士",
+        "新藤兼人"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括新藤兼人《黑猫》中母女化为猫妖向武士复仇的寓言逻辑，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 240
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/kuroneko-1968.jpg",
+      "still": "assets/stills/classics/kuroneko-1968.jpg",
+      "still_alt": "黑猫 · TMDB 宣传静帧（2607×1465）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kuroneko-1968.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/40149）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/j84jz9MfBpgH8QXhzXG6ZS19zGI.jpg（2607×1465）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 40149,
+      "slug": "kuroneko-1968"
+    },
+    {
+      "id": "madadayo-not-yet",
+      "line": "还没呢！",
+      "line_en": "Not yet!",
+      "film_title": "还未",
+      "film_title_en": "Madadayo",
+      "year": 1993,
+      "character": "内田百闲 / Hyakken Uchida",
+      "director": "黑泽明",
+      "tags": [
+        "师生",
+        "寿宴",
+        "黑泽明",
+        "日本"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验：黑泽明《还未》中「まあだだよ / Madadayo!」师生寿宴口号的通行中译，片名即此。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 141
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/madadayo-1993.jpg",
+      "still": "assets/stills/classics/madadayo-1993.jpg",
+      "still_alt": "还未 · TMDB 宣传静帧（2048×1152）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/madadayo-1993.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/13889）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/x6iDvFKX4utbsKAoHzFkPCHtNNo.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 13889,
+      "slug": "madadayo-1993"
+    },
+    {
+      "id": "play-in-hell-cinema",
+      "line": "地狱里不好好拍电影，要在哪儿拍？",
+      "line_en": "If you won't make a movie in hell, where will you?",
+      "film_title": "何不下地狱玩",
+      "film_title_en": "Why Don't You Play in Hell?",
+      "year": 2013,
+      "character": "电影青年帮 / the amateur film crew",
+      "director": "园子温",
+      "tags": [
+        "电影",
+        "黑帮",
+        "戏谑",
+        "园子温"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：呼应园子温《何不下地狱玩》片名与「用鲜血拍出真正电影」的戏谑题旨，不冒充逐字字幕。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 333
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/why-don-t-you-play-in-hell-2013.jpg",
+      "still": "assets/stills/classics/why-don-t-you-play-in-hell-2013.jpg",
+      "still_alt": "何不下地狱玩 · TMDB 宣传静帧（3008×1692）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/why-don-t-you-play-in-hell-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/134350）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kmVMJ8vrPh6QNigevV3u7eXllmD.jpg（3008×1692）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 134350,
+      "slug": "why-don-t-you-play-in-hell-2013"
+    },
+    {
+      "id": "long-engagement-he-lives",
+      "line": "只要我还相信他活着，战争就还没真正结束。",
+      "line_en": "As long as I believe he lives, the war is not truly over for me.",
+      "film_title": "漫长的婚约",
+      "film_title_en": "A Very Long Engagement",
+      "year": 2004,
+      "character": "玛蒂尔德 / Mathilde",
+      "director": "让-皮埃尔·热内",
+      "tags": [
+        "一战",
+        "信念",
+        "寻人",
+        "热内"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：对应热内《漫长的婚约》玛蒂尔德拒不接受未婚夫阵亡的执念主线，不冒充单一字幕句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 1371
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/a-very-long-engagement-2004.jpg",
+      "still": "assets/stills/classics/a-very-long-engagement-2004.jpg",
+      "still_alt": "漫长的婚约 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-very-long-engagement-2004.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/2841）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vOpm4wQk5qIl8UepoKrpaloqaPC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 2841,
+      "slug": "a-very-long-engagement-2004"
+    },
+    {
+      "id": "funny-games-your-side",
+      "line": "你站在他们那边，对不对？",
+      "line_en": "You're on their side, aren't you?",
+      "film_title": "欢乐游戏",
+      "film_title_en": "Funny Games",
+      "year": 1997,
+      "character": "保罗 / Paul",
+      "director": "迈克尔·哈内克",
+      "tags": [
+        "元电影",
+        "暴力",
+        "观众",
+        "哈内克"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验意译：哈内克《欢乐游戏》中施暴者打破第四墙质问观众站队的名场面，多语种讨论常见；字幕措辞或略有出入。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 2175
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/funny-games-1997.jpg",
+      "still": "assets/stills/classics/funny-games-1997.jpg",
+      "still_alt": "欢乐游戏 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/funny-games-1997.jpg，1216×1824）（影片页 https://www.themoviedb.org/movie/10234）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/79SBe1bU30Dy6QPwJ2KQ3LTr1lr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 10234,
+      "slug": "funny-games-1997"
+    },
+    {
+      "id": "live-in-fear-atomic",
+      "line": "怕原子弹的人，难道比不怕的人更疯？",
+      "line_en": "Is the man who fears the bomb more mad than those who do not?",
+      "film_title": "生之欲",
+      "film_title_en": "I Live in Fear",
+      "year": 1955,
+      "character": "中岛喜一 / Kiichi Nakajima",
+      "director": "黑泽明",
+      "tags": [
+        "核恐惧",
+        "家族",
+        "黑泽明",
+        "战后"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括黑泽明《生之欲》中老人核恐惧被家人视为疯癫的伦理反问，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 130
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/i-live-in-fear-1955.jpg",
+      "still": "assets/stills/classics/i-live-in-fear-1955.jpg",
+      "still_alt": "生之欲 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/i-live-in-fear-1955.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/21490）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/phKOx623cYNiG6AqI1GbwPIgOh6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 21490,
+      "slug": "i-live-in-fear-1955"
+    },
+    {
+      "id": "13-assassins-no-happiness",
+      "line": "此世并无幸福可言。",
+      "line_en": "There is no happiness in this world.",
+      "film_title": "十三刺客",
+      "film_title_en": "13 Assassins",
+      "year": 2010,
+      "character": "岛田新左卫门 / Shinzaemon Shimada",
+      "director": "三池崇史",
+      "tags": [
+        "武士",
+        "讨伐",
+        "乱世",
+        "三池崇史"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验意译：三池崇史《十三刺客》中岛田新左卫门名句「この世に幸せなどない」的通行中译，影评与字幕常见。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 1320
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/13-assassins-2010.jpg",
+      "still": "assets/stills/classics/13-assassins-2010.jpg",
+      "still_alt": "十三刺客 · TMDB 宣传静帧（2048×1152）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/13-assassins-2010.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/58857）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/k9dBABDFyJLWBZQhemjZgnsMaJ.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 58857,
+      "slug": "13-assassins-2010"
+    },
+    {
+      "id": "stolen-kisses-antoine",
+      "line": "爱情像偷来的吻，甜，可总怕被发现。",
+      "line_en": "Love is like stolen kisses — sweet, and always afraid of being caught.",
+      "film_title": "偷吻",
+      "film_title_en": "Stolen Kisses",
+      "year": 1968,
+      "character": "安托万 / Antoine Doinel",
+      "director": "弗朗索瓦·特吕弗",
+      "tags": [
+        "青春",
+        "恋爱",
+        "特吕弗",
+        "法国"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：呼应特吕弗《偷吻》片名与安托万系列笨拙恋情的气质，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 473
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/stolen-kisses-1968.jpg",
+      "still": "assets/stills/classics/stolen-kisses-1968.jpg",
+      "still_alt": "偷吻 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/stolen-kisses-1968.jpg，800×1200）（影片页 https://www.themoviedb.org/movie/255）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fPFuTcXcxYR6odkHA7PW786ZWjV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 255,
+      "slug": "stolen-kisses-1968"
+    },
+    {
+      "id": "tomboy-summer-name",
+      "line": "这个夏天，我想用另一个名字做自己。",
+      "line_en": "This summer, I want to be myself under another name.",
+      "film_title": "假小子",
+      "film_title_en": "Tomboy",
+      "year": 2011,
+      "character": "洛尔／米卡埃尔 / Laure / Mickaël",
+      "director": "塞莉娜·席安玛",
+      "tags": [
+        "性别",
+        "童年",
+        "夏天",
+        "席安玛"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：对应席安玛《假小子》洛尔在新社区以男孩身份度过夏天的核心选择，不冒充单一字幕句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 770
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/tomboy-2011.jpg",
+      "still": "assets/stills/classics/tomboy-2011.jpg",
+      "still_alt": "假小子 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/tomboy-2011.jpg，960×1440）（影片页 https://www.themoviedb.org/movie/65229）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8PVAnyt7AgvxhvlS582Gv64aLfN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 65229,
+      "slug": "tomboy-2011"
+    },
+    {
+      "id": "5cm-cherry-blossom-speed",
+      "line": "樱花飘落的速度，是秒速五厘米。",
+      "line_en": "Cherry blossoms fall at five centimeters per second.",
+      "film_title": "秒速五厘米",
+      "film_title_en": "5 Centimeters per Second",
+      "year": 2007,
+      "character": "旁白／题旨 / narration",
+      "director": "新海诚",
+      "tags": [
+        "距离",
+        "青春",
+        "动画",
+        "新海诚"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验：新海诚《秒速五厘米》片名与片中关于樱花飘落速度的题旨句，通行中译广泛引用。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 2218
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/5-centimeters-per-second-2007.jpg",
+      "still": "assets/stills/classics/5-centimeters-per-second-2007.jpg",
+      "still_alt": "秒速五厘米 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/5-centimeters-per-second-2007.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/38142）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/n7dz2NHNuEvoreUM4qXFR0Yh0pw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 38142,
+      "slug": "5-centimeters-per-second-2007"
+    },
+    {
+      "id": "enter-the-void-afterlife",
+      "line": "死并不是结束，只是换一个角度看这座城市。",
+      "line_en": "Death is not an end — only another angle on the city.",
+      "film_title": "进入虚无",
+      "film_title_en": "Enter the Void",
+      "year": 2009,
+      "character": "奥斯卡 / Oscar",
+      "director": "加斯帕·诺埃",
+      "tags": [
+        "死后",
+        "东京",
+        "视角",
+        "诺埃"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括诺埃《进入虚无》以死者视角漂浮东京夜色的形式题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 2055
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/enter-the-void-2009.jpg",
+      "still": "assets/stills/classics/enter-the-void-2009.jpg",
+      "still_alt": "进入虚无 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/enter-the-void-2009.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/34647）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eT0Qri82683I4fFV0md8CC01YyB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 34647,
+      "slug": "enter-the-void-2009"
+    },
+    {
+      "id": "passenger-who-are-you",
+      "line": "人每天都在消失；有时是自己把自己换掉。",
+      "line_en": "People disappear every day — sometimes by trading themselves away.",
+      "film_title": "过客",
+      "film_title_en": "The Passenger",
+      "year": 1975,
+      "character": "洛克 / David Locke",
+      "director": "米开朗基罗·安东尼奥尼",
+      "tags": [
+        "身份",
+        "沙漠",
+        "疏离",
+        "安东尼奥尼"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：对应安东尼奥尼《过客》中记者盗用死者身份的核心设定与片中「人会消失」对话气质，不冒充单一字幕逐字句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 563
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-passenger-1975.jpg",
+      "still": "assets/stills/classics/the-passenger-1975.jpg",
+      "still_alt": "过客 · TMDB 宣传静帧（3644×2050）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-passenger-1975.jpg，860×1289）（影片页 https://www.themoviedb.org/movie/9652）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/btD9ehx86BJ2zMASZCOyDU6f7oo.jpg（3644×2050）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 9652,
+      "slug": "the-passenger-1975"
+    },
+    {
+      "id": "lost-children-no-dreams",
+      "line": "偷走孩子的梦，是因为自己再也梦不着。",
+      "line_en": "He steals children's dreams because he can no longer dream.",
+      "film_title": "失忆城市",
+      "film_title_en": "The City of Lost Children",
+      "year": 1995,
+      "character": "克朗克 / Krank",
+      "director": "让-皮埃尔·热内、马克·卡罗",
+      "tags": [
+        "梦境",
+        "童话",
+        "荒诞",
+        "热内"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括热内/卡罗《失忆城市》中科学家因不能做梦而窃取童梦的设定，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 1267
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-city-of-lost-children-1995.jpg",
+      "still": "assets/stills/classics/the-city-of-lost-children-1995.jpg",
+      "still_alt": "失忆城市 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-city-of-lost-children-1995.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/902）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/m8mW6Faz4eXPamx0szTiA1cvdbF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 902,
+      "slug": "the-city-of-lost-children-1995"
+    }
+  ]
+}
