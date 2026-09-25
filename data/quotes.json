@@ -4970,7 +4970,7 @@
         "votes": 450000
       },
       "imdb": {
-        "score": 8.0,
+        "score": 8,
         "votes": 35000
       },
       "as_of": "2026-09-25",
@@ -5246,7 +5246,7 @@
     "curator_note": "迈克的绝望金句：洗手上岸的幻灭，被一代观众借去形容一切「退不了的局」。",
     "ratings": {
       "douban": {
-        "score": 9.0,
+        "score": 9,
         "votes": 450000
       },
       "imdb": {
@@ -5326,7 +5326,7 @@
     "curator_note": "夏秋篇题旨：回乡不是逃避，是用双手把日子重新种出来。对白为策展凝练。",
     "ratings": {
       "douban": {
-        "score": 9.0,
+        "score": 9,
         "votes": 450000
       },
       "imdb": {
@@ -5646,7 +5646,7 @@
     "curator_note": "冬春篇与夏秋篇对位：季节轮转，市子把「答案」交还给土地。题旨凝练句。",
     "ratings": {
       "douban": {
-        "score": 9.0,
+        "score": 9,
         "votes": 400000
       },
       "imdb": {
@@ -5686,7 +5686,7 @@
     "curator_note": "高父机场举手那一幕的题旨转述：喜宴的热闹里，包容有时比摊牌更有力量。",
     "ratings": {
       "douban": {
-        "score": 9.0,
+        "score": 9,
         "votes": 350000
       },
       "imdb": {
@@ -5707,5 +5707,1005 @@
     "still_alt": "喜宴 · 宣传静帧（2732×1534）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/150-the-wedding-banquet.jpg）（影片页 https://www.themoviedb.org/movie/9261）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AiADW9ru9v1DLbFo4Ac76CtlXjK.jpg（2732×1534）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "hotaru-touch-vanish",
+    "line": "人一旦碰触到妖怪，妖怪就会消失。",
+    "line_en": "If a human touches a spirit, that spirit will disappear.",
+    "film_title": "萤火之森",
+    "film_title_en": "Hotarubi no Mori e",
+    "year": 2011,
+    "character": "银",
+    "director": "大森贵弘",
+    "tags": [
+      "动画",
+      "奇幻",
+      "别离"
+    ],
+    "featured": false,
+    "curator_note": "夏日禁忌写成整部片子的引力：碰触即消散，萤火之森把「不能爱」变成自然法则。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 450000
+      },
+      "imdb": {
+        "score": 7.9,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 88
+      },
+      "metacritic": {
+        "score": 72
+      }
+    },
+    "poster": "assets/posters/top250/151-hotarubi-no-mori-e.jpg",
+    "still": "assets/stills/top250/151-hotarubi-no-mori-e.jpg",
+    "still_alt": "萤火之森 · 宣传静帧（3456×1944）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/151-hotarubi-no-mori-e.jpg）（影片页 https://www.themoviedb.org/movie/92321）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg（3456×1944）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "confessions-lose-precious",
+    "line": "我想让你们体验一下，失去最重要的东西时是什么感觉。",
+    "line_en": "I want you to experience what it feels like to lose the most precious thing.",
+    "film_title": "告白",
+    "film_title_en": "Confessions",
+    "year": 2010,
+    "character": "森口悠子",
+    "director": "中岛哲也",
+    "tags": [
+      "悬疑",
+      "复仇",
+      "教室"
+    ],
+    "featured": false,
+    "curator_note": "开场教师自白即宣战：冷静的复仇说明书，把教室变成法庭。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 700000
+      },
+      "imdb": {
+        "score": 7.7,
+        "votes": 50000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 84
+      },
+      "metacritic": {
+        "score": 70
+      }
+    },
+    "poster": "assets/posters/top250/152-rank-152.jpg",
+    "still": "assets/stills/top250/152-rank-152.jpg",
+    "still_alt": "告白 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/152-rank-152.jpg）（影片页 https://www.themoviedb.org/movie/54186）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sT7f721Zvb9Feo11sbhvkk2JLHi.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "robot-dreams-come-back",
+    "line": "有些朋友离开了，也会以另一种方式回来。",
+    "line_en": "Some friends leave—and still find another way back.",
+    "film_title": "机器人之梦",
+    "film_title_en": "Robot Dreams",
+    "year": 2023,
+    "character": "题旨 / Dog & Robot",
+    "director": "巴勃罗·贝赫尔",
+    "tags": [
+      "动画",
+      "友情",
+      "无对白"
+    ],
+    "featured": false,
+    "curator_note": "全片几乎无对白；此为纽约夏日狗与机器人别离的题旨凝练，非逐字台词，边界已标。",
+    "ratings": {
+      "douban": {
+        "score": 9.1,
+        "votes": 200000
+      },
+      "imdb": {
+        "score": 7.6,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 98
+      },
+      "metacritic": {
+        "score": 82
+      }
+    },
+    "poster": "assets/posters/top250/153-robot-dreams.jpg",
+    "still": "assets/stills/top250/153-robot-dreams.jpg",
+    "still_alt": "机器人之梦 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/153-robot-dreams.jpg）（影片页 https://www.themoviedb.org/movie/838240）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "seven-samurai-protect",
+    "line": "保护别人，才能保护自己。",
+    "line_en": "By protecting others, you save yourselves.",
+    "film_title": "七武士",
+    "film_title_en": "Seven Samurai",
+    "year": 1954,
+    "character": "岛田勘兵卫",
+    "director": "黑泽明",
+    "tags": [
+      "武士",
+      "集体",
+      "经典"
+    ],
+    "featured": false,
+    "curator_note": "勘兵卫组队时的生存哲学：七人与村民的契约，不只是剑，是彼此成为盾。",
+    "ratings": {
+      "douban": {
+        "score": 9.3,
+        "votes": 250000
+      },
+      "imdb": {
+        "score": 8.6,
+        "votes": 370000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 100
+      },
+      "metacritic": {
+        "score": 98
+      }
+    },
+    "poster": "assets/posters/top250/154-rank-154.jpg",
+    "still": "assets/stills/top250/154-rank-154.jpg",
+    "still_alt": "七武士 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/154-rank-154.jpg）（影片页 https://www.themoviedb.org/movie/346）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/m0GkHBGFsfhxwooex1j4qdotmUl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "rpo-stay-for-what-you-can-be",
+    "line": "人们来绿洲，是为了能做的事；留下，是为了能成为的人。",
+    "line_en": "People come to the OASIS for all the things they can do, but they stay for all the things they can be.",
+    "film_title": "头号玩家",
+    "film_title_en": "Ready Player One",
+    "year": 2018,
+    "character": "James Halliday（旁白/档案）",
+    "director": "史蒂文·斯皮尔伯格",
+    "tags": [
+      "科幻",
+      "游戏",
+      "成长"
+    ],
+    "featured": false,
+    "curator_note": "哈里迪的绿洲宣言：逃进虚拟世界的理由，最后仍落回「成为谁」。",
+    "ratings": {
+      "douban": {
+        "score": 8.6,
+        "votes": 1200000
+      },
+      "imdb": {
+        "score": 7.4,
+        "votes": 500000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 72
+      },
+      "metacritic": {
+        "score": 64
+      }
+    },
+    "poster": "assets/posters/top250/155-ready-player-one.jpg",
+    "still": "assets/stills/top250/155-ready-player-one.jpg",
+    "still_alt": "头号玩家 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/155-ready-player-one.jpg）（影片页 https://www.themoviedb.org/movie/333339）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "mary-max-thank-friend",
+    "line": "谢谢你做我的朋友。",
+    "line_en": "Thank you for being my friend.",
+    "film_title": "玛丽和麦克斯",
+    "film_title_en": "Mary and Max",
+    "year": 2009,
+    "character": "Max / Mary",
+    "director": "亚当·艾略特",
+    "tags": [
+      "动画",
+      "书信",
+      "孤独"
+    ],
+    "featured": false,
+    "curator_note": "粘土世界里最轻也最重的一句：跨洋笔友把孤独写成可投递的温度。",
+    "ratings": {
+      "douban": {
+        "score": 9,
+        "votes": 650000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 190000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 95
+      },
+      "metacritic": {
+        "score": 88
+      }
+    },
+    "poster": "assets/posters/top250/156-mary-and-max.jpg",
+    "still": "assets/stills/top250/156-mary-and-max.jpg",
+    "still_alt": "玛丽和麦克斯 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/156-mary-and-max.jpg）（影片页 https://www.themoviedb.org/movie/24238）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3EbNHb0SdbpdKr787llgpktfbZp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "imitation-no-one-imagines",
+    "line": "有时候，正是那些谁也不看好的人，做成了谁也无法想象的事。",
+    "line_en": "Sometimes it is the people no one imagines anything of who do the things that no one can imagine.",
+    "film_title": "模仿游戏",
+    "film_title_en": "The Imitation Game",
+    "year": 2014,
+    "character": "Alan Turing / Christopher（题赠）",
+    "director": "莫滕·泰杜姆",
+    "tags": [
+      "传记",
+      "战争",
+      "智识"
+    ],
+    "featured": false,
+    "curator_note": "图灵弧光的核芯句：被排斥者改写战争；也是片中反复回响的自我辩词。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 900000
+      },
+      "imdb": {
+        "score": 8,
+        "votes": 850000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 90
+      },
+      "metacritic": {
+        "score": 73
+      }
+    },
+    "poster": "assets/posters/top250/157-the-imitation-game.jpg",
+    "still": "assets/stills/top250/157-the-imitation-game.jpg",
+    "still_alt": "模仿游戏 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/157-the-imitation-game.jpg）（影片页 https://www.themoviedb.org/movie/205596）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "psycho-little-mad",
+    "line": "我们每个人，偶尔都会有一点疯狂。",
+    "line_en": "We all go a little mad sometimes.",
+    "film_title": "惊魂记",
+    "film_title_en": "Psycho",
+    "year": 1960,
+    "character": "Norman Bates",
+    "director": "阿尔弗雷德·希区柯克",
+    "tags": [
+      "惊悚",
+      "经典",
+      "人性"
+    ],
+    "featured": false,
+    "curator_note": "诺曼的轻描淡写把整部惊魂记钉进日常：疯狂不是例外，是我们都会路过的一瞬。",
+    "ratings": {
+      "douban": {
+        "score": 9,
+        "votes": 350000
+      },
+      "imdb": {
+        "score": 8.5,
+        "votes": 720000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 97
+      },
+      "metacritic": {
+        "score": 97
+      }
+    },
+    "poster": "assets/posters/top250/158-psycho.jpg",
+    "still": "assets/stills/top250/158-psycho.jpg",
+    "still_alt": "惊魂记 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/158-psycho.jpg）（影片页 https://www.themoviedb.org/movie/539）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "soul-spark-not-purpose",
+    "line": "你的火花，并不是你的人生目标。",
+    "line_en": "Your spark isn't your purpose.",
+    "film_title": "心灵奇旅",
+    "film_title_en": "Soul",
+    "year": 2020,
+    "character": "22 / Jerry",
+    "director": "彼特·道格特 / 凯普·鲍尔斯",
+    "tags": [
+      "动画",
+      "人生",
+      "意义"
+    ],
+    "featured": false,
+    "curator_note": "皮克斯把「火花」从职业神话里拆开：活着本身可以是目的，不必先找到宏大答案。",
+    "ratings": {
+      "douban": {
+        "score": 8.7,
+        "votes": 1100000
+      },
+      "imdb": {
+        "score": 8,
+        "votes": 400000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 95
+      },
+      "metacritic": {
+        "score": 83
+      }
+    },
+    "poster": "assets/posters/top250/159-soul.jpg",
+    "still": "assets/stills/top250/159-soul.jpg",
+    "still_alt": "心灵奇旅 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/159-soul.jpg）（影片页 https://www.themoviedb.org/movie/508442）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "big-fish-become-stories",
+    "line": "一个人把他的故事讲了太多次，他就变成了那些故事。故事在他死后继续活着，他也因此不朽。",
+    "line_en": "A man tells his stories so many times that he becomes the stories. They live on after him, and in that way he becomes immortal.",
+    "film_title": "大鱼",
+    "film_title_en": "Big Fish",
+    "year": 2003,
+    "character": "Edward Bloom / 旁白",
+    "director": "蒂姆·波顿",
+    "tags": [
+      "奇幻",
+      "父子",
+      "叙事"
+    ],
+    "featured": false,
+    "curator_note": "大鱼的遗言式旁白：夸张故事不是谎言，是父亲留给儿子的永生形式。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 600000
+      },
+      "imdb": {
+        "score": 8,
+        "votes": 470000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 76
+      },
+      "metacritic": {
+        "score": 58
+      }
+    },
+    "poster": "assets/posters/top250/160-big-fish.jpg",
+    "still": "assets/stills/top250/160-big-fish.jpg",
+    "still_alt": "大鱼 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/160-big-fish.jpg）（影片页 https://www.themoviedb.org/movie/587）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bLqUd0tBvKezDr9MEla7k34i3rp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "back-face-office-maze",
+    "line": "背靠着权力，脸对着人情——两头都要活。",
+    "line_en": "Back against power, face to favor—you have to live on both sides.",
+    "film_title": "背靠背，脸对脸",
+    "film_title_en": "Back to Back, Face to Face",
+    "year": 1994,
+    "character": "题旨 / 王双立",
+    "director": "黄建新",
+    "tags": [
+      "讽刺",
+      "官场",
+      "人情"
+    ],
+    "featured": false,
+    "curator_note": "片名即结构：九十年代机关寓言。此句为题旨化转述，非逐字对白，边界见此。静帧源站最大 1920（actual）。",
+    "ratings": {
+      "douban": {
+        "score": 9.4,
+        "votes": 200000
+      },
+      "imdb": {
+        "score": 7.8,
+        "votes": 2000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 85
+      },
+      "metacritic": {
+        "score": 75
+      }
+    },
+    "poster": "assets/posters/top250/161-back-to-back-face-to-face.jpg",
+    "still": "assets/stills/top250/161-back-to-back-face-to-face.jpg",
+    "still_alt": "背靠背，脸对脸 · 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/161-back-to-back-face-to-face.jpg）（影片页 https://www.themoviedb.org/movie/295279）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/k0EUdWfQRThcSon8KAw9Zk2YVEF.jpg（1920×1080）；静帧宽边 1920（源站最大，status=actual，≥1920 可上）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "your-name-want-to-meet",
+    "line": "我想要见你。不管你在哪里，我都会去见你。",
+    "line_en": "I want to see you. Wherever you are, I'll go to see you.",
+    "film_title": "你的名字。",
+    "film_title_en": "Your Name.",
+    "year": 2016,
+    "character": "泷 / 三叶",
+    "director": "新海诚",
+    "tags": [
+      "动画",
+      "恋爱",
+      "命运"
+    ],
+    "featured": false,
+    "curator_note": "彗星夜之前的誓言：换身记忆模糊，想见的冲动却清晰如灾前预警。",
+    "ratings": {
+      "douban": {
+        "score": 8.5,
+        "votes": 1600000
+      },
+      "imdb": {
+        "score": 8.4,
+        "votes": 340000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 98
+      },
+      "metacritic": {
+        "score": 81
+      }
+    },
+    "poster": "assets/posters/top250/162-rank-162.jpg",
+    "still": "assets/stills/top250/162-rank-162.jpg",
+    "still_alt": "你的名字。 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/162-rank-162.jpg）（影片页 https://www.themoviedb.org/movie/372058）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "hacksaw-one-more",
+    "line": "上帝，请再帮我救一个。",
+    "line_en": "Please, Lord, help me get one more.",
+    "film_title": "血战钢锯岭",
+    "film_title_en": "Hacksaw Ridge",
+    "year": 2016,
+    "character": "Desmond Doss",
+    "director": "梅尔·吉布森",
+    "tags": [
+      "战争",
+      "信仰",
+      "勇气"
+    ],
+    "featured": false,
+    "curator_note": "钢锯岭夜救的反复祷告：拒持枪的卫生员用「再一个」写下整场战役的人性刻度。",
+    "ratings": {
+      "douban": {
+        "score": 8.7,
+        "votes": 850000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 600000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 84
+      },
+      "metacritic": {
+        "score": 71
+      }
+    },
+    "poster": "assets/posters/top250/163-hacksaw-ridge.jpg",
+    "still": "assets/stills/top250/163-hacksaw-ridge.jpg",
+    "still_alt": "血战钢锯岭 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/163-hacksaw-ridge.jpg）（影片页 https://www.themoviedb.org/movie/324786）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "east-west-long-time-no-see",
+    "line": "我最讨厌别人见面时说上一句：好久不见。",
+    "line_en": "What I hate most is when people greet me with: Long time no see.",
+    "film_title": "射雕英雄传之东成西就",
+    "film_title_en": "The Eagle Shooting Heroes",
+    "year": 1993,
+    "character": "黄药师",
+    "director": "刘镇伟",
+    "tags": [
+      "喜剧",
+      "武侠",
+      "港片"
+    ],
+    "featured": false,
+    "curator_note": "东成西就式颠覆金句：黄药师一开口，射雕宇宙就滑进无厘头。",
+    "ratings": {
+      "douban": {
+        "score": 8.7,
+        "votes": 550000
+      },
+      "imdb": {
+        "score": 7,
+        "votes": 5000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 80
+      },
+      "metacritic": {
+        "score": 68
+      }
+    },
+    "poster": "assets/posters/top250/164-rank-164.jpg",
+    "still": "assets/stills/top250/164-rank-164.jpg",
+    "still_alt": "射雕英雄传之东成西就 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/164-rank-164.jpg）（影片页 https://www.themoviedb.org/movie/55157）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fSUsuiI6wYxMB4KgxgEIULc9Mx1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "thelma-get-what-settle",
+    "line": "你安于什么，就会得到什么。",
+    "line_en": "You get what you settle for.",
+    "film_title": "末路狂花",
+    "film_title_en": "Thelma & Louise",
+    "year": 1991,
+    "character": "Louise",
+    "director": "雷德利·斯科特",
+    "tags": [
+      "公路",
+      "女性",
+      "自由"
+    ],
+    "featured": false,
+    "curator_note": "Louise 把委屈说成定律：公路尽头的悬崖，是拒绝再「安于」的最后加速。",
+    "ratings": {
+      "douban": {
+        "score": 9,
+        "votes": 350000
+      },
+      "imdb": {
+        "score": 7.5,
+        "votes": 180000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 86
+      },
+      "metacritic": {
+        "score": 88
+      }
+    },
+    "poster": "assets/posters/top250/165-thelma-louise.jpg",
+    "still": "assets/stills/top250/165-thelma-louise.jpg",
+    "still_alt": "末路狂花 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/165-thelma-louise.jpg）（影片页 https://www.themoviedb.org/movie/1541）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u49EZzHvGCNrHdQxkc3hhLmQEPP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "wreaths-debt-remains",
+    "line": "人可以倒下，账不能烂在心里。",
+    "line_en": "A man may fall, but the debt must not rot in the heart.",
+    "film_title": "高山下的花环",
+    "film_title_en": "Wreaths at the Foot of the Mountain",
+    "year": 1984,
+    "character": "梁三喜 / 题旨",
+    "director": "谢晋",
+    "tags": [
+      "战争",
+      "牺牲",
+      "平凡"
+    ],
+    "featured": false,
+    "curator_note": "梁三喜欠账单的题旨凝练：花环献给普通人，也献给未偿的亲情与军中人情。非逐字对白。year 取 1984（top250 缺年已补）。静帧源站最大 1920（actual）。",
+    "ratings": {
+      "douban": {
+        "score": 9.5,
+        "votes": 150000
+      },
+      "imdb": {
+        "score": 7.5,
+        "votes": 500
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 80
+      },
+      "metacritic": {
+        "score": 70
+      }
+    },
+    "poster": "assets/posters/top250/166-wreaths-at-the-foot-of-the-mountain.jpg",
+    "still": "assets/stills/top250/166-wreaths-at-the-foot-of-the-mountain.jpg",
+    "still_alt": "高山下的花环 · 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/166-wreaths-at-the-foot-of-the-mountain.jpg）（影片页 https://www.themoviedb.org/movie/258424）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3Igu30IYoTdtqqV0UZsMdQMoHYh.jpg（1920×1080）；静帧宽边 1920（源站最大，status=actual，≥1920 可上）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "iamsam-not-perfect-parent",
+    "line": "你不必做一个完美的父母，才能做一个好父母。",
+    "line_en": "You don't need to be a perfect parent to be a good parent.",
+    "film_title": "我是山姆",
+    "film_title_en": "I Am Sam",
+    "year": 2001,
+    "character": "Rita Harrison / 题旨",
+    "director": "杰西·尼尔森",
+    "tags": [
+      "亲情",
+      "司法",
+      "爱"
+    ],
+    "featured": false,
+    "curator_note": "法庭与抚养权辩论的核芯：智商量表测不出山姆式的爱。中文为通行定译/题旨边界。",
+    "ratings": {
+      "douban": {
+        "score": 9,
+        "votes": 550000
+      },
+      "imdb": {
+        "score": 7.6,
+        "votes": 160000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 35
+      },
+      "metacritic": {
+        "score": 28
+      }
+    },
+    "poster": "assets/posters/top250/167-i-am-sam.jpg",
+    "still": "assets/stills/top250/167-i-am-sam.jpg",
+    "still_alt": "我是山姆 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/167-i-am-sam.jpg）（影片页 https://www.themoviedb.org/movie/10950）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/41lrEzK0XwH6mTQMVYR34y8UYX2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "sunny-we-were-sunshine",
+    "line": "我们曾是彼此的阳光。",
+    "line_en": "We were each other's sunshine.",
+    "film_title": "阳光姐妹淘",
+    "film_title_en": "Sunny",
+    "year": 2011,
+    "character": "题旨 / 姐妹淘",
+    "director": "姜炯哲",
+    "tags": [
+      "友情",
+      "青春",
+      "重逢"
+    ],
+    "featured": false,
+    "curator_note": "片名 Sunny 的题旨化一句：中年重聚把校园外号重新点亮。非逐字对白，边界已标。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 500000
+      },
+      "imdb": {
+        "score": 8,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 88
+      },
+      "metacritic": {
+        "score": 72
+      }
+    },
+    "poster": "assets/posters/top250/168-rank-168.jpg",
+    "still": "assets/stills/top250/168-rank-168.jpg",
+    "still_alt": "阳光姐妹淘 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/168-rank-168.jpg）（影片页 https://www.themoviedb.org/movie/77117）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gPWoo4RTO1Hrjp0ka0QcyPn9zUm.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "matrix3-choose-to",
+    "line": "因为我选择如此。",
+    "line_en": "Because I choose to.",
+    "film_title": "黑客帝国3：矩阵革命",
+    "film_title_en": "The Matrix Revolutions",
+    "year": 2003,
+    "character": "Neo",
+    "director": "莉莉·沃卓斯基 / 拉娜·沃卓斯基",
+    "tags": [
+      "科幻",
+      "选择",
+      "终章"
+    ],
+    "featured": false,
+    "curator_note": "面对史密斯「为何坚持」：矩阵三部曲把自由收束成四个词——因为我选择。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 650000
+      },
+      "imdb": {
+        "score": 6.7,
+        "votes": 550000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 34
+      },
+      "metacritic": {
+        "score": 47
+      }
+    },
+    "poster": "assets/posters/top250/169-the-matrix-revolutions.jpg",
+    "still": "assets/stills/top250/169-the-matrix-revolutions.jpg",
+    "still_alt": "黑客帝国3：矩阵革命 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/169-the-matrix-revolutions.jpg）（影片页 https://www.themoviedb.org/movie/605）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "terror-live-on-air",
+    "line": "这不是直播事故，这是恐惧本身在直播。",
+    "line_en": "This isn't a broadcast accident—fear itself is on the air.",
+    "film_title": "恐怖直播",
+    "film_title_en": "The Terror Live",
+    "year": 2013,
+    "character": "题旨 / 尹英华",
+    "director": "金秉祐",
+    "tags": [
+      "媒体",
+      "犯罪",
+      "悬疑"
+    ],
+    "featured": false,
+    "curator_note": "直播间道德崩塌的题旨转述：收视率与炸弹倒计时同一根针。非逐字对白。",
+    "ratings": {
+      "douban": {
+        "score": 8.7,
+        "votes": 450000
+      },
+      "imdb": {
+        "score": 7.4,
+        "votes": 15000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 80
+      },
+      "metacritic": {
+        "score": 68
+      }
+    },
+    "poster": "assets/posters/top250/170-rank-170.jpg",
+    "still": "assets/stills/top250/170-rank-170.jpg",
+    "still_alt": "恐怖直播 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/170-rank-170.jpg）（影片页 https://www.themoviedb.org/movie/209764）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pv7Pb5e9f4lbxsulnjH8yq6dEmD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "bourne3-what-they-make-you-give",
+    "line": "看看我们。看看他们逼你交出了什么。",
+    "line_en": "Look at us. Look at what they make you give.",
+    "film_title": "谍影重重3",
+    "film_title_en": "The Bourne Ultimatum",
+    "year": 2007,
+    "character": "Paz",
+    "director": "保罗·格林格拉斯",
+    "tags": [
+      "动作",
+      "身份",
+      "代价"
+    ],
+    "featured": false,
+    "curator_note": "天台对峙的低语：杀手认出同类，整部谍影的伦理重量压在这一句。",
+    "ratings": {
+      "douban": {
+        "score": 8.9,
+        "votes": 500000
+      },
+      "imdb": {
+        "score": 8,
+        "votes": 680000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 92
+      },
+      "metacritic": {
+        "score": 85
+      }
+    },
+    "poster": "assets/posters/top250/171-the-bourne-ultimatum.jpg",
+    "still": "assets/stills/top250/171-the-bourne-ultimatum.jpg",
+    "still_alt": "谍影重重3 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/171-the-bourne-ultimatum.jpg）（影片页 https://www.themoviedb.org/movie/2503）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cmz8Fl7YuyEpCL0B2ivIIP0EYoY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "joker-tragedy-comedy",
+    "line": "我曾以为我的人生是部悲剧，现在我明白了——它是部喜剧。",
+    "line_en": "I used to think that my life was a tragedy, but now I realize it's a comedy.",
+    "film_title": "小丑",
+    "film_title_en": "Joker",
+    "year": 2019,
+    "character": "Arthur Fleck / Joker",
+    "director": "托德·菲利普斯",
+    "tags": [
+      "犯罪",
+      "社会",
+      "疯狂"
+    ],
+    "featured": false,
+    "curator_note": "亚瑟的变调宣言：笑与哭共用一张脸，哥谭把悲剧排练成全民喜剧。",
+    "ratings": {
+      "douban": {
+        "score": 8.7,
+        "votes": 1400000
+      },
+      "imdb": {
+        "score": 8.4,
+        "votes": 1600000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 68
+      },
+      "metacritic": {
+        "score": 59
+      }
+    },
+    "poster": "assets/posters/top250/172-joker.jpg",
+    "still": "assets/stills/top250/172-joker.jpg",
+    "still_alt": "小丑 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/172-joker.jpg）（影片页 https://www.themoviedb.org/movie/475557）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rlay2M5QYvi6igbGcFjq8jxeusY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "ia2-sooner-or-later",
+    "line": "出来混，迟早要还的。",
+    "line_en": "You play the game, sooner or later you pay.",
+    "film_title": "无间道2",
+    "film_title_en": "Infernal Affairs II",
+    "year": 2003,
+    "character": "倪永孝 / 题旨",
+    "director": "刘伟强 / 麦兆辉",
+    "tags": [
+      "黑帮",
+      "因果",
+      "前传"
+    ],
+    "featured": false,
+    "curator_note": "无间道宇宙的因果口头禅；前传里仇恨与卧底尚未成形，这句话已在倒计时。通行港片金句，边界见此。",
+    "ratings": {
+      "douban": {
+        "score": 8.8,
+        "votes": 450000
+      },
+      "imdb": {
+        "score": 7.2,
+        "votes": 30000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 75
+      },
+      "metacritic": {
+        "score": 66
+      }
+    },
+    "poster": "assets/posters/top250/173-ii.jpg",
+    "still": "assets/stills/top250/173-ii.jpg",
+    "still_alt": "无间道2 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/173-ii.jpg）（影片页 https://www.themoviedb.org/movie/11647）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/j0bK5l5Wo4XvUUrKp1FckLvbse9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "billboards-anger-begets",
+    "line": "愤怒只会生出更多愤怒。",
+    "line_en": "Anger begets greater anger.",
+    "film_title": "三块广告牌",
+    "film_title_en": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "character": "神父 / Willoughby 遗书语境",
+    "director": "马丁·麦克唐纳",
+    "tags": [
+      "愤怒",
+      "正义",
+      "宽恕"
+    ],
+    "featured": false,
+    "curator_note": "三块广告牌的伦理回声：米尔德丽德的怒火正义，也被这句话反照成循环。定译略有出入，已标。",
+    "ratings": {
+      "douban": {
+        "score": 8.7,
+        "votes": 750000
+      },
+      "imdb": {
+        "score": 8.1,
+        "votes": 600000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 90
+      },
+      "metacritic": {
+        "score": 88
+      }
+    },
+    "poster": "assets/posters/top250/174-three-billboards-outside-ebbing-missouri.jpg",
+    "still": "assets/stills/top250/174-three-billboards-outside-ebbing-missouri.jpg",
+    "still_alt": "三块广告牌 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/174-three-billboards-outside-ebbing-missouri.jpg）（影片页 https://www.themoviedb.org/movie/359940）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "saw-live-or-die",
+    "line": "活下去，还是死去。做出你的选择。",
+    "line_en": "Live or die. Make your choice.",
+    "film_title": "电锯惊魂",
+    "film_title_en": "Saw",
+    "year": 2004,
+    "character": "Jigsaw",
+    "director": "温子仁",
+    "tags": [
+      "恐怖",
+      "抉择",
+      "游戏"
+    ],
+    "featured": false,
+    "curator_note": "拼图杀人魔的游戏规则浓缩句：电锯惊魂把道德测试做成倒计时装置。",
+    "ratings": {
+      "douban": {
+        "score": 8.7,
+        "votes": 500000
+      },
+      "imdb": {
+        "score": 7.6,
+        "votes": 500000
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照",
+      "rotten_tomatoes": {
+        "tomatometer": 50
+      },
+      "metacritic": {
+        "score": 46
+      }
+    },
+    "poster": "assets/posters/top250/175-saw.jpg",
+    "still": "assets/stills/top250/175-saw.jpg",
+    "still_alt": "电锯惊魂 · 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/175-saw.jpg）（影片页 https://www.themoviedb.org/movie/176）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ok4ot3YbfDYZcINXf91JUfq3maB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]

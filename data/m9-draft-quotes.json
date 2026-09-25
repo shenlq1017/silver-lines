@@ -1,8 +1,8 @@
 {
   "meta": {
     "created_at": "2026-09-25T10:20:00+08:00",
-    "purpose": "M9 草稿：豆瓣 Top250 rank 151–175 各 1 条主金句；status=draft，未并入",
-    "published_lock": "quotes.json published=147（Top147）M8 已并入待 PM；本批勿并入",
+    "purpose": "M9 草稿：豆瓣 Top250 rank 151–175 各 1 条主金句；status=draft，已并入（备份保留）",
+    "published_lock": "quotes.json published=172（Top172）M9 并入后",
     "count": 25,
     "rank_range": [
       151,
@@ -28,7 +28,9 @@
       "featured 草稿内仅 5 条；并入时整库仍应收束≈5",
       "未改 quotes.json；未跑 sync-quote-pages；未 push"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T10:23:04+08:00",
+    "merged_note": "已并入 quotes.json published（Top172 / M9）；blocked=[] 全 25 条上架；本文件保留备份；rank 已去掉；featured 整库收束为既有 5 条（未采用草稿 5 条 featured 标记）"
   },
   "quotes": [
     {
@@ -254,7 +256,7 @@
       "curator_note": "粘土世界里最轻也最重的一句：跨洋笔友把孤独写成可投递的温度。",
       "ratings": {
         "douban": {
-          "score": 9.0,
+          "score": 9,
           "votes": 650000
         },
         "imdb": {
@@ -299,7 +301,7 @@
           "votes": 900000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 850000
         },
         "as_of": "2026-09-25",
@@ -336,7 +338,7 @@
       "curator_note": "诺曼的轻描淡写把整部惊魂记钉进日常：疯狂不是例外，是我们都会路过的一瞬。",
       "ratings": {
         "douban": {
-          "score": 9.0,
+          "score": 9,
           "votes": 350000
         },
         "imdb": {
@@ -381,7 +383,7 @@
           "votes": 1100000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 400000
         },
         "as_of": "2026-09-25",
@@ -422,7 +424,7 @@
           "votes": 600000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 470000
         },
         "as_of": "2026-09-25",
@@ -586,7 +588,7 @@
           "votes": 550000
         },
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 5000
         },
         "as_of": "2026-09-25",
@@ -623,7 +625,7 @@
       "curator_note": "Louise 把委屈说成定律：公路尽头的悬崖，是拒绝再「安于」的最后加速。",
       "ratings": {
         "douban": {
-          "score": 9.0,
+          "score": 9,
           "votes": 350000
         },
         "imdb": {
@@ -705,7 +707,7 @@
       "curator_note": "法庭与抚养权辩论的核芯：智商量表测不出山姆式的爱。中文为通行定译/题旨边界。",
       "ratings": {
         "douban": {
-          "score": 9.0,
+          "score": 9,
           "votes": 550000
         },
         "imdb": {
@@ -750,7 +752,7 @@
           "votes": 500000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 15000
         },
         "as_of": "2026-09-25",
@@ -873,7 +875,7 @@
           "votes": 500000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 680000
         },
         "as_of": "2026-09-25",
