@@ -1,0 +1,825 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T12:18:50+08:00",
+    "purpose": "C9 classics×25 草稿：batch-jia2 在 C6+C7+C8 之后剩余池质量优先 25 部各 1 条主金句；status=draft，未并入 quotes.json",
+    "batch": "batch-jia2",
+    "selection_source": "tmp/content-fill-plan/candidates-jia2-c9-25.json",
+    "stills_source": "tmp/stills-jia2-c9/index-fragment.json",
+    "count": 25,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "海报：assets/posters/classics/{slug}.jpg（batch-jia2 已备，本批海报宽边满足 batch 门禁）",
+      "静帧：assets/stills/classics/{slug}.jpg（C9 TMDB backdrop；全部宽边≥1920；23 张 ≥2560，2 张为可得原图 1920–2559）",
+      "featured=false 全部；并入时整库 featured 仍应收束≈5",
+      "排除 data/quotes.json 与 C6/C7/C8 candidates；quotes.json 未修改",
+      "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
+      "评分为 2026-09-25 策展快照近似，非实时抓取",
+      "meta.merged=false；勿在本任务并入 quotes.json"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "house-dream",
+      "line": "这栋房子会把你吞进去。",
+      "line_en": "This house will swallow you.",
+      "film_title": "家",
+      "film_title_en": "House",
+      "year": 1977,
+      "character": "桂 / 直子",
+      "director": "大林宣彦",
+      "tags": [
+        "cult电影",
+        "家庭",
+        "恐怖"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：把房屋、童年与恐怖的跳接压缩为主句，不冒充逐字字幕。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 12000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/house-1977.jpg",
+      "still": "assets/stills/classics/house-1977.jpg",
+      "still_alt": "家 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/house-1977.jpg）（影片页 https://www.themoviedb.org/movie/25623）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lMMy6St5LvpjseerqURqpcZULT9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 25623,
+      "slug": "house-1977"
+    },
+    {
+      "id": "autumn-sonata-learn-live",
+      "line": "我必须学会生活。我每天都在练习。",
+      "line_en": "I must learn to live. I practise every day.",
+      "film_title": "秋日奏鸣曲",
+      "film_title_en": "Autumn Sonata",
+      "year": 1978,
+      "character": "夏洛特 / 伊娃",
+      "director": "英格玛·伯格曼",
+      "tags": [
+        "母女",
+        "音乐",
+        "瑞典电影"
+      ],
+      "featured": false,
+      "curator_note": "通行英译的策展中译；字幕版本或有差异，保留影片关于生存练习的核心语气。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 35000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/autumn-sonata-1978.jpg",
+      "still": "assets/stills/classics/autumn-sonata-1978.jpg",
+      "still_alt": "秋日奏鸣曲 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/autumn-sonata-1978.jpg）（影片页 https://www.themoviedb.org/movie/12761）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jcKzcVXLIpYo1gbRI02N81N630.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 12761,
+      "slug": "autumn-sonata-1978"
+    },
+    {
+      "id": "vengeance-no-god",
+      "line": "这个世界上没有神。",
+      "line_en": "There is no God in this world.",
+      "film_title": "复仇在我",
+      "film_title_en": "Vengeance Is Mine",
+      "year": 1979,
+      "character": "榎津严",
+      "director": "今村昌平",
+      "tags": [
+        "犯罪",
+        "家庭",
+        "日本电影"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：对应榎津的虚无与社会性暴力，不声称为单一字幕逐字转译。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 9000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/vengeance-is-mine-1979.jpg",
+      "still": "assets/stills/classics/vengeance-is-mine-1979.jpg",
+      "still_alt": "复仇在我 · TMDB 宣传静帧（2880×1620）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/vengeance-is-mine-1979.jpg）（影片页 https://www.themoviedb.org/movie/42170）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aOf5jlcp4nCYXwEVgn82YNIs3ZP.jpg（2880×1620）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 42170,
+      "slug": "vengeance-is-mine-1979"
+    },
+    {
+      "id": "kagemusha-shadow-man",
+      "line": "影子也有影子的命运。",
+      "line_en": "Even a shadow has its own fate.",
+      "film_title": "影武者",
+      "film_title_en": "Kagemusha",
+      "year": 1980,
+      "character": "影武者",
+      "director": "黑泽明",
+      "tags": [
+        "历史",
+        "权力",
+        "日本电影"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：凝聚替身身份与权力幻象，不冒充逐字对白。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 24000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/kagemusha-1980.jpg",
+      "still": "assets/stills/classics/kagemusha-1980.jpg",
+      "still_alt": "影武者 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kagemusha-1980.jpg）（影片页 https://www.themoviedb.org/movie/11953）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/f4xTUR92Ii9aZrdyVgRYVvbvl9g.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11953,
+      "slug": "kagemusha-1980"
+    },
+    {
+      "id": "andre-suspended-animation",
+      "line": "我们大多数人都活在一种悬置的动画状态里。",
+      "line_en": "Most of us live in a state of suspended animation.",
+      "film_title": "与安德烈晚餐",
+      "film_title_en": "My Dinner with Andre",
+      "year": 1981,
+      "character": "安德烈·格雷戈里",
+      "director": "路易·马勒",
+      "tags": [
+        "谈话电影",
+        "现代生活",
+        "美国电影"
+      ],
+      "featured": false,
+      "curator_note": "安德烈长谈的通行译意；保留其对现代生活麻木状态的核心判断。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 18000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/my-dinner-with-andre-1981.jpg",
+      "still": "assets/stills/classics/my-dinner-with-andre-1981.jpg",
+      "still_alt": "与安德烈晚餐 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/my-dinner-with-andre-1981.jpg）（影片页 https://www.themoviedb.org/movie/25468）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/r3zwnGMmRb7LaDNQluHVXAkZNoY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 25468,
+      "slug": "my-dinner-with-andre-1981"
+    },
+    {
+      "id": "fanny-alexander-world",
+      "line": "我们必须在这个世界上幸福。",
+      "line_en": "We must be happy in this world.",
+      "film_title": "芬妮与亚历山大",
+      "film_title_en": "Fanny and Alexander",
+      "year": 1982,
+      "character": "海伦娜 / 亚历山大",
+      "director": "英格玛·伯格曼",
+      "tags": [
+        "童年",
+        "家庭",
+        "瑞典电影"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：对应影片结尾关于想象、家庭与活下去的温柔信念，非逐字字幕。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 70000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/fanny-and-alexander-1982.jpg",
+      "still": "assets/stills/classics/fanny-and-alexander-1982.jpg",
+      "still_alt": "芬妮与亚历山大 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/fanny-and-alexander-1982.jpg）（影片页 https://www.themoviedb.org/movie/5961）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8reX3CMog1QHqGoym2Esvuk5MnK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 5961,
+      "slug": "fanny-and-alexander-1982"
+    },
+    {
+      "id": "fitzcarraldo-dream",
+      "line": "一个人必须有梦想。",
+      "line_en": "A man must have a dream.",
+      "film_title": "陆上行舟",
+      "film_title_en": "Fitzcarraldo",
+      "year": 1982,
+      "character": "布赖恩·斯威尼·菲茨杰拉德",
+      "director": "维尔纳·赫尔佐格",
+      "tags": [
+        "梦想",
+        "冒险",
+        "德国电影"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括菲茨卡拉尔多以不可能工程维持自我的执念，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 28000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/fitzcarraldo-1982.jpg",
+      "still": "assets/stills/classics/fitzcarraldo-1982.jpg",
+      "still_alt": "陆上行舟 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/fitzcarraldo-1982.jpg）（影片页 https://www.themoviedb.org/movie/9343）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fhv44soRW0zdMB1Km8fZDPAvUGB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 9343,
+      "slug": "fitzcarraldo-1982"
+    },
+    {
+      "id": "koyaanisqatsi-life-out-balance",
+      "line": "失衡的生活。",
+      "line_en": "Life out of balance.",
+      "film_title": "失衡生活",
+      "film_title_en": "Koyaanisqatsi",
+      "year": 1982,
+      "character": "片名题旨",
+      "director": "戈弗雷·雷吉奥",
+      "tags": [
+        "实验电影",
+        "纪录片",
+        "现代性"
+      ],
+      "featured": false,
+      "curator_note": "片名 Hopi 语的通行释义；这是非对白策展主句，明确不冒充角色台词。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 30000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/koyaanisqatsi-1982.jpg",
+      "still": "assets/stills/classics/koyaanisqatsi-1982.jpg",
+      "still_alt": "失衡生活 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/koyaanisqatsi-1982.jpg）（影片页 https://www.themoviedb.org/movie/11314）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9bHN0tBcMMtR7jE4oWlAmyWsuMy.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11314,
+      "slug": "koyaanisqatsi-1982"
+    },
+    {
+      "id": "king-comedy-better-king",
+      "line": "当一晚的国王，也不要一辈子做个笨蛋。",
+      "line_en": "Better to be king for a night than schmuck for a lifetime.",
+      "film_title": "喜剧之王",
+      "film_title_en": "The King of Comedy",
+      "year": 1982,
+      "character": "鲁珀特·普 Pupkin",
+      "director": "马丁·斯科塞斯",
+      "tags": [
+        "黑色喜剧",
+        "成名",
+        "美国电影"
+      ],
+      "featured": false,
+      "curator_note": "鲁珀特自我神话的通行英译中；字幕措辞可能略有差异。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 110000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-king-of-comedy-1982.jpg",
+      "still": "assets/stills/classics/the-king-of-comedy-1982.jpg",
+      "still_alt": "喜剧之王 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-king-of-comedy-1982.jpg）（影片页 https://www.themoviedb.org/movie/262）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 262,
+      "slug": "the-king-of-comedy-1982"
+    },
+    {
+      "id": "nostalghia-home-exile",
+      "line": "故乡与流放之间，没有真正的区别。",
+      "line_en": "There is no real difference between home and exile.",
+      "film_title": "乡愁",
+      "film_title_en": "Nostalghia",
+      "year": 1983,
+      "character": "安德烈·戈尔恰科夫",
+      "director": "安德烈·塔可夫斯基",
+      "tags": [
+        "乡愁",
+        "流亡",
+        "意大利电影"
+      ],
+      "featured": false,
+      "curator_note": "诗性策展意译：提炼戈尔恰科夫的流亡意识，不冒充逐字对白。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 25000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/nostalghia-1983.jpg",
+      "still": "assets/stills/classics/nostalghia-1983.jpg",
+      "still_alt": "乡愁 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nostalghia-1983.jpg）（影片页 https://www.themoviedb.org/movie/1394）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/31wAyOjytcMbeUOquivvNvIvsFv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1394,
+      "slug": "nostalghia-1983"
+    },
+    {
+      "id": "sans-soleil-memory",
+      "line": "记忆不是过去，而是现在的另一种形态。",
+      "line_en": "Memory is not the past, but another form of the present.",
+      "film_title": "太阳无赖",
+      "film_title_en": "Sans Soleil",
+      "year": 1983,
+      "character": "旁白",
+      "director": "克里斯·马克",
+      "tags": [
+        "纪录片",
+        "记忆",
+        "散文电影"
+      ],
+      "featured": false,
+      "curator_note": "旁白的主题性策展译句；影片为书信式散文，非传统角色对白。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 18000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/sans-soleil-1983.jpg",
+      "still": "assets/stills/classics/sans-soleil-1983.jpg",
+      "still_alt": "太阳无赖 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sans-soleil-1983.jpg）（影片页 https://www.themoviedb.org/movie/1563）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cinXTU6APKiEpEKTLOw7bBLzqKs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1563,
+      "slug": "sans-soleil-1983"
+    },
+    {
+      "id": "stop-making-sense-how-here",
+      "line": "你可能会问自己：我是怎么来到这里的？",
+      "line_en": "You may ask yourself, well, how did I get here?",
+      "film_title": "停止理智",
+      "film_title_en": "Stop Making Sense",
+      "year": 1984,
+      "character": "大卫·伯恩",
+      "director": "乔纳森·戴米",
+      "tags": [
+        "音乐",
+        "现场",
+        "美国电影"
+      ],
+      "featured": false,
+      "curator_note": "演出中《Once in a Lifetime》的通行译法；保留歌曲文本的明确出处。",
+      "ratings": {
+        "imdb": {
+          "score": 8.7,
+          "votes": 30000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/stop-making-sense-1984.jpg",
+      "still": "assets/stills/classics/stop-making-sense-1984.jpg",
+      "still_alt": "停止理智 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/stop-making-sense-1984.jpg）（影片页 https://www.themoviedb.org/movie/24128）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kPDmoP4BCFaELJVBog4nIV4CPge.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 24128,
+      "slug": "stop-making-sense-1984"
+    },
+    {
+      "id": "blue-velvet-strange-world",
+      "line": "这是一个奇怪的世界。",
+      "line_en": "It’s a strange world.",
+      "film_title": "蓝丝绒",
+      "film_title_en": "Blue Velvet",
+      "year": 1986,
+      "character": "杰弗里·博蒙特",
+      "director": "大卫·林奇",
+      "tags": [
+        "黑色电影",
+        "美国",
+        "欲望"
+      ],
+      "featured": false,
+      "curator_note": "影片反复出现的核心语气；按通行字幕译写，短句出处清晰。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 220000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/blue-velvet-1986.jpg",
+      "still": "assets/stills/classics/blue-velvet-1986.jpg",
+      "still_alt": "蓝丝绒 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/blue-velvet-1986.jpg）（影片页 https://www.themoviedb.org/movie/793）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/s1CBwblInR0ZBIv59CSko2QdLD3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 793,
+      "slug": "blue-velvet-1986"
+    },
+    {
+      "id": "sacrifice-save-world",
+      "line": "也许，一个人的牺牲能够拯救这个世界。",
+      "line_en": "Perhaps one man’s sacrifice can save the world.",
+      "film_title": "牺牲",
+      "film_title_en": "The Sacrifice",
+      "year": 1986,
+      "character": "亚历山大",
+      "director": "安德烈·塔可夫斯基",
+      "tags": [
+        "末日",
+        "牺牲",
+        "瑞典电影"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括影片的祈祷与自我牺牲命题，不冒充逐字对白。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 30000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-sacrifice-1986.jpg",
+      "still": "assets/stills/classics/the-sacrifice-1986.jpg",
+      "still_alt": "牺牲 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-sacrifice-1986.jpg）（影片页 https://www.themoviedb.org/movie/24657）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xTYFvPREnDOfJnuxJcg7GKFapBc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 24657,
+      "slug": "the-sacrifice-1986"
+    },
+    {
+      "id": "wings-no-angel-knows",
+      "line": "现在我知道了天使不知道的事。",
+      "line_en": "Now I know what no angel knows.",
+      "film_title": "欲望之翼",
+      "film_title_en": "Wings of Desire",
+      "year": 1987,
+      "character": "丹弥尔",
+      "director": "维姆·文德斯",
+      "tags": [
+        "天使",
+        "爱情",
+        "德国电影"
+      ],
+      "featured": false,
+      "curator_note": "通行英译的策展中译；保留丹弥尔选择成为人的关键转折。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 70000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/wings-of-desire-1987.jpg",
+      "still": "assets/stills/classics/wings-of-desire-1987.jpg",
+      "still_alt": "欲望之翼 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/wings-of-desire-1987.jpg）（影片页 https://www.themoviedb.org/movie/144）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/svD7zZ0dxRb4NVZkZ30Nbzi20yM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 144,
+      "slug": "wings-of-desire-1987"
+    },
+    {
+      "id": "akira-power-akira",
+      "line": "阿基拉的力量正在觉醒。",
+      "line_en": "Akira’s power is awakening.",
+      "film_title": "阿基拉",
+      "film_title_en": "Akira",
+      "year": 1988,
+      "character": "铁雄",
+      "director": "大友克洋",
+      "tags": [
+        "动画",
+        "科幻",
+        "日本电影"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括都市灾变与超能力觉醒的核心推进，非逐字字幕。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 210000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/akira-1988.jpg",
+      "still": "assets/stills/classics/akira-1988.jpg",
+      "still_alt": "阿基拉 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/akira-1988.jpg）（影片页 https://www.themoviedb.org/movie/149）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iYxEf9aNKA6b6rimypg11QnvCrl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 149,
+      "slug": "akira-1988"
+    },
+    {
+      "id": "do-right-thing-fight-power",
+      "line": "你得反抗那股力量。",
+      "line_en": "You’ve got to fight the power.",
+      "film_title": "为所应为",
+      "film_title_en": "Do the Right Thing",
+      "year": 1989,
+      "character": "广播 / 社区众声",
+      "director": "斯派克·李",
+      "tags": [
+        "种族",
+        "社区",
+        "美国电影"
+      ],
+      "featured": false,
+      "curator_note": "歌曲《Fight the Power》及影片反复出现的通行译意；出处明确。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 110000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/do-the-right-thing-1989.jpg",
+      "still": "assets/stills/classics/do-the-right-thing-1989.jpg",
+      "still_alt": "为所应为 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/do-the-right-thing-1989.jpg）（影片页 https://www.themoviedb.org/movie/925）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/muby9Ikal2tRAsUQhNG3OQr9Ant.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 925,
+      "slug": "do-the-right-thing-1989"
+    },
+    {
+      "id": "close-up-cinema-dream",
+      "line": "电影就是一个梦。",
+      "line_en": "Cinema is a dream.",
+      "film_title": "特写",
+      "film_title_en": "Close-Up",
+      "year": 1990,
+      "character": "侯赛因·萨布齐安",
+      "director": "阿巴斯·基亚罗斯塔米",
+      "tags": [
+        "身份",
+        "电影",
+        "伊朗电影"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：对应冒充导演事件中艺术、身份与真实的纠缠，不冒充逐字台词。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 30000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/close-up-1990.jpg",
+      "still": "assets/stills/classics/close-up-1990.jpg",
+      "still_alt": "特写 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/close-up-1990.jpg）（影片页 https://www.themoviedb.org/movie/30017）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qwr6bwKATodlYMxIBtnDkFhyRSf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 30017,
+      "slug": "close-up-1990"
+    },
+    {
+      "id": "days-minute-memory",
+      "line": "那一分钟，我记得非常清楚。",
+      "line_en": "I remember that minute very clearly.",
+      "film_title": "阿飞正传",
+      "film_title_en": "Days of Being Wild",
+      "year": 1990,
+      "character": "旭仔 / 旁白",
+      "director": "王家卫",
+      "tags": [
+        "时间",
+        "孤独",
+        "香港电影"
+      ],
+      "featured": false,
+      "curator_note": "旁白的通行节译；以一分钟意象保留影片对时间与无根感的凝视。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 28000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/days-of-being-wild-1990.jpg",
+      "still": "assets/stills/classics/days-of-being-wild-1990.jpg",
+      "still_alt": "阿飞正传 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/days-of-being-wild-1990.jpg）（影片页 https://www.themoviedb.org/movie/18311）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4TvipgMIlm0Pvk3mCICAodsKP6m.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 18311,
+      "slug": "days-of-being-wild-1990"
+    },
+    {
+      "id": "piano-speaking-voice",
+      "line": "你听见的不是我的说话声，而是我的心声。",
+      "line_en": "The voice you hear is not my speaking voice, but my mind’s voice.",
+      "film_title": "钢琴课",
+      "film_title_en": "The Piano",
+      "year": 1993,
+      "character": "艾达",
+      "director": "简·坎皮恩",
+      "tags": [
+        "女性",
+        "沉默",
+        "新西兰电影"
+      ],
+      "featured": false,
+      "curator_note": "开场旁白的通行译意；明确标注为画外音而非普通对白。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 100000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-piano-1993.jpg",
+      "still": "assets/stills/classics/the-piano-1993.jpg",
+      "still_alt": "钢琴课 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-piano-1993.jpg）（影片页 https://www.themoviedb.org/movie/713）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oNSTjU6R8fl9G7oXHa25HNVqohx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 713,
+      "slug": "the-piano-1993"
+    },
+    {
+      "id": "three-colors-blue-nothing",
+      "line": "现在我只有一件事可做：什么也不做。",
+      "line_en": "Now I have only one thing to do: nothing.",
+      "film_title": "蓝",
+      "film_title_en": "Three Colors: Blue",
+      "year": 1993,
+      "character": "朱莉",
+      "director": "克日什托夫·基耶斯洛夫斯基",
+      "tags": [
+        "自由",
+        "失去",
+        "法国电影"
+      ],
+      "featured": false,
+      "curator_note": "朱莉段落的通行译意；字幕版本或有差异，保留其拒绝旧生活的姿态。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 120000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/three-colors-blue-1993.jpg",
+      "still": "assets/stills/classics/three-colors-blue-1993.jpg",
+      "still_alt": "蓝 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/three-colors-blue-1993.jpg）（影片页 https://www.themoviedb.org/movie/108）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/m35ArCCl9m0dlTB7ZFMYWLbYbGp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 108,
+      "slug": "three-colors-blue-1993"
+    },
+    {
+      "id": "satantango-start-again",
+      "line": "我们必须重新开始。",
+      "line_en": "We have to start again.",
+      "film_title": "撒旦坦戈",
+      "film_title_en": "Sátántangó",
+      "year": 1994,
+      "character": "伊里米亚什",
+      "director": "贝拉·塔尔",
+      "tags": [
+        "时间",
+        "共同体",
+        "匈牙利电影"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：对应循环结构与失败的共同体，不冒充逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 25000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/satantango-1994.jpg",
+      "still": "assets/stills/classics/satantango-1994.jpg",
+      "still_alt": "撒旦坦戈 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/satantango-1994.jpg）（影片页 https://www.themoviedb.org/movie/31414）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8R17JXVLFteR7nm4J7p4m4gVJ5J.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 31414,
+      "slug": "satantango-1994"
+    },
+    {
+      "id": "breaking-waves-miracles",
+      "line": "我相信奇迹。",
+      "line_en": "I believe in miracles.",
+      "film_title": "破浪",
+      "film_title_en": "Breaking the Waves",
+      "year": 1996,
+      "character": "贝丝",
+      "director": "拉斯·冯·提尔",
+      "tags": [
+        "信仰",
+        "牺牲",
+        "丹麦电影"
+      ],
+      "featured": false,
+      "curator_note": "贝丝信仰表达的通行译法；保留人物天真而危险的确定性。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 70000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/breaking-the-waves-1996.jpg",
+      "still": "assets/stills/classics/breaking-the-waves-1996.jpg",
+      "still_alt": "破浪 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/breaking-the-waves-1996.jpg）（影片页 https://www.themoviedb.org/movie/145）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/slYHFJ55aAcNE16pTW7YAO1s5CQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 145,
+      "slug": "breaking-the-waves-1996"
+    },
+    {
+      "id": "cure-who-are-you",
+      "line": "你是谁？",
+      "line_en": "Who are you?",
+      "film_title": "治愈",
+      "film_title_en": "Cure",
+      "year": 1997,
+      "character": "高部 / 间宫",
+      "director": "黑泽清",
+      "tags": [
+        "心理恐怖",
+        "身份",
+        "日本电影"
+      ],
+      "featured": false,
+      "curator_note": "影片反复出现的身份追问；按通行字幕短句呈现。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 22000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/cure-1997.jpg",
+      "still": "assets/stills/classics/cure-1997.jpg",
+      "still_alt": "治愈 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/cure-1997.jpg）（影片页 https://www.themoviedb.org/movie/36095）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xxIRKSd9LmHojUD5grvMuGypwVC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 36095,
+      "slug": "cure-1997"
+    },
+    {
+      "id": "mulholland-no-band",
+      "line": "没有乐队。",
+      "line_en": "There is no band.",
+      "film_title": "穆赫兰道",
+      "film_title_en": "Mulholland Drive",
+      "year": 2001,
+      "character": "蓝发女人",
+      "director": "大卫·林奇",
+      "tags": [
+        "梦境",
+        "身份",
+        "美国电影"
+      ],
+      "featured": false,
+      "curator_note": "Club Silencio 场景的通行字幕；短句为片中明确台词。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 380000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/mulholland-drive-2001.jpg",
+      "still": "assets/stills/classics/mulholland-drive-2001.jpg",
+      "still_alt": "穆赫兰道 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mulholland-drive-2001.jpg）（影片页 https://www.themoviedb.org/movie/1018）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/A5n963lCjuVhiCHtBLTxMz1KgCF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1018,
+      "slug": "mulholland-drive-2001"
+    }
+  ]
+}
