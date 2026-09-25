@@ -1,0 +1,825 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T12:12:20+08:00",
+    "purpose": "C7 classics×25 草稿：batch-jia2 C6 之后剩余池质量优先 25 部各 1 条主金句；status=draft，未并入 quotes.json",
+    "batch": "batch-jia2",
+    "selection_source": "tmp/content-fill-plan/candidates-jia2-c7-25.json",
+    "stills_source": "tmp/stills-jia2-c7/index-fragment.json",
+    "count": 25,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "海报：assets/posters/classics/{slug}.jpg（batch-jia2 已备，宽边≥780）",
+      "静帧：assets/stills/classics/{slug}.jpg（C7 TMDB backdrop；全部宽边≥1920）",
+      "featured=false 全部；并入时整库 featured 仍应收束≈5",
+      "排除 data/quotes.json 与 candidates-jia2-c6-25.json；quotes.json 未修改",
+      "默片/少对白/主题性主句均在 curator_note 标注；有声片采用通行译法或明确标注的策展意译",
+      "评分为 2026-09-25 策展快照近似，非实时抓取",
+      "meta.merged=false；勿在本任务并入 quotes.json"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "kanal-no-way-out",
+      "line": "没有出路。",
+      "line_en": "There is no way out.",
+      "film_title": "下水道",
+      "film_title_en": "Kanal",
+      "year": 1957,
+      "character": "米哈尔",
+      "director": "安杰伊·瓦伊达",
+      "tags": [
+        "战争",
+        "创伤",
+        "波兰电影"
+      ],
+      "featured": false,
+      "curator_note": "下水道段落的策展意译；把影片中封闭迷宫与战争创伤压缩为一句主句，并非声称逐字字幕。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 18000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/kanal-1957.jpg",
+      "still": "assets/stills/classics/kanal-1957.jpg",
+      "still_alt": "下水道 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kanal-1957.jpg）（影片页 https://www.themoviedb.org/movie/29933）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e4VsczBst72DAmn2vxCJB7TqhIe.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 29933,
+      "slug": "kanal-1957"
+    },
+    {
+      "id": "cranes-are-flying-wait-for-me",
+      "line": "等我回来。",
+      "line_en": "Wait for me to come back.",
+      "film_title": "雁南飞",
+      "film_title_en": "The Cranes Are Flying",
+      "year": 1957,
+      "character": "鲍里斯 / 维罗妮卡",
+      "director": "米哈伊尔·卡拉托佐夫",
+      "tags": [
+        "战争",
+        "爱情",
+        "苏联电影"
+      ],
+      "featured": false,
+      "curator_note": "离别与等待场景的通行意译；对应影片反复回响的归返承诺。",
+      "ratings": {
+        "imdb": {
+          "score": 8.3,
+          "votes": 26000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-cranes-are-flying-1957.jpg",
+      "still": "assets/stills/classics/the-cranes-are-flying-1957.jpg",
+      "still_alt": "雁南飞 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-cranes-are-flying-1957.jpg）（影片页 https://www.themoviedb.org/movie/38360）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sUy6Ti0zTGnQffeyMRq03xIOu9E.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 38360,
+      "slug": "the-cranes-are-flying-1957"
+    },
+    {
+      "id": "ashes-and-diamonds-tomorrow",
+      "line": "明天，我们就会消失。",
+      "line_en": "Tomorrow, we will be gone.",
+      "film_title": "灰烬与钻石",
+      "film_title_en": "Ashes and Diamonds",
+      "year": 1958,
+      "character": "马切克",
+      "director": "安杰伊·瓦伊达",
+      "tags": [
+        "政治",
+        "战争",
+        "幻灭"
+      ],
+      "featured": false,
+      "curator_note": "结尾与时代幻灭感的策展意译；不冒充逐字台词，保留马切克短暂青春与历史暴力的张力。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 26000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/ashes-and-diamonds-1958.jpg",
+      "still": "assets/stills/classics/ashes-and-diamonds-1958.jpg",
+      "still_alt": "灰烬与钻石 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ashes-and-diamonds-1958.jpg）（影片页 https://www.themoviedb.org/movie/5055）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pRZBIyopjbxjgbDSEjjZemhaVyy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 5055,
+      "slug": "ashes-and-diamonds-1958"
+    },
+    {
+      "id": "cairo-station-i-am-normal",
+      "line": "我不是疯子，我只是想被爱。",
+      "line_en": "I am not crazy; I only want to be loved.",
+      "film_title": "开罗车站",
+      "film_title_en": "Cairo Station",
+      "year": 1958,
+      "character": "坎纳维",
+      "director": "尤瑟夫·夏因",
+      "tags": [
+        "城市",
+        "欲望",
+        "埃及电影"
+      ],
+      "featured": false,
+      "curator_note": "坎纳维欲望与孤独线的策展意译；将人物自我辩护与被排斥感合并呈现。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 11000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/cairo-station-1958.jpg",
+      "still": "assets/stills/classics/cairo-station-1958.jpg",
+      "still_alt": "开罗车站 · TMDB 宣传静帧（2048×1152）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/cairo-station-1958.jpg）（影片页 https://www.themoviedb.org/movie/47324）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4mGX1MhA63kddBiZRrXeg5gvquJ.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 47324,
+      "slug": "cairo-station-1958"
+    },
+    {
+      "id": "touch-of-evil-future-used-up",
+      "line": "你的未来已经用光了。",
+      "line_en": "Your future is all used up.",
+      "film_title": "历劫佳人",
+      "film_title_en": "Touch of Evil",
+      "year": 1958,
+      "character": "塔妮娅",
+      "director": "奥逊·威尔斯",
+      "tags": [
+        "黑色电影",
+        "腐败",
+        "宿命"
+      ],
+      "featured": false,
+      "curator_note": "片尾塔妮娅对昆兰的通行译法；一句话收束人物的腐败与耗尽。",
+      "ratings": {
+        "imdb": {
+          "score": 8,
+          "votes": 125000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/touch-of-evil-1958.jpg",
+      "still": "assets/stills/classics/touch-of-evil-1958.jpg",
+      "still_alt": "历劫佳人 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/touch-of-evil-1958.jpg）（影片页 https://www.themoviedb.org/movie/1480）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4VoHeMD5EugrxmEfeUgxXpXyzuR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1480,
+      "slug": "touch-of-evil-1958"
+    },
+    {
+      "id": "floating-weeds-live-my-own-life",
+      "line": "我只是想过自己的生活。",
+      "line_en": "I only want to live my own life.",
+      "film_title": "浮草",
+      "film_title_en": "Floating Weeds",
+      "year": 1959,
+      "character": "小津安二郎式的家庭成员群像",
+      "director": "小津安二郎",
+      "tags": [
+        "家庭",
+        "表演",
+        "日本电影"
+      ],
+      "featured": false,
+      "curator_note": "剧团与亲子冲突的策展意译；以克制短句概括人物对被安排人生的抗拒。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 15000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/floating-weeds-1959.jpg",
+      "still": "assets/stills/classics/floating-weeds-1959.jpg",
+      "still_alt": "浮草 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/floating-weeds-1959.jpg）（影片页 https://www.themoviedb.org/movie/46918）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/o7l1P351p4gh9dTlcQy1xB8NL8H.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 46918,
+      "slug": "floating-weeds-1959"
+    },
+    {
+      "id": "world-of-apu-life-goes-on",
+      "line": "生活总要继续。",
+      "line_en": "Life has to go on.",
+      "film_title": "阿普的世界",
+      "film_title_en": "The World of Apu",
+      "year": 1959,
+      "character": "阿普",
+      "director": "萨蒂亚吉特·雷伊",
+      "tags": [
+        "成长",
+        "父子",
+        "印度电影"
+      ],
+      "featured": false,
+      "curator_note": "阿普三部曲收束处的策展意译；指向失去之后重新承担生活的动作。",
+      "ratings": {
+        "imdb": {
+          "score": 8.5,
+          "votes": 38000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-world-of-apu-1959.jpg",
+      "still": "assets/stills/classics/the-world-of-apu-1959.jpg",
+      "still_alt": "阿普的世界 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-world-of-apu-1959.jpg）（影片页 https://www.themoviedb.org/movie/896）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oleQR2uSw4LMcDjwAKjKPU6HZ3t.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 896,
+      "slug": "the-world-of-apu-1959"
+    },
+    {
+      "id": "virgin-spring-god-forgive-me",
+      "line": "上帝，请宽恕我。",
+      "line_en": "God, forgive me.",
+      "film_title": "处女泉",
+      "film_title_en": "The Virgin Spring",
+      "year": 1960,
+      "character": "托尔德",
+      "director": "英格玛·伯格曼",
+      "tags": [
+        "信仰",
+        "复仇",
+        "罪与罚"
+      ],
+      "featured": false,
+      "curator_note": "复仇后的祈祷式通行意译；将影片最后的罪疚、信仰与宽恕悬置在一句话中。",
+      "ratings": {
+        "imdb": {
+          "score": 8,
+          "votes": 31000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-virgin-spring-1960.jpg",
+      "still": "assets/stills/classics/the-virgin-spring-1960.jpg",
+      "still_alt": "处女泉 · TMDB 宣传静帧（2400×1350）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-virgin-spring-1960.jpg）（影片页 https://www.themoviedb.org/movie/11656）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fOfl30Glkc7XD4R3h4xQvO69xmv.jpg（2400×1350）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11656,
+      "slug": "the-virgin-spring-1960"
+    },
+    {
+      "id": "through-glass-god-is-love",
+      "line": "上帝就是爱，而爱就是上帝。",
+      "line_en": "God is love, and love is God.",
+      "film_title": "犹在镜中",
+      "film_title_en": "Through a Glass Darkly",
+      "year": 1961,
+      "character": "大卫",
+      "director": "英格玛·伯格曼",
+      "tags": [
+        "信仰",
+        "家庭",
+        "心理"
+      ],
+      "featured": false,
+      "curator_note": "影片关于上帝与爱的核心命题的通行译法；在精神疾病与家庭关系之间形成反讽。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 32000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/through-a-glass-darkly-1961.jpg",
+      "still": "assets/stills/classics/through-a-glass-darkly-1961.jpg",
+      "still_alt": "犹在镜中 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/through-a-glass-darkly-1961.jpg）（影片页 https://www.themoviedb.org/movie/11602）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xUvE2qim7mBzdUomoYDP9YC8gsZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11602,
+      "slug": "through-a-glass-darkly-1961"
+    },
+    {
+      "id": "sanjuro-best-sword-sheath",
+      "line": "最好的刀，是留在刀鞘里的刀。",
+      "line_en": "The best sword is the one that stays in its sheath.",
+      "film_title": "椿三十郎",
+      "film_title_en": "Sanjuro",
+      "year": 1962,
+      "character": "桑十郎",
+      "director": "黑泽明",
+      "tags": [
+        "武士",
+        "动作",
+        "克制"
+      ],
+      "featured": false,
+      "curator_note": "桑十郎关于克制与武力的通行字幕意译；以短句保留其冷峻的实用主义。",
+      "ratings": {
+        "imdb": {
+          "score": 8,
+          "votes": 42000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/sanjuro-1962.jpg",
+      "still": "assets/stills/classics/sanjuro-1962.jpg",
+      "still_alt": "椿三十郎 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sanjuro-1962.jpg）（影片页 https://www.themoviedb.org/movie/11712）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qrej2n8HYielh286xIXs75kgfkt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11712,
+      "slug": "sanjuro-1962"
+    },
+    {
+      "id": "exterminating-angel-no-one-can-leave",
+      "line": "没有人能离开。",
+      "line_en": "No one can leave.",
+      "film_title": "灭绝天使",
+      "film_title_en": "The Exterminating Angel",
+      "year": 1962,
+      "character": "客人们",
+      "director": "路易斯·布努埃尔",
+      "tags": [
+        "荒诞",
+        "阶级",
+        "困境"
+      ],
+      "featured": false,
+      "curator_note": "宴会困局的核心命题式意译；不是单一人物的逐字台词，而是荒诞规则的合成主句。",
+      "ratings": {
+        "imdb": {
+          "score": 8,
+          "votes": 35000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-exterminating-angel-1962.jpg",
+      "still": "assets/stills/classics/the-exterminating-angel-1962.jpg",
+      "still_alt": "灭绝天使 · TMDB 宣传静帧（3495×1966）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-exterminating-angel-1962.jpg）（影片页 https://www.themoviedb.org/movie/29264）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/c382uWslLEqzy22A1MLLjTdiJWU.jpg（3495×1966）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 29264,
+      "slug": "the-exterminating-angel-1962"
+    },
+    {
+      "id": "winter-light-god-silence",
+      "line": "上帝的沉默，比死亡更可怕。",
+      "line_en": "God’s silence is more frightening than death.",
+      "film_title": "冬之光",
+      "film_title_en": "Winter Light",
+      "year": 1963,
+      "character": "托马斯牧师",
+      "director": "英格玛·伯格曼",
+      "tags": [
+        "信仰",
+        "孤独",
+        "北欧电影"
+      ],
+      "featured": false,
+      "curator_note": "牧师信仰危机的策展意译；明确作为主题压缩句，而非伪造逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 8,
+          "votes": 30000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/winter-light-1963.jpg",
+      "still": "assets/stills/classics/winter-light-1963.jpg",
+      "still_alt": "冬之光 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/winter-light-1963.jpg）（影片页 https://www.themoviedb.org/movie/29455）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xW9d3kvply0raS6cpltSjEYFZkq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 29455,
+      "slug": "winter-light-1963"
+    },
+    {
+      "id": "charulata-lonely",
+      "line": "我很孤独。",
+      "line_en": "I am lonely.",
+      "film_title": "查鲁拉达",
+      "film_title_en": "Charulata",
+      "year": 1964,
+      "character": "查鲁拉塔",
+      "director": "萨蒂亚吉特·雷伊",
+      "tags": [
+        "女性",
+        "孤独",
+        "爱情"
+      ],
+      "featured": false,
+      "curator_note": "查鲁拉塔被困在婚姻与书写欲望之间的通行意译；简短句保留雷伊的内敛语气。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 18000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/charulata-1964.jpg",
+      "still": "assets/stills/classics/charulata-1964.jpg",
+      "still_alt": "查鲁拉达 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/charulata-1964.jpg）（影片页 https://www.themoviedb.org/movie/35790）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/y8kGw0FMgzDuf7LsJOq6hoMuvQy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 35790,
+      "slug": "charulata-1964"
+    },
+    {
+      "id": "i-am-cuba-my-voice",
+      "line": "我是古巴，我的声音就是人民的声音。",
+      "line_en": "I am Cuba; my voice is the voice of the people.",
+      "film_title": "我是古巴",
+      "film_title_en": "I Am Cuba",
+      "year": 1964,
+      "character": "片首旁白",
+      "director": "米哈伊尔·卡拉托佐夫",
+      "tags": [
+        "革命",
+        "诗意",
+        "长镜头"
+      ],
+      "featured": false,
+      "curator_note": "片首旁白的通行译法；以第一人称国家拟人化开启影片的政治诗篇。",
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 17000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/i-am-cuba-1964.jpg",
+      "still": "assets/stills/classics/i-am-cuba-1964.jpg",
+      "still_alt": "我是古巴 · TMDB 宣传静帧（3000×1688）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/i-am-cuba-1964.jpg）（影片页 https://www.themoviedb.org/movie/32015）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hAVconeXVXHJGujIStsATnH0u2M.jpg（3000×1688）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 32015,
+      "slug": "i-am-cuba-1964"
+    },
+    {
+      "id": "onibaba-only-the-living",
+      "line": "只要活着，就不能停下来。",
+      "line_en": "As long as we live, we cannot stop.",
+      "film_title": "鬼婆",
+      "film_title_en": "Onibaba",
+      "year": 1964,
+      "character": "老妇人",
+      "director": "新藤兼人",
+      "tags": [
+        "战争",
+        "欲望",
+        "民俗"
+      ],
+      "featured": false,
+      "curator_note": "沼泽与生存竞争中的策展意译；把影片的饥饿、恐惧与欲望收束为一句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 24000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/onibaba-1964.jpg",
+      "still": "assets/stills/classics/onibaba-1964.jpg",
+      "still_alt": "鬼婆 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/onibaba-1964.jpg）（影片页 https://www.themoviedb.org/movie/3763）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/y56ycgSvDI1qYk7WqgkKaYqSZo0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 3763,
+      "slug": "onibaba-1964"
+    },
+    {
+      "id": "pale-flower-life-is-a-gamble",
+      "line": "活着，就是一场赌局。",
+      "line_en": "Living is a gamble.",
+      "film_title": "干花",
+      "film_title_en": "Pale Flower",
+      "year": 1964,
+      "character": "村木",
+      "director": "筱田正浩",
+      "tags": [
+        "黑色电影",
+        "赌局",
+        "虚无"
+      ],
+      "featured": false,
+      "curator_note": "村木与赌博世界的主题性意译；明确标注为策展句，不冒充逐字台词。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 10000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/pale-flower-1964.jpg",
+      "still": "assets/stills/classics/pale-flower-1964.jpg",
+      "still_alt": "干花 · TMDB 宣传静帧（3496×1966）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pale-flower-1964.jpg）（影片页 https://www.themoviedb.org/movie/61475）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zchaaZhN2wcIB6O6YLDBehRRBJK.jpg（3496×1966）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 61475,
+      "slug": "pale-flower-1964"
+    },
+    {
+      "id": "chimes-midnight-know-thee-not",
+      "line": "我不认识你，老头。",
+      "line_en": "I know thee not, old man.",
+      "film_title": "午夜钟声",
+      "film_title_en": "Chimes at Midnight",
+      "year": 1965,
+      "character": "哈尔王子",
+      "director": "奥逊·威尔斯",
+      "tags": [
+        "莎士比亚",
+        "友情",
+        "衰败"
+      ],
+      "featured": false,
+      "curator_note": "哈尔拒绝福斯塔夫时的莎士比亚台词通行译法；影片最冷酷的友情告别之一。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 18000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/chimes-at-midnight-1965.jpg",
+      "still": "assets/stills/classics/chimes-at-midnight-1965.jpg",
+      "still_alt": "午夜钟声 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/chimes-at-midnight-1965.jpg）（影片页 https://www.themoviedb.org/movie/986）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qXc12zTJJNBIZCHijUDIg1CYY34.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 986,
+      "slug": "chimes-at-midnight-1965"
+    },
+    {
+      "id": "shop-main-street-ordinary-man",
+      "line": "我不想当英雄，我只想做个普通人。",
+      "line_en": "I do not want to be a hero; I only want to be an ordinary man.",
+      "film_title": "大街上的商店",
+      "film_title_en": "The Shop on Main Street",
+      "year": 1965,
+      "character": "托诺·布尔特",
+      "director": "扬·卡达尔 / 埃尔马·克洛斯",
+      "tags": [
+        "战争",
+        "良知",
+        "历史"
+      ],
+      "featured": false,
+      "curator_note": "托诺在恐惧与良知之间的策展意译；将普通人的道德选择置于历史暴力中。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 22000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-shop-on-main-street-1965.jpg",
+      "still": "assets/stills/classics/the-shop-on-main-street-1965.jpg",
+      "still_alt": "大街上的商店 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-shop-on-main-street-1965.jpg）（影片页 https://www.themoviedb.org/movie/25905）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dpa5PiYGIvkjeMTcBG9VD4bQOjg.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 25905,
+      "slug": "the-shop-on-main-street-1965"
+    },
+    {
+      "id": "closely-watched-trains-final-exam",
+      "line": "现在，我终于长大了。",
+      "line_en": "Now, I have finally grown up.",
+      "film_title": "严密监视的火车",
+      "film_title_en": "Closely Watched Trains",
+      "year": 1966,
+      "character": "米洛什·赫尔马",
+      "director": "伊日·门泽尔",
+      "tags": [
+        "成长",
+        "战争",
+        "捷克新浪潮"
+      ],
+      "featured": false,
+      "curator_note": "米洛什在结尾行动后的策展意译；把青春、羞耻与占领现实的突变压缩呈现。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 30000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/closely-watched-trains-1966.jpg",
+      "still": "assets/stills/classics/closely-watched-trains-1966.jpg",
+      "still_alt": "严密监视的火车 · TMDB 宣传静帧（3021×1699）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/closely-watched-trains-1966.jpg）（影片页 https://www.themoviedb.org/movie/789）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eD1ztHEgCsexPrdciDBhhvxHLQs.jpg（3021×1699）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 789,
+      "slug": "closely-watched-trains-1966"
+    },
+    {
+      "id": "daisies-everything-spoiled",
+      "line": "既然一切都坏了，那就让一切都坏掉吧。",
+      "line_en": "Since everything is spoiled, let everything be spoiled.",
+      "film_title": "雏菊",
+      "film_title_en": "Daisies",
+      "year": 1966,
+      "character": "玛丽一号 / 玛丽二号",
+      "director": "薇拉·希蒂洛娃",
+      "tags": [
+        "新浪潮",
+        "反叛",
+        "女性"
+      ],
+      "featured": false,
+      "curator_note": "两位玛丽的反叛宣言式意译；对应影片对消费、秩序与叙事因果的故意破坏。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 16000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/daisies-1966.jpg",
+      "still": "assets/stills/classics/daisies-1966.jpg",
+      "still_alt": "雏菊 · TMDB 宣传静帧（3840×2159）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/daisies-1966.jpg）（影片页 https://www.themoviedb.org/movie/46919）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4KeiLRIS0z96ebXSmsWbz4QrvEw.jpg（3840×2159）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 46919,
+      "slug": "daisies-1966"
+    },
+    {
+      "id": "dragon-inn-rivers-and-lakes",
+      "line": "江湖险恶，人心更险。",
+      "line_en": "The martial world is dangerous; the human heart is more dangerous still.",
+      "film_title": "龙门客栈",
+      "film_title_en": "Dragon Inn",
+      "year": 1967,
+      "character": "策展主句",
+      "director": "胡金铨",
+      "tags": [
+        "武侠",
+        "江湖",
+        "中国电影"
+      ],
+      "featured": false,
+      "curator_note": "对影片江湖伦理与身份博弈的策展意译；并非声称为单一角色逐字台词。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 12000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/dragon-inn-1967.jpg",
+      "still": "assets/stills/classics/dragon-inn-1967.jpg",
+      "still_alt": "龙门客栈 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dragon-inn-1967.jpg）（影片页 https://www.themoviedb.org/movie/104237）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jmVI3nO75BXtdqDyWYiMujh8XVa.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 104237,
+      "slug": "dragon-inn-1967"
+    },
+    {
+      "id": "le-samourai-solitude",
+      "line": "没有比武士更孤独的东西，也许只有丛林里的老虎。",
+      "line_en": "There is no greater solitude than that of the samurai, unless perhaps that of the tiger in the jungle.",
+      "film_title": "独行杀手",
+      "film_title_en": "Le Samouraï",
+      "year": 1967,
+      "character": "杰夫·科斯特洛",
+      "director": "让-皮埃尔·梅尔维尔",
+      "tags": [
+        "黑色电影",
+        "孤独",
+        "杀手"
+      ],
+      "featured": false,
+      "curator_note": "片首引语的通行译法；为杰夫的职业伦理与绝对孤独定调。",
+      "ratings": {
+        "imdb": {
+          "score": 8,
+          "votes": 60000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/le-samourai-1967.jpg",
+      "still": "assets/stills/classics/le-samourai-1967.jpg",
+      "still_alt": "独行杀手 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/le-samourai-1967.jpg）（影片页 https://www.themoviedb.org/movie/5511）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lCIHoL0DfAAKOxujgbr668CQGzg.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 5511,
+      "slug": "le-samourai-1967"
+    },
+    {
+      "id": "playtime-everyone-has-a-place",
+      "line": "每个人都在寻找自己的位置。",
+      "line_en": "Everyone is looking for their place.",
+      "film_title": "玩乐时间",
+      "film_title_en": "Playtime",
+      "year": 1967,
+      "character": "片中群像",
+      "director": "雅克·塔蒂",
+      "tags": [
+        "喜剧",
+        "现代城市",
+        "空间"
+      ],
+      "featured": false,
+      "curator_note": "影片几乎不依靠金句对白；此句是对城市空间、错位与群像动作的策展压缩，已明确非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 45000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/playtime-1967.jpg",
+      "still": "assets/stills/classics/playtime-1967.jpg",
+      "still_alt": "玩乐时间 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/playtime-1967.jpg）（影片页 https://www.themoviedb.org/movie/10227）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/89I6uL28n0UKZEZ7FVV8aOrYlI2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 10227,
+      "slug": "playtime-1967"
+    },
+    {
+      "id": "touch-of-zen-no-desire-no-fear",
+      "line": "无欲，便无所畏惧。",
+      "line_en": "Without desire, there is nothing to fear.",
+      "film_title": "侠女",
+      "film_title_en": "A Touch of Zen",
+      "year": 1971,
+      "character": "慧圆",
+      "director": "胡金铨",
+      "tags": [
+        "武侠",
+        "禅意",
+        "自由"
+      ],
+      "featured": false,
+      "curator_note": "影片禅宗伦理的通行意译；以简洁命题连接隐逸、正义与内在自由。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 11000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/a-touch-of-zen-1971.jpg",
+      "still": "assets/stills/classics/a-touch-of-zen-1971.jpg",
+      "still_alt": "侠女 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-touch-of-zen-1971.jpg）（影片页 https://www.themoviedb.org/movie/44154）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2YizR2BtP21cy9AIYCOE9s2WVhH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 44154,
+      "slug": "a-touch-of-zen-1971"
+    },
+    {
+      "id": "cries-whispers-hold-me",
+      "line": "我很痛苦，请抱抱我。",
+      "line_en": "I am in pain. I need someone to hold me.",
+      "film_title": "呼喊与细语",
+      "film_title_en": "Cries and Whispers",
+      "year": 1972,
+      "character": "艾格尼丝",
+      "director": "英格玛·伯格曼",
+      "tags": [
+        "死亡",
+        "姐妹",
+        "痛苦"
+      ],
+      "featured": false,
+      "curator_note": "艾格尼丝临终场景的通行意译；保留影片把身体痛苦转为亲密请求的核心。",
+      "ratings": {
+        "imdb": {
+          "score": 8,
+          "votes": 60000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（IMDb 近似，非实时抓取）"
+      },
+      "poster": "assets/posters/classics/cries-and-whispers-1972.jpg",
+      "still": "assets/stills/classics/cries-and-whispers-1972.jpg",
+      "still_alt": "呼喊与细语 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/cries-and-whispers-1972.jpg）（影片页 https://www.themoviedb.org/movie/10238）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nsdMpJxbsq8i2CJeai2KyM5CpKe.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 10238,
+      "slug": "cries-and-whispers-1972"
+    }
+  ]
+}
