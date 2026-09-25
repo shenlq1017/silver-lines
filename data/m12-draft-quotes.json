@@ -1,0 +1,1060 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T10:27:00+08:00",
+    "purpose": "M12 草稿：豆瓣 Top250 rank 226–250 各 1 条主金句；status=draft，未并入",
+    "published_lock": "quotes.json published=172（M9 已并入）；M10+M11 draft 待并；本批勿并入",
+    "count": 25,
+    "rank_range": [
+      226,
+      250
+    ],
+    "featured_ids": [
+      "manchester-cant-beat-it",
+      "martian-science-the-shit",
+      "love-actually-you-are-perfect",
+      "spiderverse-anyone-mask",
+      "wonder-choose-kind"
+    ],
+    "blocked": [],
+    "notes": [
+      "海报/静帧一律本地 top250 路径，对齐 stills-index / top250.json slug",
+      "226–250 静帧文件与 stills-index 均齐；宽边均 ≥1920，无 blocked",
+      "soft/actual 静帧（源站最大不足 2560）：rank [247]（247 血观音 2057×1157）",
+      "豆瓣评分对齐 top250.json；票数为策展习惯圆整",
+      "imdb/rt/mc 为 2026-09-25 策展快照近似，非实时抓取",
+      "崖上的波妞 film_title_en=Ponyo；小姐=The Handmaiden；血观音=The Bold, the Corrupt, and the Beautiful",
+      "罗生门/彗星来的那一夜/步履不停/千年女优/血观音/隐藏人物等题旨或定译边界已写 curator_note",
+      "凤凰社/黑客帝国2/谍影重重2 与已刊或既有 draft HP/Matrix/Bourne 系列不撞 id",
+      "featured 草稿内仅 5 条；并入时整库仍应收束≈5",
+      "未改 quotes.json；未跑 sync-quote-pages；未 push"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "ponyo-loves-sosuke",
+      "line": "波妞喜欢宗介！",
+      "line_en": "Ponyo loves Sosuke!",
+      "film_title": "崖上的波妞",
+      "film_title_en": "Ponyo",
+      "year": 2008,
+      "character": "波妞",
+      "director": "宫崎骏",
+      "tags": [
+        "动画",
+        "海洋",
+        "童年"
+      ],
+      "featured": false,
+      "curator_note": "半鱼女孩扑向人类男孩：崖上的波妞把告白压成五个字加感叹号。通行定译；film_title_en=Ponyo（非原日文片名）。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 520000
+        },
+        "imdb": {
+          "score": 7.6,
+          "votes": 180000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 91
+        },
+        "metacritic": {
+          "score": 86
+        }
+      },
+      "poster": "assets/posters/top250/226-rank-226.jpg",
+      "still": "assets/stills/top250/226-rank-226.jpg",
+      "still_alt": "崖上的波妞 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/226-rank-226.jpg）（影片页 https://www.themoviedb.org/movie/12429）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vdeWSX4fvuWz2oHpbCW2t8mYi6e.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 226
+    },
+    {
+      "id": "grande-vadrouille-dont-shoot",
+      "line": "别开枪——我们是英国人！……啊不，是法国人！",
+      "line_en": "Don't shoot—we're English! …Ah no, French!",
+      "film_title": "虎口脱险",
+      "film_title_en": "La Grande Vadrouille",
+      "year": 1966,
+      "character": "Stanislas Lefort / Augustin Bouvet",
+      "director": "热拉尔·乌里",
+      "tags": [
+        "喜剧",
+        "战争",
+        "法国"
+      ],
+      "featured": false,
+      "curator_note": "虎口脱险把占领区逃亡做成连环乌龙：国籍喊错本身就是笑点。通行喜剧桥段凝练，略有字幕差，已标边界。",
+      "ratings": {
+        "douban": {
+          "score": 8.9,
+          "votes": 280000
+        },
+        "imdb": {
+          "score": 7.9,
+          "votes": 15000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 94
+        },
+        "metacritic": {
+          "score": 78
+        }
+      },
+      "poster": "assets/posters/top250/227-la-grande-vadrouille.jpg",
+      "still": "assets/stills/top250/227-la-grande-vadrouille.jpg",
+      "still_alt": "虎口脱险 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/227-la-grande-vadrouille.jpg）（影片页 https://www.themoviedb.org/movie/8290）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bodTQ7K68AopK2uQumsrSVT9g4A.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 227
+    },
+    {
+      "id": "coherence-another-house",
+      "line": "如果你走进另一栋房子——你可能再也回不来了。",
+      "line_en": "If you walk into another house, you might never come back.",
+      "film_title": "彗星来的那一夜",
+      "film_title_en": "Coherence",
+      "year": 2013,
+      "character": "题旨 / 晚宴众人",
+      "director": "詹姆斯·沃德·布柯特",
+      "tags": [
+        "科幻",
+        "多重现实",
+        "悬疑"
+      ],
+      "featured": false,
+      "curator_note": "彗星夜把邻桌变成平行宇宙：彗星来的那一夜用「另一栋房子」收束量子寓言。题旨凝练，非唯一逐字对白，边界已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 480000
+        },
+        "imdb": {
+          "score": 7.2,
+          "votes": 160000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 88
+        },
+        "metacritic": {
+          "score": 65
+        }
+      },
+      "poster": "assets/posters/top250/228-coherence.jpg",
+      "still": "assets/stills/top250/228-coherence.jpg",
+      "still_alt": "彗星来的那一夜 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/228-coherence.jpg）（影片页 https://www.themoviedb.org/movie/220289）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fZDfpoC3rVAuiqCMKbr7leW1Cxa.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 228
+    },
+    {
+      "id": "phoenix-light-and-dark",
+      "line": "我们每个人心里都有光明与黑暗。要紧的是你选择按哪一边行事。",
+      "line_en": "We've all got both light and dark inside us. What matters is the part we choose to act on.",
+      "film_title": "哈利·波特与凤凰社",
+      "film_title_en": "Harry Potter and the Order of the Phoenix",
+      "year": 2007,
+      "character": "Sirius Black",
+      "director": "大卫·耶茨",
+      "tags": [
+        "魔法",
+        "选择",
+        "成长"
+      ],
+      "featured": false,
+      "curator_note": "小天狼星对哈利的家训：凤凰社把「血统」争论翻成选择伦理。与已刊 HP（魔法石/密室/阿兹卡班/火焰杯/死圣上/死圣下）不撞 id。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 620000
+        },
+        "imdb": {
+          "score": 7.5,
+          "votes": 650000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 78
+        },
+        "metacritic": {
+          "score": 71
+        }
+      },
+      "poster": "assets/posters/top250/229-harry-potter-and-the-order-of-the-phoenix.jpg",
+      "still": "assets/stills/top250/229-harry-potter-and-the-order-of-the-phoenix.jpg",
+      "still_alt": "哈利·波特与凤凰社 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/229-harry-potter-and-the-order-of-the-phoenix.jpg）（影片页 https://www.themoviedb.org/movie/675）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9svsJni0pNROt53QBEj9JqZMuEK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 229
+    },
+    {
+      "id": "rain-man-excellent-driver",
+      "line": "我是个出色的司机。",
+      "line_en": "I'm an excellent driver.",
+      "film_title": "雨人",
+      "film_title_en": "Rain Man",
+      "year": 1988,
+      "character": "Raymond Babbitt",
+      "director": "巴瑞·莱文森",
+      "tags": [
+        "亲情",
+        "公路",
+        "自闭"
+      ],
+      "featured": false,
+      "curator_note": "雨人一句自我鉴定，既是笑点也是尊严：重复的短句撑起整段公路。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 450000
+        },
+        "imdb": {
+          "score": 8.0,
+          "votes": 450000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 88
+        },
+        "metacritic": {
+          "score": 65
+        }
+      },
+      "poster": "assets/posters/top250/230-rain-man.jpg",
+      "still": "assets/stills/top250/230-rain-man.jpg",
+      "still_alt": "雨人 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/230-rain-man.jpg）（影片页 https://www.themoviedb.org/movie/380）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 230
+    },
+    {
+      "id": "manchester-cant-beat-it",
+      "line": "我打不过它。我打不过它。",
+      "line_en": "I can't beat it. I can't beat it.",
+      "film_title": "海边的曼彻斯特",
+      "film_title_en": "Manchester by the Sea",
+      "year": 2016,
+      "character": "Lee Chandler",
+      "director": "肯尼思·洛纳根",
+      "tags": [
+        "悲伤",
+        "家庭",
+        "罪疚"
+      ],
+      "featured": true,
+      "curator_note": "监护权谈话把整部片的重量砸穿：海边的曼彻斯特用重复的「打不过」，拒绝疗愈叙事的廉价收束。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 380000
+        },
+        "imdb": {
+          "score": 7.8,
+          "votes": 330000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 96
+        },
+        "metacritic": {
+          "score": 96
+        }
+      },
+      "poster": "assets/posters/top250/231-manchester-by-the-sea.jpg",
+      "still": "assets/stills/top250/231-manchester-by-the-sea.jpg",
+      "still_alt": "海边的曼彻斯特 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/231-manchester-by-the-sea.jpg）（影片页 https://www.themoviedb.org/movie/334541）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fjk4eE8Ypke4YLv5A3ArDH4GzYH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 231
+    },
+    {
+      "id": "rashomon-humans-lie",
+      "line": "人，是会说谎的。连对自己，也常常说不了实话。",
+      "line_en": "It's human to lie. Most of the time we can't even be honest with ourselves.",
+      "film_title": "罗生门",
+      "film_title_en": "Rashomon",
+      "year": 1950,
+      "character": "题旨 / 樵夫与僧人",
+      "director": "黑泽明",
+      "tags": [
+        "真相",
+        "人性",
+        "古典"
+      ],
+      "featured": false,
+      "curator_note": "罗生门把同一桩命案掰成四面镜子：此句为题旨通行凝练，非唯一逐字对白，边界已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 420000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 190000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "metacritic": {
+          "score": 98
+        }
+      },
+      "poster": "assets/posters/top250/232-rashomon.jpg",
+      "still": "assets/stills/top250/232-rashomon.jpg",
+      "still_alt": "罗生门 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/232-rashomon.jpg）（影片页 https://www.themoviedb.org/movie/548）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tDn1dA52bQH9B85vilHeU7C83W1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 232
+    },
+    {
+      "id": "martian-science-the-shit",
+      "line": "我得用科学，把这该死的局面搞定。",
+      "line_en": "I'm going to have to science the shit out of this.",
+      "film_title": "火星救援",
+      "film_title_en": "The Martian",
+      "year": 2015,
+      "character": "Mark Watney",
+      "director": "雷德利·斯科特",
+      "tags": [
+        "科幻",
+        "生存",
+        "幽默"
+      ],
+      "featured": true,
+      "curator_note": "日志体把绝望改写成实验计划：火星救援一句脏话版科学宣言，是整片语气的旗帜。通行字幕略有差，已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 780000
+        },
+        "imdb": {
+          "score": 8.0,
+          "votes": 950000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 91
+        },
+        "metacritic": {
+          "score": 80
+        }
+      },
+      "poster": "assets/posters/top250/233-the-martian.jpg",
+      "still": "assets/stills/top250/233-the-martian.jpg",
+      "still_alt": "火星救援 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/233-the-martian.jpg）（影片页 https://www.themoviedb.org/movie/286217）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 233
+    },
+    {
+      "id": "notebook-if-youre-a-bird",
+      "line": "如果你是鸟，那我也是鸟。",
+      "line_en": "If you're a bird, I'm a bird.",
+      "film_title": "恋恋笔记本",
+      "film_title_en": "The Notebook",
+      "year": 2004,
+      "character": "Noah Calhoun / Allie Hamilton",
+      "director": "尼克·卡萨维茨",
+      "tags": [
+        "爱情",
+        "记忆",
+        "承诺"
+      ],
+      "featured": false,
+      "curator_note": "雨中与湖边的儿戏誓言：恋恋笔记本用一句对称告白，把一生折叠成鸟的翅膀。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 650000
+        },
+        "imdb": {
+          "score": 7.8,
+          "votes": 650000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 53
+        },
+        "metacritic": {
+          "score": 53
+        }
+      },
+      "poster": "assets/posters/top250/234-the-notebook.jpg",
+      "still": "assets/stills/top250/234-the-notebook.jpg",
+      "still_alt": "恋恋笔记本 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/234-the-notebook.jpg）（影片页 https://www.themoviedb.org/movie/11036）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kMXamIoNIY7wfBpKavorz7ZHjn0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 234
+    },
+    {
+      "id": "frozen-love-is-putting",
+      "line": "爱，就是把别人的需要放在自己前面。",
+      "line_en": "Love is putting someone else's needs before yours.",
+      "film_title": "冰雪奇缘",
+      "film_title_en": "Frozen",
+      "year": 2013,
+      "character": "Olaf",
+      "director": "克里斯·巴克 / 珍妮弗·李",
+      "tags": [
+        "动画",
+        "姐妹",
+        "爱"
+      ],
+      "featured": false,
+      "curator_note": "雪宝替安娜定义真爱：冰雪奇缘把「敞开门」从情歌改写成牺牲伦理。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 900000
+        },
+        "imdb": {
+          "score": 7.4,
+          "votes": 700000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 90
+        },
+        "metacritic": {
+          "score": 74
+        }
+      },
+      "poster": "assets/posters/top250/235-frozen.jpg",
+      "still": "assets/stills/top250/235-frozen.jpg",
+      "still_alt": "冰雪奇缘 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/235-frozen.jpg）（影片页 https://www.themoviedb.org/movie/109445）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 235
+    },
+    {
+      "id": "love-actually-you-are-perfect",
+      "line": "对我来说，你是完美的。",
+      "line_en": "To me, you are perfect.",
+      "film_title": "真爱至上",
+      "film_title_en": "Love Actually",
+      "year": 2003,
+      "character": "Mark",
+      "director": "理查德·柯蒂斯",
+      "tags": [
+        "爱情",
+        "圣诞",
+        "告白"
+      ],
+      "featured": true,
+      "curator_note": "门廊提词板无声告白：真爱至上用一句白卡，把单恋写成全片最干净的峰值。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 720000
+        },
+        "imdb": {
+          "score": 7.6,
+          "votes": 550000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 64
+        },
+        "metacritic": {
+          "score": 55
+        }
+      },
+      "poster": "assets/posters/top250/236-love-actually.jpg",
+      "still": "assets/stills/top250/236-love-actually.jpg",
+      "still_alt": "真爱至上 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/236-love-actually.jpg）（影片页 https://www.themoviedb.org/movie/508）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4Sn0M0Dv0iL5Tkl2dWko9oilcFL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 236
+    },
+    {
+      "id": "matrix2-already-made-choice",
+      "line": "你不是来做选择的——你已经选好了。你来，是为了理解自己为什么这样选。",
+      "line_en": "You didn't come here to make the choice. You've already made it. You're here to understand why you made it.",
+      "film_title": "黑客帝国2：重装上阵",
+      "film_title_en": "The Matrix Reloaded",
+      "year": 2003,
+      "character": "The Oracle",
+      "director": "拉娜·沃卓斯基 / 莉莉·沃卓斯基",
+      "tags": [
+        "科幻",
+        "选择",
+        "哲学"
+      ],
+      "featured": false,
+      "curator_note": "先知把自由意志往后推一步：重装上阵与已刊《黑客帝国》《矩阵革命》不撞 id。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 480000
+        },
+        "imdb": {
+          "score": 7.2,
+          "votes": 650000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 73
+        },
+        "metacritic": {
+          "score": 62
+        }
+      },
+      "poster": "assets/posters/top250/237-the-matrix-reloaded.jpg",
+      "still": "assets/stills/top250/237-the-matrix-reloaded.jpg",
+      "still_alt": "黑客帝国2：重装上阵 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/237-the-matrix-reloaded.jpg）（影片页 https://www.themoviedb.org/movie/604）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hgWDZ0UlGEf8LvrAkKt6VqAH0bu.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 237
+    },
+    {
+      "id": "still-walking-keep-walking",
+      "line": "人啊，还是得一步一步往前走。",
+      "line_en": "People just have to keep walking, step by step.",
+      "film_title": "步履不停",
+      "film_title_en": "Still Walking",
+      "year": 2008,
+      "character": "题旨 / 横山家",
+      "director": "是枝裕和",
+      "tags": [
+        "家庭",
+        "丧逝",
+        "日常"
+      ],
+      "featured": false,
+      "curator_note": "忌日聚餐里没有爆发，只有腌萝卜与未说完的话：步履不停用「往前走」收束整部静物剧。题旨凝练，边界已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 320000
+        },
+        "imdb": {
+          "score": 7.9,
+          "votes": 15000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 100
+        },
+        "metacritic": {
+          "score": 89
+        }
+      },
+      "poster": "assets/posters/top250/238-still-walking.jpg",
+      "still": "assets/stills/top250/238-still-walking.jpg",
+      "still_alt": "步履不停 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/238-still-walking.jpg）（影片页 https://www.themoviedb.org/movie/25050）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jvms6hztt5BOdWWVGqO5aAJOc4k.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 238
+    },
+    {
+      "id": "spiderverse-anyone-mask",
+      "line": "谁都可以戴上面具。你也可以。",
+      "line_en": "Anyone can wear the mask. You can wear the mask.",
+      "film_title": "蜘蛛侠：平行宇宙",
+      "film_title_en": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "character": "Spider-Man / Miles Morales",
+      "director": "鲍勃·佩西凯蒂 / 彼得·拉姆齐 / 罗德尼·罗斯曼",
+      "tags": [
+        "动画",
+        "英雄",
+        "成长"
+      ],
+      "featured": true,
+      "curator_note": "平行宇宙把蛛网递给布鲁克林少年：一句「谁都可以」把超级英雄从血统改成邀请。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 850000
+        },
+        "imdb": {
+          "score": 8.4,
+          "votes": 650000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 97
+        },
+        "metacritic": {
+          "score": 87
+        }
+      },
+      "poster": "assets/posters/top250/239-spider-man-into-the-spider-verse.jpg",
+      "still": "assets/stills/top250/239-spider-man-into-the-spider-verse.jpg",
+      "still_alt": "蜘蛛侠：平行宇宙 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/239-spider-man-into-the-spider-verse.jpg）（影片页 https://www.themoviedb.org/movie/324857）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qGQf2OHIkoh89K8XeKQzhxczf96.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 239
+    },
+    {
+      "id": "millennium-actress-always-chasing",
+      "line": "我一直在追他——穿越每部戏、每个时代。",
+      "line_en": "I've always been chasing him—through every role, every era.",
+      "film_title": "千年女优",
+      "film_title_en": "Millennium Actress",
+      "year": 2001,
+      "character": "藤原千代子",
+      "director": "今敏",
+      "tags": [
+        "动画",
+        "记忆",
+        "追寻"
+      ],
+      "featured": false,
+      "curator_note": "千年女优把银幕人生叠进真实追寻：此为题旨通行凝练（追钥匙少年），略非唯一逐字，边界已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 280000
+        },
+        "imdb": {
+          "score": 7.8,
+          "votes": 25000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 70
+        }
+      },
+      "poster": "assets/posters/top250/240-millennium-actress.jpg",
+      "still": "assets/stills/top250/240-millennium-actress.jpg",
+      "still_alt": "千年女优 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/240-millennium-actress.jpg）（影片页 https://www.themoviedb.org/movie/33320）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yZDdZalyrBTw1Kd841IWGZDVJPP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 240
+    },
+    {
+      "id": "bourne2-remember-everything",
+      "line": "我都想起来了。我全都想起来了。",
+      "line_en": "I remember. I remember everything.",
+      "film_title": "谍影重重2",
+      "film_title_en": "The Bourne Supremacy",
+      "year": 2004,
+      "character": "Jason Bourne",
+      "director": "保罗·格林格拉斯",
+      "tags": [
+        "谍战",
+        "身份",
+        "记忆"
+      ],
+      "featured": false,
+      "curator_note": "重重2把失忆收束为想起：与已刊《谍影重重3》不撞 id。通行字幕口吻，略有差已标。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 520000
+        },
+        "imdb": {
+          "score": 7.7,
+          "votes": 500000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 81
+        },
+        "metacritic": {
+          "score": 73
+        }
+      },
+      "poster": "assets/posters/top250/241-the-bourne-supremacy.jpg",
+      "still": "assets/stills/top250/241-the-bourne-supremacy.jpg",
+      "still_alt": "谍影重重2 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/241-the-bourne-supremacy.jpg）（影片页 https://www.themoviedb.org/movie/2502）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/unmI2cUB0RvlpXj7AfSgphzDsUt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 241
+    },
+    {
+      "id": "wonder-choose-kind",
+      "line": "若必须在正确与善良之间二选一——请选择善良。",
+      "line_en": "When given the choice between being right or being kind, choose kind.",
+      "film_title": "奇迹男孩",
+      "film_title_en": "Wonder",
+      "year": 2017,
+      "character": "Mr. Browne / 题旨",
+      "director": "斯蒂芬·卓博斯基",
+      "tags": [
+        "成长",
+        "善良",
+        "校园"
+      ],
+      "featured": true,
+      "curator_note": "九月箴言写进教室墙：奇迹男孩把整部成长剧压成一条选择。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 680000
+        },
+        "imdb": {
+          "score": 7.9,
+          "votes": 180000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 85
+        },
+        "metacritic": {
+          "score": 66
+        }
+      },
+      "poster": "assets/posters/top250/242-wonder.jpg",
+      "still": "assets/stills/top250/242-wonder.jpg",
+      "still_alt": "奇迹男孩 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/242-wonder.jpg）（影片页 https://www.themoviedb.org/movie/406997）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9DUdKpVCiNZpF1t6d4ROpleHl0R.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 242
+    },
+    {
+      "id": "lord-of-war-arm-the-eleven",
+      "line": "地球上每十二人就有一支枪。问题只剩：怎么把另外十一个人也武装起来？",
+      "line_en": "There's one firearm for every twelve people on the planet. The only question is: How do we arm the other eleven?",
+      "film_title": "战争之王",
+      "film_title_en": "Lord of War",
+      "year": 2005,
+      "character": "Yuri Orlov",
+      "director": "安德鲁·尼科尔",
+      "tags": [
+        "战争",
+        "军火",
+        "讽刺"
+      ],
+      "featured": false,
+      "curator_note": "开场旁白即整部片的道德倒置：战争之王用统计笑话，把军火商自述写成控诉。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 480000
+        },
+        "imdb": {
+          "score": 7.6,
+          "votes": 350000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 61
+        },
+        "metacritic": {
+          "score": 62
+        }
+      },
+      "poster": "assets/posters/top250/243-lord-of-war.jpg",
+      "still": "assets/stills/top250/243-lord-of-war.jpg",
+      "still_alt": "战争之王 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/243-lord-of-war.jpg）（影片页 https://www.themoviedb.org/movie/1830）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aDswjn9q5QCtLi7DaoJ21rq2pm8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 243
+    },
+    {
+      "id": "gits-net-vast-infinite",
+      "line": "网络广阔无垠。",
+      "line_en": "The net is vast and infinite.",
+      "film_title": "攻壳机动队",
+      "film_title_en": "Ghost in the Shell",
+      "year": 1995,
+      "character": "草薙素子",
+      "director": "押井守",
+      "tags": [
+        "科幻",
+        "赛博",
+        "自我"
+      ],
+      "featured": false,
+      "curator_note": "攻壳机动队终幕一句，把「我是谁」抛进无限网海。1995 剧场版通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 9.0,
+          "votes": 420000
+        },
+        "imdb": {
+          "score": 7.9,
+          "votes": 170000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 96
+        },
+        "metacritic": {
+          "score": 76
+        }
+      },
+      "poster": "assets/posters/top250/244-ghost-in-the-shell.jpg",
+      "still": "assets/stills/top250/244-ghost-in-the-shell.jpg",
+      "still_alt": "攻壳机动队 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/244-ghost-in-the-shell.jpg）（影片页 https://www.themoviedb.org/movie/9323）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gTRXgigmgKpeJjW07iq686HZyBD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 244
+    },
+    {
+      "id": "blood-diamond-god-left",
+      "line": "有时我想，上帝会不会原谅我们对彼此做过的事？然后我环顾四周——才明白上帝早就离开了这地方。",
+      "line_en": "Sometimes I wonder: will God ever forgive us for what we've done to each other? Then I look around and I realize—God left this place a long time ago.",
+      "film_title": "血钻",
+      "film_title_en": "Blood Diamond",
+      "year": 2006,
+      "character": "Danny Archer",
+      "director": "爱德华·兹威克",
+      "tags": [
+        "战争",
+        "非洲",
+        "良心"
+      ],
+      "featured": false,
+      "curator_note": "雇佣兵的深夜独白：血钻把「血色钻石」从商品翻成神义论。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 450000
+        },
+        "imdb": {
+          "score": 8.0,
+          "votes": 600000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 63
+        },
+        "metacritic": {
+          "score": 64
+        }
+      },
+      "poster": "assets/posters/top250/245-blood-diamond.jpg",
+      "still": "assets/stills/top250/245-blood-diamond.jpg",
+      "still_alt": "血钻 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/245-blood-diamond.jpg）（影片页 https://www.themoviedb.org/movie/1372）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vffPZUYScdWtGU0UrccFIRX4LbV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 245
+    },
+    {
+      "id": "handmaiden-want-to-be-deceived",
+      "line": "我愿意被你骗一辈子。",
+      "line_en": "I want to be deceived by you for the rest of my life.",
+      "film_title": "小姐",
+      "film_title_en": "The Handmaiden",
+      "year": 2016,
+      "character": "秀美 / 秀雅",
+      "director": "朴赞郁",
+      "tags": [
+        "爱情",
+        "阴谋",
+        "韩国"
+      ],
+      "featured": false,
+      "curator_note": "小姐把双重骗局翻成彼此选中的谎：此为中文圈通行金句口吻（题旨/定译边界），film_title_en=The Handmaiden（非原韩文片名）。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 580000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 190000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 95
+        },
+        "metacritic": {
+          "score": 84
+        }
+      },
+      "poster": "assets/posters/top250/246-rank-246.jpg",
+      "still": "assets/stills/top250/246-rank-246.jpg",
+      "still_alt": "小姐 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/246-rank-246.jpg）（影片页 https://www.themoviedb.org/movie/290098）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3upEZ0ltY7WwOSFVXrtiP34D48p.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 246
+    },
+    {
+      "id": "blood-guanyin-family-business",
+      "line": "这世上最脏的生意，往往做在最干净的佛堂里。",
+      "line_en": "The dirtiest deals are often done in the cleanest temples.",
+      "film_title": "血观音",
+      "film_title_en": "The Bold, the Corrupt, and the Beautiful",
+      "year": 2017,
+      "character": "题旨 / 棠家",
+      "director": "杨雅喆",
+      "tags": [
+        "权力",
+        "家族",
+        "台湾"
+      ],
+      "featured": false,
+      "curator_note": "血观音把观音龛与权术叠影：此为题旨凝练（非唯一逐字对白），边界已标。静帧 rank 247 actual 2057×1157（≥1920 可上）。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 350000
+        },
+        "imdb": {
+          "score": 7.2,
+          "votes": 3000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 90
+        },
+        "metacritic": {
+          "score": 72
+        }
+      },
+      "poster": "assets/posters/top250/247-the-bold-the-corrupt-and-the-beautiful.jpg",
+      "still": "assets/stills/top250/247-the-bold-the-corrupt-and-the-beautiful.jpg",
+      "still_alt": "血观音 · 宣传静帧（2057×1157）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/247-the-bold-the-corrupt-and-the-beautiful.jpg）（影片页 https://www.themoviedb.org/movie/478804）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lVLc3KbXJ2TNrtQ5AyhPjiqnrX8.jpg（2057×1157）；静帧宽边 2057（源站最大，status=actual，≥1920 可上）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 247
+    },
+    {
+      "id": "hidden-figures-here-to-stay",
+      "line": "我不是来做客的——我是来留下的。",
+      "line_en": "I'm not here to sit out. I'm here to stay.",
+      "film_title": "隐藏人物",
+      "film_title_en": "Hidden Figures",
+      "year": 2016,
+      "character": "Dorothy Vaughan / 题旨",
+      "director": "西奥多·梅尔菲",
+      "tags": [
+        "历史",
+        "女性",
+        "种族"
+      ],
+      "featured": false,
+      "curator_note": "隐藏人物把 IBM 机房与民权叠在同一条走廊：此句为策展通行口吻凝练（职业尊严），略有字幕差，已标边界。",
+      "ratings": {
+        "douban": {
+          "score": 8.9,
+          "votes": 420000
+        },
+        "imdb": {
+          "score": 7.8,
+          "votes": 270000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 74
+        }
+      },
+      "poster": "assets/posters/top250/248-hidden-figures.jpg",
+      "still": "assets/stills/top250/248-hidden-figures.jpg",
+      "still_alt": "隐藏人物 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/248-hidden-figures.jpg）（影片页 https://www.themoviedb.org/movie/381284）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6nYCOqapMPHWzsS77EsOSqXYiNq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 248
+    },
+    {
+      "id": "waterloo-bridge-good-luck-charm",
+      "line": "把这好运符带着——等战争结束，再还给我。",
+      "line_en": "Keep this good-luck charm—and give it back to me when the war is over.",
+      "film_title": "魂断蓝桥",
+      "film_title_en": "Waterloo Bridge",
+      "year": 1940,
+      "character": "Myra Lester / Roy Cronin",
+      "director": "茂文·勒鲁瓦",
+      "tags": [
+        "爱情",
+        "战争",
+        "悲剧"
+      ],
+      "featured": false,
+      "curator_note": "滑铁卢桥上的水晶符：魂断蓝桥用「战后归还」写下最狠的未兑现承诺。通行定译口吻。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 480000
+        },
+        "imdb": {
+          "score": 7.7,
+          "votes": 12000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 88
+        },
+        "metacritic": {
+          "score": 70
+        }
+      },
+      "poster": "assets/posters/top250/249-waterloo-bridge.jpg",
+      "still": "assets/stills/top250/249-waterloo-bridge.jpg",
+      "still_alt": "魂断蓝桥 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/249-waterloo-bridge.jpg）（影片页 https://www.themoviedb.org/movie/43824）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/neYZdMJ6Od6o4nHNrrwucsiIJ9L.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 249
+    },
+    {
+      "id": "room-so-much-world",
+      "line": "外面有好多好多地方。",
+      "line_en": "There's so much of place in the world.",
+      "film_title": "房间",
+      "film_title_en": "Room",
+      "year": 2015,
+      "character": "Jack",
+      "director": "伦尼·阿伯拉罕森",
+      "tags": [
+        "母子",
+        "自由",
+        "创伤"
+      ],
+      "featured": false,
+      "curator_note": "房间外的第一课不是地理，是「地方」一词开始膨胀：Room 用童声收束劫后余生。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.7,
+          "votes": 520000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 480000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 86
+        }
+      },
+      "poster": "assets/posters/top250/250-room.jpg",
+      "still": "assets/stills/top250/250-room.jpg",
+      "still_alt": "房间 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/250-room.jpg）（影片页 https://www.themoviedb.org/movie/264644）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cGV6R2vzT4TYIabf3JgmrOISQ0y.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 250
+    }
+  ]
+}
