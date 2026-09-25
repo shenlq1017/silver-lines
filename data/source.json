@@ -16,6 +16,21 @@
     "楚门的世界"
   ],
   "ratings_policy": "评分均为策展手抄公开分数的合理近似；source_note=策展快照；禁止爬虫实时抓取。",
-  "imagery_policy": "海报与静帧为自绘氛围 PNG 示意，非原片截帧、非盗版剧照；license_note 已标注。",
-  "count_published": 10
+  "imagery_policy": "海报与静帧为 TMDB original 本地缓存（JPEG）；详情全屏用 still cover；禁止 w500 与外链热图。Top250 海报见 assets/posters/top250/。",
+  "count_published": 10,
+  "top250": {
+    "freeze_date": "2026-09-25",
+    "label": "豆瓣电影 Top250 全部条目冻结快照（仅素材入库，不扩页面展示）",
+    "count": 250,
+    "data_file": "data/top250.json",
+    "poster_dir": "assets/posters/top250/",
+    "list_source_url": "https://movie.douban.com/top250",
+    "snapshot_url": "https://raw.githubusercontent.com/rijieli/douban_spider/main/douban2026-9.json",
+    "snapshot_note": "rijieli/douban_spider 月度镜像 douban2026-9.json（对应 2026-09）",
+    "id_mapping": "Wikidata P4529→P4947/P345；缺项经 TMDB 站内搜索补全 tmdb_id",
+    "poster_policy": "本地 JPEG；一律 TMDB /t/p/original（宽边≥780）；禁止 w500。Top10 金句海报仍用 assets/posters/{quote-id}.png，与 top250/ 并存。",
+    "poster_ok": 250,
+    "poster_missing": 0,
+    "scope_note": "本轮只入库片单+海报；不新增 250 条详情路由；quotes.json status=published 仍锁定 Top10。"
+  }
 }
