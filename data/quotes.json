@@ -29669,5 +29669,594 @@
     "still_alt": "冬天的故事 · TMDB 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-tale-of-winter-1992.jpg，1200×1800）（影片页 https://www.themoviedb.org/movie/10241）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hfTKQGmXbaeOmiRmHdQ6A4vK95T.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "jinzhi-disguise",
+    "line": "男也好，女也好，我只知道我中意你。",
+    "line_en": "Man or woman—doesn't matter. I only know I love you.",
+    "film_title": "金枝玉叶",
+    "film_title_en": "He Is a Woman, She Is a Man",
+    "year": 1994,
+    "character": "顾家明 / Koo Ka-ming",
+    "director": "陈可辛",
+    "tags": [
+      "身份",
+      "性别",
+      "爱情",
+      "陈可辛"
+    ],
+    "featured": false,
+    "curator_note": "片中告白对白（张国荣饰顾家明）；华语通行引述／影评常引，粤语原声意近「男也好女也好，我只知道我中意你」。",
+    "ratings": {
+      "imdb": {
+        "score": 7,
+        "votes": 41
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/he-is-a-woman-she-is-a-man-1994.jpg",
+    "still": "assets/stills/classics/he-is-a-woman-she-is-a-man-1994.jpg",
+    "still_alt": "金枝玉叶 · TMDB 宣传静帧（2048×1152）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/he-is-a-woman-she-is-a-man-1994.jpg，2000×2999）（影片页 https://www.themoviedb.org/movie/115156）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/x32lvi7XHnBNfL6iBJ6CGufmvUC.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "lola-cabaret",
+    "line": "这里的人有私生活，也有公共生活，两者毫不相干。",
+    "line_en": "The people here have a private life and a public life, and the two have nothing to do with each other.",
+    "film_title": "罗拉",
+    "film_title_en": "Lola",
+    "year": 1981,
+    "character": "罗拉 / Lola",
+    "director": "赖纳·维尔纳·法斯宾德",
+    "tags": [
+      "欲望",
+      "腐败",
+      "小城",
+      "法斯宾德"
+    ],
+    "featured": false,
+    "curator_note": "罗拉规劝冯·博姆离开小城时的对白；英文字幕通行译法（Kinoafisha／IMDb quotes 辑录）。",
+    "ratings": {
+      "imdb": {
+        "score": 6.9,
+        "votes": 143
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/lola-1981.jpg",
+    "still": "assets/stills/classics/lola-1981.jpg",
+    "still_alt": "罗拉 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/lola-1981.jpg，1600×2400）（影片页 https://www.themoviedb.org/movie/2264）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bJd8rcyl6hAt6nDbEFhrxKlBrNJ.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "tala-pizza",
+    "line": "要想抓小偷，就得把整个世界都抓起来。",
+    "line_en": "If you want to arrest a thief, you'll have to arrest the world.",
+    "film_title": "深红的金子",
+    "film_title_en": "Crimson Gold",
+    "year": 2003,
+    "character": "茶馆男子 / Man in the tea house",
+    "director": "贾法尔·帕纳希",
+    "tags": [
+      "阶级",
+      "德黑兰",
+      "愤怒",
+      "帕纳希"
+    ],
+    "featured": false,
+    "curator_note": "茶馆场景中骗子对侯赛因说的对白（非侯赛因本句）；BBC 影评引述／通行英文字幕译法。",
+    "ratings": {
+      "imdb": {
+        "score": 6.9,
+        "votes": 105
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/crimson-gold-2003.jpg",
+    "still": "assets/stills/classics/crimson-gold-2003.jpg",
+    "still_alt": "深红的金子 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/crimson-gold-2003.jpg，1050×1500）（影片页 https://www.themoviedb.org/movie/40427）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/l3BaM4dtnhPljmiauzvyTAcshWL.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "bukchon-revisit",
+    "line": "生活里许多事无缘无故地发生。我们挑出几件，连成一条思路，就称之为理由。",
+    "line_en": "Random things happen for no reason in our lives. We choose a few and form a line of thought made by all these dots, which we call a reason.",
+    "film_title": "北村方向",
+    "film_title_en": "The Day He Arrives",
+    "year": 2011,
+    "character": "成俊 / Seong-jun",
+    "director": "洪常秀",
+    "tags": [
+      "循环",
+      "雪夜",
+      "对话",
+      "洪常秀"
+    ],
+    "featured": false,
+    "curator_note": "成俊在 Novel 酒吧谈巧合时的对白；影评引述英文字幕通行译法（The Cinematograph 等）。",
+    "ratings": {
+      "imdb": {
+        "score": 6.9,
+        "votes": 85
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-day-he-arrives-2011.jpg",
+    "still": "assets/stills/classics/the-day-he-arrives-2011.jpg",
+    "still_alt": "北村方向 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-day-he-arrives-2011.jpg，932×1398）（影片页 https://www.themoviedb.org/movie/85525）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3q1TT0LQANOtDdN3NIuUm4KT0e2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "gwangju-may",
+    "line": "你知道比枪炮更强大的是什么吗？是人。",
+    "line_en": "Do you know what's stronger than guns? People.",
+    "film_title": "华丽的假期",
+    "film_title_en": "May 18",
+    "year": 2007,
+    "character": "朴恒修 / Park Heung-soo",
+    "director": "金志勋",
+    "tags": [
+      "光州",
+      "民主",
+      "五月",
+      "金志勋"
+    ],
+    "featured": false,
+    "curator_note": "光州市民军领袖朴恒修（安圣基）台词；华语台词辑／影评通行引述。",
+    "ratings": {
+      "imdb": {
+        "score": 6.9,
+        "votes": 48
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/may-18-2007.jpg",
+    "still": "assets/stills/classics/may-18-2007.jpg",
+    "still_alt": "华丽的假期 · TMDB 宣传静帧（2048×1152）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/may-18-2007.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/58069）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6Z9GwOWZao1IiD8iflztfDiGZe1.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "duzhan-chain",
+    "line": "你要活，我陪你；你想死，也陪你。",
+    "line_en": "If you want to live, I'll go with you; if you want to die, I'll go with you too.",
+    "film_title": "毒战",
+    "film_title_en": "Drug War",
+    "year": 2012,
+    "character": "蔡添明 / Timmy Choi",
+    "director": "杜琪峰",
+    "tags": [
+      "缉毒",
+      "卧底",
+      "香港",
+      "杜琪峰"
+    ],
+    "featured": false,
+    "curator_note": "古天乐饰毒贩蔡添明对缉毒队长张雷的对白；华语通行字幕／预告与影评常引。",
+    "ratings": {
+      "imdb": {
+        "score": 6.9,
+        "votes": 315
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/drug-war-2012.jpg",
+    "still": "assets/stills/classics/drug-war-2012.jpg",
+    "still_alt": "毒战 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/drug-war-2012.jpg，1500×2100）（影片页 https://www.themoviedb.org/movie/110410）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/goUhnHGLjGNAorj96JYpE25l523.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "duoming-cash",
+    "line": "股票，是人对未来的预测。测对了，就是赢家；测错了，就是输家。",
+    "line_en": "Stocks are people's predictions of the future. Guess right, you're a winner; guess wrong, you're a loser.",
+    "film_title": "夺命金",
+    "film_title_en": "Life Without Principle",
+    "year": 2011,
+    "character": "宋先生 / Mr. Sung",
+    "director": "杜琪峰",
+    "tags": [
+      "金融",
+      "香港",
+      "道德",
+      "杜琪峰"
+    ],
+    "featured": false,
+    "curator_note": "地下期货上游老板宋先生（尹子维）对白；华语影评逐段引述（通行粤语字幕汉译）。",
+    "ratings": {
+      "imdb": {
+        "score": 6.7,
+        "votes": 92
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/life-without-principle-2011.jpg",
+    "still": "assets/stills/classics/life-without-principle-2011.jpg",
+    "still_alt": "夺命金 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/life-without-principle-2011.jpg，2000×2837）（影片页 https://www.themoviedb.org/movie/90147）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7YcmPOTcYinZO4GGklc3jXA4KS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "daisan-truth",
+    "line": "辩护未必需要真相。",
+    "line_en": "A defense doesn't necessarily need the truth.",
+    "film_title": "第三度嫌疑人",
+    "film_title_en": "The Third Murder",
+    "year": 2017,
+    "character": "重盛 / Shigemori",
+    "director": "是枝裕和",
+    "tags": [
+      "司法",
+      "真相",
+      "伦理",
+      "是枝裕和"
+    ],
+    "featured": false,
+    "curator_note": "律师重盛原句「弁護に必ずしも真実は必要ない」；日语原声＋通行汉译（日语影评／作品论常引）。",
+    "ratings": {
+      "imdb": {
+        "score": 6.6,
+        "votes": 307
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-third-murder-2017.jpg",
+    "still": "assets/stills/classics/the-third-murder-2017.jpg",
+    "still_alt": "第三度嫌疑人 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-third-murder-2017.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/434775）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kHejbCUiGHVVqIj2RmweEnVb6LJ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "herzglas-formula",
+    "line": "我望向远方，望向世界的尽头。这一天结束之前，末日就会到来。",
+    "line_en": "I look into the distance, to the end of the world. Before the day is over, the end will come.",
+    "film_title": "玻璃精灵",
+    "film_title_en": "Heart of Glass",
+    "year": 1976,
+    "character": "先知胡斯勒 / Hias",
+    "director": "维尔纳·赫尔佐格",
+    "tags": [
+      "玻璃",
+      "预言",
+      "巴伐利亚",
+      "赫尔佐格"
+    ],
+    "featured": false,
+    "curator_note": "先知胡斯勒开场预言对白；英语影评／字幕通行引述（Celluloid Wicker Man 等）。",
+    "ratings": {
+      "imdb": {
+        "score": 6.5,
+        "votes": 135
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/heart-of-glass-1976.jpg",
+    "still": "assets/stills/classics/heart-of-glass-1976.jpg",
+    "still_alt": "玻璃精灵 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/heart-of-glass-1976.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/27378）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nnUPsBal4N7Pn9LavIRDDJzq62w.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "sugata-throw",
+    "line": "教这样的人柔道，就像把刀交给疯子。",
+    "line_en": "Teaching judo to such a man is like giving a knife to a lunatic.",
+    "film_title": "姿三四郎",
+    "film_title_en": "Sanshiro Sugata",
+    "year": 1943,
+    "character": "矢野正五郎 / Shogoro Yano",
+    "director": "黑泽明",
+    "tags": [
+      "柔道",
+      "修行",
+      "青春",
+      "黑泽明"
+    ],
+    "featured": false,
+    "curator_note": "师傅矢野训斥姿三四郎时的对白；Kinoafisha／IMDb quotes 英文字幕通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 6.5,
+        "votes": 150
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/sanshiro-sugata-1943.jpg",
+    "still": "assets/stills/classics/sanshiro-sugata-1943.jpg",
+    "still_alt": "姿三四郎 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sanshiro-sugata-1943.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/35022）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uvuUmDEZavZhHeleLWsjXdKztPW.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "baimao-debt",
+    "line": "我不死，我要活！我要报仇，我要活！",
+    "line_en": "I will not die—I will live! I will take revenge—I will live!",
+    "film_title": "白毛女",
+    "film_title_en": "The White-Haired Girl",
+    "year": 1951,
+    "character": "喜儿 / Xi'er",
+    "director": "王滨／水华",
+    "tags": [
+      "压迫",
+      "解放",
+      "歌剧",
+      "王苹"
+    ],
+    "featured": false,
+    "curator_note": "喜儿逃出黄家后的唱段／对白（歌剧电影）；语文教材与剧本选场通行引文（非「旧社会把人变成鬼」主题概括句）。",
+    "ratings": {
+      "imdb": {
+        "score": 6.1,
+        "votes": 7
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-white-haired-girl-1951.jpg",
+    "still": "assets/stills/classics/the-white-haired-girl-1951.jpg",
+    "still_alt": "白毛女 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-white-haired-girl-1951.jpg，853×1279）（影片页 https://www.themoviedb.org/movie/201563）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zbFb6h1IA5lmGfGdPBi8qmRUQB8.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "waiqu-ward",
+    "line": "那就该在春天下雪。",
+    "line_en": "Then I guess it should snow in spring.",
+    "film_title": "外出",
+    "film_title_en": "April Snow",
+    "year": 2005,
+    "character": "仁秀 / In-su",
+    "director": "许秦豪",
+    "tags": [
+      "婚外",
+      "病房",
+      "雪",
+      "许秦豪"
+    ],
+    "featured": false,
+    "curator_note": "仁秀与徐英谈季节时的对白；英文字幕通行译法（SubtitleCat 等字幕稿可核对）。",
+    "ratings": {
+      "imdb": {
+        "score": 6.1,
+        "votes": 55
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/april-snow-2005.jpg",
+    "still": "assets/stills/classics/april-snow-2005.jpg",
+    "still_alt": "外出 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/april-snow-2005.jpg，1200×1800）（影片页 https://www.themoviedb.org/movie/62569）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xtR4wRlYvqExfGoHTnn6yfzeDhI.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "dritte-terror",
+    "line": "资本主义发明了恐怖主义，好迫使国家更好地保护它。",
+    "line_en": "Capitalism invented terrorism to force the state to protect it better.",
+    "film_title": "第三代",
+    "film_title_en": "The Third Generation",
+    "year": 1979,
+    "character": "巡官加斯特 / Inspector-General Gast",
+    "director": "赖纳·维尔纳·法斯宾德",
+    "tags": [
+      "恐怖主义",
+      "家庭",
+      "西德",
+      "法斯宾德"
+    ],
+    "featured": false,
+    "curator_note": "巡官加斯特讲述梦境时的对白；Vague Visages 影评引述英文字幕通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 6,
+        "votes": 52
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-third-generation-1979.jpg",
+    "still": "assets/stills/classics/the-third-generation-1979.jpg",
+    "still_alt": "第三代 · TMDB 宣传静帧（2362×1329）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-third-generation-1979.jpg，1499×2249）（影片页 https://www.themoviedb.org/movie/122683）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ploir57DScaI5kAx0Iz5lMABhL5.jpg（2362×1329）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "claire-knee",
+    "line": "每个女人都有最脆弱的一点。有的是后颈，有的是腰，有的是手。对克莱尔来说，在那种姿势、那种光线下，就是她的膝盖。",
+    "line_en": "Every woman has her most vulnerable point. For some, it's the nape of the neck, the waist, the hands. For Claire, in that position, in that light, it was her knee.",
+    "film_title": "克莱尔的膝盖",
+    "film_title_en": "Claire's Knee",
+    "year": 1970,
+    "character": "热罗姆 / Jérôme",
+    "director": "埃里克·侯麦",
+    "tags": [
+      "欲望",
+      "夏天",
+      "道德故事",
+      "侯麦"
+    ],
+    "featured": false,
+    "curator_note": "热罗姆向奥罗拉解释欲望对象时的对白；IMDb quotes 英文字幕通行译法＋华语影评通行汉译。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 303
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/claire-s-knee-1970.jpg",
+    "still": "assets/stills/classics/claire-s-knee-1970.jpg",
+    "still_alt": "克莱尔的膝盖 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/claire-s-knee-1970.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/2860）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ioyElNRYuddvq0xyRocN6DPBiTW.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "pickpocket-hand",
+    "line": "哦，让娜，为了走到你身边，我竟走了怎样一条奇怪的路。",
+    "line_en": "Oh Jeanne, to reach you at last, what a strange path I had to take.",
+    "film_title": "扒手",
+    "film_title_en": "Pickpocket",
+    "year": 1959,
+    "character": "米歇尔 / Michel",
+    "director": "罗贝尔·布列松",
+    "tags": [
+      "盗窃",
+      "灵魂",
+      "巴黎",
+      "布列松"
+    ],
+    "featured": false,
+    "curator_note": "片末米歇尔画外音；法语原句「Ô Jeanne, pour aller jusqu'à toi, quel drôle de chemin il m'a fallu prendre!」；Wikipedia／IMDb quotes 通行译法。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 590
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/pickpocket-1959.jpg",
+    "still": "assets/stills/classics/pickpocket-1959.jpg",
+    "still_alt": "扒手 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pickpocket-1959.jpg，832×1248）（影片页 https://www.themoviedb.org/movie/690）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5ApVROxPul7vu9NiB2DJWqlA3kE.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "vampyr-shadow",
+    "line": "她需要血。必须是人血。你愿意献出自己的血吗？",
+    "line_en": "But she needs blood. It must be human blood. Are you willing to give her your own?",
+    "film_title": "吸血鬼",
+    "film_title_en": "Vampyr",
+    "year": 1932,
+    "character": "医生 / The Doctor",
+    "director": "卡尔·西奥多·德莱叶",
+    "tags": [
+      "吸血鬼",
+      "阴影",
+      "梦魇",
+      "德莱叶"
+    ],
+    "featured": false,
+    "curator_note": "村医劝艾伦献血救莱奥娜时的对白；修复版英文字幕稿可核对（Subs like Script 等）。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 615
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/vampyr-1932.jpg",
+    "still": "assets/stills/classics/vampyr-1932.jpg",
+    "still_alt": "吸血鬼 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/vampyr-1932.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/779）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4Pu2bfZFMcFwTpQVkgHVdcXDQeF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "kiss-box",
+    "line": "如果我们到不了……记住我。",
+    "line_en": "If we don't, remember me.",
+    "film_title": "死吻",
+    "film_title_en": "Kiss Me Deadly",
+    "year": 1955,
+    "character": "克里斯蒂娜·贝利 / Christina Bailey",
+    "director": "罗伯特·奥尔德里奇",
+    "tags": [
+      "黑色电影",
+      "盒子",
+      "核恐惧",
+      "奥尔德里奇"
+    ],
+    "featured": false,
+    "curator_note": "克里斯蒂娜在车上对迈克·哈默说的对白；IMDb quotes／影片开场通行英文字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 420
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/kiss-me-deadly-1955.jpg",
+    "still": "assets/stills/classics/kiss-me-deadly-1955.jpg",
+    "still_alt": "死吻 · TMDB 宣传静帧（3072×1728）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kiss-me-deadly-1955.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/18030）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rDOQGoYaEtIf7hbs8tdNEnMmH6n.jpg（3072×1728）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "chronique-happy",
+    "line": "你幸福吗？",
+    "line_en": "Are you happy? (Êtes-vous heureux?)",
+    "film_title": "夏日纪事",
+    "film_title_en": "Chronicle of a Summer",
+    "year": 1961,
+    "character": "玛塞琳·罗里达 / Marceline Loridan",
+    "director": "让·鲁什／埃德加·莫兰",
+    "tags": [
+      "真实电影",
+      "幸福",
+      "巴黎",
+      "鲁什"
+    ],
+    "featured": false,
+    "curator_note": "玛塞琳街头访问帕里人的核心提问；法语原声「Êtes-vous heureux?」；维基／法国电影资料馆说明可核对。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 122
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/chronicle-of-a-summer-1961.jpg",
+    "still": "assets/stills/classics/chronicle-of-a-summer-1961.jpg",
+    "still_alt": "夏日纪事 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/chronicle-of-a-summer-1961.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/84972）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bolMHmAoPcY9CQ9IMpJPLSr4azQ.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "master-pursuit",
+    "line": "你难道不知道，在军中总要两害相权取其轻——在两只象鼻虫里挑小的那只？",
+    "line_en": "Do you not know that in the service one must always choose the lesser of two weevils?",
+    "film_title": "怒海争锋",
+    "film_title_en": "Master and Commander",
+    "year": 2003,
+    "character": "杰克·奥布里舰长 / Capt. Jack Aubrey",
+    "director": "彼得·威尔",
+    "tags": [
+      "航海",
+      "战争",
+      "友谊",
+      "威尔"
+    ],
+    "featured": false,
+    "curator_note": "奥布里餐桌上的双关玩笑对白；Wikiquote／IMDb quotes 通行英文字幕；汉译保留 weevil／evil 双关。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 3676
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/master-and-commander-2003.jpg",
+    "still": "assets/stills/classics/master-and-commander-2003.jpg",
+    "still_alt": "怒海争锋 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/master-and-commander-2003.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8619）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]

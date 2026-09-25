@@ -1,13 +1,13 @@
 {
   "meta": {
     "created_at": "2026-09-25T14:12:23+08:00",
-    "purpose": "C27 classics 草稿改写：仅保留可核对银幕对白；status=draft，未并入 quotes.json",
+    "purpose": "C27 classics×19 草稿：quotes-only 可核对对白；status=merged，已并入 quotes.json",
     "batch": "batch-mixed-c27",
     "batch_note": "prefer bing-repaired remainders, fill from yi-repaired remainders",
     "selection_source": "tmp/content-fill-plan/candidates-c27.json",
     "stills_source": "tmp/stills-c27/index-fragment.json",
     "count": 19,
-    "merged": false,
+    "merged": true,
     "featured_ids": [],
     "blocked": [],
     "still_pending": [],
@@ -20,8 +20,7 @@
       "核证依据写入 curator_note（通行译法／字幕对白／影评引文／剧本选场等）；角色字段为说话人物。",
       "原草稿 25 条策展句 → 核证后保留 19、删除 6（见 tmp/c27-draft/dropped-unverifiable.json）。",
       "静帧／海报资产：保留片的资产不动；删除片的海报／静帧留作 orphan（不删除）。",
-      "meta.merged=false；HOLD merge until C26 PASS+live on origin（本地 tip 9823018 Top882）。",
-      "未修改 data/quotes.json；无 push；无 cloud agent。"
+      "meta.merged=true；已并入 quotes.json published 901（882+19）；ranks 883–901；merged_at=2026-09-25T14:20:44+0800；quotes-only×19（batch-bing×13 + batch-yi×6）；dropped×6 未并入"
     ],
     "updated_at": "2026-09-25T14:19:32+08:00",
     "dropped_unverifiable": [
@@ -31,7 +30,8 @@
       "sparrow-2008",
       "moliere-1978",
       "goodbye-to-language-2014"
-    ]
+    ],
+    "merged_at": "2026-09-25T14:20:44+0800"
   },
   "quotes": [
     {
