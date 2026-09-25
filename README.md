@@ -48,18 +48,33 @@ silver-lines/
 ├── about/index.html
 ├── quotes/
 │   ├── index.html
-│   └── {id}/index.html      # 25 条详情
+│   ├── _detail-template.html   # 详情壳单一模板源
+│   └── {id}/index.html         # 由 sync 脚本生成（路径兼容旧链接）
 ├── data/
-│   ├── quotes.json          # 25 条 published
+│   ├── quotes.json          # published 金句
 │   └── source.json          # 来源 / 冻结日 / Top25 名单
 ├── assets/
 │   ├── css/style.css
 │   ├── js/ratings.js
 │   ├── js/site.js
-│   ├── posters/*.png
-│   └── stills/*.png
+│   ├── posters/*
+│   └── stills/*
+├── scripts/
+│   └── sync-quote-pages.mjs # 按 published id 生成/对齐详情壳
+├── docs/
+│   └── data-driven.md       # 扩量步骤
 └── README.md
 ```
+
+## 上架新金句（数据驱动）
+
+扩量步骤 = **写入 `data/quotes.json` + 本地海报/静帧 + 跑同步脚本**。**不用改 `site.js` / CSS**（除非改交互或视觉）。
+
+```bash
+node scripts/sync-quote-pages.mjs
+```
+
+详情壳只维护 `quotes/_detail-template.html`；脚本幂等生成 `quotes/{id}/index.html`，旧链接 `quotes/{id}/` 仍可用。完整说明见 [`docs/data-driven.md`](docs/data-driven.md)。
 
 ## 版权
 
