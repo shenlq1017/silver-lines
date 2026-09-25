@@ -1,0 +1,852 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T13:32:41+08:00",
+    "purpose": "C22 classics×25 草稿：batch-yi2（乙二线）C21 之后质量优先再取；status=draft，未并入 quotes.json",
+    "batch": "batch-yi2",
+    "selection_source": "tmp/content-fill-plan/candidates-yi2-c22-25.json",
+    "stills_source": "tmp/stills-yi2-c22/index-fragment.json",
+    "count": 25,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "source=yi2（乙二线）；承接 C21 yi2×25 之后的剩余匹配池",
+      "海报：assets/posters/classics/{slug}.jpg；入选前校验 width≥780，不足则换 TMDB original（prefer zh）；本批最小海报宽 800；换源：pigs-and-battleships-1961",
+      "静帧：assets/stills/classics/{slug}.jpg（C22 TMDB original backdrop，宽边≥1920）；17 ok / 8 actual",
+      "quotes.json 未修改；未 push；未用 CloudAgent",
+      "TMDB 严格 title/year 匹配池沿用 C20 核验；错配跳过 3（kings-and-queen-2004、hidden-2005、black-rain-1989）",
+      "静帧宽边<1920 不入选：time-out-2001、seduced-and-abandoned-1964（C22 复检仍分别为 1281 / 1500）",
+      "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
+      "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
+      "orphan 未跟踪海报未触碰"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "insect-woman-crawl",
+      "line": "女人要活下去，就得像昆虫一样往前爬。",
+      "line_en": "To stay alive, a woman has to keep crawling forward like an insect.",
+      "film_title": "昆虫女",
+      "film_title_en": "The Insect Woman",
+      "year": 1963,
+      "character": "登泽富子 / Tome Matsuki",
+      "director": "今村昌平",
+      "tags": [
+        "底层",
+        "女性",
+        "成长",
+        "今村昌平"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括今村昌平《昆虫女》片名与女主人公在多重压迫下求生的寓言逻辑，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 79
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-insect-woman-1963.jpg",
+      "still": "assets/stills/classics/the-insect-woman-1963.jpg",
+      "still_alt": "昆虫女 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-insect-woman-1963.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/42984）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/14gO2STuh7qCPZkgvkp48GBrm1x.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 42984,
+      "slug": "the-insect-woman-1963"
+    },
+    {
+      "id": "juliet-spirits-free",
+      "line": "精灵告诉我：你也可以自由。",
+      "line_en": "The spirits tell me: you too can be free.",
+      "film_title": "朱丽叶与精灵",
+      "film_title_en": "Juliet of the Spirits",
+      "year": 1965,
+      "character": "朱丽叶 / Giulietta",
+      "director": "费德里科·费里尼",
+      "tags": [
+        "幻想",
+        "觉醒",
+        "婚姻",
+        "费里尼"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：对应费里尼《朱丽叶与精灵》中妻子借幻觉与象征获得自我的收束，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 347
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/juliet-of-the-spirits-1965.jpg",
+      "still": "assets/stills/classics/juliet-of-the-spirits-1965.jpg",
+      "still_alt": "朱丽叶与精灵 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/juliet-of-the-spirits-1965.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/19120）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nKJPCA7hNHV4AJMDhRg4mOCl38A.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 19120,
+      "slug": "juliet-of-the-spirits-1965"
+    },
+    {
+      "id": "death-venice-beauty",
+      "line": "美是感觉能达到的最高形式。",
+      "line_en": "Beauty is the highest form the senses can attain.",
+      "film_title": "魂断威尼斯",
+      "film_title_en": "Death in Venice",
+      "year": 1971,
+      "character": "阿申巴赫 / Gustav von Aschenbach",
+      "director": "卢奇诺·维斯康蒂",
+      "tags": [
+        "美",
+        "欲望",
+        "衰老",
+        "维斯康蒂"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验意译：维斯康蒂《魂断威尼斯》中阿申巴赫关于美的议论，源自托马斯·曼原著思想；字幕措辞或有出入，不保证单一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 560
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/death-in-venice-1971.jpg",
+      "still": "assets/stills/classics/death-in-venice-1971.jpg",
+      "still_alt": "魂断威尼斯 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/death-in-venice-1971.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/6619）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8AUfe4QJ0rrxOmAvI32O4eDUnXY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 6619,
+      "slug": "death-in-venice-1971"
+    },
+    {
+      "id": "dreamers-cinema-love",
+      "line": "我们用电影相爱，也用街头去革命。",
+      "line_en": "We fell in love through cinema — and took the streets for revolution.",
+      "film_title": "戏梦巴黎",
+      "film_title_en": "The Dreamers",
+      "year": 2003,
+      "character": "玛修／伊萨贝尔／西奥 / Matthew / Isabelle / Theo",
+      "director": "贝纳尔多·贝托鲁奇",
+      "tags": [
+        "青春",
+        "六八",
+        "影迷",
+        "贝托鲁奇"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括贝托鲁奇《戏梦巴黎》中影迷三角与六八学潮并置的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 3171
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-dreamers-2003.jpg",
+      "still": "assets/stills/classics/the-dreamers-2003.jpg",
+      "still_alt": "戏梦巴黎 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-dreamers-2003.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1278）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vaRCS4CCFXcWz1j9GKd6rGLsQQ2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1278,
+      "slug": "the-dreamers-2003"
+    },
+    {
+      "id": "irreversible-time-destroys",
+      "line": "时间摧毁一切。",
+      "line_en": "Time destroys all things.",
+      "film_title": "不可撤销",
+      "film_title_en": "Irreversible",
+      "year": 2002,
+      "character": "旁白／题旨 / title card",
+      "director": "加斯帕·诺埃",
+      "tags": [
+        "时间",
+        "暴力",
+        "倒叙",
+        "诺埃"
+      ],
+      "featured": false,
+      "curator_note": "通行可核验：诺埃《不可撤销》片头/片尾题旨句「Le temps détruit tout / Time destroys all things」的通行中译，影评与字幕广泛引用。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 3440
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/irreversible-2002.jpg",
+      "still": "assets/stills/classics/irreversible-2002.jpg",
+      "still_alt": "不可撤销 · TMDB 宣传静帧（2357×1326）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/irreversible-2002.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/979）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/a69xFOTpEbTnNHREb4o3zBiwH9U.jpg（2357×1326）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 979,
+      "slug": "irreversible-2002"
+    },
+    {
+      "id": "rust-bone-body",
+      "line": "身体残了，爱还可以重新长出来。",
+      "line_en": "The body may break — love can still grow back.",
+      "film_title": "锈与骨",
+      "film_title_en": "Rust and Bone",
+      "year": 2012,
+      "character": "斯特凡妮／阿兰 / Stéphanie / Alain",
+      "director": "雅克·奥迪亚尔",
+      "tags": [
+        "身体",
+        "爱",
+        "重建",
+        "奥迪亚尔"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括奥迪亚尔《锈与骨》中截肢训鲸员与拳手以身体与爱互相重建的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 1495
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/rust-and-bone-2012.jpg",
+      "still": "assets/stills/classics/rust-and-bone-2012.jpg",
+      "still_alt": "锈与骨 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rust-and-bone-2012.jpg，1333×2000）（影片页 https://www.themoviedb.org/movie/97365）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dmj6rictIMGfDbTv6pxeifyqs3I.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 97365,
+      "slug": "rust-and-bone-2012"
+    },
+    {
+      "id": "broker-baby-family",
+      "line": "弃婴被转手的路上，也可能拼出一家人。",
+      "line_en": "On the road where abandoned babies change hands, a family can still be pieced together.",
+      "film_title": "掮客",
+      "film_title_en": "Broker",
+      "year": 2022,
+      "character": "尚贤等 / Sang-hyeon et al.",
+      "director": "是枝裕和",
+      "tags": [
+        "弃婴",
+        "家庭",
+        "温情",
+        "是枝裕和"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括是枝裕和《掮客》中婴儿黑市与临时家庭的温情题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 574
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/broker-2022.jpg",
+      "still": "assets/stills/classics/broker-2022.jpg",
+      "still_alt": "掮客 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/broker-2022.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/736732）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xTy65p0l6TlvxLEGETFMNL4Xqve.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 736732,
+      "slug": "broker-2022"
+    },
+    {
+      "id": "rhapsody-august-remember",
+      "line": "原爆的那天，天空比什么都亮。",
+      "line_en": "On the day of the bomb, the sky was brighter than anything.",
+      "film_title": "八月狂想曲",
+      "film_title_en": "Rhapsody in August",
+      "year": 1991,
+      "character": "祖母金江 / Kane",
+      "director": "黑泽明",
+      "tags": [
+        "原爆",
+        "记忆",
+        "家族",
+        "黑泽明"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：对应黑泽明《八月狂想曲》祖母对长崎原爆记忆与跨代对话的核心题旨，不冒充单一字幕逐字句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 162
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/rhapsody-in-august-1991.jpg",
+      "still": "assets/stills/classics/rhapsody-in-august-1991.jpg",
+      "still_alt": "八月狂想曲 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rhapsody-in-august-1991.jpg，857×1285）（影片页 https://www.themoviedb.org/movie/20645）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e5HYzlk7MwfB3Xp2AUbiYnJDZL5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 20645,
+      "slug": "rhapsody-in-august-1991"
+    },
+    {
+      "id": "pigs-battleships-base",
+      "line": "军舰泊在港里，猪就在岸上被人养肥宰杀。",
+      "line_en": "While battleships sit in the harbor, pigs ashore are fattened for the knife.",
+      "film_title": "猪与军舰",
+      "film_title_en": "Pigs and Battleships",
+      "year": 1961,
+      "character": "群像 / ensemble",
+      "director": "今村昌平",
+      "tags": [
+        "基地",
+        "欲望",
+        "讽刺",
+        "今村昌平"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：呼应今村昌平《猪与军舰》片名与驻日美军基地旁投机社会的讽刺结构，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 67
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/pigs-and-battleships-1961.jpg",
+      "still": "assets/stills/classics/pigs-and-battleships-1961.jpg",
+      "still_alt": "猪与军舰 · TMDB 宣传静帧（2230×1255）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pigs-and-battleships-1961.jpg，1999×3000）（影片页 https://www.themoviedb.org/movie/31104）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xLCY725TUGJpnnlXoFzdE54Msd.jpg（2230×1255）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 31104,
+      "slug": "pigs-and-battleships-1961"
+    },
+    {
+      "id": "soft-skin-affair",
+      "line": "皮肤很软，可秘密一旦戳破就再也收不回。",
+      "line_en": "The skin is soft — but once a secret is pierced, it cannot be taken back.",
+      "film_title": "柔软的皮肤",
+      "film_title_en": "The Soft Skin",
+      "year": 1964,
+      "character": "皮埃尔 / Pierre Lachenay",
+      "director": "弗朗索瓦·特吕弗",
+      "tags": [
+        "出轨",
+        "欲望",
+        "坠落",
+        "特吕弗"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：呼应特吕弗《柔软的皮肤》片名与婚外情终至崩解的叙事弧，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 224
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-soft-skin-1964.jpg",
+      "still": "assets/stills/classics/the-soft-skin-1964.jpg",
+      "still_alt": "柔软的皮肤 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-soft-skin-1964.jpg，1066×1600）（影片页 https://www.themoviedb.org/movie/1719）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9yPgh3v4itb0ah4XWgGM4BdAtNa.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1719,
+      "slug": "the-soft-skin-1964"
+    },
+    {
+      "id": "polytechnique-why",
+      "line": "枪响之后，问题不是「为什么是我」，而是「为什么是这里」。",
+      "line_en": "After the shots, the question is not 'why me' — but 'why here'.",
+      "film_title": "理工学院",
+      "film_title_en": "Polytechnique",
+      "year": 2009,
+      "character": "幸存者群像 / survivors",
+      "director": "丹尼斯·维伦纽瓦",
+      "tags": [
+        "校园",
+        "枪击",
+        "纪实",
+        "维伦纽瓦"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括维伦纽瓦《理工学院》对蒙特利尔理工学院枪击案的冷峻见证题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 715
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/polytechnique-2009.jpg",
+      "still": "assets/stills/classics/polytechnique-2009.jpg",
+      "still_alt": "理工学院 · TMDB 宣传静帧（2901×1632）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/polytechnique-2009.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/22302）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rD6VVei45TLnkCdDucJDDUmb3e3.jpg（2901×1632）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 22302,
+      "slug": "polytechnique-2009"
+    },
+    {
+      "id": "audition-deeper",
+      "line": "再往深处，痛才会变成爱。",
+      "line_en": "Only deeper does pain turn into love.",
+      "film_title": "幻觉",
+      "film_title_en": "Audition",
+      "year": 1999,
+      "character": "荣子 / Asami Yamazaki",
+      "director": "三池崇史",
+      "tags": [
+        "惊悚",
+        "复仇",
+        "约会",
+        "三池崇史"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：对应三池崇史《幻觉》（Audition）中荣子施虐名场面的气质与「kiri kiri」痛感台词群，不冒充单一字幕逐字句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 1854
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/audition-1999.jpg",
+      "still": "assets/stills/classics/audition-1999.jpg",
+      "still_alt": "幻觉 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/audition-1999.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/11075）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gSzl1Fqk2NPc63S9x34OyKadStt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11075,
+      "slug": "audition-1999"
+    },
+    {
+      "id": "read-lips-listen",
+      "line": "听不见的人，有时比谁都听得清。",
+      "line_en": "Those who cannot hear sometimes listen more clearly than anyone.",
+      "film_title": "读我唇语",
+      "film_title_en": "Read My Lips",
+      "year": 2001,
+      "character": "卡拉／保罗 / Carla / Paul",
+      "director": "雅克·奥迪亚尔",
+      "tags": [
+        "窃听",
+        "共谋",
+        "听障",
+        "奥迪亚尔"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括奥迪亚尔《读我唇语》中听障女职员以唇读与前科犯共谋的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 385
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/read-my-lips-2001.jpg",
+      "still": "assets/stills/classics/read-my-lips-2001.jpg",
+      "still_alt": "读我唇语 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/read-my-lips-2001.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/6173）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xUCiXW8e6kX9ClySKqYjXkKeIA2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 6173,
+      "slug": "read-my-lips-2001"
+    },
+    {
+      "id": "dodeska-den-tram",
+      "line": "电车开往哪儿不重要，重要的是它还在开。",
+      "line_en": "It does not matter where the tram goes — only that it still runs.",
+      "film_title": "电车狂",
+      "film_title_en": "Dodes'ka-den",
+      "year": 1970,
+      "character": "六ちゃん / Rokuchan",
+      "director": "黑泽明",
+      "tags": [
+        "贫民窟",
+        "幻想",
+        "群像",
+        "黑泽明"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：对应黑泽明《电车狂》中智障少年幻想驾驶电车「どですかでん」的核心意象，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 162
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/dodes-ka-den-1970.jpg",
+      "still": "assets/stills/classics/dodes-ka-den-1970.jpg",
+      "still_alt": "电车狂 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dodes-ka-den-1970.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/33205）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7NpKHJXbZxNzQK4K1vFO1G3CcqP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 33205,
+      "slug": "dodes-ka-den-1970"
+    },
+    {
+      "id": "the-child-sold",
+      "line": "把孩子卖掉的那一刻，你也把自己卖了。",
+      "line_en": "The moment you sell the child, you sell yourself.",
+      "film_title": "孩子",
+      "film_title_en": "The Child",
+      "year": 2005,
+      "character": "布鲁诺 / Bruno",
+      "director": "达尔登兄弟",
+      "tags": [
+        "父职",
+        "道德",
+        "觉醒",
+        "达尔登"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括达尔登兄弟《孩子》中少年父亲卖婴后道德崩溃与赎回的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 291
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-child-2005.jpg",
+      "still": "assets/stills/classics/the-child-2005.jpg",
+      "still_alt": "孩子 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-child-2005.jpg，800×1200）（影片页 https://www.themoviedb.org/movie/11490）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/A1Xn1UtqOlfnULEyiDOy1gdUQBw.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11490,
+      "slug": "the-child-2005"
+    },
+    {
+      "id": "reality-tv-dream",
+      "line": "当分不清真实与节目，现实就成了最长的试镜。",
+      "line_en": "When you can no longer tell life from the show, reality becomes the longest audition.",
+      "film_title": "现实",
+      "film_title_en": "Reality",
+      "year": 2012,
+      "character": "卢奇亚诺 / Luciano",
+      "director": "马泰奥·加洛内",
+      "tags": [
+        "真人秀",
+        "妄想",
+        "那不勒斯",
+        "加洛内"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括加洛内《现实》中鱼贩妄想上真人秀以致精神崩解的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 353
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/reality-2012.jpg",
+      "still": "assets/stills/classics/reality-2012.jpg",
+      "still_alt": "现实 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/reality-2012.jpg，1165×1748）（影片页 https://www.themoviedb.org/movie/103758）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3GldDOFWTq0TcmmN6OOjG2O8qQx.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 103758,
+      "slug": "reality-2012"
+    },
+    {
+      "id": "blue-warmest-first-love",
+      "line": "初恋的蓝，会把整段青春染上颜色。",
+      "line_en": "The blue of first love colors a whole youth.",
+      "film_title": "蓝是最暖的颜色",
+      "film_title_en": "Blue Is the Warmest Color",
+      "year": 2013,
+      "character": "阿黛尔／艾玛 / Adèle / Emma",
+      "director": "阿卜杜勒·拉蒂夫·凯什修",
+      "tags": [
+        "初恋",
+        "成长",
+        "酷儿",
+        "凯什修"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：呼应凯什修《蓝是最暖的颜色》片名蓝发意象与阿黛尔初恋成长弧，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 4942
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/blue-is-the-warmest-color-2013.jpg",
+      "still": "assets/stills/classics/blue-is-the-warmest-color-2013.jpg",
+      "still_alt": "蓝是最暖的颜色 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/blue-is-the-warmest-color-2013.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/152584）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bEmPrq7Y4MubVATOCtOacY3eXQ5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 152584,
+      "slug": "blue-is-the-warmest-color-2013"
+    },
+    {
+      "id": "kid-bike-wait",
+      "line": "父亲不来，单车还在；有人愿意等你，路就还通。",
+      "line_en": "Father may not come — the bike remains; if someone will wait for you, the road stays open.",
+      "film_title": "单车少年",
+      "film_title_en": "The Kid with a Bike",
+      "year": 2011,
+      "character": "西里尔／萨曼莎 / Cyril / Samantha",
+      "director": "达尔登兄弟",
+      "tags": [
+        "弃养",
+        "单车",
+        "寄养",
+        "达尔登"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括达尔登兄弟《单车少年》中被弃少年以单车与寄养母亲重建信任的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 469
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-kid-with-a-bike-2011.jpg",
+      "still": "assets/stills/classics/the-kid-with-a-bike-2011.jpg",
+      "still_alt": "单车少年 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-kid-with-a-bike-2011.jpg，1500×2250）（影片页 https://www.themoviedb.org/movie/63831）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/59NaUtfZuK2f0lQedSDQwVF7X9E.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 63831,
+      "slug": "the-kid-with-a-bike-2011"
+    },
+    {
+      "id": "climax-dance-hell",
+      "line": "舞会一旦下毒，天堂和地狱只隔一支舞。",
+      "line_en": "Once the party is poisoned, heaven and hell are only a dance apart.",
+      "film_title": "高潮",
+      "film_title_en": "Climax",
+      "year": 2018,
+      "character": "舞团群像 / the dance troupe",
+      "director": "加斯帕·诺埃",
+      "tags": [
+        "迷幻",
+        "舞蹈",
+        "坠落",
+        "诺埃"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括诺埃《高潮》中舞者庆功酒被下药后狂欢坠入暴力的形式题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 2405
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/climax-2018.jpg",
+      "still": "assets/stills/classics/climax-2018.jpg",
+      "still_alt": "高潮 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/climax-2018.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/507076）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mVeVC4L091uxUroJUtUy36vl9uO.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 507076,
+      "slug": "climax-2018"
+    },
+    {
+      "id": "secret-grain-couscous",
+      "line": "一盘couscous里，藏着一家人不肯散的理由。",
+      "line_en": "In one plate of couscous lies a family's reason not to fall apart.",
+      "film_title": "谷物的秘密",
+      "film_title_en": "The Secret of the Grain",
+      "year": 2007,
+      "character": "斯利姆／族人 / Slimane et al.",
+      "director": "阿卜杜勒·拉蒂夫·凯什修",
+      "tags": [
+        "移民",
+        "家庭",
+        "食物",
+        "凯什修"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括凯什修《谷物的秘密》中退休船工以couscous餐厅凝聚北非移民家庭的执念，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 253
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-secret-of-the-grain-2007.jpg",
+      "still": "assets/stills/classics/the-secret-of-the-grain-2007.jpg",
+      "still_alt": "谷物的秘密 · TMDB 宣传静帧（2536×1427）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-secret-of-the-grain-2007.jpg，1024×1536）（影片页 https://www.themoviedb.org/movie/8280）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uQkPQdbtkJYeRPdKUFjIPP8wUm7.jpg（2536×1427）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 8280,
+      "slug": "the-secret-of-the-grain-2007"
+    },
+    {
+      "id": "raw-appetite",
+      "line": "食欲一旦觉醒，就再也装不成素食者。",
+      "line_en": "Once appetite awakens, you can no longer play the vegetarian.",
+      "film_title": "生肉",
+      "film_title_en": "Raw",
+      "year": 2016,
+      "character": "贾丝汀 / Justine",
+      "director": "朱莉娅·杜科纳",
+      "tags": [
+        "食人",
+        "觉醒",
+        "姐妹",
+        "杜科纳"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括杜科纳《生肉》中素食家庭出身的兽医新生在入学仪式后食欲觉醒的寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 3490
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/raw-2016.jpg",
+      "still": "assets/stills/classics/raw-2016.jpg",
+      "still_alt": "生肉 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/raw-2016.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/393519）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qV1pUZAEdfX3sDb8jnkCjRQhXHG.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 393519,
+      "slug": "raw-2016"
+    },
+    {
+      "id": "ichi-killer-pain",
+      "line": "有人靠施暴活着，有人靠挨打才觉得自己还在。",
+      "line_en": "Some live by dealing pain; some only feel alive when they take it.",
+      "film_title": "杀手阿一",
+      "film_title_en": "Ichi the Killer",
+      "year": 2001,
+      "character": "阿一／柿原 / Ichi / Kakihara",
+      "director": "三池崇史",
+      "tags": [
+        "暴力",
+        "受虐",
+        "黑帮",
+        "三池崇史"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括三池崇史《杀手阿一》中杀手与受虐狂对手的暴力同盟结构，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 1150
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/ichi-the-killer-2001.jpg",
+      "still": "assets/stills/classics/ichi-the-killer-2001.jpg",
+      "still_alt": "杀手阿一 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ichi-the-killer-2001.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/9696）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/j3P5wkyiigZW8aeogoZoiNIZySL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 9696,
+      "slug": "ichi-the-killer-2001"
+    },
+    {
+      "id": "the-class-walls",
+      "line": "教室的墙很薄，外面的世界随时会闯进来。",
+      "line_en": "The classroom walls are thin — the outside world can break in at any moment.",
+      "film_title": "课室",
+      "film_title_en": "The Class",
+      "year": 2008,
+      "character": "马兰老师／学生 / M. Marin / students",
+      "director": "洛朗·康泰",
+      "tags": [
+        "教育",
+        "语言",
+        "权力",
+        "康泰"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：呼应康泰《课室》（Entre les murs）片名与多元教室里语言冲突、权力边界的题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 739
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-class-2008.jpg",
+      "still": "assets/stills/classics/the-class-2008.jpg",
+      "still_alt": "课室 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-class-2008.jpg，960×1440）（影片页 https://www.themoviedb.org/movie/8841）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1lx6TewxaaghQqWflW7pNDztiHs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 8841,
+      "slug": "the-class-2008"
+    },
+    {
+      "id": "holy-motors-roles",
+      "line": "一天换一副面孔，谁还分得清哪个是自己。",
+      "line_en": "Change faces all day long — who can still tell which one is you?",
+      "film_title": "神圣车行",
+      "film_title_en": "Holy Motors",
+      "year": 2012,
+      "character": "奥斯卡 / Monsieur Oscar",
+      "director": "莱奥·卡拉克斯",
+      "tags": [
+        "身份",
+        "表演",
+        "巴黎",
+        "卡拉克斯"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括卡拉克斯《神圣车行》中演员一日多委任、多身份游走巴黎的寓言，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 1304
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/holy-motors-2012.jpg",
+      "still": "assets/stills/classics/holy-motors-2012.jpg",
+      "still_alt": "神圣车行 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/holy-motors-2012.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/103328）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dCuwNZp2DLOWr8qV0GDBHINhVZM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 103328,
+      "slug": "holy-motors-2012"
+    },
+    {
+      "id": "timbuktu-dignity",
+      "line": "占领可以改规矩，改不了人要有尊严地活。",
+      "line_en": "Occupation can rewrite the rules — not a person's need to live with dignity.",
+      "film_title": "廷巴克图",
+      "film_title_en": "Timbuktu",
+      "year": 2014,
+      "character": "基达纳／萨提玛 / Kidane / Satima",
+      "director": "阿布德拉马纳·西萨科",
+      "tags": [
+        "占领",
+        "尊严",
+        "马里",
+        "西萨科"
+      ],
+      "featured": false,
+      "curator_note": "主题性策展句：概括西萨科《廷巴克图》中圣战占领下牧民家庭与日常抵抗的尊严题旨，非逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 526
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/timbuktu-2014.jpg",
+      "still": "assets/stills/classics/timbuktu-2014.jpg",
+      "still_alt": "廷巴克图 · TMDB 宣传静帧（2048×1152）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/timbuktu-2014.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/265228）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wa7MeXfXOg7k2oApdRs9w3cskWm.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 265228,
+      "slug": "timbuktu-2014"
+    }
+  ]
+}
