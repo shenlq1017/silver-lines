@@ -17,10 +17,11 @@
       "避开 batch-jia 错配：la-battaglia-di-algeri / cool-hand-luke / c-and-apos-era-una-volta-il-west / idi-i-smotri / t-ky-monogatari",
       "简体统一：双重赔偿 / 盗火线 / 侏罗纪公园；生活多美好（batch「风云人物」）见 curator_note",
       "评分 imdb/rt/mc/douban 为 2026-09-25 策展快照近似，非实时抓取",
-      "meta.merged=false；等待 PM 终验后另任务并入"
+      "meta.merged=true；已并入 quotes.json published 324（299+25）；merged_at=2026-09-25T11:57:47+08:00"
     ],
-    "merged": false,
-    "published_anchor": "origin/main @ a09d860 published=299"
+    "merged": true,
+    "published_anchor": "origin/main @ a09d860 published=299",
+    "merged_at": "2026-09-25T11:57:47+08:00"
   },
   "quotes": [
     {
@@ -41,7 +42,7 @@
       "curator_note": "杀手在地下法庭的独白：M就是凶手把变态冲动写成无法挣脱的诅咒。通行意译。",
       "ratings": {
         "douban": {
-          "score": 9.0,
+          "score": 9,
           "votes": 120000
         },
         "imdb": {
@@ -252,7 +253,7 @@
           "votes": 350000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 700000
         },
         "rotten_tomatoes": {
@@ -962,7 +963,7 @@
       "curator_note": "坟场对峙：黄金三镖客把枪与铲子做成文明的二分法。通行意译。",
       "ratings": {
         "douban": {
-          "score": 9.0,
+          "score": 9,
           "votes": 220000
         },
         "imdb": {

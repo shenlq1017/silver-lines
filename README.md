@@ -1,15 +1,15 @@
 # 银幕金句 / Silver Lines
 
-电影质感的银幕金句策展站 · **Phase C2（金句 299 · Top249 + Classics×50）**。
+电影质感的银幕金句策展站 · **Phase C3（金句 324 · Top249 + Classics×75）**。
 
 暗色胶片风、静帧叠字、评分徽章可视化。无播放器、无盗链；图片均为相对路径本地氛围示意 PNG（非原片截帧）。
 
-## 状态 · C2
+## 状态 · C3
 
 | 项 | 说明 |
 |----|------|
-| 数据 | `data/quotes.json` **299** 条 `status=published`（Top249 + Classics C1×25 + C2×25） |
-| 片名 | Top249 对齐豆瓣 Top250 意图截取（名次 1–250 除 108 茶馆；冻结日 2026-09-25）；另含 Classics C1+C2 batch-jia 影史经典共 50 部（见 `data/source.json` → `c1` / `c2`） |
+| 数据 | `data/quotes.json` **324** 条 `status=published`（Top249 + Classics C1×25 + C2×25 + C3×25） |
+| 片名 | Top249 对齐豆瓣 Top250 意图截取（名次 1–250 除 108 茶馆；冻结日 2026-09-25）；另含 Classics C1+C2+C3 batch-jia 影史经典共 75 部（见 `data/source.json` → `c1` / `c2` / `c3`） |
 | 字段 | `id`, `line`, `film_title`, `year`, `tags[]`, `poster`, `still`, `still_alt`, `status`, `ratings`（必有 `imdb` + `as_of`；豆瓣尽量有；RT/MC 有则显） |
 | 可选 | `featured`, `curator_note`, `line_en`, `film_title_en`, `license_note`, `character`, `director` |
 | 图像 | `assets/posters/{id}.png` · `assets/stills/{id}.png`；`license_note` 标明示意非原片截帧 |
@@ -52,7 +52,7 @@ silver-lines/
 │   └── {id}/index.html         # 由 sync 脚本生成（路径兼容旧链接）
 ├── data/
 │   ├── quotes.json          # published 金句
-│   └── source.json          # 来源 / 冻结日 / Top249 名单 / Classics C1+C2
+│   └── source.json          # 来源 / 冻结日 / Top249 名单 / Classics C1+C2+C3
 ├── assets/
 │   ├── css/style.css
 │   ├── js/ratings.js
