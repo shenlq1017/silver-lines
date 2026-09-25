@@ -22269,5 +22269,755 @@
     "still_alt": "利维坦 · TMDB 宣传静帧（3840×2160）",
     "status": "published",
     "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/leviathan-2014.jpg）（影片页 https://www.themoviedb.org/movie/265180）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/f7lytGw0yAeXg1KvmnVPJPqCPmf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "the-big-road-build-forward",
+    "line": "背起重担朝前走，自由大路快筑完。",
+    "line_en": "Shoulder the load and march on — finish the road to freedom.",
+    "film_title": "大路",
+    "film_title_en": "The Big Road",
+    "year": 1934,
+    "character": "主题歌 / Theme song 《大路歌》",
+    "director": "孙瑜",
+    "tags": [
+      "筑路",
+      "集体",
+      "左翼"
+    ],
+    "featured": false,
+    "curator_note": "通行歌词：孙瑜《大路》主题歌《大路歌》核心句，三十年代救亡语境下广为传唱；以歌曲金句入选，不冒充对白逐字。",
+    "ratings": {
+      "imdb": {
+        "score": 6.2,
+        "votes": 18
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-big-road-1934.jpg",
+    "still": "assets/stills/classics/the-big-road-1934.jpg",
+    "still_alt": "大路 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-big-road-1934.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/151243）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2ivzuR45obYp4Syi8HeoDjAvmdp.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "tianyun-mountain-no-falsehood",
+    "line": "我应该和组织保持步调一致，但我不能对党说假话。",
+    "line_en": "I should keep in step with the organization — but I cannot lie to the Party.",
+    "film_title": "天云山传奇",
+    "film_title_en": "Legend of Tianyun Mountain",
+    "year": 1980,
+    "character": "罗群 / Luo Qun",
+    "director": "谢晋",
+    "tags": [
+      "反思",
+      "正直",
+      "平反"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：谢晋反思片中右派知识分子罗群的伦理底线对白；不同拷贝/字幕略有出入。",
+    "ratings": {
+      "imdb": {
+        "score": 6.7,
+        "votes": 10
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/legend-of-tianyun-mountain-1980.jpg",
+    "still": "assets/stills/classics/legend-of-tianyun-mountain-1980.jpg",
+    "still_alt": "天云山传奇 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/legend-of-tianyun-mountain-1980.jpg，1280×1920）（影片页 https://www.themoviedb.org/movie/131482）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ukoeTok6fuKazqS15I8RxUutzNW.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "father-and-son-become-somebody",
+    "line": "你要出人头地。",
+    "line_en": "You have to make something of yourself.",
+    "film_title": "父子情",
+    "film_title_en": "Father and Son",
+    "year": 1981,
+    "character": "父亲 / The father",
+    "director": "方育平",
+    "tags": [
+      "父子",
+      "教育",
+      "香港"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括方育平《父子情》中草根父亲把阶层跃迁期望压在儿子身上的核心驱力；影片金句分散，明确为主题压缩，不冒充唯一逐字。",
+    "ratings": {
+      "imdb": {
+        "score": 6,
+        "votes": 7
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/father-and-son-1981.jpg",
+    "still": "assets/stills/classics/father-and-son-1981.jpg",
+    "still_alt": "父子情 · TMDB 宣传静帧（3168×1780）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/father-and-son-1981.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/176213）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/skj6pl0MwT4wliOHNbxxeM3GJ9u.jpg（3168×1780）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "the-lunatics-who-is-mad",
+    "line": "究竟谁才是癫的？",
+    "line_en": "Who is the mad one, really?",
+    "film_title": "癫佬正传",
+    "film_title_en": "The Lunatics",
+    "year": 1986,
+    "character": "社会提问 / The film’s ethical question",
+    "director": "尔冬升",
+    "tags": [
+      "精神健康",
+      "边缘",
+      "香港"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括严浩/尔冬升《癫佬正传》以精神病院与社会对照追问“谁更癫”的主题；不冒充单一字幕逐字。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 19
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-lunatics-1986.jpg",
+    "still": "assets/stills/classics/the-lunatics-1986.jpg",
+    "still_alt": "癫佬正传 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-lunatics-1986.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/73673）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1VBKebqTDnJgp7ITi9LZSqjXxOq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "school-on-fire-no-way-back",
+    "line": "校园里没有退路。",
+    "line_en": "There is no way back on campus.",
+    "film_title": "学校风云",
+    "film_title_en": "School on Fire",
+    "year": 1988,
+    "character": "校园暴力语境 / School-violence milieu",
+    "director": "林岭东",
+    "tags": [
+      "校园",
+      "暴力",
+      "八十年代"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括林岭东《学校风云》中少年被黑社会与校园暴力裹挟、无路可退的处境；明确为主题压缩。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 32
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/school-on-fire-1988.jpg",
+    "still": "assets/stills/classics/school-on-fire-1988.jpg",
+    "still_alt": "学校风云 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/school-on-fire-1988.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/112929）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mU2491LPsH6izjtQ7KyJ3tzRe3b.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "life-on-a-string-thousand-strings",
+    "line": "弹断一千根弦，就能看到这个世界。",
+    "line_en": "Break a thousand strings, and you will see the world.",
+    "film_title": "边走边唱",
+    "film_title_en": "Life on a String",
+    "year": 1991,
+    "character": "师父嘱托 / The master’s charge",
+    "director": "陈凯歌",
+    "tags": [
+      "寓言",
+      "盲人",
+      "启示"
+    ],
+    "featured": false,
+    "curator_note": "通行概括：陈凯歌《边走边唱》盲琴师“弹断千弦得天书”的核心设定/嘱托，各字幕版措辞不一，取通行传播形态。",
+    "ratings": {
+      "imdb": {
+        "score": 6.9,
+        "votes": 15
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/life-on-a-string-1991.jpg",
+    "still": "assets/stills/classics/life-on-a-string-1991.jpg",
+    "still_alt": "边走边唱 · TMDB 宣传静帧（2000×1124）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/life-on-a-string-1991.jpg，1136×1599）（影片页 https://www.themoviedb.org/movie/41783）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gKnHvb8o9tPH5artoH5UzRJzxGP.jpg（2000×1124）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "three-times-best-of-times",
+    "line": "最好的时光，总在回望里。",
+    "line_en": "The best of times live in looking back.",
+    "film_title": "最好的时光",
+    "film_title_en": "Three Times",
+    "year": 2005,
+    "character": "三段时光 / Three eras",
+    "director": "侯孝贤",
+    "tags": [
+      "爱情",
+      "时代",
+      "回望"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括侯孝贤三段式中爱情与时代错位、美好只在事后命名的母题；不冒充片中唯一对白。",
+    "ratings": {
+      "imdb": {
+        "score": 6.9,
+        "votes": 109
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/three-times-2005.jpg",
+    "still": "assets/stills/classics/three-times-2005.jpg",
+    "still_alt": "最好的时光 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/three-times-2005.jpg，1362×2040）（影片页 https://www.themoviedb.org/movie/11554）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nJj1J4AEc74oASN43ooL7TytmIo.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "24-city-memory-factory",
+    "line": "厂没有了，记忆还在。",
+    "line_en": "The factory is gone; the memory remains.",
+    "film_title": "二十四城记",
+    "film_title_en": "24 City",
+    "year": 2008,
+    "character": "口述者群像 / Factory interviewees",
+    "director": "贾樟柯",
+    "tags": [
+      "工业",
+      "口述",
+      "拆迁"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括贾樟柯《二十四城记》工厂拆迁口述中“物去记忆存”的母题；影片以访谈为主，明确为主题压缩。",
+    "ratings": {
+      "imdb": {
+        "score": 7,
+        "votes": 64
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/24-city-2008.jpg",
+    "still": "assets/stills/classics/24-city-2008.jpg",
+    "still_alt": "二十四城记 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/24-city-2008.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/29972）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pDLlvnVdL3FOfjI6xsX9cOs9txa.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "stray-dogs-soft-heart",
+    "line": "我们的心都不柔软了，只知道自己的痛，不知道别人的痛。",
+    "line_en": "Our hearts have hardened — we know only our own pain, not anyone else’s.",
+    "film_title": "郊游",
+    "film_title_en": "Stray Dogs",
+    "year": 2013,
+    "character": "旁白/人物独白语境 / Voice of the film’s loneliness",
+    "director": "蔡明亮",
+    "tags": [
+      "边缘",
+      "都市",
+      "孤独"
+    ],
+    "featured": false,
+    "curator_note": "通行摘录：蔡明亮《郊游》关于心硬与不知他痛的传播句；长片少对白，不同整理版出处略有出入，标为通行可核验摘录。",
+    "ratings": {
+      "imdb": {
+        "score": 6.3,
+        "votes": 100
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/stray-dogs-2013.jpg",
+    "still": "assets/stills/classics/stray-dogs-2013.jpg",
+    "still_alt": "郊游 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/stray-dogs-2013.jpg，1366×2048）（影片页 https://www.themoviedb.org/movie/209840）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/g8eo8A6SiZ8jZE74BgAOsViqdDD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "black-coal-cannot-escape",
+    "line": "想逃，逃不掉。",
+    "line_en": "Want to run — you can’t.",
+    "film_title": "白日焰火",
+    "film_title_en": "Black Coal, Thin Ice",
+    "year": 2014,
+    "character": "张自力 / Zhang Zili",
+    "director": "刁亦男",
+    "tags": [
+      "犯罪",
+      "东北",
+      "宿命"
+    ],
+    "featured": false,
+    "curator_note": "通行对白：廖凡饰张自力在追查与纠缠中的短句；避免误植网络上流传、实非本片的“秘密/输得慢一点”等伪金句。",
+    "ratings": {
+      "imdb": {
+        "score": 6.5,
+        "votes": 319
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/black-coal-thin-ice-2014.jpg",
+    "still": "assets/stills/classics/black-coal-thin-ice-2014.jpg",
+    "still_alt": "白日焰火 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/black-coal-thin-ice-2014.jpg，1371×1920）（影片页 https://www.themoviedb.org/movie/255756）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6qpPqn33a3XrsnOds4wKNinsIu5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "mountains-may-depart-only-a-while",
+    "line": "每个人都只能陪你走一段路，迟早是要分开的。",
+    "line_en": "Everyone can only walk with you for a stretch — sooner or later, you part.",
+    "film_title": "山河故人",
+    "film_title_en": "Mountains May Depart",
+    "year": 2015,
+    "character": "沈涛 / Shen Tao",
+    "director": "贾樟柯",
+    "tags": [
+      "离别",
+      "时代",
+      "乡愁"
+    ],
+    "featured": false,
+    "curator_note": "通行对白：赵涛饰沈涛的标识性独白，亦见于宣发；字幕版“一段路/一段时间”略有出入，取最广传播形态。",
+    "ratings": {
+      "imdb": {
+        "score": 7,
+        "votes": 263
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/mountains-may-depart-2015.jpg",
+    "still": "assets/stills/classics/mountains-may-depart-2015.jpg",
+    "still_alt": "山河故人 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mountains-may-depart-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/314388）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gAJgUS1DfkamTfvwehp0enR8dJ3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "youth-recognize-kindness",
+    "line": "一个始终不被善待的人，最能识别善良，也最珍惜善良。",
+    "line_en": "Someone never treated kindly recognizes kindness best — and treasures it most.",
+    "film_title": "芳华",
+    "film_title_en": "Youth",
+    "year": 2017,
+    "character": "叙事旁白/人物语境 / Narration & character ethos",
+    "director": "冯小刚",
+    "tags": [
+      "青春",
+      "文工团",
+      "善良"
+    ],
+    "featured": false,
+    "curator_note": "通行摘录：冯小刚《芳华》中关于刘峰式善良的传播句（严歌苓原著/改编语境）；不同整理来源措辞略异，标通行传播。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 117
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/youth-2017.jpg",
+    "still": "assets/stills/classics/youth-2017.jpg",
+    "still_alt": "芳华 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/youth-2017.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/457251）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rD7bWxONbHwQQqvkfNk9vJkO4n1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "ash-jianghu-people",
+    "line": "咱们是哪种人？咱们是江湖上的人。",
+    "line_en": "What kind of people are we? People of the jianghu.",
+    "film_title": "江湖儿女",
+    "film_title_en": "Ash Is Purest White",
+    "year": 2018,
+    "character": "斌哥 / Bin",
+    "director": "贾樟柯",
+    "tags": [
+      "江湖",
+      "义气",
+      "身份"
+    ],
+    "featured": false,
+    "curator_note": "通行对白：开篇对江湖身份的自我命名；后文“火山灰/烟灰最干净”亦为名句，本条取身份宣言。",
+    "ratings": {
+      "imdb": {
+        "score": 6.9,
+        "votes": 369
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/ash-is-purest-white-2018.jpg",
+    "still": "assets/stills/classics/ash-is-purest-white-2018.jpg",
+    "still_alt": "江湖儿女 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ash-is-purest-white-2018.jpg，1500×2095）（影片页 https://www.themoviedb.org/movie/441393）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eLqkx8A6NoYfVf9EKHEOJf5ljxk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "one-second-see-daughter",
+    "line": "我女儿在电影里，我来看我女儿。",
+    "line_en": "My daughter is in the film — I came to see my daughter.",
+    "film_title": "一秒钟",
+    "film_title_en": "One Second",
+    "year": 2020,
+    "character": "张九声 / Zhang Jiusheng",
+    "director": "张艺谋",
+    "tags": [
+      "胶片",
+      "父女",
+      "文革"
+    ],
+    "featured": false,
+    "curator_note": "通行对白：张译饰逃犯父亲为新闻简报里女儿的“一秒钟”影像而来的核心陈述。",
+    "ratings": {
+      "imdb": {
+        "score": 7.3,
+        "votes": 132
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/one-second-2020.jpg",
+    "still": "assets/stills/classics/one-second-2020.jpg",
+    "still_alt": "一秒钟 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/one-second-2020.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/575089）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xEOb5XdGGs8hVFCQyniatiHdRSC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "your-name-dare-to-say",
+    "line": "我敢说出我喜欢谁，你敢不敢？",
+    "line_en": "I dare say who I like — do you?",
+    "film_title": "刻在你心底的名字",
+    "film_title_en": "Your Name Engraved Herein",
+    "year": 2020,
+    "character": "王伯翰 / Birdy Wang",
+    "director": "刘广宏",
+    "tags": [
+      "同志",
+      "青春",
+      "勇气"
+    ],
+    "featured": false,
+    "curator_note": "通行对白：解严前后校园同志叙事中最广为传播的挑战句；中文取常见字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 317
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/your-name-engraved-herein-2020.jpg",
+    "still": "assets/stills/classics/your-name-engraved-herein-2020.jpg",
+    "still_alt": "刻在你心底的名字 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/your-name-engraved-herein-2020.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/719410）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rhsvTWUeH6RKXk8pQ830oBw56qb.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "pom-poko-transform-to-survive",
+    "line": "不变成人类，我们就活不下去了。",
+    "line_en": "If we don’t turn into humans, we won’t survive.",
+    "film_title": "平成狸合战",
+    "film_title_en": "Pom Poko",
+    "year": 1994,
+    "character": "狸猫族群 / The tanuki community",
+    "director": "高畑勋",
+    "tags": [
+      "环保",
+      "变身",
+      "现代化"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括高畑勋《平成狸合战》中狸猫为求存被迫同化/变人的主题抉择；不同字幕措辞不一，明确为主题压缩。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 1237
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/pom-poko-1994.jpg",
+    "still": "assets/stills/classics/pom-poko-1994.jpg",
+    "still_alt": "平成狸合战 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pom-poko-1994.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/15283）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2uv0VEoyWxb3KgsiF5FInWP18wQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "dolls-red-cord",
+    "line": "用红绳把彼此绑在一起。",
+    "line_en": "Bind each other with a red cord.",
+    "film_title": "玩偶",
+    "film_title_en": "Dolls",
+    "year": 2002,
+    "character": "松元与泽子 / Matsumoto & Sawako",
+    "director": "北野武",
+    "tags": [
+      "羁绊",
+      "惩罚",
+      "爱情"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：北野武《玩偶》以红绳视觉母题联结三对恋人，对白极简；以设定性金句入选，不冒充长段对白。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 380
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/dolls-2002.jpg",
+    "still": "assets/stills/classics/dolls-2002.jpg",
+    "still_alt": "玩偶 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dolls-2002.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/870）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lhO58rYR6oo5ZYsjE2YnpymBzf2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "the-cat-returns-be-yourself",
+    "line": "你要学会做你自己；做到这一点，就什么都不用怕。",
+    "line_en": "Learn to be yourself — once you can, you needn’t fear anything.",
+    "film_title": "猫的报恩",
+    "film_title_en": "The Cat Returns",
+    "year": 2002,
+    "character": "男爵 / The Baron",
+    "director": "森田宏幸",
+    "tags": [
+      "勇气",
+      "自我",
+      "童话"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：吉卜力《猫的报恩》中男爵对小春的鼓励；字幕版略有压缩差异。",
+    "ratings": {
+      "imdb": {
+        "score": 7.1,
+        "votes": 2537
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-cat-returns-2002.jpg",
+    "still": "assets/stills/classics/the-cat-returns-2002.jpg",
+    "still_alt": "猫的报恩 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-cat-returns-2002.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/15370）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cPRfgCgNLJ20jLuOAXAxcNHNDn4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "zatoichi-blind-sees",
+    "line": "就算眼睛睁得再大，我也看不见什么——可我听得见。",
+    "line_en": "Even with eyes wide open I see little — but I can hear.",
+    "film_title": "座头市",
+    "film_title_en": "Zatoichi",
+    "year": 2003,
+    "character": "座头市 / Zatoichi",
+    "director": "北野武",
+    "tags": [
+      "盲侠",
+      "赌局",
+      "正义"
+    ],
+    "featured": false,
+    "curator_note": "策展压缩：北野武版座头市以听觉与刀法自处的通行自我陈述；不同字幕长短不一，不冒充唯一逐字。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 995
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/zatoichi-2003.jpg",
+    "still": "assets/stills/classics/zatoichi-2003.jpg",
+    "still_alt": "座头市 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/zatoichi-2003.jpg，1019×1528）（影片页 https://www.themoviedb.org/movie/246）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eRMs3DYsJKO9d6fhLceS1tvIP0y.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "marnie-favorite-girl",
+    "line": "在我遇过的所有女孩里，我最喜欢你。",
+    "line_en": "Of all the girls I’ve ever met, I like you best.",
+    "film_title": "记忆中的玛妮",
+    "film_title_en": "When Marnie Was There",
+    "year": 2014,
+    "character": "玛妮 / Marnie",
+    "director": "米林宏昌",
+    "tags": [
+      "孤独",
+      "友情",
+      "治愈"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：玛妮对杏奈的告白式友谊句，是影片最广为引用的对白之一。",
+    "ratings": {
+      "imdb": {
+        "score": 7.9,
+        "votes": 2022
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/when-marnie-was-there-2014.jpg",
+    "still": "assets/stills/classics/when-marnie-was-there-2014.jpg",
+    "still_alt": "记忆中的玛妮 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/when-marnie-was-there-2014.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/242828）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rVDOeOccg0K9tXuw6b9uOG6q4mf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "after-the-storm-ideal-adult",
+    "line": "不是每个人，都能成为自己理想中的大人。",
+    "line_en": "Not everyone gets to become the adult they imagined.",
+    "film_title": "比海更深",
+    "film_title_en": "After the Storm",
+    "year": 2016,
+    "character": "良多母亲 / Ryota’s mother",
+    "director": "是枝裕和",
+    "tags": [
+      "父亲",
+      "失败",
+      "和解"
+    ],
+    "featured": false,
+    "curator_note": "通行对白：是枝裕和《比海更深》中关于理想大人与现实落差的标识句；亦有版本作旁白/家人规劝语境。",
+    "ratings": {
+      "imdb": {
+        "score": 7.2,
+        "votes": 409
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/after-the-storm-2016.jpg",
+    "still": "assets/stills/classics/after-the-storm-2016.jpg",
+    "still_alt": "比海更深 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/after-the-storm-2016.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/374671）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6v9G4Sc5ciRUoJ2wkutX3JBQj9K.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "nine-queens-based-on-trust",
+    "line": "骗子之间也讲信任。",
+    "line_en": "Among thieves, it’s based on trust.",
+    "film_title": "九个皇后",
+    "film_title_en": "Nine Queens",
+    "year": 2000,
+    "character": "马科斯 / Marcos",
+    "director": "法比安·别林斯基",
+    "tags": [
+      "骗局",
+      "信任",
+      "阿根廷"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：别林斯基《九个皇后》中骗子搭档伦理的核心句（英译 “Among thieves… based on trust”）；中文取常见压缩。",
+    "ratings": {
+      "imdb": {
+        "score": 7.8,
+        "votes": 858
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/nine-queens-2000.jpg",
+    "still": "assets/stills/classics/nine-queens-2000.jpg",
+    "still_alt": "九个皇后 · TMDB 宣传静帧（2400×1350）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nine-queens-2000.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/18079）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e4tZvefBtA6P1T0vAPfeXG4Bj3r.jpg（2400×1350）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "burnt-by-the-sun-everything-ends",
+    "line": "有一天这一切都会结束。",
+    "line_en": "One day all of this will end.",
+    "film_title": "烈日灼人",
+    "film_title_en": "Burnt by the Sun",
+    "year": 1994,
+    "character": "科托夫家庭语境 / The Kotov household",
+    "director": "尼基塔·米哈尔科夫",
+    "tags": [
+      "肃反",
+      "家庭",
+      "苏联"
+    ],
+    "featured": false,
+    "curator_note": "策展压缩：米哈尔科夫《烈日灼人》中田园午后将被历史打断的预感式陈述；完整版常接“再没有咖啡与槌球…”，此处取可独立传播的起句。",
+    "ratings": {
+      "imdb": {
+        "score": 6.9,
+        "votes": 210
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/burnt-by-the-sun-1994.jpg",
+    "still": "assets/stills/classics/burnt-by-the-sun-1994.jpg",
+    "still_alt": "烈日灼人 · TMDB 宣传静帧（1920×1080）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/burnt-by-the-sun-1994.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/50797）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dR6oO0xtzUhRy9pGe5aL0yLARCu.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "skin-i-live-in-new-skin",
+    "line": "我给了你一张不会被烧毁的皮肤。",
+    "line_en": "I gave you a skin that cannot be burned.",
+    "film_title": "吾栖之肤",
+    "film_title_en": "The Skin I Live In",
+    "year": 2011,
+    "character": "罗伯特·莱德加 / Robert Ledgard",
+    "director": "佩德罗·阿尔莫多瓦",
+    "tags": [
+      "身份",
+      "皮肤",
+      "囚禁"
+    ],
+    "featured": false,
+    "curator_note": "策展意译：概括阿尔莫多瓦片中人造耐火皮肤与毁容创伤的核心设定/医生自陈；片中对白分散，明确为主题压缩，不冒充单一字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 4748
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/the-skin-i-live-in-2011.jpg",
+    "still": "assets/stills/classics/the-skin-i-live-in-2011.jpg",
+    "still_alt": "吾栖之肤 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-skin-i-live-in-2011.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/63311）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qLOboFiCtFZXkJJCz0nl5NgXUV1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+  },
+  {
+    "id": "oslo-august-got-nothing",
+    "line": "看看我的人生。三十四岁了，我一无所有。",
+    "line_en": "Look at my life. I’m 34 years old. I’ve got nothing.",
+    "film_title": "奥斯陆，8月31日",
+    "film_title_en": "Oslo, August 31st",
+    "year": 2011,
+    "character": "安德斯 / Anders",
+    "director": "约阿希姆·提尔",
+    "tags": [
+      "戒瘾",
+      "虚无",
+      "奥斯陆"
+    ],
+    "featured": false,
+    "curator_note": "通行译法：提尔《奥斯陆，8月31日》中安德斯对友人倾诉的核心句；中文取常见字幕。",
+    "ratings": {
+      "imdb": {
+        "score": 7.5,
+        "votes": 530
+      },
+      "as_of": "2026-09-25",
+      "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+    },
+    "poster": "assets/posters/classics/oslo-august-31st-2011.jpg",
+    "still": "assets/stills/classics/oslo-august-31st-2011.jpg",
+    "still_alt": "奥斯陆，8月31日 · TMDB 宣传静帧（3840×2160）",
+    "status": "published",
+    "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/oslo-august-31st-2011.jpg，1365×2048）（影片页 https://www.themoviedb.org/movie/75233）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1gLqb2IjIer0xYTT5GhLzi7CtjC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
   }
 ]

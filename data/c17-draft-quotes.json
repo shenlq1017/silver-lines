@@ -12,9 +12,11 @@
     "notes": [
       "海报：assets/posters/classics/{slug}.jpg；入选前校验 width≥780，不足则换 TMDB original（prefer zh）；本批最小海报宽 1000",
       "静帧：assets/stills/classics/{slug}.jpg（C17 TMDB original backdrop，宽边≥1920）",
-      "quotes.json 未修改；未 push；未用 CloudAgent"
+      "quotes.json 未修改；未 push；未用 CloudAgent",
+      "meta.merged=true；已并入 quotes.json published 666（641+25）；merged_at=2026-09-25T13:04:31+08:00"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T13:04:31+08:00"
   },
   "quotes": [
     {
@@ -99,7 +101,7 @@
       "curator_note": "策展意译：概括方育平《父子情》中草根父亲把阶层跃迁期望压在儿子身上的核心驱力；影片金句分散，明确为主题压缩，不冒充唯一逐字。",
       "ratings": {
         "imdb": {
-          "score": 6.0,
+          "score": 6,
           "votes": 7
         },
         "as_of": "2026-09-25",
@@ -259,7 +261,7 @@
       "curator_note": "策展意译：概括贾樟柯《二十四城记》工厂拆迁口述中“物去记忆存”的母题；影片以访谈为主，明确为主题压缩。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 64
         },
         "as_of": "2026-09-25",
@@ -355,7 +357,7 @@
       "curator_note": "通行对白：赵涛饰沈涛的标识性独白，亦见于宣发；字幕版“一段路/一段时间”略有出入，取最广传播形态。",
       "ratings": {
         "imdb": {
-          "score": 7.0,
+          "score": 7,
           "votes": 263
         },
         "as_of": "2026-09-25",
