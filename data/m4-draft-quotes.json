@@ -1,0 +1,1003 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T09:15:00+08:00",
+    "purpose": "M4 草稿：豆瓣 Top250 rank 26–50 各 1 条主金句；status=draft，禁止并入 quotes.json / 禁止改 published",
+    "published_lock": "quotes.json published=50（Top50）M4 并入后",
+    "count": 25,
+    "rank_range": [
+      26,
+      50
+    ],
+    "featured_ids": [
+      "shawshank-hope",
+      "farewell-concubine",
+      "spirited-away",
+      "happyness-never-let",
+      "dead-poets-carpe-diem"
+    ],
+    "blocked": [],
+    "notes": [
+      "海报/静帧一律本地 top250 路径，对齐 stills-index / top250.json slug",
+      "豆瓣评分与票数来自 douban2026-9 冻结快照（票数按策展习惯圆整）",
+      "imdb/rt/mc 为 2026-09-25 策展快照近似，非实时抓取",
+      "活着题旨句标明余华原著边界；龙猫/海蒂/钢琴家为次选并在 curator_note 说明",
+      "未改 quotes.json；未 push"
+    ],
+    "merged": true,
+    "merged_at": "2026-09-25T09:15:00+08:00",
+    "merged_note": "已并入 quotes.json published（Top50 / M4）；本文件保留备份。rank 未写入 published。"
+  },
+  "quotes": [
+    {
+      "id": "last-emperor-lonely",
+      "line": "皇上是世上最寂寞的孩子。",
+      "line_en": "The Emperor is the loneliest boy on Earth.",
+      "film_title": "末代皇帝",
+      "film_title_en": "The Last Emperor",
+      "year": 1987,
+      "character": "Reginald Johnston",
+      "director": "贝纳尔多·贝托鲁奇",
+      "tags": [
+        "剧情",
+        "历史",
+        "孤独"
+      ],
+      "featured": true,
+      "curator_note": "帝师一语戳穿九五至尊的童年牢笼，传世冷清。",
+      "ratings": {
+        "douban": {
+          "score": 9.3,
+          "votes": 1000000
+        },
+        "imdb": {
+          "score": 7.7,
+          "votes": 120000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 86
+        },
+        "metacritic": {
+          "score": 76
+        }
+      },
+      "poster": "assets/posters/top250/026-the-last-emperor.jpg",
+      "still": "assets/stills/top250/026-the-last-emperor.jpg",
+      "still_alt": "末代皇帝 · 紫禁城与孤独帝影宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/026-the-last-emperor.jpg）（影片页 https://www.themoviedb.org/movie/746）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 26
+    },
+    {
+      "id": "happyness-never-let",
+      "line": "别让别人告诉你，你成不了才。即使是我，也不行。",
+      "line_en": "Don't ever let somebody tell you you can't do something. Not even me.",
+      "film_title": "当幸福来敲门",
+      "film_title_en": "The Pursuit of Happyness",
+      "year": 2006,
+      "character": "Chris Gardner",
+      "director": "加布里尔·穆奇诺",
+      "tags": [
+        "剧情",
+        "励志",
+        "父爱"
+      ],
+      "featured": true,
+      "curator_note": "街头夜宿之后的父训，励志片里少有的硬核温柔。",
+      "ratings": {
+        "douban": {
+          "score": 9.1,
+          "votes": 1700000
+        },
+        "imdb": {
+          "score": 8,
+          "votes": 580000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 67
+        },
+        "metacritic": {
+          "score": 64
+        }
+      },
+      "poster": "assets/posters/top250/027-the-pursuit-of-happyness.jpg",
+      "still": "assets/stills/top250/027-the-pursuit-of-happyness.jpg",
+      "still_alt": "当幸福来敲门 · 父子同行宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/027-the-pursuit-of-happyness.jpg）（影片页 https://www.themoviedb.org/movie/1402）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 27
+    },
+    {
+      "id": "totoro-laugh",
+      "line": "来，大家笑一个。一笑，什么可怕的事都会过去。",
+      "line_en": "Everybody, try laughing. Then whatever scares you will go away!",
+      "film_title": "龙猫",
+      "film_title_en": "となりのトトロ",
+      "year": 1988,
+      "character": "草壁靖子（母亲）",
+      "director": "宫崎骏",
+      "tags": [
+        "动画",
+        "童真",
+        "勇气"
+      ],
+      "featured": false,
+      "curator_note": "龙猫少箴言金句；取母亲病床边的暖心次选，胜于网络伪宫崎骏语录。",
+      "ratings": {
+        "douban": {
+          "score": 9.2,
+          "votes": 1400000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 400000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "metacritic": {
+          "score": 86
+        }
+      },
+      "poster": "assets/posters/top250/028-rank-028.jpg",
+      "still": "assets/stills/top250/028-rank-028.jpg",
+      "still_alt": "龙猫 · 乡野与龙猫意象宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/028-rank-028.jpg）（影片页 https://www.themoviedb.org/movie/8392）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 28
+    },
+    {
+      "id": "to-live-itself",
+      "line": "人是为活着本身而活着，而不是为了活着之外的任何事物而活着。",
+      "line_en": "A person lives for the sake of living itself, not for anything beyond that.",
+      "film_title": "活着",
+      "film_title_en": "Lifetimes",
+      "year": 1994,
+      "character": "题旨（余华／福贵意蕴）",
+      "director": "张艺谋",
+      "tags": [
+        "剧情",
+        "历史",
+        "生存"
+      ],
+      "featured": true,
+      "curator_note": "华语传世题旨句，出自余华原著表述，非张艺谋电影逐字原声核验；常见转述，策展保留并标明出处边界。",
+      "ratings": {
+        "douban": {
+          "score": 9.3,
+          "votes": 980000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 22000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/top250/029-lifetimes.jpg",
+      "still": "assets/stills/top250/029-lifetimes.jpg",
+      "still_alt": "活着 · 乡土与皮影意象宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/029-lifetimes.jpg）（影片页 https://www.themoviedb.org/movie/31439）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vEeT6ObSDVngiWS6vDIPUtu9r8X.jpg（2160×1215）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 29
+    },
+    {
+      "id": "flipped-rainbow",
+      "line": "有些人浅薄，有些人金玉其外败絮其中。有一天，你会遇到一个彩虹般绚丽的人；当你遇到这个人后，会觉得其他人不过是浮云。",
+      "line_en": "Some of us get dipped in flat, some in satin, some in gloss.... But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare.",
+      "film_title": "怦然心动",
+      "film_title_en": "Flipped",
+      "year": 2010,
+      "character": "Chet Duncan（父亲）",
+      "director": "罗伯·莱纳",
+      "tags": [
+        "爱情",
+        "成长",
+        "青春"
+      ],
+      "featured": false,
+      "curator_note": "华语区爆红「彩虹人」译法，对应片中父亲油漆比喻；中文措辞为流传定稿，非逐字硬译。",
+      "ratings": {
+        "douban": {
+          "score": 9.1,
+          "votes": 2100000
+        },
+        "imdb": {
+          "score": 7.7,
+          "votes": 100000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/top250/030-flipped.jpg",
+      "still": "assets/stills/top250/030-flipped.jpg",
+      "still_alt": "怦然心动 · 树屋与少年意象宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/030-flipped.jpg）（影片页 https://www.themoviedb.org/movie/43949）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xBSwwkAYl9h8QVG2OxNpSaSgJwr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 30
+    },
+    {
+      "id": "dark-knight-hero-villain",
+      "line": "你要么死去成为英雄，要么活得够久，眼看着自己变成恶棍。",
+      "line_en": "You either die a hero, or you live long enough to see yourself become the villain.",
+      "film_title": "蝙蝠侠：黑暗骑士",
+      "film_title_en": "The Dark Knight",
+      "year": 2008,
+      "character": "Harvey Dent",
+      "director": "克里斯托弗·诺兰",
+      "tags": [
+        "犯罪",
+        "英雄",
+        "堕落"
+      ],
+      "featured": true,
+      "curator_note": "哈维·登特的谶语，黑暗骑士时代的道德翻转器。",
+      "ratings": {
+        "douban": {
+          "score": 9.2,
+          "votes": 1200000
+        },
+        "imdb": {
+          "score": 9,
+          "votes": 2900000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 94
+        },
+        "metacritic": {
+          "score": 84
+        }
+      },
+      "poster": "assets/posters/top250/031-the-dark-knight.jpg",
+      "still": "assets/stills/top250/031-the-dark-knight.jpg",
+      "still_alt": "蝙蝠侠：黑暗骑士 · Gotham 夜色宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/031-the-dark-knight.jpg）（影片页 https://www.themoviedb.org/movie/155）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 31
+    },
+    {
+      "id": "rotk-bow-to-no-one",
+      "line": "我的朋友们，你们无需向任何人鞠躬。",
+      "line_en": "My friends, you bow to no one.",
+      "film_title": "指环王3：王者无敌",
+      "film_title_en": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "character": "Aragorn",
+      "director": "彼得·杰克逊",
+      "tags": [
+        "奇幻",
+        "友谊",
+        "荣耀"
+      ],
+      "featured": false,
+      "curator_note": "加冕礼上对霍比特人的一躬一语，史诗收束的温度。",
+      "ratings": {
+        "douban": {
+          "score": 9.3,
+          "votes": 920000
+        },
+        "imdb": {
+          "score": 9,
+          "votes": 2000000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 94
+        },
+        "metacritic": {
+          "score": 94
+        }
+      },
+      "poster": "assets/posters/top250/032-the-lord-of-the-rings-the-return-of-the-king.jpg",
+      "still": "assets/stills/top250/032-the-lord-of-the-rings-the-return-of-the-king.jpg",
+      "still_alt": "指环王3：王者无敌 · 王座与征途宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/032-the-lord-of-the-rings-the-return-of-the-king.jpg）（影片页 https://www.themoviedb.org/movie/122）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 32
+    },
+    {
+      "id": "drug-lord-poverty",
+      "line": "世界上只有一种病，穷病。",
+      "line_en": "There's only one disease in the world: poverty.",
+      "film_title": "我不是药神",
+      "film_title_en": "Dying to Survive",
+      "year": 2018,
+      "character": "程勇",
+      "director": "文牧野",
+      "tags": [
+        "剧情",
+        "现实",
+        "人性"
+      ],
+      "featured": true,
+      "curator_note": "华语当代公议金句，一句刺穿药价与尊严。",
+      "ratings": {
+        "douban": {
+          "score": 9,
+          "votes": 2400000
+        },
+        "imdb": {
+          "score": 7.8,
+          "votes": 22000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/top250/033-rank-033.jpg",
+      "still": "assets/stills/top250/033-rank-033.jpg",
+      "still_alt": "我不是药神 · 药店与人群意象宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/033-rank-033.jpg）（影片页 https://www.themoviedb.org/movie/532753）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xKiqWFtF14yEr1Udgsu1Quj2Alr.jpg（3000×1687）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 33
+    },
+    {
+      "id": "gwtw-tomorrow",
+      "line": "明天又是新的一天。",
+      "line_en": "Tomorrow is another day.",
+      "film_title": "乱世佳人",
+      "film_title_en": "Gone with the Wind",
+      "year": 1939,
+      "character": "Scarlett O'Hara",
+      "director": "维克多·弗莱明",
+      "tags": [
+        "爱情",
+        "战争",
+        "重生"
+      ],
+      "featured": false,
+      "curator_note": "乱世收束的自我打气，短到可以刻进座右铭。",
+      "ratings": {
+        "douban": {
+          "score": 9.3,
+          "votes": 810000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 340000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 90
+        },
+        "metacritic": {
+          "score": 97
+        }
+      },
+      "poster": "assets/posters/top250/034-gone-with-the-wind.jpg",
+      "still": "assets/stills/top250/034-gone-with-the-wind.jpg",
+      "still_alt": "乱世佳人 · 夕阳与庄园意象宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/034-gone-with-the-wind.jpg）（影片页 https://www.themoviedb.org/movie/770）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kI2a58nerEBRD9Rk0zOznkwm85r.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 34
+    },
+    {
+      "id": "bullets-stand-earn",
+      "line": "站着把钱挣了。",
+      "line_en": "Earn the money while standing tall.",
+      "film_title": "让子弹飞",
+      "film_title_en": "Let the Bullets Fly",
+      "year": 2010,
+      "character": "张麻子",
+      "director": "姜文",
+      "tags": [
+        "喜剧",
+        "西部",
+        "江湖"
+      ],
+      "featured": false,
+      "curator_note": "让子弹飞的江湖经济学，短、横、传世。",
+      "ratings": {
+        "douban": {
+          "score": 9,
+          "votes": 1900000
+        },
+        "imdb": {
+          "score": 7.3,
+          "votes": 25000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/top250/035-rank-035.jpg",
+      "still": "assets/stills/top250/035-rank-035.jpg",
+      "still_alt": "让子弹飞 · 鹅城烟尘宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/035-rank-035.jpg）（影片页 https://www.themoviedb.org/movie/51533）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hUzsQl5P8D3atFCHw9tA60ka9VM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 35
+    },
+    {
+      "id": "up-adventure",
+      "line": "冒险就在外面！",
+      "line_en": "Adventure is out there!",
+      "film_title": "飞屋环游记",
+      "film_title_en": "Up",
+      "year": 2009,
+      "character": "Ellie",
+      "director": "彼特·道格特 / 鲍勃·彼德森",
+      "tags": [
+        "动画",
+        "冒险",
+        "爱情"
+      ],
+      "featured": false,
+      "curator_note": "Ellie 的人生口号，飞屋起飞前就已写在墙上。",
+      "ratings": {
+        "douban": {
+          "score": 9.1,
+          "votes": 1500000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 1200000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "metacritic": {
+          "score": 88
+        }
+      },
+      "poster": "assets/posters/top250/036-up.jpg",
+      "still": "assets/stills/top250/036-up.jpg",
+      "still_alt": "飞屋环游记 · 气球小屋升空宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/036-up.jpg）（影片页 https://www.themoviedb.org/movie/14160）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hGGC9gKo7CFE3fW07RA587e5kol.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 36
+    },
+    {
+      "id": "howl-found-you",
+      "line": "找到你了，亲爱的。抱歉我来晚了。我找了你好久。",
+      "line_en": "There you are, sweetheart. Sorry I'm late. I was looking everywhere for you.",
+      "film_title": "哈尔的移动城堡",
+      "film_title_en": "Howl's Moving Castle",
+      "year": 2004,
+      "character": "哈尔",
+      "director": "宫崎骏",
+      "tags": [
+        "动画",
+        "爱情",
+        "奇幻"
+      ],
+      "featured": false,
+      "curator_note": "战场烟尘里的情话，移动城堡最被记住的一句。",
+      "ratings": {
+        "douban": {
+          "score": 9.1,
+          "votes": 1300000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 460000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 87
+        },
+        "metacritic": {
+          "score": 80
+        }
+      },
+      "poster": "assets/posters/top250/037-rank-037.jpg",
+      "still": "assets/stills/top250/037-rank-037.jpg",
+      "still_alt": "哈尔的移动城堡 · 城堡与天空宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/037-rank-037.jpg）（影片页 https://www.themoviedb.org/movie/4935）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pjy0T63vIFYvxRSJ3ZtjB4tmWV4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 37
+    },
+    {
+      "id": "angry-men-prejudice",
+      "line": "偏见，总会模糊真相。",
+      "line_en": "Prejudice always obscures the truth.",
+      "film_title": "十二怒汉",
+      "film_title_en": "12 Angry Men",
+      "year": 1957,
+      "character": "8号陪审员",
+      "director": "西德尼·吕美特",
+      "tags": [
+        "剧情",
+        "正义",
+        "理性"
+      ],
+      "featured": false,
+      "curator_note": "十二人密闭房间里的启蒙句，短而锋利。",
+      "ratings": {
+        "douban": {
+          "score": 9.4,
+          "votes": 590000
+        },
+        "imdb": {
+          "score": 9,
+          "votes": 900000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 100
+        },
+        "metacritic": {
+          "score": 97
+        }
+      },
+      "poster": "assets/posters/top250/038-12-angry-men.jpg",
+      "still": "assets/stills/top250/038-12-angry-men.jpg",
+      "still_alt": "十二怒汉 · 陪审室对峙宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/038-12-angry-men.jpg）（影片页 https://www.themoviedb.org/movie/389）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/p1nBxgrSu9Ex0Uvci1ItWWCWPlk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 38
+    },
+    {
+      "id": "heidi-home-mountains",
+      "line": "我想回家，回山上，回爷爷身边。",
+      "line_en": "I want to go home—to the mountains, to Grandfather.",
+      "film_title": "海蒂和爷爷",
+      "film_title_en": "Heidi",
+      "year": 2015,
+      "character": "Heidi",
+      "director": "阿兰·格什温德",
+      "tags": [
+        "家庭",
+        "自然",
+        "童真"
+      ],
+      "featured": false,
+      "curator_note": "片中少箴言式金句；取海蒂思归高山的核心心声为次选（意译整理，非逐字字幕核验）。",
+      "ratings": {
+        "douban": {
+          "score": 9.3,
+          "votes": 800000
+        },
+        "imdb": {
+          "score": 7.4,
+          "votes": 12000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/top250/039-heidi.jpg",
+      "still": "assets/stills/top250/039-heidi.jpg",
+      "still_alt": "海蒂和爷爷 · 阿尔卑斯山野宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/039-heidi.jpg）（影片页 https://www.themoviedb.org/movie/365045）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/j61P3ty6dOWygdPSneEH56BrkSD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 39
+    },
+    {
+      "id": "hope-be-child",
+      "line": "你不需要变得很坚强，可以向我们撒娇，有爸爸在呢。",
+      "line_en": "You don't have to be strong. You can lean on us—Dad is here.",
+      "film_title": "素媛",
+      "film_title_en": "Hope",
+      "year": 2013,
+      "character": "父亲",
+      "director": "李濬益",
+      "tags": [
+        "剧情",
+        "父爱",
+        "愈合"
+      ],
+      "featured": false,
+      "curator_note": "素媛最温柔的一句：允许脆弱，比强迫坚强更像爱。",
+      "ratings": {
+        "douban": {
+          "score": 9.3,
+          "votes": 790000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 17000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/top250/040-rank-040.jpg",
+      "still": "assets/stills/top250/040-rank-040.jpg",
+      "still_alt": "素媛 · 家庭守候意象宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/040-rank-040.jpg）（影片页 https://www.themoviedb.org/movie/255709）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cri20wZDTl1X5QpxlWCSJ4HSpTF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 40
+    },
+    {
+      "id": "catch-me-cream",
+      "line": "两只小老鼠掉进奶油桶：一只放弃淹死了；另一只拼命搅打，把奶油搅成黄油，然后爬了出来。",
+      "line_en": "Two little mice fell in a bucket of cream. The first mouse quickly gave up and drowned. The second mouse wouldn't quit... He churned that cream into butter and crawled out.",
+      "film_title": "猫鼠游戏",
+      "film_title_en": "Catch Me If You Can",
+      "year": 2002,
+      "character": "Frank Abagnale Sr. / Frank",
+      "director": "史蒂文·斯皮尔伯格",
+      "tags": [
+        "传记",
+        "父子",
+        "生存"
+      ],
+      "featured": false,
+      "curator_note": "父子相传的寓言，片尾回响成人生方法论。",
+      "ratings": {
+        "douban": {
+          "score": 9.1,
+          "votes": 1200000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 1100000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 96
+        },
+        "metacritic": {
+          "score": 75
+        }
+      },
+      "poster": "assets/posters/top250/041-catch-me-if-you-can.jpg",
+      "still": "assets/stills/top250/041-catch-me-if-you-can.jpg",
+      "still_alt": "猫鼠游戏 · 追逃双人意象宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/041-catch-me-if-you-can.jpg）（影片页 https://www.themoviedb.org/movie/640）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ggC3Brchf4RqPitEh7cROFoeAWn.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 41
+    },
+    {
+      "id": "laputa-roots",
+      "line": "军备不起，则根深叶茂。",
+      "line_en": "Arms grow weak, while roots grow deep.",
+      "film_title": "天空之城",
+      "film_title_en": "Castle in the Sky",
+      "year": 1986,
+      "character": "拉普达碑铭／希达传承",
+      "director": "宫崎骏",
+      "tags": [
+        "动画",
+        "反战",
+        "文明"
+      ],
+      "featured": false,
+      "curator_note": "天空之城核心箴言（碑文意译流传定稿），以根对抗武力。",
+      "ratings": {
+        "douban": {
+          "score": 9.2,
+          "votes": 1000000
+        },
+        "imdb": {
+          "score": 8,
+          "votes": 190000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 96
+        }
+      },
+      "poster": "assets/posters/top250/042-rank-042.jpg",
+      "still": "assets/stills/top250/042-rank-042.jpg",
+      "still_alt": "天空之城 · 浮空岛与飞艇宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/042-rank-042.jpg）（影片页 https://www.themoviedb.org/movie/10515）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/A1BKnRLhGlGkYmE5htth29aVmHz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 42
+    },
+    {
+      "id": "devils-bargain",
+      "line": "有便宜不沾，王八蛋。",
+      "line_en": "Only a bastard passes up a bargain.",
+      "film_title": "鬼子来了",
+      "film_title_en": "Devils on the Doorstep",
+      "year": 2000,
+      "character": "马大三／村民口头禅",
+      "director": "姜文",
+      "tags": [
+        "喜剧",
+        "战争",
+        "荒诞"
+      ],
+      "featured": false,
+      "curator_note": "鬼子来了的民间哲学开场白，笑里藏刀的国民性解剖。",
+      "ratings": {
+        "douban": {
+          "score": 9.3,
+          "votes": 730000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 12000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/top250/043-devils-on-the-doorstep.jpg",
+      "still": "assets/stills/top250/043-devils-on-the-doorstep.jpg",
+      "still_alt": "鬼子来了 · 村落与乱世宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/043-devils-on-the-doorstep.jpg）（影片页 https://www.themoviedb.org/movie/25838）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/epM1QllyysdMLI1G6BLP3Se80jC.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 43
+    },
+    {
+      "id": "dangal-gold",
+      "line": "不拿金牌，一切都等于零。",
+      "line_en": "If you don't win the gold, nothing else matters.",
+      "film_title": "摔跤吧！爸爸",
+      "film_title_en": "Dangal",
+      "year": 2016,
+      "character": "Mahavir Singh Phogat",
+      "director": "涅提·蒂瓦里",
+      "tags": [
+        "运动",
+        "父女",
+        "争胜"
+      ],
+      "featured": false,
+      "curator_note": "教练式父爱的极端句，摔跤吧爸爸的胜负哲学（华语流行译法）。",
+      "ratings": {
+        "douban": {
+          "score": 9,
+          "votes": 1800000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 220000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 84
+        }
+      },
+      "poster": "assets/posters/top250/044-dangal.jpg",
+      "still": "assets/stills/top250/044-dangal.jpg",
+      "still_alt": "摔跤吧！爸爸 · 赛场与父女宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/044-dangal.jpg）（影片页 https://www.themoviedb.org/movie/360814）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 44
+    },
+    {
+      "id": "life-of-pi-which-story",
+      "line": "你更喜欢哪一个故事？",
+      "line_en": "Which story do you prefer?",
+      "film_title": "少年派的奇幻漂流",
+      "film_title_en": "Life of Pi",
+      "year": 2012,
+      "character": "Pi Patel",
+      "director": "李安",
+      "tags": [
+        "奇幻",
+        "信仰",
+        "叙事"
+      ],
+      "featured": false,
+      "curator_note": "整部电影的钥匙句：故事选择即信仰选择。",
+      "ratings": {
+        "douban": {
+          "score": 9.1,
+          "votes": 1500000
+        },
+        "imdb": {
+          "score": 7.9,
+          "votes": 680000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 86
+        },
+        "metacritic": {
+          "score": 79
+        }
+      },
+      "poster": "assets/posters/top250/045-life-of-pi.jpg",
+      "still": "assets/stills/top250/045-life-of-pi.jpg",
+      "still_alt": "少年派的奇幻漂流 · 海面与少年宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/045-life-of-pi.jpg）（影片页 https://www.themoviedb.org/movie/87827）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/21YsCNMub5455NQCn3jh9SmRFyG.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 45
+    },
+    {
+      "id": "dead-poets-carpe-diem",
+      "line": "及时行乐。孩子们，让你们的生命变得非凡。",
+      "line_en": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+      "film_title": "死亡诗社",
+      "film_title_en": "Dead Poets Society",
+      "year": 1989,
+      "character": "John Keating",
+      "director": "彼得·威尔",
+      "tags": [
+        "教育",
+        "自由",
+        "青春"
+      ],
+      "featured": true,
+      "curator_note": "死亡诗社的灵魂召唤，拉丁文借口下的生命动员令。",
+      "ratings": {
+        "douban": {
+          "score": 9.2,
+          "votes": 900000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 570000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 84
+        },
+        "metacritic": {
+          "score": 79
+        }
+      },
+      "poster": "assets/posters/top250/046-dead-poets-society.jpg",
+      "still": "assets/stills/top250/046-dead-poets-society.jpg",
+      "still_alt": "死亡诗社 · 课堂与诗社宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/046-dead-poets-society.jpg）（影片页 https://www.themoviedb.org/movie/207）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rSzDfniDjqh2TIP9uH7rwi2iRy3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 46
+    },
+    {
+      "id": "pianist-i-am",
+      "line": "我是钢琴家。",
+      "line_en": "I am a pianist.",
+      "film_title": "钢琴家",
+      "film_title_en": "The Pianist",
+      "year": 2002,
+      "character": "Władysław Szpilman",
+      "director": "罗曼·波兰斯基",
+      "tags": [
+        "战争",
+        "音乐",
+        "生存"
+      ],
+      "featured": false,
+      "curator_note": "片中鲜少箴言对白；以身份自陈作次选——音乐成为活下去的最后名片。",
+      "ratings": {
+        "douban": {
+          "score": 9.3,
+          "votes": 760000
+        },
+        "imdb": {
+          "score": 8.5,
+          "votes": 500000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 95
+        },
+        "metacritic": {
+          "score": 85
+        }
+      },
+      "poster": "assets/posters/top250/047-the-pianist.jpg",
+      "still": "assets/stills/top250/047-the-pianist.jpg",
+      "still_alt": "钢琴家 · 废墟与钢琴意象宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/047-the-pianist.jpg）（影片页 https://www.themoviedb.org/movie/423）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 47
+    },
+    {
+      "id": "two-towers-worth-fighting",
+      "line": "这世上终究还是有美好的事物，佛罗多先生，值得我们奋战到底。",
+      "line_en": "There's some good in this world, Mr. Frodo. And it's worth fighting for.",
+      "film_title": "指环王2：双塔奇兵",
+      "film_title_en": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "character": "Samwise Gamgee",
+      "director": "彼得·杰克逊",
+      "tags": [
+        "奇幻",
+        "友谊",
+        "希望"
+      ],
+      "featured": true,
+      "curator_note": "山姆的篝火告白，双塔里把史诗拽回人心的一句。",
+      "ratings": {
+        "douban": {
+          "score": 9.2,
+          "votes": 870000
+        },
+        "imdb": {
+          "score": 8.8,
+          "votes": 1800000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 95
+        },
+        "metacritic": {
+          "score": 87
+        }
+      },
+      "poster": "assets/posters/top250/048-the-lord-of-the-rings-the-two-towers.jpg",
+      "still": "assets/stills/top250/048-the-lord-of-the-rings-the-two-towers.jpg",
+      "still_alt": "指环王2：双塔奇兵 · 中土烽烟宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/048-the-lord-of-the-rings-the-two-towers.jpg）（影片页 https://www.themoviedb.org/movie/121）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6G73mNyooWAEQTpckPSnFxFoNmc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 48
+    },
+    {
+      "id": "cj1-like-a-dog",
+      "line": "你看，那个人好像一条狗啊。",
+      "line_en": "Look—that guy looks like a dog.",
+      "film_title": "大话西游之月光宝盒",
+      "film_title_en": "A Chinese Odyssey Part One: Pandora's Box",
+      "year": 1995,
+      "character": "至尊宝",
+      "director": "刘镇伟",
+      "tags": [
+        "喜剧",
+        "荒诞",
+        "轮回"
+      ],
+      "featured": false,
+      "curator_note": "月光宝盒开场即封神的旁观句；与大圣娶亲「曾经」错开，本条专属月光宝盒。",
+      "ratings": {
+        "douban": {
+          "score": 9,
+          "votes": 1400000
+        },
+        "imdb": {
+          "score": 7.7,
+          "votes": 18000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/top250/049-rank-049.jpg",
+      "still": "assets/stills/top250/049-rank-049.jpg",
+      "still_alt": "大话西游之月光宝盒 · 西游戏谑意象宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/049-rank-049.jpg）（影片页 https://www.themoviedb.org/movie/13345）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cvpq5L0LSrTvLBokQ0tsFdEysJ6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 49
+    },
+    {
+      "id": "green-book-first-move",
+      "line": "这世上到处都是寂寞的人，等着别人迈出第一步。",
+      "line_en": "The world is full of lonely people waiting to make the first move.",
+      "film_title": "绿皮书",
+      "film_title_en": "Green Book",
+      "year": 2018,
+      "character": "Tony Lip",
+      "director": "彼得·法拉利",
+      "tags": [
+        "剧情",
+        "种族",
+        "友谊"
+      ],
+      "featured": false,
+      "curator_note": "绿皮书的人情公式：寂寞普遍，勇气稀缺。",
+      "ratings": {
+        "douban": {
+          "score": 8.9,
+          "votes": 1900000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 580000
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "rotten_tomatoes": {
+          "tomatometer": 77
+        },
+        "metacritic": {
+          "score": 69
+        }
+      },
+      "poster": "assets/posters/top250/050-green-book.jpg",
+      "still": "assets/stills/top250/050-green-book.jpg",
+      "still_alt": "绿皮书 · 公路与双人同行宣传静帧",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/050-green-book.jpg）（影片页 https://www.themoviedb.org/movie/490132）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "rank": 50
+    }
+  ]
+}
