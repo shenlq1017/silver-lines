@@ -9,7 +9,7 @@
 - **总体积**: 141.1 MB
 - **分辨率**: 宽 800–2000 / 高 1200–3000 / 宽边 1200–3000
 - **来源分布**: {'tmdb:original': 249, 'tmdb:original:zh-CN': 1}
-- **范围**: 只入库素材；quotes published 仍为 Top10；未 push/commit
+- **范围**: Top250 海报与素材入库记录；当前 `quotes.json` 为 `published=249`、站点 Top249；rank 108 茶馆因静帧低于 `<1920` 门禁仍未发布。本文件是素材记录，不等同发布状态。
 
 ## missing
 
