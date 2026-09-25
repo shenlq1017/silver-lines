@@ -28,7 +28,9 @@
       "featured 草稿内仅 5 条；并入时整库仍应收束≈5",
       "未改 quotes.json；未跑 sync-quote-pages；未 push"
     ],
-    "merged": false
+    "merged": true,
+    "merged_at": "2026-09-25T10:39:00+08:00",
+    "merged_note": "已并入 quotes.json Top247（M12）；本文件保留 draft 正文备份（含 rank/status=draft）。featured 草稿标记未采用，整库收束为既有 5。"
   },
   "quotes": [
     {
@@ -217,7 +219,7 @@
           "votes": 450000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 450000
         },
         "as_of": "2026-09-25",
@@ -340,7 +342,7 @@
           "votes": 780000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 950000
         },
         "as_of": "2026-09-25",
@@ -787,7 +789,7 @@
       "curator_note": "攻壳机动队终幕一句，把「我是谁」抛进无限网海。1995 剧场版通行定译。",
       "ratings": {
         "douban": {
-          "score": 9.0,
+          "score": 9,
           "votes": 420000
         },
         "imdb": {
@@ -832,7 +834,7 @@
           "votes": 450000
         },
         "imdb": {
-          "score": 8.0,
+          "score": 8,
           "votes": 600000
         },
         "as_of": "2026-09-25",
