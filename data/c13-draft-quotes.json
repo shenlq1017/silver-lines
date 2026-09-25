@@ -1,0 +1,827 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T12:42:24+08:00",
+    "purpose": "C13 classics×25 草稿：batch-yi 在 C12 之后第二批质量优先 25 部各 1 条主金句；status=draft，未并入 quotes.json",
+    "batch": "batch-yi",
+    "selection_source": "tmp/content-fill-plan/candidates-yi-c13-25.json",
+    "stills_source": "tmp/stills-yi-c13/index-fragment.json",
+    "count": 25,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "海报：assets/posters/classics/{slug}.jpg（batch-yi 已备，宽边满足 batch 门禁）",
+      "静帧：assets/stills/classics/{slug}.jpg（C13 TMDB backdrop；全部宽边≥1920；23 张 ≥2560，2 张为可得原图 1920–2559）",
+      "featured=false 全部；并入时整库 featured 仍应收束≈5",
+      "排除 data/quotes.json 与 C1–C12 / m* drafts/candidates；quotes.json 未修改",
+      "仅选用 TMDB id 与片名/年份核验通过的 batch-yi 剩余匹配条目（约 83/150 错配仍未入选，见 C12 report）",
+      "对白可核验者采用通行译法；主题性或策展意译均在 curator_note 明确标注，不冒充逐字引文",
+      "评分为 2026-09-25 策展快照近似（TMDB vote_average），非实时 IMDb 抓取",
+      "meta.merged=false；勿在本任务并入 quotes.json",
+      "本批后 batch-yi 剩余 100（TMDB 匹配可续做 17；错配 83 须先修 id）"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "journey-italy-dead-already",
+      "line": "我们像两个陌生人。",
+      "line_en": "We're like two strangers.",
+      "film_title": "意大利之旅",
+      "film_title_en": "Journey to Italy",
+      "year": 1954,
+      "character": "亚历克斯 / Alex Joyce",
+      "director": "罗伯托·罗西里尼",
+      "tags": [
+        "婚姻",
+        "意大利",
+        "新现实主义"
+      ],
+      "featured": false,
+      "curator_note": "据通行字幕：亚历克斯对婚姻疏离的概括性对白；不同修复/字幕版措辞或有出入。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 346
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/journey-to-italy-1954.jpg",
+      "still": "assets/stills/classics/journey-to-italy-1954.jpg",
+      "still_alt": "意大利之旅 · TMDB 宣传静帧（2222×1250）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/journey-to-italy-1954.jpg）（影片页 https://www.themoviedb.org/movie/2748）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qepQ7F6HtYJIjSxDzCMaDsgXsDy.jpg（2222×1250）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 2748,
+      "slug": "journey-to-italy-1954"
+    },
+    {
+      "id": "manhattan-faith-in-people",
+      "line": "对人，你总得有一点点信心。",
+      "line_en": "You have to have a little faith in people.",
+      "film_title": "曼哈顿",
+      "film_title_en": "Manhattan",
+      "year": 1979,
+      "character": "特蕾西 / Tracy",
+      "director": "伍迪·艾伦",
+      "tags": [
+        "纽约",
+        "爱情",
+        "成长"
+      ],
+      "featured": false,
+      "curator_note": "片尾特蕾西对艾萨克的通行名句；中文取常见译法。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 2678
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/manhattan-1979.jpg",
+      "still": "assets/stills/classics/manhattan-1979.jpg",
+      "still_alt": "曼哈顿 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/manhattan-1979.jpg）（影片页 https://www.themoviedb.org/movie/696）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ucjjCZaR2t6kcFU3t7ssRyqdVrV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 696,
+      "slug": "manhattan-1979"
+    },
+    {
+      "id": "hana-bi-paint-the-flower",
+      "line": "花，还是要画完。",
+      "line_en": "Still — finish painting the flower.",
+      "film_title": "花火",
+      "film_title_en": "Fireworks",
+      "year": 1997,
+      "character": "堀部（策展概括）",
+      "director": "北野武",
+      "tags": [
+        "暴力",
+        "温柔",
+        "日本电影"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：压缩堀部伤残后仍坚持画花的行动伦理，以及片名「花火」的意象；明确不是逐字对白引文。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 807
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/hana-bi-1997.jpg",
+      "still": "assets/stills/classics/hana-bi-1997.jpg",
+      "still_alt": "花火 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/hana-bi-1997.jpg）（影片页 https://www.themoviedb.org/movie/5910）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mdQ6oH7GLM9VerAb8JhsEAyJnHs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 5910,
+      "slug": "hana-bi-1997"
+    },
+    {
+      "id": "donnie-stupid-man-suit",
+      "line": "你干吗穿着那身蠢死人的人皮外套？",
+      "line_en": "Why are you wearing that stupid man suit?",
+      "film_title": "死亡幻觉",
+      "film_title_en": "Donnie Darko",
+      "year": 2001,
+      "character": "弗兰克 / Frank",
+      "director": "理查德·凯利",
+      "tags": [
+        "邪典",
+        "科幻",
+        "身份"
+      ],
+      "featured": false,
+      "curator_note": "弗兰克质问唐纳的通行名句；中文取常见译法。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 13770
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/donnie-darko-2001.jpg",
+      "still": "assets/stills/classics/donnie-darko-2001.jpg",
+      "still_alt": "死亡幻觉 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/donnie-darko-2001.jpg）（影片页 https://www.themoviedb.org/movie/141）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fkmsTwa95U4HHNRi9GtyP7zTv4W.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 141,
+      "slug": "donnie-darko-2001"
+    },
+    {
+      "id": "downfall-war-lost",
+      "line": "如果战争败了，德意志民族是否灭亡也就无关紧要了。",
+      "line_en": "If the war is lost, it is of no concern to me if the people perish.",
+      "film_title": "帝国的毁灭",
+      "film_title_en": "Downfall",
+      "year": 2005,
+      "character": "阿道夫·希特勒 / Adolf Hitler",
+      "director": "奥利弗·希施比格尔",
+      "tags": [
+        "历史",
+        "战争",
+        "传记"
+      ],
+      "featured": false,
+      "curator_note": "据影片对历史记述的戏剧化呈现之通行译法；内容残暴，策展仅作历史警示引用。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 4465
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/der-untergang-2005.jpg",
+      "still": "assets/stills/classics/der-untergang-2005.jpg",
+      "still_alt": "帝国的毁灭 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/der-untergang-2005.jpg）（影片页 https://www.themoviedb.org/movie/613）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cT80aGpjWZLn8rd7cLtsbktFMhf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 613,
+      "slug": "der-untergang-2005"
+    },
+    {
+      "id": "babam-ve-oglum-come-back",
+      "line": "儿子，有些错，一辈子也还不完。",
+      "line_en": "Some mistakes, my son, can never be repaid.",
+      "film_title": "我的父亲我的儿子",
+      "film_title_en": "My Father and My Son",
+      "year": 2005,
+      "character": "侯赛因（祖父）/ Hüseyin（策展概括）",
+      "director": "恰安·伊尔马克",
+      "tags": [
+        "家庭",
+        "土耳其",
+        "和解"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：压缩祖父一代政治创伤与父子隔阂的伦理重量；非声称逐字土耳其语台词唯一译本。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 402
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/babam-ve-oglum-2005.jpg",
+      "still": "assets/stills/classics/babam-ve-oglum-2005.jpg",
+      "still_alt": "我的父亲我的儿子 · TMDB 宣传静帧（2048×1152）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/babam-ve-oglum-2005.jpg）（影片页 https://www.themoviedb.org/movie/13393）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 13393,
+      "slug": "babam-ve-oglum-2005"
+    },
+    {
+      "id": "pans-labyrinth-traces",
+      "line": "据说公主回到了父亲的王国，以公正与善良统治了许多世纪；她在人间留下的痕迹，只有知道往哪里看的人才能看见。",
+      "line_en": "And it is said that the Princess returned to her father's kingdom... and that she left behind small traces of her time on Earth, visible only to those who know where to look.",
+      "film_title": "潘神的迷宫",
+      "film_title_en": "Pan's Labyrinth",
+      "year": 2007,
+      "character": "旁白 / Narrator",
+      "director": "吉尔莫·德尔·托罗",
+      "tags": [
+        "童话",
+        "抵抗",
+        "奇幻"
+      ],
+      "featured": false,
+      "curator_note": "片尾旁白通行译法（略压缩）；德尔托罗将童话与法西斯暴力并置的收束句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 11753
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/el-laberinto-del-fauno-2007.jpg",
+      "still": "assets/stills/classics/el-laberinto-del-fauno-2007.jpg",
+      "still_alt": "潘神的迷宫 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/el-laberinto-del-fauno-2007.jpg）（影片页 https://www.themoviedb.org/movie/1417）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1417,
+      "slug": "el-laberinto-del-fauno-2007"
+    },
+    {
+      "id": "iron-man-i-am",
+      "line": "真相是……我就是钢铁侠。",
+      "line_en": "The truth is... I am Iron Man.",
+      "film_title": "钢铁侠",
+      "film_title_en": "Iron Man",
+      "year": 2008,
+      "character": "托尼·斯塔克 / Tony Stark",
+      "director": "乔恩·费儒",
+      "tags": [
+        "超级英雄",
+        "身份",
+        "流行文化"
+      ],
+      "featured": false,
+      "curator_note": "记者会坦白的通行名句；漫威电影宇宙原点级金句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 28857
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/iron-man-2008.jpg",
+      "still": "assets/stills/classics/iron-man-2008.jpg",
+      "still_alt": "钢铁侠 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/iron-man-2008.jpg）（影片页 https://www.themoviedb.org/movie/1726）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1726,
+      "slug": "iron-man-2008"
+    },
+    {
+      "id": "kung-fu-panda-no-secret",
+      "line": "没有什么秘方。秘方就是你自己。",
+      "line_en": "There is no secret ingredient. It's just you.",
+      "film_title": "功夫熊猫",
+      "film_title_en": "Kung Fu Panda",
+      "year": 2008,
+      "character": "阿宝的父亲 / Mr. Ping（及阿宝领悟）",
+      "director": "马克·奥斯本 / 约翰·史蒂文森",
+      "tags": [
+        "动画",
+        "成长",
+        "自我"
+      ],
+      "featured": false,
+      "curator_note": "「秘方」段落通行译法；父子汤面与武学顿悟的合体金句。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 13016
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/kung-fu-panda-2008.jpg",
+      "still": "assets/stills/classics/kung-fu-panda-2008.jpg",
+      "still_alt": "功夫熊猫 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kung-fu-panda-2008.jpg）（影片页 https://www.themoviedb.org/movie/9502）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/d1RHScaZc7I8j0lDke1c4AxI435.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 9502,
+      "slug": "kung-fu-panda-2008"
+    },
+    {
+      "id": "hurt-locker-war-is-a-drug",
+      "line": "战争是一种毒品。",
+      "line_en": "War is a drug.",
+      "film_title": "拆弹部队",
+      "film_title_en": "The Hurt Locker",
+      "year": 2008,
+      "character": "片首题词（克里斯·赫奇斯）",
+      "director": "凯瑟琳·毕格罗",
+      "tags": [
+        "战争",
+        "成瘾",
+        "奥斯卡"
+      ],
+      "featured": false,
+      "curator_note": "影片开场援引 Chris Hedges 的题词缩略通行句；整句更长，策展取公众最熟悉的核心短语。",
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 6374
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-hurt-locker-2008.jpg",
+      "still": "assets/stills/classics/the-hurt-locker-2008.jpg",
+      "still_alt": "拆弹部队 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hurt-locker-2008.jpg）（影片页 https://www.themoviedb.org/movie/12162）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AnnXQNraaC2dBO8r03jd5PTC2hh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 12162,
+      "slug": "the-hurt-locker-2008"
+    },
+    {
+      "id": "drive-five-minute-window",
+      "line": "你给我时间和地点，我给你五分钟窗口。",
+      "line_en": "You give me a time and a place, I give you a five minute window.",
+      "film_title": "亡命驾驶",
+      "film_title_en": "Drive",
+      "year": 2011,
+      "character": "司机 / Driver",
+      "director": "尼古拉斯·温丁·雷弗恩",
+      "tags": [
+        "犯罪",
+        "霓虹",
+        "寡言"
+      ],
+      "featured": false,
+      "curator_note": "司机自我介绍业务规则的通行名句；中文取常见译法。",
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 14026
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/drive-2011.jpg",
+      "still": "assets/stills/classics/drive-2011.jpg",
+      "still_alt": "亡命驾驶 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/drive-2011.jpg）（影片页 https://www.themoviedb.org/movie/64690）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 64690,
+      "slug": "drive-2011"
+    },
+    {
+      "id": "skyfall-old-ways",
+      "line": "有时候，老办法才是最好的办法。",
+      "line_en": "Sometimes the old ways are the best.",
+      "film_title": "007：大破天幕杀机",
+      "film_title_en": "Skyfall",
+      "year": 2012,
+      "character": "Kincade / 金凯德",
+      "director": "萨姆·门德斯",
+      "tags": [
+        "邦德",
+        "家园",
+        "传统"
+      ],
+      "featured": false,
+      "curator_note": "天幕庄园枪战前的通行短句；亦呼应整部「回归原点」主题。",
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 16424
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/skyfall-2012.jpg",
+      "still": "assets/stills/classics/skyfall-2012.jpg",
+      "still_alt": "007：大破天幕杀机 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/skyfall-2012.jpg）（影片页 https://www.themoviedb.org/movie/37724）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wkA622CCN2X0uwpgqYEOnUYEDf5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 37724,
+      "slug": "skyfall-2012"
+    },
+    {
+      "id": "twelve-years-want-to-live",
+      "line": "我不想只是活下来。我想要生活。",
+      "line_en": "I don't want to survive. I want to live.",
+      "film_title": "为奴十二年",
+      "film_title_en": "12 Years a Slave",
+      "year": 2013,
+      "character": "所罗门·诺萨普 / Solomon Northup",
+      "director": "史蒂夫·麦奎因",
+      "tags": [
+        "历史",
+        "自由",
+        "奥斯卡"
+      ],
+      "featured": false,
+      "curator_note": "所罗门对白人工匠巴斯倾诉的通行名句；中文取常见译法。",
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 12229
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/12-years-a-slave-2013.jpg",
+      "still": "assets/stills/classics/12-years-a-slave-2013.jpg",
+      "still_alt": "为奴十二年 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/12-years-a-slave-2013.jpg）（影片页 https://www.themoviedb.org/movie/76203）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 76203,
+      "slug": "12-years-a-slave-2013"
+    },
+    {
+      "id": "revenant-keep-breathing",
+      "line": "只要还能喘口气，你就得打下去。呼吸。继续呼吸。",
+      "line_en": "As long as you can still grab a breath, you fight. You breathe. Keep breathing.",
+      "film_title": "荒野猎人",
+      "film_title_en": "The Revenant",
+      "year": 2015,
+      "character": "休·格拉斯 / Hugh Glass",
+      "director": "亚历杭德罗·冈萨雷斯·伊纳里图",
+      "tags": [
+        "生存",
+        "复仇",
+        "荒野"
+      ],
+      "featured": false,
+      "curator_note": "格拉斯对儿子（幻觉/回忆）的通行励志句；中文取常见译法。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 19731
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-revenant-2015.jpg",
+      "still": "assets/stills/classics/the-revenant-2015.jpg",
+      "still_alt": "荒野猎人 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-revenant-2015.jpg）（影片页 https://www.themoviedb.org/movie/281957）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sGOw65ZmfgGfistCjuNsazjs6j9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 281957,
+      "slug": "the-revenant-2015"
+    },
+    {
+      "id": "get-out-get-out",
+      "line": "出去！",
+      "line_en": "Get out!",
+      "film_title": "逃出绝命镇",
+      "film_title_en": "Get Out",
+      "year": 2017,
+      "character": "乔治娜 / Georgina（深层意识一瞬）",
+      "director": "乔丹·皮尔",
+      "tags": [
+        "恐怖",
+        "种族",
+        "社会讽刺"
+      ],
+      "featured": false,
+      "curator_note": "片名句：被控制的乔治娜在泪水中挤出的警告；亦是整部片的主题命令式。",
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 19363
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/get-out-2017.jpg",
+      "still": "assets/stills/classics/get-out-2017.jpg",
+      "still_alt": "逃出绝命镇 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/get-out-2017.jpg）（影片页 https://www.themoviedb.org/movie/419430）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 419430,
+      "slug": "get-out-2017"
+    },
+    {
+      "id": "baby-driver-anywhere",
+      "line": "去哪儿都行。某个地方。随便哪儿。",
+      "line_en": "Anywhere. Somewhere. Wherever.",
+      "film_title": "极盗车神",
+      "film_title_en": "Baby Driver",
+      "year": 2017,
+      "character": "宝宝 / Baby",
+      "director": "埃德加·赖特",
+      "tags": [
+        "节奏",
+        "爱情",
+        "逃亡"
+      ],
+      "featured": false,
+      "curator_note": "宝宝回答黛博拉「去哪儿」的通行短句；与音景驱动的逃亡美学一致。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 17220
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/baby-driver-2017.jpg",
+      "still": "assets/stills/classics/baby-driver-2017.jpg",
+      "still_alt": "极盗车神 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/baby-driver-2017.jpg）（影片页 https://www.themoviedb.org/movie/339403）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yir5430WblZSZuIMd9C6pIZerfA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 339403,
+      "slug": "baby-driver-2017"
+    },
+    {
+      "id": "blackkklansman-america-first",
+      "line": "美国优先！",
+      "line_en": "America First!",
+      "film_title": "黑色党徒",
+      "film_title_en": "BlacKkKlansman",
+      "year": 2018,
+      "character": "三K党集会口号 / Klan rally",
+      "director": "斯派克·李",
+      "tags": [
+        "种族",
+        "政治",
+        "历史"
+      ],
+      "featured": false,
+      "curator_note": "片中三K党集会口号；斯派克·李以此对接当代政治话语，策展作历史对照引用。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 8280
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/blackkklansman-2018.jpg",
+      "still": "assets/stills/classics/blackkklansman-2018.jpg",
+      "still_alt": "黑色党徒 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/blackkklansman-2018.jpg）（影片页 https://www.themoviedb.org/movie/487558）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 487558,
+      "slug": "blackkklansman-2018"
+    },
+    {
+      "id": "hollywood-enjoy-the-silence",
+      "line": "当你能安静一会儿、舒服地享受沉默——那你就知道遇到对的人了。",
+      "line_en": "That's when you know you've found somebody special. When you can just shut the fuck up for a minute and comfortably enjoy the silence.",
+      "film_title": "好莱坞往事",
+      "film_title_en": "Once Upon a Time in Hollywood",
+      "year": 2019,
+      "character": "里克·道尔顿 / Rick Dalton（转述/酒后）",
+      "director": "昆汀·塔伦蒂诺",
+      "tags": [
+        "好莱坞",
+        "友谊",
+        "挽歌"
+      ],
+      "featured": false,
+      "curator_note": "里克关于「享受沉默」的通行名句（原句含粗口，中文略作书面化）；塔伦蒂诺式男子友谊注脚。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 15281
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/once-upon-a-time-in-hollywood-2019.jpg",
+      "still": "assets/stills/classics/once-upon-a-time-in-hollywood-2019.jpg",
+      "still_alt": "好莱坞往事 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/once-upon-a-time-in-hollywood-2019.jpg）（影片页 https://www.themoviedb.org/movie/466272）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 466272,
+      "slug": "once-upon-a-time-in-hollywood-2019"
+    },
+    {
+      "id": "marriage-story-showing-up",
+      "line": "我想弄清楚我到底是谁。",
+      "line_en": "I want to find out who I am.",
+      "film_title": "婚姻故事",
+      "film_title_en": "Marriage Story",
+      "year": 2019,
+      "character": "妮可 / Nicole Barber",
+      "director": "诺亚·鲍姆巴赫",
+      "tags": [
+        "婚姻",
+        "育儿",
+        "性别"
+      ],
+      "featured": false,
+      "curator_note": "妮可关于自我从「妻子/母亲」角色中找回的通行短句（独白/谈判语境压缩）；完整论述更长，明确为达意引用。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 7567
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/marriage-story-2019.jpg",
+      "still": "assets/stills/classics/marriage-story-2019.jpg",
+      "still_alt": "婚姻故事 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/marriage-story-2019.jpg）（影片页 https://www.themoviedb.org/movie/492188）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 492188,
+      "slug": "marriage-story-2019"
+    },
+    {
+      "id": "lighthouse-spill-yer-beans",
+      "line": "你干吗把豆子都抖出来了？",
+      "line_en": "Why'd ya spill yer beans?",
+      "film_title": "灯塔",
+      "film_title_en": "The Lighthouse",
+      "year": 2019,
+      "character": "托马斯·维克 / Thomas Wake",
+      "director": "罗伯特·艾格斯",
+      "tags": [
+        "恐怖",
+        "水手",
+        "神话"
+      ],
+      "featured": false,
+      "curator_note": "维克对年轻灯塔工的通行质问；影片古英语/水手俚语风味，中文取达意译法。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 5795
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-lighthouse-2019.jpg",
+      "still": "assets/stills/classics/the-lighthouse-2019.jpg",
+      "still_alt": "灯塔 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-lighthouse-2019.jpg）（影片页 https://www.themoviedb.org/movie/503919）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 503919,
+      "slug": "the-lighthouse-2019"
+    },
+    {
+      "id": "1917-last-man-standing",
+      "line": "这场战争只有一种结束方式：谁活到最后，谁赢。",
+      "line_en": "There's only one way this war ends. Last man standing.",
+      "film_title": "1917",
+      "film_title_en": "1917",
+      "year": 2020,
+      "character": "斯科菲尔德 / Schofield",
+      "director": "萨姆·门德斯",
+      "tags": [
+        "战争",
+        "一战",
+        "兄弟"
+      ],
+      "featured": false,
+      "curator_note": "斯科菲尔德的通行战争观短句；中文取常见译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 13926
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/1917-2020.jpg",
+      "still": "assets/stills/classics/1917-2020.jpg",
+      "still_alt": "1917 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/1917-2020.jpg）（影片页 https://www.themoviedb.org/movie/530915）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tJgmraUAmVlJPlq72yC76tKDyC4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 530915,
+      "slug": "1917-2020"
+    },
+    {
+      "id": "dune-dreams-from-deep",
+      "line": "梦，是从深处传来的讯息。",
+      "line_en": "Dreams are messages from the deep.",
+      "film_title": "沙丘",
+      "film_title_en": "Dune",
+      "year": 2021,
+      "character": "开场旁白 / Opening",
+      "director": "丹尼斯·维伦纽瓦",
+      "tags": [
+        "科幻",
+        "预言",
+        "史诗"
+      ],
+      "featured": false,
+      "curator_note": "2021 版开场旁白通行译法；维伦纽瓦以梦境锚定保罗的先知线。",
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 15579
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/dune-2021.jpg",
+      "still": "assets/stills/classics/dune-2021.jpg",
+      "still_alt": "沙丘 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dune-2021.jpg）（影片页 https://www.themoviedb.org/movie/438631）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/h61Kc0NC7d90jNwXfBx5js7DnSQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 438631,
+      "slug": "dune-2021"
+    },
+    {
+      "id": "oppenheimer-become-death",
+      "line": "现在我成了死神，世界的毁灭者。",
+      "line_en": "Now I am become Death, the destroyer of worlds.",
+      "film_title": "奥本海默",
+      "film_title_en": "Oppenheimer",
+      "year": 2023,
+      "character": "罗伯特·奥本海默 / J. Robert Oppenheimer",
+      "director": "克里斯托弗·诺兰",
+      "tags": [
+        "历史",
+        "原子弹",
+        "责任"
+      ],
+      "featured": false,
+      "curator_note": "奥本海默引《薄伽梵歌》的历史名句；影片多次回响，中文取通行译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.0,
+          "votes": 12540
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/oppenheimer-2023.jpg",
+      "still": "assets/stills/classics/oppenheimer-2023.jpg",
+      "still_alt": "奥本海默 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/oppenheimer-2023.jpg）（影片页 https://www.themoviedb.org/movie/872585）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 872585,
+      "slug": "oppenheimer-2023"
+    },
+    {
+      "id": "spider-verse-own-thing",
+      "line": "不。我要走自己的路。",
+      "line_en": "Nah. Imma do my own thing.",
+      "film_title": "蜘蛛侠：纵横宇宙",
+      "film_title_en": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "character": "迈尔斯·莫拉莱斯 / Miles Morales",
+      "director": "肯普·鲍尔斯 / 贾斯汀·K·汤普森 / 华金·多斯·桑托斯",
+      "tags": [
+        "动画",
+        "身份",
+        "选择"
+      ],
+      "featured": false,
+      "curator_note": "迈尔斯对抗「正典」命运的通行短句；中文取口语达意译法。",
+      "ratings": {
+        "imdb": {
+          "score": 8.3,
+          "votes": 9289
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/spider-man-across-the-spider-verse-2023.jpg",
+      "still": "assets/stills/classics/spider-man-across-the-spider-verse-2023.jpg",
+      "still_alt": "蜘蛛侠：纵横宇宙 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/spider-man-across-the-spider-verse-2023.jpg）（影片页 https://www.themoviedb.org/movie/569094）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 569094,
+      "slug": "spider-man-across-the-spider-verse-2023"
+    },
+    {
+      "id": "barbie-impossible-woman",
+      "line": "做女人几乎是不可能的。你这么美、这么聪明，可你仍觉得自己不够好——这快把我逼疯了。",
+      "line_en": "It is literally impossible to be a woman. You are so beautiful, and so smart, and it kills me that you don't think you're good enough.",
+      "film_title": "芭比",
+      "film_title_en": "Barbie",
+      "year": 2023,
+      "character": "格洛丽亚 / Gloria",
+      "director": "格蕾塔·葛韦格",
+      "tags": [
+        "性别",
+        "文化现象",
+        "独白"
+      ],
+      "featured": false,
+      "curator_note": "格洛丽亚长独白开头的通行译法（略压缩）；完整独白更长，此处取公众最常引用的起句。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 11603
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/barbie-2023.jpg",
+      "still": "assets/stills/classics/barbie-2023.jpg",
+      "still_alt": "芭比 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/barbie-2023.jpg）（影片页 https://www.themoviedb.org/movie/346698）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 346698,
+      "slug": "barbie-2023"
+    }
+  ]
+}
