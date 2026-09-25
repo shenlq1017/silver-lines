@@ -1,0 +1,1074 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T11:54:38+08:00",
+    "purpose": "C3 草稿：classics batch-jia 第三批 25 部各 1 条主金句；status=draft，未并入 quotes.json",
+    "batch": "batch-jia",
+    "selection_source": "tmp/content-fill-plan/candidates-jia-c3-25.json",
+    "stills_source": "tmp/stills-jia-c3/index-fragment.json",
+    "count": 25,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "海报：assets/posters/classics/{slug}.jpg（batch-jia 已备，宽边≥780）",
+      "静帧：assets/stills/classics/{slug}.jpg（C3 抓取，本批均为 3840×2160 / status=ok）",
+      "featured=false 全部；并入时整库 featured 仍应收束≈5",
+      "排除 C1 candidates-jia-25、C2 candidates-jia-c2-25 与 published=299（origin/main @ a09d860）",
+      "避开 batch-jia 错配：la-battaglia-di-algeri / cool-hand-luke / c-and-apos-era-una-volta-il-west / idi-i-smotri / t-ky-monogatari",
+      "简体统一：双重赔偿 / 盗火线 / 侏罗纪公园；生活多美好（batch「风云人物」）见 curator_note",
+      "评分 imdb/rt/mc/douban 为 2026-09-25 策展快照近似，非实时抓取",
+      "meta.merged=false；等待 PM 终验后另任务并入"
+    ],
+    "merged": false,
+    "published_anchor": "origin/main @ a09d860 published=299"
+  },
+  "quotes": [
+    {
+      "id": "m-i-cant-help-myself",
+      "line": "我控制不了自己！……我没有别的路可走——我必须走这条路！",
+      "line_en": "I can't help myself! I have no control over this evil thing that's inside of me—the fire, the voices, the torment!",
+      "film_title": "M就是凶手",
+      "film_title_en": "M - Eine Stadt sucht einen Mörder",
+      "year": 1931,
+      "character": "Hans Beckert",
+      "director": "弗里茨·朗",
+      "tags": [
+        "犯罪",
+        "表现主义",
+        "良心"
+      ],
+      "featured": false,
+      "curator_note": "杀手在地下法庭的独白：M就是凶手把变态冲动写成无法挣脱的诅咒。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 9.0,
+          "votes": 120000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 170000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 100
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照"
+      },
+      "poster": "assets/posters/classics/m-eine-stadt-sucht-einen-m-rder-1931.jpg",
+      "still": "assets/stills/classics/m-eine-stadt-sucht-einen-m-rder-1931.jpg",
+      "still_alt": "M就是凶手 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/m-eine-stadt-sucht-einen-m-rder-1931.jpg）（影片页 https://www.themoviedb.org/movie/832）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4fJLxqIuJrkTm88rIg3VcchZgkt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 832,
+      "slug": "m-eine-stadt-sucht-einen-m-rder-1931"
+    },
+    {
+      "id": "empire-i-am-your-father",
+      "line": "不——我才是你的父亲。",
+      "line_en": "No. I am your father.",
+      "film_title": "星球大战：帝国反击战",
+      "film_title_en": "The Empire Strikes Back",
+      "year": 1980,
+      "character": "Darth Vader",
+      "director": "厄文·克什纳",
+      "tags": [
+        "科幻",
+        "亲情",
+        "反转"
+      ],
+      "featured": false,
+      "curator_note": "云城对决的终极反转：帝国反击战把「父亲」做成影史最响亮的一声。通行定译（常被误记为 Luke, I am your father）。与已上架《星球大战》（1977）同系列不同片。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 280000
+        },
+        "imdb": {
+          "score": 8.7,
+          "votes": 1400000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 95
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 82
+        }
+      },
+      "poster": "assets/posters/classics/the-empire-strikes-back-1980.jpg",
+      "still": "assets/stills/classics/the-empire-strikes-back-1980.jpg",
+      "still_alt": "星球大战：帝国反击战 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-empire-strikes-back-1980.jpg）（影片页 https://www.themoviedb.org/movie/1891）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/azIbQpeKKNF9r85lBSRrNnMK0Si.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1891,
+      "slug": "the-empire-strikes-back-1980"
+    },
+    {
+      "id": "raiders-snakes-why-snakes",
+      "line": "蛇。为什么偏偏是蛇？",
+      "line_en": "Snakes. Why did it have to be snakes?",
+      "film_title": "夺宝奇兵",
+      "film_title_en": "Raiders of the Lost Ark",
+      "year": 1981,
+      "character": "Indiana Jones",
+      "director": "史蒂文·斯皮尔伯格",
+      "tags": [
+        "冒险",
+        "幽默",
+        "考古"
+      ],
+      "featured": false,
+      "curator_note": "井底一幕：夺宝奇兵用一句怕蛇的吐槽，把硬汉冒险家写成人。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 220000
+        },
+        "imdb": {
+          "score": 8.4,
+          "votes": 1000000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 93
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 85
+        }
+      },
+      "poster": "assets/posters/classics/raiders-of-the-lost-ark-1981.jpg",
+      "still": "assets/stills/classics/raiders-of-the-lost-ark-1981.jpg",
+      "still_alt": "夺宝奇兵 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/raiders-of-the-lost-ark-1981.jpg）（影片页 https://www.themoviedb.org/movie/85）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ueDw7djPgKPZfph0vC43aD2EMyF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 85,
+      "slug": "raiders-of-the-lost-ark-1981"
+    },
+    {
+      "id": "last-crusade-he-chose-poorly",
+      "line": "他选错了。",
+      "line_en": "He chose poorly.",
+      "film_title": "印第安纳琼斯：圣战奇兵",
+      "film_title_en": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "character": "Grail Knight",
+      "director": "史蒂文·斯皮尔伯格",
+      "tags": [
+        "冒险",
+        "信仰",
+        "选择"
+      ],
+      "featured": false,
+      "curator_note": "圣杯骑士对反派的冷判：圣战奇兵把「选择」做成生死一瞬。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 180000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 800000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 88
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 65
+        }
+      },
+      "poster": "assets/posters/classics/indiana-jones-and-the-last-crusade-1989.jpg",
+      "still": "assets/stills/classics/indiana-jones-and-the-last-crusade-1989.jpg",
+      "still_alt": "印第安纳琼斯：圣战奇兵 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/indiana-jones-and-the-last-crusade-1989.jpg）（影片页 https://www.themoviedb.org/movie/89）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2Y7nbXrDtHwAfcTX7KBN0z40OAy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 89,
+      "slug": "indiana-jones-and-the-last-crusade-1989"
+    },
+    {
+      "id": "double-indemnity-money-and-woman",
+      "line": "是的，我杀了他。我为了钱——也为了一个女人——杀了他。结果呢？钱没拿到，女人也没到手。真够惨的，对吧？",
+      "line_en": "Yes, I killed him. I killed him for money—and a woman—and I didn't get the money and I didn't get the woman. Pretty, isn't it?",
+      "film_title": "双重赔偿",
+      "film_title_en": "Double Indemnity",
+      "year": 1944,
+      "character": "Walter Neff",
+      "director": "比利·怀尔德",
+      "tags": [
+        "黑色电影",
+        "犯罪",
+        "欲望"
+      ],
+      "featured": false,
+      "curator_note": "Neff 对着录音机的开场自白：双重赔偿把黑色电影的失败写进第一句。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 90000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 170000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 97
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 95
+        }
+      },
+      "poster": "assets/posters/classics/double-indemnity-1944.jpg",
+      "still": "assets/stills/classics/double-indemnity-1944.jpg",
+      "still_alt": "双重赔偿 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/double-indemnity-1944.jpg）（影片页 https://www.themoviedb.org/movie/996）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jY0dBKvoN9jIjKQ0w6cWrfhKmy8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 996,
+      "slug": "double-indemnity-1944"
+    },
+    {
+      "id": "groundhog-what-if-stuck",
+      "line": "要是你被困住了——每天都一模一样——而这件事永远不会有尽头呢？",
+      "line_en": "What would you do if you were stuck in one place, and every day was exactly the same, and nothing that you did mattered?",
+      "film_title": "土拨鼠之日",
+      "film_title_en": "Groundhog Day",
+      "year": 1993,
+      "character": "Phil Connors",
+      "director": "哈罗德·拉米斯",
+      "tags": [
+        "喜剧",
+        "时间",
+        "觉醒"
+      ],
+      "featured": false,
+      "curator_note": "Phil 向 Rita 抛出的假设：土拨鼠之日把永恒轮回问成一记温柔的存在主义。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 350000
+        },
+        "imdb": {
+          "score": 8.0,
+          "votes": 700000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 94
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 72
+        }
+      },
+      "poster": "assets/posters/classics/groundhog-day-1993.jpg",
+      "still": "assets/stills/classics/groundhog-day-1993.jpg",
+      "still_alt": "土拨鼠之日 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/groundhog-day-1993.jpg）（影片页 https://www.themoviedb.org/movie/137）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4W6RYDNe4OByNryOCvJprrutm9h.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 137,
+      "slug": "groundhog-day-1993"
+    },
+    {
+      "id": "heat-dont-get-attached",
+      "line": "别让自己对任何你无法在三十秒内转身走开的东西产生感情——如果感觉到热度，就这么办。",
+      "line_en": "Don't let yourself get attached to anything you are not willing to walk out on in thirty seconds flat if you feel the heat around the corner.",
+      "film_title": "盗火线",
+      "film_title_en": "Heat",
+      "year": 1995,
+      "character": "Neil McCauley",
+      "director": "迈克尔·曼",
+      "tags": [
+        "犯罪",
+        "纪律",
+        "孤独"
+      ],
+      "featured": false,
+      "curator_note": "Neil 的生存戒律：盗火线把职业劫匪的冷峻写成一句三十秒法则。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 280000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 700000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 83
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 76
+        }
+      },
+      "poster": "assets/posters/classics/heat-1995.jpg",
+      "still": "assets/stills/classics/heat-1995.jpg",
+      "still_alt": "盗火线 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/heat-1995.jpg）（影片页 https://www.themoviedb.org/movie/949）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 949,
+      "slug": "heat-1995"
+    },
+    {
+      "id": "salaire-dead-is-dead",
+      "line": "人一旦死了——就死了。",
+      "line_en": "When someone is dead, they are dead.",
+      "film_title": "恐惧的代价",
+      "film_title_en": "Le salaire de la peur",
+      "year": 1955,
+      "character": "Mario",
+      "director": "亨利-乔治·克鲁佐",
+      "tags": [
+        "惊悚",
+        "恐惧",
+        "公路"
+      ],
+      "featured": false,
+      "curator_note": "冷酷的底线：恐惧的代价把生命写成随时可蒸发的货运。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 8.4,
+          "votes": 45000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 70000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 100
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 85
+        }
+      },
+      "poster": "assets/posters/classics/le-salaire-de-la-peur-1955.jpg",
+      "still": "assets/stills/classics/le-salaire-de-la-peur-1955.jpg",
+      "still_alt": "恐惧的代价 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/le-salaire-de-la-peur-1955.jpg）（影片页 https://www.themoviedb.org/movie/204）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tPIirm5YHQsK25y0JYTb9vxUuGh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 204,
+      "slug": "le-salaire-de-la-peur-1955"
+    },
+    {
+      "id": "ben-hur-hate-keeps-alive",
+      "line": "你眼里满是仇恨，犹大。很好。仇恨能让人活下去——它给人力量。",
+      "line_en": "Your eyes are full of hate, Judah. That's good. Hate keeps a man alive. It gives him strength.",
+      "film_title": "宾虚",
+      "film_title_en": "Ben-Hur",
+      "year": 1959,
+      "character": "Quintus Arrius",
+      "director": "威廉·惠勒",
+      "tags": [
+        "史诗",
+        "复仇",
+        "信仰"
+      ],
+      "featured": false,
+      "curator_note": "夸图斯·阿利乌斯对犹大说：宾虚把仇恨写成暂时的燃料。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 8.3,
+          "votes": 70000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 250000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 86
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 90
+        }
+      },
+      "poster": "assets/posters/classics/ben-hur-1959.jpg",
+      "still": "assets/stills/classics/ben-hur-1959.jpg",
+      "still_alt": "宾虚 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ben-hur-1959.jpg）（影片页 https://www.themoviedb.org/movie/665）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/87AEFDcH0VxNDxOQyUmG4gpoSeh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 665,
+      "slug": "ben-hur-1959"
+    },
+    {
+      "id": "unforgiven-deserve-got",
+      "line": "跟「应得」没关系。",
+      "line_en": "Deserve's got nothing to do with it.",
+      "film_title": "不可饶恕",
+      "film_title_en": "Unforgiven",
+      "year": 1992,
+      "character": "Will Munny",
+      "director": "克林特·伊斯特伍德",
+      "tags": [
+        "西部",
+        "暴力",
+        "清算"
+      ],
+      "featured": false,
+      "curator_note": "Munny 对 Little Bill 的冷答：不可饶恕拆穿西部「应得」神话。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 180000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 440000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 96
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 85
+        }
+      },
+      "poster": "assets/posters/classics/unforgiven-1992.jpg",
+      "still": "assets/stills/classics/unforgiven-1992.jpg",
+      "still_alt": "不可饶恕 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/unforgiven-1992.jpg）（影片页 https://www.themoviedb.org/movie/33）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5zkrI7P70j8C03ThBOvrEG6VF8M.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 33,
+      "slug": "unforgiven-1992"
+    },
+    {
+      "id": "all-about-eve-fasten-seatbelts",
+      "line": "系好安全带——前面要颠簸了。",
+      "line_en": "Fasten your seatbelts. It’s going to be a bumpy night.",
+      "film_title": "四面夏娃",
+      "film_title_en": "All About Eve",
+      "year": 1950,
+      "character": "Margo Channing",
+      "director": "约瑟夫·L·曼凯维奇",
+      "tags": [
+        "剧情",
+        "戏剧",
+        "锋利"
+      ],
+      "featured": false,
+      "curator_note": "Margo 派对上的宣战：四面夏娃把百老汇的毒舌做成影史金句。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 60000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 140000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 99
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 98
+        }
+      },
+      "poster": "assets/posters/classics/all-about-eve-1950.jpg",
+      "still": "assets/stills/classics/all-about-eve-1950.jpg",
+      "still_alt": "四面夏娃 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/all-about-eve-1950.jpg）（影片页 https://www.themoviedb.org/movie/705）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mkFHr2hmPsb99Vczl8O9dhWvbBn.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 705,
+      "slug": "all-about-eve-1950"
+    },
+    {
+      "id": "kwai-madness-war",
+      "line": "疯狂……疯狂……战争就是这样。",
+      "line_en": "Madness! Madness!",
+      "film_title": "桂河大桥",
+      "film_title_en": "The Bridge on the River Kwai",
+      "year": 1957,
+      "character": "Major Clipton",
+      "director": "大卫·里恩",
+      "tags": [
+        "战争",
+        "疯狂",
+        "荣誉"
+      ],
+      "featured": false,
+      "curator_note": "桥塌之后 Clipton 的一声：桂河大桥把军人荣誉的悖论收成「疯狂」。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.4,
+          "votes": 90000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 230000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 96
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 87
+        }
+      },
+      "poster": "assets/posters/classics/the-bridge-on-the-river-kwai-1957.jpg",
+      "still": "assets/stills/classics/the-bridge-on-the-river-kwai-1957.jpg",
+      "still_alt": "桂河大桥 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-bridge-on-the-river-kwai-1957.jpg）（影片页 https://www.themoviedb.org/movie/826）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/r2MkkyGJSxnWVn9qujSBZS63jEA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 826,
+      "slug": "the-bridge-on-the-river-kwai-1957"
+    },
+    {
+      "id": "exorcist-the-power-of-christ",
+      "line": "基督的力量命令你——滚开！",
+      "line_en": "The power of Christ compels you!",
+      "film_title": "驱魔人",
+      "film_title_en": "The Exorcist",
+      "year": 1973,
+      "character": "Father Merrin",
+      "director": "威廉·弗里德金",
+      "tags": [
+        "恐怖",
+        "信仰",
+        "驱魔"
+      ],
+      "featured": false,
+      "curator_note": "驱魔仪式的反复呼喊：驱魔人把信仰做成对抗的节奏。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 7.8,
+          "votes": 150000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 450000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 78
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 81
+        }
+      },
+      "poster": "assets/posters/classics/the-exorcist-1973.jpg",
+      "still": "assets/stills/classics/the-exorcist-1973.jpg",
+      "still_alt": "驱魔人 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-exorcist-1973.jpg）（影片页 https://www.themoviedb.org/movie/9552）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iqgFp4jpBGlRmxajNRTDWXRZwTx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 9552,
+      "slug": "the-exorcist-1973"
+    },
+    {
+      "id": "scarface-say-hello",
+      "line": "你们这帮龟孙子想要打仗——是吗？来啊！……跟我的小朋友问个好！",
+      "line_en": "Say hello to my little friend!",
+      "film_title": "疤面煞星",
+      "film_title_en": "Scarface",
+      "year": 1983,
+      "character": "Tony Montana",
+      "director": "布莱恩·德·帕尔马",
+      "tags": [
+        "犯罪",
+        "狂怒",
+        "流行"
+      ],
+      "featured": false,
+      "curator_note": "终局扫射的咆哮：疤面煞星把过度自信写成流行文化口头禅。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.2,
+          "votes": 220000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 900000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 81
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 65
+        }
+      },
+      "poster": "assets/posters/classics/scarface-1983.jpg",
+      "still": "assets/stills/classics/scarface-1983.jpg",
+      "still_alt": "疤面煞星 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/scarface-1983.jpg）（影片页 https://www.themoviedb.org/movie/111）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/58xwzOzusEBR0IVmrSf4DKvjAaz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 111,
+      "slug": "scarface-1983"
+    },
+    {
+      "id": "jedi-i-am-a-jedi",
+      "line": "像我父亲一样——我是绝地武士。",
+      "line_en": "I am a Jedi, like my father before me.",
+      "film_title": "星球大战：绝地归来",
+      "film_title_en": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "character": "Luke Skywalker",
+      "director": "理查德·马奎德",
+      "tags": [
+        "科幻",
+        "救赎",
+        "传承"
+      ],
+      "featured": false,
+      "curator_note": "卢克扔掉光剑：绝地归来把血统写成选择。通行定译。与《星球大战》《帝国反击战》同系列不同片。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 200000
+        },
+        "imdb": {
+          "score": 8.3,
+          "votes": 1100000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 82
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 58
+        }
+      },
+      "poster": "assets/posters/classics/star-wars-episode-vi-return-of-the-jedi-1983.jpg",
+      "still": "assets/stills/classics/star-wars-episode-vi-return-of-the-jedi-1983.jpg",
+      "still_alt": "星球大战：绝地归来 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/star-wars-episode-vi-return-of-the-jedi-1983.jpg）（影片页 https://www.themoviedb.org/movie/1892）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u2Wm56EUgkHh3k2qmvvAtM99shw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1892,
+      "slug": "star-wars-episode-vi-return-of-the-jedi-1983"
+    },
+    {
+      "id": "ran-in-a-mad-world",
+      "line": "在这疯狂的世界里——只有疯子才能自由。",
+      "line_en": "In a mad world, only the mad are sane.",
+      "film_title": "乱",
+      "film_title_en": "Ran",
+      "year": 1985,
+      "character": "Kyoami",
+      "director": "黑泽明",
+      "tags": [
+        "战争",
+        "权力",
+        "疯癫"
+      ],
+      "featured": false,
+      "curator_note": "弄臣狂言：乱把李尔王式的乱世收成一句反讽。通行意译（常作英文金句流传）。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 80000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 140000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 96
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 96
+        }
+      },
+      "poster": "assets/posters/classics/ran-1985.jpg",
+      "still": "assets/stills/classics/ran-1985.jpg",
+      "still_alt": "乱 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ran-1985.jpg）（影片页 https://www.themoviedb.org/movie/11645）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3ssNAWypRl47iriwBFNx7RUEUub.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11645,
+      "slug": "ran-1985"
+    },
+    {
+      "id": "jurassic-life-finds-a-way",
+      "line": "生命自会找到出路。",
+      "line_en": "Life finds a way.",
+      "film_title": "侏罗纪公园",
+      "film_title_en": "Jurassic Park",
+      "year": 1993,
+      "character": "Ian Malcolm",
+      "director": "史蒂文·斯皮尔伯格",
+      "tags": [
+        "科幻",
+        "生命",
+        "傲慢"
+      ],
+      "featured": false,
+      "curator_note": "Malcolm 对「控制」的嘲讽：侏罗纪公园把混沌理论收成一句流行箴言。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.4,
+          "votes": 450000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 1100000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 91
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 68
+        }
+      },
+      "poster": "assets/posters/classics/jurassic-park-1993.jpg",
+      "still": "assets/stills/classics/jurassic-park-1993.jpg",
+      "still_alt": "侏罗纪公园 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/jurassic-park-1993.jpg）（影片页 https://www.themoviedb.org/movie/329）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 329,
+      "slug": "jurassic-park-1993"
+    },
+    {
+      "id": "thing-nobody-trusts-anybody",
+      "line": "谁都不信谁——我们都累极了。",
+      "line_en": "Nobody trusts anybody now, and we're all very tired.",
+      "film_title": "怪形",
+      "film_title_en": "The Thing",
+      "year": 1982,
+      "character": "MacReady",
+      "director": "约翰·卡朋特",
+      "tags": [
+        "恐怖",
+        "偏执",
+        "信任"
+      ],
+      "featured": false,
+      "curator_note": "封闭站里的疲惫底线：怪形把信任成本写成生存本身。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 8.1,
+          "votes": 120000
+        },
+        "imdb": {
+          "score": 8.2,
+          "votes": 470000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 85
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 57
+        }
+      },
+      "poster": "assets/posters/classics/the-thing-1982.jpg",
+      "still": "assets/stills/classics/the-thing-1982.jpg",
+      "still_alt": "怪形 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-thing-1982.jpg）（影片页 https://www.themoviedb.org/movie/1091）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oVa4o0C5Fa7G36qHY48n3KHGBDX.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1091,
+      "slug": "the-thing-1982"
+    },
+    {
+      "id": "departed-product-of-environment",
+      "line": "我不想成为环境的产物——我要让环境成为我的产物。",
+      "line_en": "I don't want to be a product of my environment. I want my environment to be a product of me.",
+      "film_title": "无间道风云",
+      "film_title_en": "The Departed",
+      "year": 2006,
+      "character": "Frank Costello",
+      "director": "马丁·斯科塞斯",
+      "tags": [
+        "犯罪",
+        "身份",
+        "波士顿"
+      ],
+      "featured": false,
+      "curator_note": "Costello 开场旁白：无间道风云把环境决定论翻了个面。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 8.2,
+          "votes": 350000
+        },
+        "imdb": {
+          "score": 8.5,
+          "votes": 1400000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 91
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 85
+        }
+      },
+      "poster": "assets/posters/classics/the-departed-2006.jpg",
+      "still": "assets/stills/classics/the-departed-2006.jpg",
+      "still_alt": "无间道风云 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-departed-2006.jpg）（影片页 https://www.themoviedb.org/movie/1422）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6WRrGYalXXveItfpnipYdayFkQB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1422,
+      "slug": "the-departed-2006"
+    },
+    {
+      "id": "sunset-ready-for-closeup",
+      "line": "好了，科长——我准备好拍特写了。",
+      "line_en": "All right, Mr. DeMille, I'm ready for my close-up.",
+      "film_title": "日落大道",
+      "film_title_en": "Sunset Blvd.",
+      "year": 1950,
+      "character": "Norma Desmond",
+      "director": "比利·怀尔德",
+      "tags": [
+        "黑色电影",
+        "幻灭",
+        "好莱坞"
+      ],
+      "featured": false,
+      "curator_note": "Norma 走下楼梯的终句：日落大道把明星的自欺做成影史特写。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.6,
+          "votes": 100000
+        },
+        "imdb": {
+          "score": 8.4,
+          "votes": 240000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 94
+        }
+      },
+      "poster": "assets/posters/classics/sunset-blvd-1950.jpg",
+      "still": "assets/stills/classics/sunset-blvd-1950.jpg",
+      "still_alt": "日落大道 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sunset-blvd-1950.jpg）（影片页 https://www.themoviedb.org/movie/599）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ulQs23w1DTpCbDWMUKCNiTpVIVE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 599,
+      "slug": "sunset-blvd-1950"
+    },
+    {
+      "id": "rebecca-last-night-dreamed",
+      "line": "昨夜，我又梦见了曼德利。",
+      "line_en": "Last night I dreamt I went to Manderley again.",
+      "film_title": "蝴蝶梦",
+      "film_title_en": "Rebecca",
+      "year": 1940,
+      "character": "Mrs. de Winter",
+      "director": "阿尔弗雷德·希区柯克",
+      "tags": [
+        "悬疑",
+        "哥特",
+        "记忆"
+      ],
+      "featured": false,
+      "curator_note": "开场第一句：蝴蝶梦把曼德利做成幽灵般的专有名词。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.4,
+          "votes": 120000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 150000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 98
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 86
+        }
+      },
+      "poster": "assets/posters/classics/rebecca-1940.jpg",
+      "still": "assets/stills/classics/rebecca-1940.jpg",
+      "still_alt": "蝴蝶梦 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rebecca-1940.jpg）（影片页 https://www.themoviedb.org/movie/223）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7O86fM7nqbpy5ZLBNlUKlUl3UWK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 223,
+      "slug": "rebecca-1940"
+    },
+    {
+      "id": "stand-by-me-friends-forever",
+      "line": "我再也没有交过像十二岁时那样的朋友——你是不是也这样？",
+      "line_en": "I never had any friends later on like the ones I had when I was twelve. Jesus, does anyone?",
+      "film_title": "伴我同行",
+      "film_title_en": "Stand by Me",
+      "year": 1986,
+      "character": "Gordie Lachance",
+      "director": "罗伯·莱纳",
+      "tags": [
+        "成长",
+        "友谊",
+        "回忆"
+      ],
+      "featured": false,
+      "curator_note": "旁白收束：伴我同行把童年友谊写成不可复刻的一次。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 8.5,
+          "votes": 280000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 450000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 92
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 75
+        }
+      },
+      "poster": "assets/posters/classics/stand-by-me-1986.jpg",
+      "still": "assets/stills/classics/stand-by-me-1986.jpg",
+      "still_alt": "伴我同行 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/stand-by-me-1986.jpg）（影片页 https://www.themoviedb.org/movie/235）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yjGllQUm28R4X9xD9T5xMszirgw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 235,
+      "slug": "stand-by-me-1986"
+    },
+    {
+      "id": "gbu-there-are-two-kinds",
+      "line": "世界上有两种人，我的朋友——有枪的，和要挖的。你，挖。",
+      "line_en": "There are two kinds of people in the world, my friend: those with a loaded gun, and those who dig. You dig.",
+      "film_title": "黄金三镖客",
+      "film_title_en": "Il buono, il brutto, il cattivo",
+      "year": 1967,
+      "character": "Blondie",
+      "director": "赛尔乔·莱翁内",
+      "tags": [
+        "西部",
+        "权力",
+        "讽喻"
+      ],
+      "featured": false,
+      "curator_note": "坟场对峙：黄金三镖客把枪与铲子做成文明的二分法。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 9.0,
+          "votes": 220000
+        },
+        "imdb": {
+          "score": 8.8,
+          "votes": 800000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 97
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 90
+        }
+      },
+      "poster": "assets/posters/classics/il-buono-il-brutto-il-cattivo-1967.jpg",
+      "still": "assets/stills/classics/il-buono-il-brutto-il-cattivo-1967.jpg",
+      "still_alt": "黄金三镖客 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/il-buono-il-brutto-il-cattivo-1967.jpg）（影片页 https://www.themoviedb.org/movie/429）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 429,
+      "slug": "il-buono-il-brutto-il-cattivo-1967"
+    },
+    {
+      "id": "wonderful-life-no-man-failure",
+      "line": "记住，乔治——没有一个拥有朋友的人，会是失败者。",
+      "line_en": "Remember, George: no man is a failure who has friends.",
+      "film_title": "生活多美好",
+      "film_title_en": "It's a Wonderful Life",
+      "year": 1947,
+      "character": "Clarence Oddbody",
+      "director": "弗兰克·卡普拉",
+      "tags": [
+        "人情",
+        "希望",
+        "圣诞"
+      ],
+      "featured": false,
+      "curator_note": "天使 Clarence 的题词：生活多美好（风云人物）把友情写成最后的资产负债表。batch 片名「风云人物」；大陆通行亦称「生活多美好」。通行定译。",
+      "ratings": {
+        "douban": {
+          "score": 8.8,
+          "votes": 150000
+        },
+        "imdb": {
+          "score": 8.6,
+          "votes": 500000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 94
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 89
+        }
+      },
+      "poster": "assets/posters/classics/it-and-apos-s-a-wonderful-life-1947.jpg",
+      "still": "assets/stills/classics/it-and-apos-s-a-wonderful-life-1947.jpg",
+      "still_alt": "生活多美好 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/it-and-apos-s-a-wonderful-life-1947.jpg）（影片页 https://www.themoviedb.org/movie/1585）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1585,
+      "slug": "it-and-apos-s-a-wonderful-life-1947"
+    },
+    {
+      "id": "waterfront-coulda-been-contender",
+      "line": "我本可以是个竞争者——我本可以是个人物——而不是像现在这样，只是个废物。",
+      "line_en": "I coulda had class. I coulda been a contender. I coulda been somebody, instead of a bum, which is what I am.",
+      "film_title": "码头风云",
+      "film_title_en": "On the Waterfront",
+      "year": 1954,
+      "character": "Terry Malloy",
+      "director": "埃利亚·卡赞",
+      "tags": [
+        "剧情",
+        "悔恨",
+        "码头"
+      ],
+      "featured": false,
+      "curator_note": "后座上对哥哥的控诉：码头风云把错失的荣耀收成影史最著名的「本可以」。通行意译。",
+      "ratings": {
+        "douban": {
+          "score": 8.4,
+          "votes": 70000
+        },
+        "imdb": {
+          "score": 8.1,
+          "votes": 160000
+        },
+        "rotten_tomatoes": {
+          "tomatometer": 99
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照",
+        "metacritic": {
+          "score": 91
+        }
+      },
+      "poster": "assets/posters/classics/on-the-waterfront-1954.jpg",
+      "still": "assets/stills/classics/on-the-waterfront-1954.jpg",
+      "still_alt": "码头风云 · 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/on-the-waterfront-1954.jpg）（影片页 https://www.themoviedb.org/movie/654）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6Thcrroze73TyEd7aFdN3gXIddY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 654,
+      "slug": "on-the-waterfront-1954"
+    }
+  ]
+}
