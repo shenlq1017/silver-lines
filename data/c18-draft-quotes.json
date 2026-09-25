@@ -1,0 +1,822 @@
+{
+  "meta": {
+    "created_at": "2026-09-25T13:07:55+08:00",
+    "purpose": "C18 classics×25 草稿：batch-bing（丙线）在 C17 之后质量优先再取 25 部各 1 条主金句；status=draft，未并入 quotes.json",
+    "batch": "batch-bing",
+    "selection_source": "tmp/content-fill-plan/candidates-bing-c18-25.json",
+    "stills_source": "tmp/stills-bing-c18/index-fragment.json",
+    "count": 25,
+    "featured_ids": [],
+    "blocked": [],
+    "still_pending": [],
+    "notes": [
+      "海报：assets/posters/classics/{slug}.jpg；入选前校验 width≥780，不足则换 TMDB original（prefer zh）；本批最小海报宽 780",
+      "静帧：assets/stills/classics/{slug}.jpg（C18 TMDB original backdrop，宽边≥1920）",
+      "quotes.json 未修改；未 push；未用 CloudAgent",
+      "跳过 the-story-of-women-1995（batch 标红粉但 TMDB id 指向韩国片）"
+    ],
+    "merged": false
+  },
+  "quotes": [
+    {
+      "id": "fishermen-tax-and-poverty",
+      "line": "鱼儿难捕租税重，捕鱼人儿世世穷。",
+      "line_en": "Fish are hard to catch and the tax is heavy — fisherfolk stay poor generation after generation.",
+      "film_title": "渔光曲",
+      "film_title_en": "Song of the Fishermen",
+      "year": 1934,
+      "character": "主题歌 / Theme song 《渔光曲》",
+      "director": "蔡楚生",
+      "tags": [
+        "渔民",
+        "左翼",
+        "主题歌"
+      ],
+      "featured": false,
+      "curator_note": "通行歌词：安娥词、任光曲、王人美唱；《渔光曲》主题歌中点题的阶级句，不同印刷版“租税/船租”略有出入，取常见通行文本。",
+      "ratings": {
+        "imdb": {
+          "score": 5.7,
+          "votes": 9
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/song-of-the-fishermen-1934.jpg",
+      "still": "assets/stills/classics/song-of-the-fishermen-1934.jpg",
+      "still_alt": "渔光曲 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/song-of-the-fishermen-1934.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/183704）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5r6t5hLSNP0PrLbsX4hTxTgX28s.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 183704,
+      "slug": "song-of-the-fishermen-1934"
+    },
+    {
+      "id": "peach-plum-unemployed-graduate",
+      "line": "毕业即失业。",
+      "line_en": "Graduate — and immediately unemployed.",
+      "film_title": "桃李劫",
+      "film_title_en": "Plunder of Peach and Plum",
+      "year": 1934,
+      "character": "时代主题 / Period refrain",
+      "director": "应云卫",
+      "tags": [
+        "毕业",
+        "失业",
+        "左翼"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括应云卫《桃李劫》中知识分子“桃李满门”却走投无路的核心命题；影片对白分散，明确为主题压缩，不冒充唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 6.5,
+          "votes": 6
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/plunder-of-peach-and-plum-1934.jpg",
+      "still": "assets/stills/classics/plunder-of-peach-and-plum-1934.jpg",
+      "still_alt": "桃李劫 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/plunder-of-peach-and-plum-1934.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/120975）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7DbuhxLXwcVC5N2aT6UzYdNfGx5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 120975,
+      "slug": "plunder-of-peach-and-plum-1934"
+    },
+    {
+      "id": "secret-who-is-real",
+      "line": "到底谁才是真的？",
+      "line_en": "Who is the real one, after all?",
+      "film_title": "疯劫",
+      "film_title_en": "The Secret",
+      "year": 1979,
+      "character": "林青霞饰角色语境 / Identity puzzle",
+      "director": "许鞍华",
+      "tags": [
+        "身份",
+        "新浪潮",
+        "惊悚"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括许鞍华《疯劫》以双胞胎/替身与谋杀追查展开的身份谜题；不同拷贝对白措辞不一，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 6.1,
+          "votes": 15
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-secret-1979.jpg",
+      "still": "assets/stills/classics/the-secret-1979.jpg",
+      "still_alt": "疯劫 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-secret-1979.jpg，2000×2999）（影片页 https://www.themoviedb.org/movie/176219）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rOPPu6DWDLEp4Od1F5BJfXMtbVf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 176219,
+      "slug": "the-secret-1979"
+    },
+    {
+      "id": "homecoming-years-like-water",
+      "line": "似水流年。",
+      "line_en": "Years flow away like water.",
+      "film_title": "似水流年",
+      "film_title_en": "Homecoming",
+      "year": 1984,
+      "character": "片名/主题 / Title refrain",
+      "director": "严浩",
+      "tags": [
+        "故乡",
+        "记忆",
+        "香港"
+      ],
+      "featured": false,
+      "curator_note": "通行题眼：严浩《似水流年》以片名凝练故乡、时间与离散；片中对白围绕回乡与记忆展开，取题眼作策展金句，不冒充某一句唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 8
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/homecoming-1984.jpg",
+      "still": "assets/stills/classics/homecoming-1984.jpg",
+      "still_alt": "似水流年 · TMDB 宣传静帧（2788×1568）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/homecoming-1984.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/176217）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/r9Xv2mmqfOAH4xAuhk8LnlGKcf5.jpg（2788×1568）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 176217,
+      "slug": "homecoming-1984"
+    },
+    {
+      "id": "women-heart-of-woman",
+      "line": "女人心，海底针。",
+      "line_en": "A woman’s heart is a needle at the bottom of the sea.",
+      "film_title": "女人心",
+      "film_title_en": "Women",
+      "year": 1985,
+      "character": "片言语境 / Proverbial frame",
+      "director": "关锦鹏",
+      "tags": [
+        "婚姻",
+        "女性",
+        "香港"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借通行俗语概括关锦鹏《女人心》中三段婚姻里欲望与猜忌的难测；影片金句分散，明确为主题压缩，不冒充字幕唯一来源。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 9
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/women-1985.jpg",
+      "still": "assets/stills/classics/women-1985.jpg",
+      "still_alt": "女人心 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/women-1985.jpg，1200×1800）（影片页 https://www.themoviedb.org/movie/187033）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iWuOFtsanTae5eTtKmix7ZN4Bqm.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 187033,
+      "slug": "women-1985"
+    },
+    {
+      "id": "xiangnu-xiaoxiao-fate",
+      "line": "萧萧的命，是别人给的。",
+      "line_en": "Xiaoxiao’s fate was handed to her by others.",
+      "film_title": "湘女萧萧",
+      "film_title_en": "A Girl from Hunan",
+      "year": 1986,
+      "character": "叙事主题 / Narrative theme",
+      "director": "谢飞",
+      "tags": [
+        "乡土",
+        "女性",
+        "命运"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括谢飞《湘女萧萧》（沈从文小说脉络）中童养媳被礼教与乡俗安排命运的核心；不冒充某一句唯一逐字对白。",
+      "ratings": {
+        "imdb": {
+          "score": 5.3,
+          "votes": 9
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-shimmering-moon-1986.jpg",
+      "still": "assets/stills/classics/the-shimmering-moon-1986.jpg",
+      "still_alt": "湘女萧萧 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-shimmering-moon-1986.jpg，780×1170）（影片页 https://www.themoviedb.org/movie/244308）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qexPgcITuI0JtD88kMo6LyS45Y2.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 244308,
+      "slug": "the-shimmering-moon-1986"
+    },
+    {
+      "id": "good-men-good-women-history-play",
+      "line": "演戏，也是在演历史。",
+      "line_en": "To act is also to act out history.",
+      "film_title": "好男好女",
+      "film_title_en": "Good Men, Good Women",
+      "year": 1995,
+      "character": "戏中戏 / Film-within-film",
+      "director": "侯孝贤",
+      "tags": [
+        "历史",
+        "表演",
+        "台湾"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括侯孝贤《好男好女》戏中戏结构——演员排演抗日故事时与自身记忆重叠；明确为主题压缩，不冒充唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 25
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/good-men-good-women-1995.jpg",
+      "still": "assets/stills/classics/good-men-good-women-1995.jpg",
+      "still_alt": "好男好女 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/good-men-good-women-1995.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/99600）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/b7kmP3Jbprr4zwBdQhCs8lUVrQQ.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 99600,
+      "slug": "good-men-good-women-1995"
+    },
+    {
+      "id": "lost-and-found-edge-of-world",
+      "line": "天涯海角，也要找到你。",
+      "line_en": "To the ends of the earth — I will still find you.",
+      "film_title": "天涯海角",
+      "film_title_en": "Lost and Found",
+      "year": 1996,
+      "character": "寻人主题 / Search motif",
+      "director": "李志毅",
+      "tags": [
+        "寻找",
+        "九七",
+        "香港"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括李志毅《天涯海角》中寻人启事与离散港人的情感驱动；片名即母题，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 36
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/lost-and-found-1996.jpg",
+      "still": "assets/stills/classics/lost-and-found-1996.jpg",
+      "still_alt": "天涯海角 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/lost-and-found-1996.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/118202）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mo05mC944PVzc7i6Uin0UyV61yW.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 118202,
+      "slug": "lost-and-found-1996"
+    },
+    {
+      "id": "nuan-warmth-missed",
+      "line": "最暖的，常常是错过的。",
+      "line_en": "What feels warmest is often what we missed.",
+      "film_title": "暖",
+      "film_title_en": "Nuan",
+      "year": 2003,
+      "character": "主题概括 / Theme",
+      "director": "霍建起",
+      "tags": [
+        "乡土",
+        "错过",
+        "归来"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括霍建起《暖》中返乡者面对旧爱与乡村 ethnos 的悔与温；影片金句分散，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 7
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/nuan-2003.jpg",
+      "still": "assets/stills/classics/nuan-2003.jpg",
+      "still_alt": "暖 · TMDB 宣传静帧（2388×1344）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nuan-2003.jpg，924×1328）（影片页 https://www.themoviedb.org/movie/255963）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8CVWhLiOOEAQsasMohvuKAZqwj4.jpg（2388×1344）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 255963,
+      "slug": "nuan-2003"
+    },
+    {
+      "id": "summer-is-gone-august",
+      "line": "八月一过，夏天就没了。",
+      "line_en": "Once August ends, summer is gone.",
+      "film_title": "八月",
+      "film_title_en": "The Summer Is Gone",
+      "year": 2016,
+      "character": "少年视角 / Boy’s season",
+      "director": "张大磊",
+      "tags": [
+        "童年",
+        "九十年代",
+        "告别"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括张大磊《八月》以黑白少年视角写单位解体前的最后一个夏天；片名即时间喻，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 6.1,
+          "votes": 18
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-summer-is-gone-2016.jpg",
+      "still": "assets/stills/classics/the-summer-is-gone-2016.jpg",
+      "still_alt": "八月 · TMDB 宣传静帧（2048×1152）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-summer-is-gone-2016.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/421483）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ekPitJKBR0Din1QIjUIWEBsv3AE.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 421483,
+      "slug": "the-summer-is-gone-2016"
+    },
+    {
+      "id": "wasted-times-romantic-perish",
+      "line": "罗曼蒂克，总要消亡。",
+      "line_en": "Romance, sooner or later, perishes.",
+      "film_title": "罗曼蒂克消亡史",
+      "film_title_en": "The Wasted Times",
+      "year": 2016,
+      "character": "片名/旁白语境 / Title ethos",
+      "director": "程耳",
+      "tags": [
+        "黑帮",
+        "上海",
+        "章回"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借片名点题程耳《罗曼蒂克消亡史》沪上黑帮的仪式感与必然崩解；风格化对白版本差异大，明确不冒充唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 57
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-wasted-times-2016.jpg",
+      "still": "assets/stills/classics/the-wasted-times-2016.jpg",
+      "still_alt": "罗曼蒂克消亡史 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-wasted-times-2016.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/382572）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/boUOwjyBc2MBsQ74e4aq4SwlPqV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 382572,
+      "slug": "the-wasted-times-2016"
+    },
+    {
+      "id": "angels-wear-white-carnival-silence",
+      "line": "她们穿白衣，可没人把她们当天使。",
+      "line_en": "They wear white — but no one treats them as angels.",
+      "film_title": "嘉年华",
+      "film_title_en": "Angels Wear White",
+      "year": 2017,
+      "character": "题眼 / Title irony",
+      "director": "文晏",
+      "tags": [
+        "未成年",
+        "权力",
+        "沉默"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借英文章名 Angels Wear White 的反讽，概括文晏《嘉年华》中受害少女与洗浴中心女孩面对权力失语；不冒充某一句唯一逐字对白。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 71
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/angels-wear-white-2017.jpg",
+      "still": "assets/stills/classics/angels-wear-white-2017.jpg",
+      "still_alt": "嘉年华 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/angels-wear-white-2017.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/468208）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qvWz9gN7z5EjKwWQ2MipR93Ze2a.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 468208,
+      "slug": "angels-wear-white-2017"
+    },
+    {
+      "id": "shadowless-tower-light",
+      "line": "白塔有光，人却无影。",
+      "line_en": "The white pagoda has light, yet people cast no shadow.",
+      "film_title": "白塔之光",
+      "film_title_en": "The Shadowless Tower",
+      "year": 2023,
+      "character": "题眼 / Title image",
+      "director": "张律",
+      "tags": [
+        "北京",
+        "中年",
+        "疏离"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借《白塔之光》题眼概括张律写北京中年人的漂浮与伦理疲惫；影片对白克制，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 6.7,
+          "votes": 16
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-shadowless-tower-2023.jpg",
+      "still": "assets/stills/classics/the-shadowless-tower-2023.jpg",
+      "still_alt": "白塔之光 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-shadowless-tower-2023.jpg，2000×2828）（影片页 https://www.themoviedb.org/movie/1075840）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yXrrg0VTA5T1ClYeGbEiBFRstww.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1075840,
+      "slug": "the-shadowless-tower-2023"
+    },
+    {
+      "id": "hidden-blade-nameless",
+      "line": "真正做事的人，往往没有名字。",
+      "line_en": "Those who truly get things done often have no name.",
+      "film_title": "无名",
+      "film_title_en": "Hidden Blade",
+      "year": 2023,
+      "character": "谍战伦理 / Spy ethos",
+      "director": "程耳",
+      "tags": [
+        "谍战",
+        "匿名",
+        "抗战"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括程耳《无名》群像谍战中“无名者”承担行动与牺牲的伦理；风格化对白版本多，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 6.3,
+          "votes": 59
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/hidden-blade-2023.jpg",
+      "still": "assets/stills/classics/hidden-blade-2023.jpg",
+      "still_alt": "无名 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/hidden-blade-2023.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/855483）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qivhIvtjImx3LP1lAGZz4XB6YvN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 855483,
+      "slug": "hidden-blade-2023"
+    },
+    {
+      "id": "april-story-spring",
+      "line": "四月的风，把人吹到东京。",
+      "line_en": "An April wind blows a person all the way to Tokyo.",
+      "film_title": "四月物语",
+      "film_title_en": "April Story",
+      "year": 1998,
+      "character": "武琉璃 / Ujiie Uzuki",
+      "director": "岩井俊二",
+      "tags": [
+        "青春",
+        "东京",
+        "抒情"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括岩井俊二《四月物语》女大学生初入东京的轻盈启程；影片以气氛胜对白，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 140
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/april-story-1998.jpg",
+      "still": "assets/stills/classics/april-story-1998.jpg",
+      "still_alt": "四月物语 · TMDB 宣传静帧（2380×1339）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/april-story-1998.jpg，960×1440）（影片页 https://www.themoviedb.org/movie/72933）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jLiV9xnmqoWl8TbTFe5QEp2Md06.jpg（2380×1339）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 72933,
+      "slug": "april-story-1998"
+    },
+    {
+      "id": "taboo-gohatto-beauty",
+      "line": "美，本身就是御法度。",
+      "line_en": "Beauty itself is the taboo.",
+      "film_title": "御法度",
+      "film_title_en": "Taboo",
+      "year": 1999,
+      "character": "题眼 / Gohatto",
+      "director": "大岛渚",
+      "tags": [
+        "武士",
+        "禁忌",
+        "美"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借日语题名「御法度」（禁令）概括大岛渚晚期片中美少年搅动武士团秩序的主题；不冒充唯一逐字对白。",
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 132
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/taboo-1999.jpg",
+      "still": "assets/stills/classics/taboo-1999.jpg",
+      "still_alt": "御法度 · TMDB 宣传静帧（3579×2013）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/taboo-1999.jpg，1439×2158）（影片页 https://www.themoviedb.org/movie/20617）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pFhVhEh5yRA8zfFcn2oiENJ31Q5.jpg（3579×2013）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 20617,
+      "slug": "taboo-1999"
+    },
+    {
+      "id": "outrage-yakuza-code",
+      "line": "规矩破了，人也就废了。",
+      "line_en": "Once the code is broken, the man is finished.",
+      "film_title": "极恶非道",
+      "film_title_en": "Outrage",
+      "year": 2010,
+      "character": "黑道伦理 / Yakuza ethos",
+      "director": "北野武",
+      "tags": [
+        "黑道",
+        "规矩",
+        "北野武"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括北野武《极恶非道》系列开篇里组织伦理崩坏即血腥连锁的逻辑；对白极简，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 470
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/outrage-2010.jpg",
+      "still": "assets/stills/classics/outrage-2010.jpg",
+      "still_alt": "极恶非道 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/outrage-2010.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/45284）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/l2wRcBe2CEUt0Q7TOqr25PO2UA2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 45284,
+      "slug": "outrage-2010"
+    },
+    {
+      "id": "right-now-wrong-then-repeat",
+      "line": "这时对，那时错。",
+      "line_en": "Right now, wrong then.",
+      "film_title": "这时对，那时错",
+      "film_title_en": "Right Now, Wrong Then",
+      "year": 2015,
+      "character": "片名/结构 / Title structure",
+      "director": "洪常秀",
+      "tags": [
+        "重拍",
+        "自我",
+        "洪常秀"
+      ],
+      "featured": false,
+      "curator_note": "通行题眼：洪常秀柏林银熊之作以双段重逢结构对照“对/错”；取中文通行译名作金句，点明形式即主题。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 170
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/right-now-wrong-then-2015.jpg",
+      "still": "assets/stills/classics/right-now-wrong-then-2015.jpg",
+      "still_alt": "这时对，那时错 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/right-now-wrong-then-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/354275）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/llSsYA3SQMqrBOciq925J4R4rwe.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 354275,
+      "slug": "right-now-wrong-then-2015"
+    },
+    {
+      "id": "last-tango-void",
+      "line": "我们来此，只为把名字留在门外。",
+      "line_en": "We come here to leave our names outside the door.",
+      "film_title": "巴黎最后的探戈",
+      "film_title_en": "Last Tango in Paris",
+      "year": 1972,
+      "character": "保罗 / Paul",
+      "director": "贝纳尔多·贝托鲁奇",
+      "tags": [
+        "匿名",
+        "情欲",
+        "虚无"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括贝托鲁奇《巴黎最后的探戈》中保罗要求公寓里不谈姓名与过去的契约；不同字幕措辞不一，明确为主题压缩，不冒充唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 1373
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/last-tango-in-paris-1972.jpg",
+      "still": "assets/stills/classics/last-tango-in-paris-1972.jpg",
+      "still_alt": "巴黎最后的探戈 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/last-tango-in-paris-1972.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1643）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2EiXgIft7upP2Es8vOsdEH17SX6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 1643,
+      "slug": "last-tango-in-paris-1972"
+    },
+    {
+      "id": "holy-mountain-alchemy",
+      "line": "忘掉圣山，去过你自己的生活。",
+      "line_en": "Forget the holy mountain — go live your own life.",
+      "film_title": "圣山",
+      "film_title_en": "The Holy Mountain",
+      "year": 1973,
+      "character": "炼金师 / Alchemist",
+      "director": "亚历杭德罗·佐杜洛夫斯基",
+      "tags": [
+        "启蒙",
+        "迷幻",
+        "寓言"
+      ],
+      "featured": false,
+      "curator_note": "通行译法：佐杜洛夫斯基片末打破第四面墙、劝观众离开“圣山”神话的著名收束；中文按常见字幕大意，版本略有出入。",
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 1068
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-holy-mountain-1973.jpg",
+      "still": "assets/stills/classics/the-holy-mountain-1973.jpg",
+      "still_alt": "圣山 · TMDB 宣传静帧（2766×1556）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-holy-mountain-1973.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8327）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qYCx6F3n651433hFlw4T8lNzLdR.jpg（2766×1556）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 8327,
+      "slug": "the-holy-mountain-1973"
+    },
+    {
+      "id": "show-me-love-leave-amal",
+      "line": "我受够了这个鬼地方。",
+      "line_en": "I’m so fucking sick of this place.",
+      "film_title": "爱现",
+      "film_title_en": "Show Me Love",
+      "year": 1998,
+      "character": "埃琳 / Elin",
+      "director": "卢卡斯·穆迪森",
+      "tags": [
+        "青春",
+        "同志",
+        "小镇"
+      ],
+      "featured": false,
+      "curator_note": "通行译法：穆迪森《爱现》（Fucking Åmål）中少女对小镇窒息的著名抱怨；瑞典语原片粗口力度强，中文取常见字幕语气，不冒充唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 614
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/show-me-love-1998.jpg",
+      "still": "assets/stills/classics/show-me-love-1998.jpg",
+      "still_alt": "爱现 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/show-me-love-1998.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/11634）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bajOYQZMS0bn4sOPTU86LPgHg00.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 11634,
+      "slug": "show-me-love-1998"
+    },
+    {
+      "id": "bad-education-fiction-memory",
+      "line": "故事一改，记忆也会跟着说谎。",
+      "line_en": "Change the story, and memory starts to lie with it.",
+      "film_title": "不良教育",
+      "film_title_en": "Bad Education",
+      "year": 2004,
+      "character": "叙事主题 / Meta-narrative",
+      "director": "佩德罗·阿尔莫多瓦",
+      "tags": [
+        "记忆",
+        "伪造",
+        "创伤"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括阿尔莫多瓦《不良教育》中剧本、神父往事与身份伪造互相吞噬的结构；明确为主题压缩，不冒充唯一逐字。",
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 1097
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/bad-education-2004.jpg",
+      "still": "assets/stills/classics/bad-education-2004.jpg",
+      "still_alt": "不良教育 · TMDB 宣传静帧（2800×1575）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/bad-education-2004.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/140）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/enG31HSM8qyuUFtSLwpHqpnHz4I.jpg（2800×1575）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 140,
+      "slug": "bad-education-2004"
+    },
+    {
+      "id": "circle-women-loop",
+      "line": "女人的路，走来走去还是一个圆。",
+      "line_en": "A woman’s road, walked again and again, is still a circle.",
+      "film_title": "圆圈",
+      "film_title_en": "The Circle",
+      "year": 2000,
+      "character": "题眼 / Title metaphor",
+      "director": "贾法尔·帕纳希",
+      "tags": [
+        "女性",
+        "伊朗",
+        "循环"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：借片名《圆圈》概括帕纳希威尼斯金狮之作中伊朗女性角色的循环困境；群像对白分散，明确为主题压缩。",
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 106
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/the-circle-2000.jpg",
+      "still": "assets/stills/classics/the-circle-2000.jpg",
+      "still_alt": "圆圈 · TMDB 宣传静帧（1920×1080）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-circle-2000.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/13898）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/guzBItSjW1nPktU9LB8SAARGEzA.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 13898,
+      "slug": "the-circle-2000"
+    },
+    {
+      "id": "elite-squad-ask-to-leave",
+      "line": "不想干就申请退出！",
+      "line_en": "Ask to leave!",
+      "film_title": "精英部队",
+      "film_title_en": "Elite Squad",
+      "year": 2007,
+      "character": "纳西门托队长 / Capt. Nascimento",
+      "director": "何塞·帕迪里亚",
+      "tags": [
+        "军警",
+        "训练",
+        "巴西"
+      ],
+      "featured": false,
+      "curator_note": "通行译法：帕迪里亚《精英部队》BOPE 训练中纳西门托反复喝令的文化流行语（葡语 Pede pra sair）；中文取常见枪版/字幕语气。",
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 2814
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/elite-squad-2007.jpg",
+      "still": "assets/stills/classics/elite-squad-2007.jpg",
+      "still_alt": "精英部队 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/elite-squad-2007.jpg，1182×1770）（影片页 https://www.themoviedb.org/movie/7347）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/huUgrGkCetYSkDl5fMvZCXCbFKl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 7347,
+      "slug": "elite-squad-2007"
+    },
+    {
+      "id": "paradise-now-what-is-paradise",
+      "line": "天堂若要用尸体铺路，那还是不是天堂？",
+      "line_en": "If paradise is paved with corpses, is it still paradise?",
+      "film_title": "天堂此时",
+      "film_title_en": "Paradise Now",
+      "year": 2005,
+      "character": "道德争辩 / Moral debate",
+      "director": "哈尼·阿布-阿萨德",
+      "tags": [
+        "人弹",
+        "巴勒斯坦",
+        "伦理"
+      ],
+      "featured": false,
+      "curator_note": "策展意译：概括阿布-阿萨德《天堂此时》中围绕自杀袭击与“天堂”许诺的伦理辩论；不同字幕措辞不一，明确为主题压缩，不伪造逐字引文。",
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 297
+        },
+        "as_of": "2026-09-25",
+        "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+      },
+      "poster": "assets/posters/classics/paradise-now-2005.jpg",
+      "still": "assets/stills/classics/paradise-now-2005.jpg",
+      "still_alt": "天堂此时 · TMDB 宣传静帧（3840×2160）",
+      "status": "draft",
+      "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/paradise-now-2005.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/67）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rnuraNgw9zOlqdDkl8y6lNE2RJb.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。",
+      "tmdb_id": 67,
+      "slug": "paradise-now-2005"
+    }
+  ]
+}
