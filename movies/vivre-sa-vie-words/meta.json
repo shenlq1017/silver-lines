@@ -1,0 +1,40 @@
+{
+  "id": "vivre-sa-vie-words",
+  "group": "classics",
+  "film": {
+    "title": "随心所欲",
+    "year": 1962,
+    "title_en": "Vivre Sa Vie",
+    "director": "让-吕克·戈达尔"
+  },
+  "lines": [
+    {
+      "text": "生活被一句话一句话说完之前，人已经不在场了。",
+      "en": "Before life is finished being spoken sentence by sentence, the person has already left the room.",
+      "character": "娜娜 / Nana",
+      "note": "主题性策展句：概括戈达尔《随心所欲》中娜娜十二个段落走向沉沦的存在主义素描，非逐字引文。"
+    },
+    {
+      "text": "为什么非得说话呢？",
+      "character": "娜娜",
+      "en": "Pourquoi faut-il parler?",
+      "note": "与哲学家对谈的名场面开场；Wikiquote 可查。"
+    }
+  ],
+  "tags": [
+    "卖淫",
+    "自由",
+    "段落",
+    "戈达尔"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 721
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "随心所欲 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/vivre-sa-vie-1962.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1626）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/68NGFE8zD2gaQVH6MqJeKzojFJM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

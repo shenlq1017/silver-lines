@@ -1,0 +1,1315 @@
+{
+ "batch": 3,
+ "generated": "2026-09-26",
+ "items": [
+  {
+   "id": "annie-hall-need-the-eggs",
+   "lines": [
+    {
+     "text": "感情就像鲨鱼——必须不停地向前游，不然就死。",
+     "en": "A relationship, I think, is like a shark. It has to constantly move forward or it dies.",
+     "character": "Alvy Singer",
+     "note": "阿尔维的感情观；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "啦嘀嗒，啦嘀嗒。",
+     "en": "La-dee-da, la-dee-da.",
+     "character": "Annie Hall",
+     "note": "安妮的标志性哼唱式口头禅；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "basterds-my-masterpiece",
+   "lines": [
+    {
+     "text": "哦哦——宾果！",
+     "en": "Oooh, that's a bingo!",
+     "character": "Col. Hans Landa",
+     "note": "兰达确认协议的名场面；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我们不做俘虏生意——我们做的是杀纳粹的买卖。",
+     "en": "We ain't in the prisoner-takin' business. We in the killin' Nazi business.",
+     "character": "Lt. Aldo Raine",
+     "note": "奥尔多的「八人宣誓」段落（节选）；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "before-midnight-say-or-age",
+   "lines": [
+    {
+     "text": "在读你那本破书之前，我本来好好的。",
+     "en": "I was fine until I read your fucking book!",
+     "character": "Celine",
+     "note": "酒店争吵的爆点（原文含粗口）；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "better-tomorrow-passed-by",
+   "lines": [
+    {
+     "text": "我等了三年，就是要等一个机会。我要争一口气——不是想证明我了不起，我是要告诉人家：我失去的东西，一定要拿回来！",
+     "character": "小马哥",
+     "note": "枫林阁小马哥的名段（节选）；通行引述可查。",
+     "confidence": "high",
+     "source_hint": "wikiquote"
+    }
+   ]
+  },
+  {
+   "id": "bourne2-remember-everything",
+   "lines": [
+    {
+     "text": "好好休息吧，帕姆。你看起来累了。",
+     "en": "Get some rest, Pam. You look tired.",
+     "character": "Jason Bourne",
+     "note": "伯恩的反跟踪宣言，全片名场面；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "breathless-run",
+   "lines": [
+    {
+     "text": "真让人恶心。",
+     "en": "C'est vraiment dégueulasse.",
+     "character": "Michel Poiccard",
+     "note": "米歇尔中弹后最后的台词；Wikiquote 可查。",
+     "confidence": "medium",
+     "source_hint": "wikiquote"
+    }
+   ]
+  },
+  {
+   "id": "bucket-measure-yourself",
+   "lines": [
+    {
+     "text": "我们生，我们死，公交车轮子转个不停。",
+     "en": "We live, we die, and the wheels on the bus go round and round.",
+     "character": "Edward Cole",
+     "note": "爱德华的黑色总结；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "butch-who-are-those-guys",
+   "lines": [
+    {
+     "text": "太漂亮了，老是被抢。",
+     "en": "People kept robbing it.",
+     "character": "Sundance Kid",
+     "note": "「为什么换银行」的经典问答下半句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "继续想吧，布奇——你就擅长这个。",
+     "en": "You just keep thinkin', Butch. That's what you're good at.",
+     "character": "Butch Cassidy",
+     "note": "布奇的自我打气；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "chamber-our-choices",
+   "lines": [
+    {
+     "text": "多比没有主人。多比是个自由的小精灵！",
+     "en": "Dobby has no master. Dobby is a free elf!",
+     "character": "Dobby",
+     "note": "多比获得自由袜子的宣言；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "comedy-king-i-actor",
+   "lines": [
+    {
+     "text": "努力！奋斗！",
+     "character": "尹天仇",
+     "note": "尹天仇的每日口号；通行引述可查。",
+     "confidence": "high",
+     "source_hint": "wikiquote"
+    },
+    {
+     "text": "我养你啊！",
+     "character": "尹天仇",
+     "note": "对柳飘飘笨拙的告白，周星驰式浪漫名场面；通行引述可查。",
+     "confidence": "high",
+     "source_hint": "wikiquote"
+    },
+    {
+     "text": "你先照顾好自己吧，傻瓜。",
+     "character": "柳飘飘",
+     "note": "飘飘上车后的回应；通行引述可查。",
+     "confidence": "medium",
+     "source_hint": "wikiquote"
+    }
+   ]
+  },
+  {
+   "id": "dallas-buyers-not-done",
+   "lines": [
+    {
+     "text": "有时候我觉得自己在为一条已经没了的命挣扎——我没时间了。",
+     "en": "Sometimes I feel like I'm fighting for a life I just ain't got. I just ain't got time.",
+     "character": "Ron Woodroof",
+     "note": "罗恩的独白（节选）；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "despicable-best-dad",
+   "lines": [
+    {
+     "text": "它毛绒绒的，我要死了！",
+     "en": "It's so fluffy I'm gonna die!",
+     "character": "Agnes",
+     "note": "艾格尼丝抱独角兽的尖叫名段；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "电灯泡。",
+     "en": "Light bulb.",
+     "character": "Gru",
+     "note": "格鲁的「认错」口头禅；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "django-d-silent",
+   "lines": [
+    {
+     "text": "先生们，你们曾激起我的好奇。现在——你们得到了我的注意。",
+     "en": "Gentlemen, you had my curiosity. Now you have my attention.",
+     "character": "Calvin Candie",
+     "note": "坎迪的登场宣言；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "eeaao-be-here-with-you",
+   "lines": [
+    {
+     "text": "在另一种人生里，我会很喜欢和你一起洗衣、报税。",
+     "en": "In another life, I would have really liked just doing laundry and taxes with you.",
+     "character": "Waymond Wang",
+     "note": "威蒙德的告白，全片最温柔一句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "这就是我战斗的方式。",
+     "en": "This is how I fight.",
+     "character": "Waymond Wang",
+     "note": "威蒙德的善良宣言；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "ferris-fast",
+   "lines": [
+    {
+     "text": "菲利斯·布勒，你是我的英雄。",
+     "en": "Ferris Bueller, you're my hero.",
+     "character": "Cameron Frye",
+     "note": "卡梅伦的告白，全片情感落点；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "问题不是「我们要做什么」——问题是不做什么。",
+     "en": "The question isn't 'what are we going to do'. The question is 'what aren't we going to do?'",
+     "character": "Ferris Bueller",
+     "note": "菲利斯的度假宣言；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "forrest-chocolate",
+   "lines": [
+    {
+     "text": "做傻事的才是傻子。",
+     "en": "Stupid is as stupid does.",
+     "character": "Forrest Gump",
+     "note": "福雷斯特的口头禅；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "跑，福雷斯特，快跑！",
+     "en": "Run, Forrest, run!",
+     "character": "Jenny Curran",
+     "note": "童年逃亡与越南战场两次出现的呼喊；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我不聪明，但我知道什么是爱。",
+     "en": "I'm not a smart man, but I know what love is.",
+     "character": "Forrest Gump",
+     "note": "对珍妮的告白；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "死亡只是生命的一部分。",
+     "en": "Death is just a part of life.",
+     "character": "Mrs. Gump",
+     "note": "母亲的临终教导；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "furnace-unchanged",
+   "lines": [
+    {
+     "text": "认知不足。",
+     "character": "审判长",
+     "note": "判决书里轻飘飘的四个字，全片愤怒的落点；通行引述可查。",
+     "confidence": "medium",
+     "source_hint": "memory"
+    }
+   ]
+  },
+  {
+   "id": "gbu-there-are-two-kinds",
+   "lines": [
+    {
+     "text": "该开枪的时候就开枪，别废话。",
+     "en": "When you have to shoot, shoot. Don't talk.",
+     "character": "Tuco",
+     "note": "图科干掉追杀者后的名言；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "靠干活谋生的人，为什么还要拼命干活？",
+     "en": "If you work for a living, why do you kill yourself working?",
+     "character": "Tuco",
+     "note": "图科的流浪哲学；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "godfather2-enemies-closer",
+   "lines": [
+    {
+     "text": "如果历史教会了我们什么，那就是：任何人都可以被杀掉。",
+     "en": "If history has taught us anything, it's that you can kill anyone.",
+     "character": "Michael Corleone",
+     "note": "迈克尔对汤姆的黑化宣言；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我聪明！不像他们说的那样蠢……我聪明，我要的是尊重！",
+     "en": "I'm smart! Not like everybody says... I'm smart and I want respect!",
+     "character": "Fredo Corleone",
+     "note": "弗雷多在哈瓦那的爆发，全片最心碎一幕；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我不觉得得把所有人都灭掉，汤姆——只要灭掉我的敌人。",
+     "en": "I don't feel I have to wipe everybody out, Tom. Just my enemies.",
+     "character": "Michael Corleone",
+     "note": "迈克尔的清算边界；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "hamilton-not-throwing-away-shot",
+   "lines": [
+    {
+     "text": "少说话，多微笑。",
+     "en": "Talk less. Smile more.",
+     "character": "Aaron Burr",
+     "note": "伯尔对汉密尔顿的第一课；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "移民。活儿都是我们干的。",
+     "en": "Immigrants. We get the job done.",
+     "character": "Lafayette / Hamilton",
+     "note": "说唱中突然面向观众的打破第四面墙名段；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "历史正注视着你。",
+     "en": "History has its eyes on you.",
+     "character": "Washington（唱段）",
+     "note": "华盛顿的警告唱段；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "harry-sally-having",
+   "lines": [
+    {
+     "text": "男人和女人做不成朋友——因为「性」那部分总会来捣乱。",
+     "en": "Men and women can't be friends because the sex part always gets in the way.",
+     "character": "Harry Burns",
+     "note": "哈利的著名论断；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我今晚来这儿，是因为当你意识到想和谁共度余生时，就会希望余生尽快开始。",
+     "en": "I came here tonight because when you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.",
+     "character": "Harry Burns",
+     "note": "新年夜跑来的告白；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "hobbit-going-on-adventure",
+   "lines": [
+    {
+     "text": "是普通人日常的小事——小小的善意与爱——挡住了黑暗。",
+     "en": "It is the small things, everyday deeds of ordinary folk, that keeps the darkness at bay. Small acts of kindness and love.",
+     "character": "Gandalf",
+     "note": "甘道夫对霍比特人生活的小结；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "inception-dreams",
+   "lines": [
+    {
+     "text": "亲爱的，做梦不妨做得再大一点。",
+     "en": "You mustn't be afraid to dream a little bigger, darling.",
+     "character": "Eames",
+     "note": "伊姆斯的调侃名句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "你要跳下信仰之跃，还是变成一个满怀悔恨、等待孤独死去的老人？",
+     "en": "Do you want to take a leap of faith, or become an old man, filled with regret, waiting to die alone?",
+     "character": "Mal",
+     "note": "柯布记忆中玛尔的诘问；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "回来吧——我们再一起做年轻人。",
+     "en": "Come back and we'll be young men together again.",
+     "character": "Saito",
+     "note": "斋ito 在意识的边缘向柯布发出的邀请；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "jaws-bigger-boat",
+   "lines": [
+    {
+     "text": "笑一个，你这狗娘养的——",
+     "en": "Smile, you son of a—",
+     "character": "Brody",
+     "note": "布罗迪把气瓶塞进鲨鱼嘴后的临别（原文含粗口）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "这不是船的事故。",
+     "en": "This was no boat accident.",
+     "character": "Hooper",
+     "note": "胡珀确认鲨鱼存在；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "joker-tragedy-comedy",
+   "lines": [
+    {
+     "text": "有精神疾病最糟的是：所有人都要你装作没病。",
+     "en": "The worst part of having a mental illness is people expect you to behave as if you don't.",
+     "character": "Arthur Fleck",
+     "note": "亚瑟在节目里的自白；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我只希望我的死，比我的生更值钱。",
+     "en": "I just hope my death makes more cents than my life.",
+     "character": "Arthur Fleck",
+     "note": "日记里的双关（cents/sense）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "last-crusade-he-chose-poorly",
+   "lines": [
+    {
+     "text": "你必须选择——但要明智地选。",
+     "en": "You must choose. But choose wisely.",
+     "character": "Grail Knight",
+     "note": "圣杯骑士的警告，主台词的前半；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我们把狗取名叫印第安纳。",
+     "en": "We named the dog Indiana.",
+     "character": "Henry Jones Sr.",
+     "note": "老琼斯拆穿外号来源的名梗；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "X 从来、从来不会标记藏宝点。",
+     "en": "X never, ever marks the spot.",
+     "character": "Indiana Jones",
+     "note": "课堂上的考古学教训，随后被打脸；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "leon-childhood",
+   "lines": [
+    {
+     "text": "总是如此。",
+     "en": "Always like this.",
+     "character": "Léon",
+     "note": "回答玛蒂尔达那句「人生总是这么苦吗」——主台词的下半句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "不杀女人，不杀小孩。",
+     "en": "No women, no kids.",
+     "character": "Léon",
+     "note": "莱昂的职业底线；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "它是我最好的朋友。永远开心，不问问题。",
+     "en": "It's my best friend. Always happy. No questions.",
+     "character": "Léon",
+     "note": "莱昂谈自己的盆栽；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "mad-max-we-are-not-things",
+   "lines": [
+    {
+     "text": "多好的一天啊！",
+     "en": "What a lovely day!",
+     "character": "Nux",
+     "note": "纳克斯开着战车冲进沙暴前的欢呼；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "希望是一种错误。修不好破掉的东西，人就会疯。",
+     "en": "Hope is a mistake. If you can't fix what's broken, you'll go insane.",
+     "character": "Furiosa",
+     "note": "弗瑞奥萨的荒原哲学；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "朋友们，别对水上瘾。它会攫住你，失去时你会怨愤。",
+     "en": "Do not, my friends, become addicted to water. It will take hold of you, and you will resent its absence.",
+     "character": "Immortan Joe",
+     "note": "不死老乔开闸放水前的布道；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我叫麦克斯。我的世界是火与血。",
+     "en": "My name is Max. My world is fire and blood.",
+     "character": "Max Rockatansky",
+     "note": "开场旁白；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "manhattan-faith-in-people",
+   "lines": [
+    {
+     "text": "第一章。他钟爱纽约。",
+     "en": "Chapter One. He adored New York City.",
+     "character": "Isaac Davis",
+     "note": "伊萨克口述小说的开头，全片第一句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "matrix-no-spoon",
+   "lines": [
+    {
+     "text": "我只能给你看门在哪——走过去的，只能是你自己。",
+     "en": "I can only show you the door. You're the one that has to walk through it.",
+     "character": "Morpheus",
+     "note": "墨菲斯的点拨；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "知道路，和走路，是两回事。",
+     "en": "There's a difference between knowing the path and walking the path.",
+     "character": "Morpheus",
+     "note": "墨菲斯的补充；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "无知是福。",
+     "en": "Ignorance is bliss.",
+     "character": "Cypher",
+     "note": "赛弗的背叛逻辑；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "永远别让人类去干机器的活。",
+     "en": "Never send a human to do a machine's job.",
+     "character": "Agent Smith",
+     "note": "史密斯的讽刺；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "no-country-coin-toss",
+   "lines": [
+    {
+     "text": "如果你所遵循的规则把你带到了这里，那这规则还有什么用？",
+     "en": "If the rule you followed brought you to this, of what use was the rule?",
+     "character": "Anton Chigurh",
+     "note": "安东在加油站的哲学；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "叫吧，伙计。",
+     "en": "Call it, friendo.",
+     "character": "Anton Chigurh",
+     "note": "抛硬币前的指令；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "oppenheimer-become-death",
+   "lines": [
+    {
+     "text": "他们不会害怕，直到理解它；他们不会理解，直到用过它。",
+     "en": "They won't fear it until they understand it. And they won't understand it until they've used it.",
+     "character": "J. Robert Oppenheimer",
+     "note": "奥本海默谈核弹的心理逻辑；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "业余的人追着太阳跑，然后被吃掉。权力待在阴影里。",
+     "en": "Amateurs seek the sun. Get eaten. Power stays in the shade.",
+     "character": "Lewis Strauss",
+     "note": "施特劳斯的权力哲学；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我相信——已经发生了。",
+     "en": "I believe we did.",
+     "character": "Albert Einstein",
+     "note": "结尾爱因斯坦对「链式反应毁灭世界」的回答，全片闭环；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "parasite-no-plan",
+   "lines": [
+    {
+     "text": "她有钱，还这么善良。要是我有钱，我也会善良。钱就是熨斗——把一切褶皱都熨平了。",
+     "en": "She's rich, but still kind. If I were rich, I would be kind too. Money is an iron; it smooths out all the creases.",
+     "character": "Chung-sook",
+     "note": "忠淑的黑色金句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "今天我立了一个计划——一个根本性的计划。我要赚很多钱，买下这栋房子……到那时，爸爸就会光明正大地走上台阶，从前门进来。",
+     "en": "Father. Today I made a plan — a fundamental plan... Then my father will walk up the steps and come through the front door.",
+     "character": "Ki-woo",
+     "note": "基宇结尾的信（节选）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "pirates-almost-caught",
+   "lines": [
+    {
+     "text": "朗姆酒怎么总是没了？",
+     "en": "Why is the rum always gone?",
+     "character": "Jack Sparrow",
+     "note": "杰克的著名质问；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "你最好开始相信鬼故事，特纳小姐——你现在就在一个里面！",
+     "en": "You best start believing in ghost stories, Miss Turner... you're in one!",
+     "character": "Barbossa",
+     "note": "月下变骷髅前的宣告；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "你已经开到地图之外了，伙计。这里有怪物。",
+     "en": "You're off the edge of the map, mate. Here there be monsters.",
+     "character": "Barbossa",
+     "note": "巴博萨谈世界尽头；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "potter-wizard",
+   "lines": [
+    {
+     "text": "对抗敌人需要巨大的勇气，对抗朋友同样如此。",
+     "en": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+     "character": "Dumbledore",
+     "note": "开学宴邓布利多的教诲；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "你们俩若不介意，我要去睡了——免得你们又想出什么让我们送命的鬼主意，或者更糟：被开除。",
+     "en": "Now if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed — or worse, expelled.",
+     "character": "Hermione Granger",
+     "note": "赫敏的名台词，接罗恩「她该排一下优先级」；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "rambo-firstblood",
+   "lines": [
+    {
+     "text": "我可以杀光他们，也可以杀掉你。在镇上你代表法律——出了镇子，是我说了算。",
+     "en": "I could have killed 'em all. I could've killed you. In town you're the law, out here it's me.",
+     "character": "John Rambo",
+     "note": "兰博的控诉独白（节选）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "没有结束！什么都没有结束！你们说放就放得下——我们放不下！",
+     "en": "Nothing is over! Nothing! You just don't turn it off!",
+     "character": "John Rambo",
+     "note": "兰博崩溃独白的爆发点（节选）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "rear-window-we-are-peeping",
+   "lines": [
+    {
+     "text": "人们该做的，是从自己家里走出来——反过来往里看看。",
+     "en": "What people ought to do is get outside their own house and look in for a change.",
+     "character": "Stella",
+     "note": "护工斯特拉的点破；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "scarface-say-hello",
+   "lines": [
+    {
+     "text": "先搞到钱，然后有权，然后有女人。",
+     "en": "First you get the money, then you get the power, then you get the women.",
+     "character": "Tony Montana",
+     "note": "托尼的丛林信条；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "这世上我只有两样东西：我的胆量和我的信用——我谁都不背叛。",
+     "en": "All I have in this world is my balls and my word, and I don't break them for no one.",
+     "character": "Tony Montana",
+     "note": "托尼的底线宣言（原文含粗口）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "眼睛，奇科。眼睛从不撒谎。",
+     "en": "The eyes, Chico. They never lie.",
+     "character": "Tony Montana",
+     "note": "托尼的识人术；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "shining-heres-johnny",
+   "lines": [
+    {
+     "text": "只工作不玩耍，聪明的杰克也变傻。",
+     "en": "All work and no play makes Jack a dull boy.",
+     "character": "Jack Torrance",
+     "note": "打了一整章的同一句话，影史最恐怖一页；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我不会伤害你的——我只是要把你的脑袋砸烂。",
+     "en": "I'm not gonna hurt you. I'm just going to bash your brains in.",
+     "character": "Jack Torrance",
+     "note": "斧劈门前的「保证」；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "shrek-onions",
+   "lines": [
+    {
+     "text": "憋着不如放出来——我一向这么说。",
+     "en": "Better out than in, I always say.",
+     "character": "Shrek",
+     "note": "史莱克的放屁哲学；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "你认识松饼人吗？",
+     "en": "Do you know the Muffin Man?",
+     "character": "Lord Farquaad",
+     "note": "法夸德审讯姜饼人的荒诞名段；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "skyfall-old-ways",
+   "lines": [
+    {
+     "text": "每个人都需要个爱好。——你的呢？——复活。",
+     "en": "Everybody needs a hobby. ... So what's yours? ... Resurrection.",
+     "character": "Bond / Silva",
+     "note": "天幕庄园地下通道的对答；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "sunset-ready-for-closeup",
+   "lines": [
+    {
+     "text": "我没有变小——是电影变小了。",
+     "en": "I am big. It's the pictures that got small.",
+     "character": "Norma Desmond",
+     "note": "诺玛对乔的怒吼；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我们那时不需要台词——我们有脸。",
+     "en": "We didn't need dialogue. We had faces.",
+     "character": "Norma Desmond",
+     "note": "诺玛的默片挽歌；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "taxi-driver-talkin-to-me",
+   "lines": [
+    {
+     "text": "孤独跟了我一辈子。酒吧、汽车、人行道、商店——无处不在。无处可逃。我是上帝的孤独之人。",
+     "en": "Loneliness has followed me my whole life... There's no escape. I'm God's lonely man.",
+     "character": "Travis Bickle",
+     "note": "日记独白（节选）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我觉得该有人把这城市整个……冲下马桶。",
+     "en": "I think someone should just take this city and just... flush it down the fuckin' toilet.",
+     "character": "Travis Bickle",
+     "note": "日记独白（原文含粗口）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "toy3-so-long-partner",
+   "lines": [
+    {
+     "text": "说到底，我们都只是等着被扔掉的垃圾。",
+     "en": "In the end, we're all just trash waitin' to be thrown away.",
+     "character": "Lots-o'-Huggin' Bear",
+     "note": "草莓熊的黑暗哲学；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "胡迪……他是我从小到大的伙伴。胡迪最特别的地方，是他永远不会放弃你——永远。",
+     "en": "Now Woody... he's been my pal for as long as I can remember... But the thing that makes Woody special is he'll never give up on you... ever.",
+     "character": "Andy",
+     "note": "安迪把胡迪交给邦妮时的托付（节选）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "twelve-years-want-to-live",
+   "lines": [
+    {
+     "text": "我叫所罗门·诺瑟普——我是个自由人。",
+     "en": "My name is Solomon Northup. I am a free man.",
+     "character": "Solomon Northup",
+     "note": "所罗门几次偷写求助信的开头；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "up-adventure",
+   "lines": [
+    {
+     "text": "我才刚见到你，就爱上你了。",
+     "en": "I have just met you, and I love you.",
+     "character": "Dug",
+     "note": "狗狗道格的自我介绍；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "松鼠！",
+     "en": "Squirrel!",
+     "character": "Dug",
+     "note": "道格的注意力故障名梗；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "walle-live",
+   "lines": [
+    {
+     "text": "伊——娃！",
+     "en": "Ee-vah!",
+     "character": "WALL-E",
+     "note": "瓦力呼唤伊娃的标志性发音；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "wind-rises-must-live",
+   "lines": [
+    {
+     "text": "飞机，是美丽而被诅咒的梦。",
+     "character": "卡普罗尼",
+     "note": "卡普罗尼对梦想的定义，贯穿全片；通行字幕译法。",
+     "confidence": "medium",
+     "source_hint": "subtitle"
+    }
+   ]
+  },
+  {
+   "id": "wolf-sell-pen",
+   "lines": [
+    {
+     "text": "听着——贫穷没有任何高贵可言。",
+     "en": "Let me tell you something. There's no nobility in poverty.",
+     "character": "Jordan Belfort",
+     "note": "乔丹的拜金布道；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "庞氏，庞氏……那是幻象，是仙尘。",
+     "en": "Fugazi, fugazi... It's a wazi, it's a woozie. It's fairy dust.",
+     "character": "Mark Hanna",
+     "note": "前辈对股市的打气式拆穿；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我要你用变富的方式来解决你的问题！",
+     "en": "I want you to deal with your problems by becoming rich!",
+     "character": "Jordan Belfort",
+     "note": "乔丹的销售动员；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "wreaths-debt-remains",
+   "lines": [
+    {
+     "text": "人穷志不能短。",
+     "character": "梁三喜（遗书）",
+     "note": "梁三喜遗书里的家训；通行引述可查。",
+     "confidence": "medium",
+     "source_hint": "memory"
+    }
+   ]
+  }
+ ],
+ "skipped": [
+  {
+   "id": "5cm-cherry-blossom-speed",
+   "reason": "动画配音措辞无把握（主台词外）"
+  },
+  {
+   "id": "akira-power-akira",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "all-about-mother-authentic",
+   "reason": "西语原句无把握"
+  },
+  {
+   "id": "amores-perros-title",
+   "reason": "西语原句无把握"
+  },
+  {
+   "id": "arrietty-borrower",
+   "reason": "动画配音措辞无把握（主台词外）"
+  },
+  {
+   "id": "audition-deeper",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "babam-ve-oglum-come-back",
+   "reason": "土耳其语原句无把握"
+  },
+  {
+   "id": "black-narcissus-all-in-your-mind",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "blue-choker-visible-wound",
+   "reason": "资料太少，逐字无把握"
+  },
+  {
+   "id": "casanova-empty-seduction",
+   "reason": "意大利语原句无把握"
+  },
+  {
+   "id": "choristes-music",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "city-of-god-sun-rises",
+   "reason": "葡萄牙语原句无把握"
+  },
+  {
+   "id": "closely-watched-trains-final-exam",
+   "reason": "捷克语原句无把握"
+  },
+  {
+   "id": "cries-whispers-hold-me",
+   "reason": "瑞典语原句无把握"
+  },
+  {
+   "id": "daybreak-attic",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "dreamers-cinema-love",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "duoming-cash",
+   "reason": "粤语原句无把握"
+  },
+  {
+   "id": "end-summer-family-ends",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "exterminating-angel-no-one-can-leave",
+   "reason": "西语原句无把握"
+  },
+  {
+   "id": "fitzcarraldo-dream",
+   "reason": "德语原句无把握（主台词外）"
+  },
+  {
+   "id": "goodbye-dragon-haunted",
+   "reason": "台语/华语混合，逐字无把握"
+  },
+  {
+   "id": "great-beauty-high-life",
+   "reason": "意大利语原句无把握"
+  },
+  {
+   "id": "green-tea-rice-home",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "herzglas-formula",
+   "reason": "德语原句无把握"
+  },
+  {
+   "id": "hope-be-child",
+   "reason": "韩语原句无把握（主台词外）"
+  },
+  {
+   "id": "hunter-love-hate",
+   "reason": "布道独白冗长，逐字无把握"
+  },
+  {
+   "id": "ichi-killer-pain",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "intouchables-live",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "kagemusha-shadow-man",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "kiki-still-can-fly",
+   "reason": "动画配音措辞无把握"
+  },
+  {
+   "id": "kiss-box",
+   "reason": "黑色电影对白逐字无把握"
+  },
+  {
+   "id": "l-atalante-love-you",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "life-on-a-string-thousand-strings",
+   "reason": "华语但对白稀少，逐字无把握"
+  },
+  {
+   "id": "local-hero-beautiful-place",
+   "reason": "苏格兰口音逐字无把握"
+  },
+  {
+   "id": "lost-children-no-dreams",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "mean-streets-sins-in-streets",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "miracle-room7-gift",
+   "reason": "韩语原句无把握"
+  },
+  {
+   "id": "monsieur-hulot-holidays-after-all",
+   "reason": "几近无对白"
+  },
+  {
+   "id": "mustang-we-will-leave",
+   "reason": "土耳其语原句无把握"
+  },
+  {
+   "id": "narayama-mountain-waits",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "nuan-warmth-missed",
+   "reason": "华语但对白克制，逐字无把握"
+  },
+  {
+   "id": "okuribito-send-off",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "paisan-chapters",
+   "reason": "意大利语原句无把握"
+  },
+  {
+   "id": "peeping-tom-film-fear",
+   "reason": "独白冗长，逐字无把握"
+  },
+  {
+   "id": "piano-call-me-charlie",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "pom-poko-transform-to-survive",
+   "reason": "动画配音措辞无把握"
+  },
+  {
+   "id": "puppetmaster-life-a-play",
+   "reason": "台语原句无把握"
+  },
+  {
+   "id": "reinette-mirabelle",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "robot-dreams-come-back",
+   "reason": "无对白动画"
+  },
+  {
+   "id": "room-view-vision-within",
+   "reason": "英语老片对白逐字无把握"
+  },
+  {
+   "id": "rules-everyone-has-reasons",
+   "reason": "法语原句无把握（主台词外）"
+  },
+  {
+   "id": "salaire-dead-is-dead",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "searchers-thatll-be-the-day",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "seven-pounds-seven-seconds",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "songs-second-floor-beloved",
+   "reason": "瑞典语原句无把握"
+  },
+  {
+   "id": "spotlight-village",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "stolen-kisses-antoine",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "sugata-throw",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "the-general-believe-can-do-it",
+   "reason": "默片字幕卡，无逐字对白"
+  },
+  {
+   "id": "thin-blue-line-didnt-kill",
+   "reason": "纪录片采访逐字无把握"
+  },
+  {
+   "id": "three-times-best-of-times",
+   "reason": "台语/华语混合，逐字无把握"
+  },
+  {
+   "id": "titane-metal",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "tokyo-twilight-lonely",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "weekend-not-a-novel",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "yonosuke-kind",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "zatoichi-blind-sees",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "dolce-vita-sweet",
+   "reason": "意大利语原句无把握"
+  },
+  {
+   "id": "veronika-morphine",
+   "reason": "德语原句无把握"
+  }
+ ]
+}

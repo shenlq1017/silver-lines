@@ -1,0 +1,33 @@
+{
+  "id": "yellow-sea-no-way-back",
+  "group": "classics",
+  "film": {
+    "title": "黄海",
+    "year": 2010,
+    "title_en": "The Yellow Sea",
+    "director": "罗泓轸"
+  },
+  "lines": [
+    {
+      "text": "海的那边没有活路，海的这边也没有。",
+      "en": "There is no way to live on that side of the sea — and none on this side either.",
+      "character": "题眼 / Border despair",
+      "note": "策展意译：概括罗泓轸《黄海》延边—青岛跨境求生的无退路题眼；影片对白克制，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "跨境",
+    "绝望",
+    "犯罪"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 614
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "黄海 · TMDB 宣传静帧（2999×1687）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-yellow-sea-2010.jpg，1300×1950）（影片页 https://www.themoviedb.org/movie/57361）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yHdyvVRaKSaCI9HCR9fxwF3DpEE.jpg（2999×1687）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

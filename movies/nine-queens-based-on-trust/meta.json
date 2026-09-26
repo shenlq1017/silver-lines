@@ -1,0 +1,33 @@
+{
+  "id": "nine-queens-based-on-trust",
+  "group": "classics",
+  "film": {
+    "title": "九个皇后",
+    "year": 2000,
+    "title_en": "Nine Queens",
+    "director": "法比安·别林斯基"
+  },
+  "lines": [
+    {
+      "text": "骗子之间也讲信任。",
+      "en": "Among thieves, it’s based on trust.",
+      "character": "马科斯 / Marcos",
+      "note": "通行译法：别林斯基《九个皇后》中骗子搭档伦理的核心句（英译 “Among thieves… based on trust”）；中文取常见压缩。"
+    }
+  ],
+  "tags": [
+    "骗局",
+    "信任",
+    "阿根廷"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 858
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "九个皇后 · TMDB 宣传静帧（2400×1350）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nine-queens-2000.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/18079）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e4tZvefBtA6P1T0vAPfeXG4Bj3r.jpg（2400×1350）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

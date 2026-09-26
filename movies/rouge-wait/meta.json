@@ -1,0 +1,39 @@
+{
+  "id": "rouge-wait",
+  "group": "classics",
+  "film": {
+    "title": "胭脂扣",
+    "year": 1987,
+    "title_en": "Rouge",
+    "director": "关锦鹏"
+  },
+  "lines": [
+    {
+      "text": "五十年后再见，胭脂还在，人已不是那个人。",
+      "en": "Fifty years later the rouge remains — the person does not.",
+      "character": "如花／十二少 / Fleur / Twelfth Master",
+      "note": "主题性策展句：概括关锦鹏《胭脂扣》中女鬼寻爱跨越半世纪的等待与错位题旨，非逐字引文。"
+    },
+    {
+      "text": "十二少，多谢你还记得我。这个胭脂扣，我戴了五十三年——现在还给你，我不再等了。",
+      "character": "如花",
+      "note": "如花还胭脂扣的诀别；通行引述可查。"
+    }
+  ],
+  "tags": [
+    "鬼恋",
+    "香港",
+    "等待",
+    "关锦鹏"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 96
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "胭脂扣 · TMDB 宣传静帧（1941×1092）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rouge-1987.jpg，1060×1591）（影片页 https://www.themoviedb.org/movie/68883）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cyxtPMrWCUJGy5UWYY2cSVY8fz5.jpg（1941×1092）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

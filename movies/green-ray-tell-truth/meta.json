@@ -1,0 +1,33 @@
+{
+  "id": "green-ray-tell-truth",
+  "group": "classics",
+  "film": {
+    "title": "绿光",
+    "year": 1986,
+    "title_en": "The Green Ray",
+    "director": "埃里克·侯麦"
+  },
+  "lines": [
+    {
+      "text": "我想听真话。",
+      "en": "I want to hear the truth.",
+      "character": "德尔菲娜 / Delphine",
+      "note": "策展意译：提炼德尔菲娜在度假中拒绝虚伪社交、寻觅“绿光”与真话的核心欲望；侯麦对白密，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "真诚",
+    "假期",
+    "侯麦"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 290
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "绿光 · TMDB 宣传静帧（3000×1688）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-green-ray-1986.jpg）（影片页 https://www.themoviedb.org/movie/54898）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/XWbhyDwyqQvKumDFddmFjM6YtT.jpg（3000×1688）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

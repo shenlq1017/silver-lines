@@ -1,0 +1,43 @@
+{
+  "id": "shutter-monster-or-man",
+  "group": "top250",
+  "film": {
+    "title": "禁闭岛",
+    "year": 2010,
+    "title_en": "Shutter Island",
+    "director": "马丁·斯科塞斯"
+  },
+  "lines": [
+    {
+      "text": "哪种更糟：活成怪物，还是死成好人？",
+      "en": "Which would be worse: to live as a monster, or to die as a good man?",
+      "character": "Teddy Daniels",
+      "note": "灯塔结局的自问：把整部叙事诡计收成道德选择题，传世。"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "自我",
+    "救赎"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 1300000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 1500000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 68
+    },
+    "metacritic": {
+      "score": 63
+    }
+  },
+  "still_alt": "禁闭岛 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/083-shutter-island.jpg）（影片页 https://www.themoviedb.org/movie/11324）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "matter-of-life-and-death-gravity",
+  "group": "classics",
+  "film": {
+    "title": "生死问题",
+    "year": 1946,
+    "title_en": "A Matter of Life and Death",
+    "director": "迈克尔·鲍威尔 / 埃默里克·普雷斯伯格"
+  },
+  "lines": [
+    {
+      "text": "没有什么比引力定律更强大。",
+      "en": "Nothing is stronger than the law of gravity.",
+      "character": "彼得·卡特",
+      "note": "生死法庭语境中的通行意译；影片以它把超现实奇观拉回物理世界。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "奇幻",
+    "生死"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 28000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "生死问题 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-matter-of-life-and-death-1946.jpg）（影片页 https://www.themoviedb.org/movie/28162）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

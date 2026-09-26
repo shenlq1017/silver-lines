@@ -1,0 +1,49 @@
+{
+  "id": "detachment-pleasant-lies",
+  "group": "top250",
+  "film": {
+    "title": "超脱",
+    "year": 2011,
+    "title_en": "Detachment",
+    "director": "托尼·凯耶"
+  },
+  "lines": [
+    {
+      "text": "大多数人宁愿被甜蜜的谎言说服，也不愿听刺耳的真话。",
+      "en": "Most people would rather be persuaded by pleasant lies than by unpleasant facts.",
+      "character": "Henry Barthes（旁白）",
+      "note": "巴特旁白金句：把代课教师的职业倦怠写成文明诊断。"
+    },
+    {
+      "text": "我从未同时感到如此与自己疏离——又如此真切地存在于世界。",
+      "character": "片头引语（加缪）",
+      "en": "And never have I felt so deeply at one and the same time so detached from myself and so present in the world.",
+      "note": "片头引用加缪《堕落》；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "教育",
+    "疏离",
+    "真实"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 500000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 90000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 57
+    },
+    "metacritic": {
+      "score": 52
+    }
+  },
+  "still_alt": "超脱 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/089-detachment.jpg）（影片页 https://www.themoviedb.org/movie/74308）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aU6Mj8yFZhOnTpXjobqcwrB4KPP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

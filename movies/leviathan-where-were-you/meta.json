@@ -1,0 +1,33 @@
+{
+  "id": "leviathan-where-were-you",
+  "group": "classics",
+  "film": {
+    "title": "利维坦",
+    "year": 2014,
+    "title_en": "Leviathan",
+    "director": "安德烈·萨金塞夫"
+  },
+  "lines": [
+    {
+      "text": "当我立大地根基的时候，你在哪里？",
+      "en": "Where were you when I laid the foundations of the earth?",
+      "character": "神父援引《约伯记》 / Priest citing Job",
+      "note": "通行译法：影片关键场景援引《约伯记》质问；与小镇被官府/教会吞没的情节互文，中文取和合本通行表述。"
+    }
+  ],
+  "tags": [
+    "权力",
+    "信仰",
+    "约伯"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 1001
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "利维坦 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/leviathan-2014.jpg）（影片页 https://www.themoviedb.org/movie/265180）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/f7lytGw0yAeXg1KvmnVPJPqCPmf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kagemusha-shadow-man",
+  "group": "classics",
+  "film": {
+    "title": "影武者",
+    "year": 1980,
+    "title_en": "Kagemusha",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "影子也有影子的命运。",
+      "en": "Even a shadow has its own fate.",
+      "character": "影武者",
+      "note": "主题性策展句：凝聚替身身份与权力幻象，不冒充逐字对白。"
+    }
+  ],
+  "tags": [
+    "历史",
+    "权力",
+    "日本电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 24000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "影武者 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kagemusha-1980.jpg）（影片页 https://www.themoviedb.org/movie/11953）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/f4xTUR92Ii9aZrdyVgRYVvbvl9g.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

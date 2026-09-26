@@ -1,0 +1,34 @@
+{
+  "id": "medea-nothing-possible",
+  "group": "classics",
+  "film": {
+    "title": "美狄亚",
+    "year": 1969,
+    "title_en": "Medea",
+    "director": "皮埃尔·保罗·帕索里尼"
+  },
+  "lines": [
+    {
+      "text": "别再坚持了！没用的！再也没有什么可能了！",
+      "en": "Don't keep insisting! It's useless! Nothing is possible anymore!",
+      "character": "美狄亚 / Medea",
+      "note": "美狄亚（玛丽亚·卡拉斯）对伊阿宋的末句；剧本转录／Kinoafisha 引文可核。"
+    }
+  ],
+  "tags": [
+    "复仇",
+    "神话",
+    "帕索里尼",
+    "卡拉斯"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.6,
+      "votes": 194
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "美狄亚 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/medea-1969.jpg，1600×2400）（影片页 https://www.themoviedb.org/movie/26356）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rYg7JCq2nLOeKHrk5JZ4jm8Utqm.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

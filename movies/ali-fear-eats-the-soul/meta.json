@@ -1,0 +1,33 @@
+{
+  "id": "ali-fear-eats-the-soul",
+  "group": "classics",
+  "film": {
+    "title": "恐惧吞噬灵魂",
+    "year": 1974,
+    "title_en": "Ali: Fear Eats the Soul",
+    "director": "赖纳·维尔纳·法斯宾德"
+  },
+  "lines": [
+    {
+      "text": "恐惧吞噬灵魂。",
+      "en": "Fear eats the soul.",
+      "character": "艾米 / 阿里",
+      "note": "片名与片中核心命题的通行译法；一句话收束偏见、孤独与跨文化爱情。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "种族",
+    "德国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 35000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "恐惧吞噬灵魂 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ali-fear-eats-the-soul-1974.jpg）（影片页 https://www.themoviedb.org/movie/216）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/n9hbivlzMxVJzXxEIMBvw10LOVk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

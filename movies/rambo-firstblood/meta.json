@@ -1,0 +1,48 @@
+{
+  "id": "rambo-firstblood",
+  "group": "classics",
+  "film": {
+    "title": "第一滴血",
+    "year": 1982,
+    "title_en": "First Blood",
+    "director": "特德·科特切夫"
+  },
+  "lines": [
+    {
+      "text": "是他们先见了血，不是我。",
+      "en": "They drew first blood, not me.",
+      "character": "约翰·兰博 / John Rambo",
+      "note": "兰博对特劳特上校说出的对白（片名点题）；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "我可以杀光他们，也可以杀掉你。在镇上你代表法律——出了镇子，是我说了算。",
+      "character": "John Rambo",
+      "en": "I could have killed 'em all. I could've killed you. In town you're the law, out here it's me.",
+      "note": "兰博的控诉独白（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "没有结束！什么都没有结束！你们说放就放得下——我们放不下！",
+      "character": "John Rambo",
+      "en": "Nothing is over! Nothing! You just don't turn it off!",
+      "note": "兰博崩溃独白的爆发点（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "越战",
+    "警察",
+    "逃亡",
+    "反击"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 7114
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "第一滴血 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/first-blood-1982.jpg，1600×2400）（影片页 https://www.themoviedb.org/movie/1368）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/teCZlGivejMw4rVzyxBSYQNr6XI.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

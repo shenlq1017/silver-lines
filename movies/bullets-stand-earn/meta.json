@@ -1,0 +1,55 @@
+{
+  "id": "bullets-stand-earn",
+  "group": "top250",
+  "film": {
+    "title": "让子弹飞",
+    "year": 2010,
+    "title_en": "Let the Bullets Fly",
+    "director": "姜文"
+  },
+  "lines": [
+    {
+      "text": "站着把钱挣了。",
+      "en": "Earn the money while standing tall.",
+      "character": "张麻子",
+      "note": "让子弹飞的江湖经济学，短、横、传世。"
+    },
+    {
+      "text": "枪在手，跟我走！杀四郎，抢碉楼！",
+      "character": "张麻子",
+      "note": "发枪动员的名场面；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我来鹅城只办三件事：公平！公平！还是他妈的公平！",
+      "character": "张麻子",
+      "note": "张麻子的进城宣言（原文含粗口）；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "彼时彼刻？——恰如此时此刻。",
+      "character": "黄四郎",
+      "note": "与张麻子的机锋对答；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "西部",
+    "江湖"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 1900000
+    },
+    "imdb": {
+      "score": 7.3,
+      "votes": 25000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "让子弹飞 · 鹅城烟尘宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/035-rank-035.jpg）（影片页 https://www.themoviedb.org/movie/51533）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hUzsQl5P8D3atFCHw9tA60ka9VM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

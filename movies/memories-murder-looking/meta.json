@@ -1,0 +1,43 @@
+{
+  "id": "memories-murder-looking",
+  "group": "top250",
+  "film": {
+    "title": "杀人回忆",
+    "year": 2003,
+    "title_en": "살인의 추억",
+    "director": "奉俊昊"
+  },
+  "lines": [
+    {
+      "text": "你在看什么？",
+      "en": "What are you looking at?",
+      "character": "朴探员（结局凝视）",
+      "note": "片尾直视镜头的无声控诉常被中文影评概括为此问；标为结局题旨，非强制对白核验。"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "未解",
+    "凝视"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 250000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 82
+    }
+  },
+  "still_alt": "杀人回忆 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/092-rank-092.jpg）（影片页 https://www.themoviedb.org/movie/11423）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

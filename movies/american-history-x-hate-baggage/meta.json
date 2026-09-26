@@ -1,0 +1,39 @@
+{
+  "id": "american-history-x-hate-baggage",
+  "group": "classics",
+  "film": {
+    "title": "美国X档案",
+    "year": 1998,
+    "title_en": "American History X",
+    "director": "托尼·凯"
+  },
+  "lines": [
+    {
+      "text": "你以为仇恨让你更强，其实仇恨是一种负担。人生苦短，没必要一直带着怒火活着。",
+      "en": "Hate is baggage. Life’s too short to be pissed off all the time. It’s just not worth it.",
+      "character": "Derek Vinyard",
+      "note": "仇恨不是力量，而是负重；这句收束了德里克从仇恨走向醒悟的弧线。通行译法。"
+    },
+    {
+      "text": "你做过的那些事，有哪一件让你的日子变好了吗？",
+      "character": "Derek Vinyard",
+      "en": "Has anything you've done made your life better?",
+      "note": "德瑞克自我清算时的反问；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "成长",
+    "仇恨"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.5,
+      "votes": 1300000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "美国X档案 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/american-history-x-1998.jpg）（影片页 https://www.themoviedb.org/movie/73）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6qHI1IYj7QlLSCwHRzkL62X175s.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

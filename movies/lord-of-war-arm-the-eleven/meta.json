@@ -1,0 +1,56 @@
+{
+  "id": "lord-of-war-arm-the-eleven",
+  "group": "top250",
+  "film": {
+    "title": "战争之王",
+    "year": 2005,
+    "title_en": "Lord of War",
+    "director": "安德鲁·尼科尔"
+  },
+  "lines": [
+    {
+      "text": "地球上每十二人就有一支枪。问题只剩：怎么把另外十一个人也武装起来？",
+      "en": "There's one firearm for every twelve people on the planet. The only question is: How do we arm the other eleven?",
+      "character": "Yuri Orlov",
+      "note": "开场旁白即整部片的道德倒置：战争之王用统计笑话，把军火商自述写成控诉。通行定译。"
+    },
+    {
+      "text": "人们说：好人袖手旁观，邪恶就会横行。他们其实该说：邪恶总会横行。",
+      "character": "Yuri Orlov",
+      "en": "They say evil prevails when good men fail to act. What they should say is: evil prevails.",
+      "note": "对「让世界变好」命题的反驳；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我可以告诉你——不过那得收费。",
+      "character": "Yuri Orlov",
+      "en": "I would tell you, but then I'd have to charge you.",
+      "note": "结尾探员追问军火去向的黑色回答；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "军火",
+    "讽刺"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 480000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 350000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 61
+    },
+    "metacritic": {
+      "score": 62
+    }
+  },
+  "still_alt": "战争之王 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/243-lord-of-war.jpg）（影片页 https://www.themoviedb.org/movie/1830）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aDswjn9q5QCtLi7DaoJ21rq2pm8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kikujiro-im-here",
+  "group": "top250",
+  "film": {
+    "title": "菊次郎的夏天",
+    "year": 1999,
+    "title_en": "Kikujirô no natsu",
+    "director": "北野武"
+  },
+  "lines": [
+    {
+      "text": "有我在，别怕。",
+      "en": "I'm here. Don't be afraid.",
+      "character": "菊次郎",
+      "note": "流氓大叔一路骂骂咧咧的护送，收成一句可上墙的保镖承诺；对白碎，标为题旨浓缩。"
+    }
+  ],
+  "tags": [
+    "亲情",
+    "旅途",
+    "夏天"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 600000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 30000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 73
+    }
+  },
+  "still_alt": "菊次郎的夏天 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/119-kikujiro-no-natsu.jpg）（影片页 https://www.themoviedb.org/movie/4291）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/go25MVNckpF3Ci7oY7do0oGXN1A.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

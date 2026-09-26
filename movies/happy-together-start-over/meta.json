@@ -1,0 +1,55 @@
+{
+  "id": "happy-together-start-over",
+  "group": "top250",
+  "film": {
+    "title": "春光乍泄",
+    "year": 1997,
+    "title_en": "Happy Together",
+    "director": "王家卫"
+  },
+  "lines": [
+    {
+      "text": "不如我们从头来过。",
+      "en": "Let's start over.",
+      "character": "黎耀辉 / 何宝荣",
+      "note": "阿根廷夜色里最痛的提议：重来即认输，也是唯一的温柔。"
+    },
+    {
+      "text": "一直以为我跟何宝荣不一样。原来寂寞的时候，所有的人都一样。",
+      "character": "黎耀辉（旁白）",
+      "note": "黎耀辉的著名独白；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我总觉得，站在瀑布下面的，应该是两个人。",
+      "character": "黎耀辉（旁白）",
+      "note": "结尾伊瓜苏瀑布独白；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "漂泊",
+    "重来"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 40000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 84
+    },
+    "metacritic": {
+      "score": 73
+    }
+  },
+  "still_alt": "春光乍泄 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/095-happy-together.jpg）（影片页 https://www.themoviedb.org/movie/18329）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

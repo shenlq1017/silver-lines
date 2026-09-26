@@ -1,0 +1,46 @@
+{
+  "id": "butch-who-are-those-guys",
+  "group": "classics",
+  "film": {
+    "title": "虎豹小霸王",
+    "year": 1969,
+    "title_en": "Butch Cassidy and the Sundance Kid",
+    "director": "乔治·罗伊·希尔"
+  },
+  "lines": [
+    {
+      "text": "谁是这些人？",
+      "en": "Who are those guys?",
+      "character": "布奇·卡西迪 / Butch Cassidy",
+      "note": "通行译法：被追踪途中反复出现的标志性疑问；轻松口吻下的压迫感。"
+    },
+    {
+      "text": "太漂亮了，老是被抢。",
+      "character": "Sundance Kid",
+      "en": "People kept robbing it.",
+      "note": "「为什么换银行」的经典问答下半句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "继续想吧，布奇——你就擅长这个。",
+      "character": "Butch Cassidy",
+      "en": "You just keep thinkin', Butch. That's what you're good at.",
+      "note": "布奇的自我打气；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "西部",
+    "友谊",
+    "逃亡"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 2556
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "虎豹小霸王 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/butch-cassidy-and-the-sundance-kid-1969.jpg）（影片页 https://www.themoviedb.org/movie/642）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sxdnIt6WLMKRmOlxrMV6f2YX0kw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

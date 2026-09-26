@@ -1,0 +1,40 @@
+{
+  "id": "mdb-magic-boxing",
+  "group": "classics",
+  "film": {
+    "title": "百万美元宝贝",
+    "year": 2005,
+    "title_en": "Million Dollar Baby",
+    "director": "克林特·伊斯特伍德"
+  },
+  "lines": [
+    {
+      "text": "如果说拳击里有魔法，那是超越耐力、超越断肋、破裂肾脏和脱落视网膜去打仗的魔法。是为了一个只有你看得见的梦，把一切押上去的魔法。",
+      "en": "If there's magic in boxing, it's the magic of fighting battles beyond endurance, beyond cracked ribs, ruptured kidneys and detached retinas. It's the magic of risking everything for a dream that nobody sees but you.",
+      "character": "艾迪·「废铁」·杜普里斯 / Eddie 'Scrap-Iron' Dupris",
+      "note": "废铁画外叙述开篇；Wikiquote／IMDb quotes 通行字幕可核。"
+    },
+    {
+      "text": "永远保护你自己。",
+      "character": "Frankie Dunn",
+      "en": "Always protect yourself.",
+      "note": "弗兰基的教练口头禅，全片伏笔；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "拳击",
+    "梦想",
+    "叙述",
+    "伊斯特伍德"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 10603
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "百万美元宝贝 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/million-dollar-baby-2005.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/70）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oGMomeS7bE43eN8SGJUaKvQnmud.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "patlabor2-peace-price",
+  "group": "classics",
+  "film": {
+    "title": "机动警察2",
+    "year": 1993,
+    "title_en": "Patlabor 2: The Movie",
+    "director": "押井守"
+  },
+  "lines": [
+    {
+      "text": "和平若只靠忘记危险来维持，那它随时会碎。",
+      "en": "If peace is kept only by forgetting danger, it can shatter at any moment.",
+      "character": "后藤队长等 / Captain Goto et al.",
+      "note": "主题性策展句：概括押井守《机动警察2》对「虚假和平」与政变危机的题旨，非逐字引文。"
+    },
+    {
+      "text": "正义与战争其实很像：昨天还是正义的东西，不知不觉就成了战争；昨天还是战争的东西，转眼又成了正义。",
+      "character": "荒川贞夫",
+      "note": "开头关于「未被宣战的战争」的独白，全片题眼；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "政治",
+    "军事",
+    "动画",
+    "押井守"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 156
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "机动警察2 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/patlabor-2-the-movie-1993.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/14572）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/428jZbj3Ue4B6fhptMbo0ixaNaZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

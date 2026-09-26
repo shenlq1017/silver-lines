@@ -1,0 +1,47 @@
+{
+  "id": "beingthere-watch",
+  "group": "classics",
+  "film": {
+    "title": "在那里",
+    "year": 1979,
+    "title_en": "Being There",
+    "director": "哈尔·阿什比"
+  },
+  "lines": [
+    {
+      "text": "我喜欢看。",
+      "en": "I like to watch.",
+      "character": "钱斯／园丁 / Chance the Gardner",
+      "note": "钱斯多次说出的标志性对白（被权贵误读）；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "只要根没有断，一切都会好起来。",
+      "character": "Chance",
+      "en": "As long as the roots are not severed, all is well.",
+      "note": "园丁昌斯的「治国箴言」，被误读为智慧；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "在花园里，生长有季节。",
+      "character": "Chance",
+      "en": "In a garden, growth has its season.",
+      "note": "同段園藝哲学；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "讽刺",
+    "电视",
+    "误解",
+    "政治"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 1165
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "在那里 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/being-there-1979.jpg，1778×2666）（影片页 https://www.themoviedb.org/movie/10322）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lzB7ehFA3XQH1rD4kCE2aziAzFO.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

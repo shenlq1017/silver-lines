@@ -1,0 +1,33 @@
+{
+  "id": "oasis-love-anyway",
+  "group": "classics",
+  "film": {
+    "title": "绿洲",
+    "year": 2002,
+    "title_en": "Oasis",
+    "director": "李沧东"
+  },
+  "lines": [
+    {
+      "text": "就算别人觉得恶心，我也要爱。",
+      "en": "Even if others find it disgusting, I will love.",
+      "character": "洪钟斗 / Hong Jong-du",
+      "note": "策展意译：提炼钟斗对共惠不顾社会歧视的执拗爱意；影片多靠行为与爆发场面，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "边缘",
+    "爱欲",
+    "李沧东"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 290
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "绿洲 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/oasis-2002.jpg）（影片页 https://www.themoviedb.org/movie/26955）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qXW5LF40Gu2H6EzI9Zu4tPU6zga.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

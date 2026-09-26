@@ -1,0 +1,33 @@
+{
+  "id": "summer-is-gone-august",
+  "group": "classics",
+  "film": {
+    "title": "八月",
+    "year": 2016,
+    "title_en": "The Summer Is Gone",
+    "director": "张大磊"
+  },
+  "lines": [
+    {
+      "text": "八月一过，夏天就没了。",
+      "en": "Once August ends, summer is gone.",
+      "character": "少年视角 / Boy’s season",
+      "note": "策展意译：概括张大磊《八月》以黑白少年视角写单位解体前的最后一个夏天；片名即时间喻，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "童年",
+    "九十年代",
+    "告别"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.1,
+      "votes": 18
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "八月 · TMDB 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-summer-is-gone-2016.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/421483）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ekPitJKBR0Din1QIjUIWEBsv3AE.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

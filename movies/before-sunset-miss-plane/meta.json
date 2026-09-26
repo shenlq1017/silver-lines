@@ -1,0 +1,56 @@
+{
+  "id": "before-sunset-miss-plane",
+  "group": "top250",
+  "film": {
+    "title": "爱在日落黄昏时",
+    "year": 2004,
+    "title_en": "Before Sunset",
+    "director": "理查德·林克莱特"
+  },
+  "lines": [
+    {
+      "text": "宝贝，你要误机了。",
+      "en": "Baby, you are gonna miss that plane.",
+      "character": "Celine",
+      "note": "日落将尽的最后通牒：误机即留下，留下即重写九年。三部曲里最短也最准的一句。"
+    },
+    {
+      "text": "记忆是件美妙的东西——如果你不必和过去打交道的话。",
+      "character": "Celine",
+      "en": "Memory is a wonderful thing if you don't have to deal with the past.",
+      "note": "塞琳娜在巴黎的书店访谈；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "在读你那本破书之前，我本来好好的。",
+      "en": "I was fine. Until I read your fucking book. It stirred shit up...",
+      "character": "Celine",
+      "note": "酒店重逢的爆发（原文含粗口）；Before Sunset 剧本可核。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "巴黎",
+    "抉择"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 300000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 90
+    }
+  },
+  "still_alt": "爱在日落黄昏时 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/111-before-sunset.jpg）（影片页 https://www.themoviedb.org/movie/80）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vMI8oOEQbhaCQnBFM9mXvJGyEKc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

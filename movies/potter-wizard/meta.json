@@ -1,0 +1,57 @@
+{
+  "id": "potter-wizard",
+  "group": "top250",
+  "film": {
+    "title": "哈利·波特与魔法石",
+    "year": 2001,
+    "title_en": "Harry Potter and the Sorcerer's Stone",
+    "director": "克里斯·哥伦布"
+  },
+  "lines": [
+    {
+      "text": "哈利——你是个巫师。",
+      "en": "Harry — yer a wizard.",
+      "character": "Rubeus Hagrid",
+      "note": "魔法世界的入场券，一句唤醒整个系列。"
+    },
+    {
+      "text": "对抗敌人需要巨大的勇气，对抗朋友同样如此。",
+      "character": "Dumbledore",
+      "en": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "note": "开学宴邓布利多的教诲；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你们俩若不介意，我要去睡了——免得你们又想出什么让我们送命的鬼主意，或者更糟：被开除。",
+      "character": "Hermione Granger",
+      "en": "Now if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed — or worse, expelled.",
+      "note": "赫敏的名台词，接罗恩「她该排一下优先级」；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "成长",
+    "冒险"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 1400000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 900000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 81
+    },
+    "metacritic": {
+      "score": 65
+    }
+  },
+  "still_alt": "哈利·波特与魔法石 · 霍格沃茨意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/025-harry-potter-and-the-sorcerer-s-stone.jpg）（影片页 https://www.themoviedb.org/movie/671）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hziiv14OpD73u9gAak4XDDfBKa2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

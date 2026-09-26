@@ -1,0 +1,57 @@
+{
+  "id": "matrix2-already-made-choice",
+  "group": "top250",
+  "film": {
+    "title": "黑客帝国2：重装上阵",
+    "year": 2003,
+    "title_en": "The Matrix Reloaded",
+    "director": "拉娜·沃卓斯基 / 莉莉·沃卓斯基"
+  },
+  "lines": [
+    {
+      "text": "你不是来做选择的——你已经选好了。你来，是为了理解自己为什么这样选。",
+      "en": "You didn't come here to make the choice. You've already made it. You're here to understand why you made it.",
+      "character": "The Oracle",
+      "note": "先知把自由意志往后推一步：重装上阵与已刊《黑客帝国》《矩阵革命》不撞 id。通行定译。"
+    },
+    {
+      "text": "希望——这是人类最典型的妄想。它既是人类最强大的力量，也是最大的弱点。",
+      "character": "The Architect",
+      "en": "Hope. It is the quintessential human delusion... the source of your enduring strength and weakness.",
+      "note": "建筑师的终极论断；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "选择是幻觉——由有权者与无权者共同制造的幻觉。",
+      "character": "The Merovingian",
+      "en": "Choice is an illusion, created between those with power and those without.",
+      "note": "梅罗文嘉的选择论；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "选择",
+    "哲学"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 480000
+    },
+    "imdb": {
+      "score": 7.2,
+      "votes": 650000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 73
+    },
+    "metacritic": {
+      "score": 62
+    }
+  },
+  "still_alt": "黑客帝国2：重装上阵 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/237-the-matrix-reloaded.jpg）（影片页 https://www.themoviedb.org/movie/604）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hgWDZ0UlGEf8LvrAkKt6VqAH0bu.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

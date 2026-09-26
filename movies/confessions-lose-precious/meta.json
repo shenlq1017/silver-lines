@@ -1,0 +1,43 @@
+{
+  "id": "confessions-lose-precious",
+  "group": "top250",
+  "film": {
+    "title": "告白",
+    "year": 2010,
+    "title_en": "Confessions",
+    "director": "中岛哲也"
+  },
+  "lines": [
+    {
+      "text": "我想让你们体验一下，失去最重要的东西时是什么感觉。",
+      "en": "I want you to experience what it feels like to lose the most precious thing.",
+      "character": "森口悠子",
+      "note": "开场教师自白即宣战：冷静的复仇说明书，把教室变成法庭。"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "复仇",
+    "教室"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 50000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 84
+    },
+    "metacritic": {
+      "score": 70
+    }
+  },
+  "still_alt": "告白 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/152-rank-152.jpg）（影片页 https://www.themoviedb.org/movie/54186）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sT7f721Zvb9Feo11sbhvkk2JLHi.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

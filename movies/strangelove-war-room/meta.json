@@ -1,0 +1,63 @@
+{
+  "id": "strangelove-war-room",
+  "group": "classics",
+  "film": {
+    "title": "奇爱博士",
+    "year": 1964,
+    "title_en": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "director": "斯坦利·库布里克"
+  },
+  "lines": [
+    {
+      "text": "先生们，不能在这儿打架！这儿是作战室！",
+      "en": "Gentlemen, you can't fight in here! This is the War Room!",
+      "character": "President Merkin Muffley",
+      "note": "总统劝架的一本正经：奇爱博士把核战指挥部变成马戏团。通行定译。"
+    },
+    {
+      "text": "一种外来物质，混入了我们珍贵的体液……",
+      "character": "Gen. Jack D. Ripper",
+      "en": "A foreign substance is introduced into our precious bodily fluids...",
+      "note": "瑞普尔的「体液保卫战」；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我的元首！我能走路了！",
+      "character": "Dr. Strangelove",
+      "en": "Mein Führer! I can walk!",
+      "note": "影片的最后一句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我再也不能坐视共产主义对我们珍珠般的体液的渗透……",
+      "character": "Gen. Jack D. Ripper",
+      "en": "I can no longer sit back and allow Communist infiltration... to sap and impurify all of our precious bodily fluids.",
+      "note": "瑞普尔的开场独白（节选）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "讽刺",
+    "冷战",
+    "荒诞"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 140000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 530000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 97
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "奇爱博士 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964.jpg）（影片页 https://www.themoviedb.org/movie/935）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hPdgnWRpPstF8y7MrC6ENep8RNI.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

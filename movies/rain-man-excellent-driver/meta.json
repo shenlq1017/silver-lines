@@ -1,0 +1,57 @@
+{
+  "id": "rain-man-excellent-driver",
+  "group": "top250",
+  "film": {
+    "title": "雨人",
+    "year": 1988,
+    "title_en": "Rain Man",
+    "director": "巴瑞·莱文森"
+  },
+  "lines": [
+    {
+      "text": "我是个出色的司机。",
+      "en": "I'm an excellent driver.",
+      "character": "Raymond Babbitt",
+      "note": "雨人一句自我鉴定，既是笑点也是尊严：重复的短句撑起整段公路。通行定译。"
+    },
+    {
+      "text": "哦不——还有十五分钟到《人民法庭》。",
+      "character": "Raymond Babbitt",
+      "en": "Uh-oh. Fifteen minutes to Wapner.",
+      "note": "雷蒙的节目强迫症名句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "凯马特糟透了。",
+      "character": "Raymond Babbitt",
+      "en": "K-Mart sucks.",
+      "note": "雷蒙的购物哲学，影史名梗；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "亲情",
+    "公路",
+    "自闭"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 450000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 65
+    }
+  },
+  "still_alt": "雨人 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/230-rain-man.jpg）（影片页 https://www.themoviedb.org/movie/380）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

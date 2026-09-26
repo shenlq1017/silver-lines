@@ -1,0 +1,33 @@
+{
+  "id": "all-about-mother-authentic",
+  "group": "classics",
+  "film": {
+    "title": "关于我母亲的一切",
+    "year": 1999,
+    "title_en": "All About My Mother",
+    "director": "佩德罗·阿尔莫多瓦"
+  },
+  "lines": [
+    {
+      "text": "你可以比你想象的更真实。",
+      "en": "You can be more authentic than you imagine.",
+      "character": "阿格拉多 / Agrado",
+      "note": "策展意译：压缩阿格拉多舞台独白中关于真实与整容/身份的精神；阿尔莫多瓦标志性自我宣言，明确非逐字引文。"
+    }
+  ],
+  "tags": [
+    "表演",
+    "母亲",
+    "身份"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 2113
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "关于我母亲的一切 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/all-about-my-mother-1999.jpg）（影片页 https://www.themoviedb.org/movie/99）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7ZjnuFgydOoRbvyR2jOQ8ZX97nP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "bourne2-remember-everything",
+  "group": "top250",
+  "film": {
+    "title": "谍影重重2",
+    "year": 2004,
+    "title_en": "The Bourne Supremacy",
+    "director": "保罗·格林格拉斯"
+  },
+  "lines": [
+    {
+      "text": "我都想起来了。我全都想起来了。",
+      "en": "I remember. I remember everything.",
+      "character": "Jason Bourne",
+      "note": "重重2把失忆收束为想起：与已刊《谍影重重3》不撞 id。通行字幕口吻，略有差已标。"
+    },
+    {
+      "text": "好好休息吧，帕姆。你看起来累了。",
+      "character": "Jason Bourne",
+      "en": "Get some rest, Pam. You look tired.",
+      "note": "伯恩的反跟踪宣言，全片名场面；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "谍战",
+    "身份",
+    "记忆"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 520000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 500000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 81
+    },
+    "metacritic": {
+      "score": 73
+    }
+  },
+  "still_alt": "谍影重重2 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/241-the-bourne-supremacy.jpg）（影片页 https://www.themoviedb.org/movie/2502）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/unmI2cUB0RvlpXj7AfSgphzDsUt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

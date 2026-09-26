@@ -1,0 +1,33 @@
+{
+  "id": "amores-perros-title",
+  "group": "classics",
+  "film": {
+    "title": "愛情像母狗",
+    "year": 2001,
+    "title_en": "Amores perros",
+    "director": "亚历杭德罗·冈萨雷斯·伊纳里图"
+  },
+  "lines": [
+    {
+      "text": "爱是一只狗。",
+      "en": "Love is a bitch. / Amores perros.",
+      "character": "主题 / 片名",
+      "note": "片名直译的通行理解（amores perros ≈ 爱如狗/糟糕的爱）；作为主题句收录，非角色对白。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "墨西哥",
+    "群像"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 3011
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "愛情像母狗 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/amores-perros-2001.jpg）（影片页 https://www.themoviedb.org/movie/55）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iTkxwBriD9YKg4Q35qWEIlLXd6e.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

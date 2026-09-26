@@ -1,0 +1,33 @@
+{
+  "id": "pans-labyrinth-traces",
+  "group": "classics",
+  "film": {
+    "title": "潘神的迷宫",
+    "year": 2007,
+    "title_en": "Pan's Labyrinth",
+    "director": "吉尔莫·德尔·托罗"
+  },
+  "lines": [
+    {
+      "text": "据说公主回到了父亲的王国，以公正与善良统治了许多世纪；她在人间留下的痕迹，只有知道往哪里看的人才能看见。",
+      "en": "And it is said that the Princess returned to her father's kingdom... and that she left behind small traces of her time on Earth, visible only to those who know where to look.",
+      "character": "旁白 / Narrator",
+      "note": "片尾旁白通行译法（略压缩）；德尔托罗将童话与法西斯暴力并置的收束句。"
+    }
+  ],
+  "tags": [
+    "童话",
+    "抵抗",
+    "奇幻"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 11753
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "潘神的迷宫 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/el-laberinto-del-fauno-2007.jpg）（影片页 https://www.themoviedb.org/movie/1417）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

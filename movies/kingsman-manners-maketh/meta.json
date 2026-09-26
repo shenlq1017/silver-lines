@@ -1,0 +1,54 @@
+{
+  "id": "kingsman-manners-maketh",
+  "group": "classics",
+  "film": {
+    "title": "王牌特工：特工学院",
+    "year": 2014,
+    "title_en": "Kingsman: The Secret Service",
+    "director": "马修·沃恩"
+  },
+  "lines": [
+    {
+      "text": "明礼方能成人。",
+      "en": "Manners maketh man.",
+      "character": "哈利·哈特 / Harry Hart",
+      "note": "教堂大战前后的核心短句；中文取常见字幕「明礼方能成人」。"
+    },
+    {
+      "text": "西装是现代绅士的盔甲。",
+      "character": "Harry Hart",
+      "en": "The suit is the modern gentleman's armour.",
+      "note": "哈利的世界观；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "牛津鞋，不要布洛克雕花。",
+      "character": "Harry Hart",
+      "en": "Oxfords, not Brogues.",
+      "note": "接头的暗语，全片密码；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我们要在这儿站一整天呢，还是开打？",
+      "character": "Harry Hart",
+      "en": "Now, are we going to stand around here all day, or are we going to fight?",
+      "note": "酒馆雨点反击战前的宣告；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "特工",
+    "绅士",
+    "英伦"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 18181
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "王牌特工：特工学院 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kingsman-the-secret-service-2014.jpg）（影片页 https://www.themoviedb.org/movie/207703）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xEMkMNFVL0Lllw0hTuuaiqJ0Yr7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

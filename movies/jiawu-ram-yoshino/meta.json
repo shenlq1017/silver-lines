@@ -1,0 +1,38 @@
+{
+  "id": "jiawu-ram-yoshino",
+  "group": "classics",
+  "film": {
+    "title": "甲午风云",
+    "year": 1962,
+    "title_en": "The Naval Battle of 1894",
+    "director": "林农"
+  },
+  "lines": [
+    {
+      "text": "开足马力，撞沉吉野！",
+      "en": "Full speed ahead — ram and sink the Yoshino!",
+      "character": "邓世昌 / Deng Shichang",
+      "note": "通行可核验：林农《甲午风云》中李默然饰邓世昌冲向日舰「吉野」时的号令，为国产战争片史常见引用句。"
+    },
+    {
+      "text": "吾辈从军卫国——早置生死于度外。",
+      "character": "邓世昌",
+      "note": "邓世昌的训话，与「撞沉吉野」互为表里；通行引述可查。"
+    }
+  ],
+  "tags": [
+    "北洋水师",
+    "甲午",
+    "爱国"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.3,
+      "votes": 7
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "甲午风云 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-sino-japanese-war-at-sea-1894-1962.jpg，1080×1620）（影片页 https://www.themoviedb.org/movie/318629）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yNTBTnhS6oMnVaOcXMl0lqiFAd5.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

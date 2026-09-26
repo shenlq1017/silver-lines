@@ -1,0 +1,34 @@
+{
+  "id": "polytechnique-why",
+  "group": "classics",
+  "film": {
+    "title": "理工学院",
+    "year": 2009,
+    "title_en": "Polytechnique",
+    "director": "丹尼斯·维伦纽瓦"
+  },
+  "lines": [
+    {
+      "text": "枪响之后，问题不是「为什么是我」，而是「为什么是这里」。",
+      "en": "After the shots, the question is not 'why me' — but 'why here'.",
+      "character": "幸存者群像 / survivors",
+      "note": "主题性策展句：概括维伦纽瓦《理工学院》对蒙特利尔理工学院枪击案的冷峻见证题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "校园",
+    "枪击",
+    "纪实",
+    "维伦纽瓦"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 715
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "理工学院 · TMDB 宣传静帧（2901×1632）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/polytechnique-2009.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/22302）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rD6VVei45TLnkCdDucJDDUmb3e3.jpg（2901×1632）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

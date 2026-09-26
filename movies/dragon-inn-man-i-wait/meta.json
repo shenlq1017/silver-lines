@@ -1,0 +1,49 @@
+{
+  "id": "dragon-inn-man-i-wait",
+  "group": "top250",
+  "film": {
+    "title": "新龙门客栈",
+    "year": 1992,
+    "title_en": "New Dragon Gate Inn",
+    "director": "李惠民"
+  },
+  "lines": [
+    {
+      "text": "我看中的男人，要么是英雄，要么是疯子。",
+      "en": "The men I fall for are either heroes—or madmen.",
+      "character": "金镶玉",
+      "note": "龙门风沙里的掌柜宣言：新龙门客栈用金镶玉一句挑衅，把欲望与侠义拴在同一张客栈账。通行口吻，略有版本差，已标。"
+    },
+    {
+      "text": "我这龙门客栈，进来的多，出去的少。",
+      "character": "金镶玉",
+      "note": "金镶玉介绍自家客栈的口头禅；通行引述可查。",
+      "confidence": "medium"
+    }
+  ],
+  "tags": [
+    "武侠",
+    "客栈",
+    "江湖"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 430000
+    },
+    "imdb": {
+      "score": 7.3,
+      "votes": 5000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 82
+    },
+    "metacritic": {
+      "score": 68
+    }
+  },
+  "still_alt": "新龙门客栈 · 宣传静帧（2688×1512）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/222-new-dragon-gate-inn.jpg）（影片页 https://www.themoviedb.org/movie/40213）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tbjZ4wWC2WBGvh25NCIZ3IV2oGp.jpg（2688×1512）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "idiot-pure-heart",
+  "group": "classics",
+  "film": {
+    "title": "白痴",
+    "year": 1951,
+    "title_en": "The Idiot",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "我只是想相信人。",
+      "en": "I only wanted to believe in people.",
+      "character": "龟田 / Kameda (Myshkin)",
+      "note": "策展意译：提炼黑泽明版梅什金式主人公在污浊世界中坚持信任的立场；对白版本多，不冒充单一字幕。"
+    }
+  ],
+  "tags": [
+    "纯真",
+    "陀氏",
+    "黑泽明"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 135
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "白痴 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-idiot-1951.jpg）（影片页 https://www.themoviedb.org/movie/24774）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qls00pwmGmjqXikAFYGzQgi9WdN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

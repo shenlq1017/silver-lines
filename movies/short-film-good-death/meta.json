@@ -1,0 +1,33 @@
+{
+  "id": "short-film-good-death",
+  "group": "classics",
+  "film": {
+    "title": "杀人短片",
+    "year": 1988,
+    "title_en": "A Short Film About Killing",
+    "director": "克日什托夫·基耶斯洛夫斯基"
+  },
+  "lines": [
+    {
+      "text": "没有所谓好的死亡。",
+      "en": "There is no such thing as a good death.",
+      "character": "皮奥特 / Piotr Balicki",
+      "note": "策展意译：提炼影片对私人暴力与国家惩罚并置的伦理判断，非声称逐字对白。"
+    }
+  ],
+  "tags": [
+    "道德",
+    "犯罪",
+    "波兰电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 20000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "杀人短片 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-short-film-about-killing-1988.jpg）（影片页 https://www.themoviedb.org/movie/10754）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/viZs59bz8Iv78m0GJSQM0nusPzj.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

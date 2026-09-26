@@ -1,0 +1,33 @@
+{
+  "id": "return-do-as-i-say",
+  "group": "classics",
+  "film": {
+    "title": "回归",
+    "year": 2003,
+    "title_en": "The Return",
+    "director": "安德烈·兹维亚金采夫"
+  },
+  "lines": [
+    {
+      "text": "照我说的做。",
+      "en": "Do as I say.",
+      "character": "父亲 / The father",
+      "note": "通行译法：突然归来的父亲对两个儿子反复发出的命令式短句；影片以沉默与命令推动张力。"
+    }
+  ],
+  "tags": [
+    "父亲",
+    "权威",
+    "俄罗斯电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 727
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "回归 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-return-2003.jpg）（影片页 https://www.themoviedb.org/movie/11190）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/s1tjAz93Eyxh05ixQGe5MmPzPSc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

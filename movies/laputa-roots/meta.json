@@ -1,0 +1,51 @@
+{
+  "id": "laputa-roots",
+  "group": "top250",
+  "film": {
+    "title": "天空之城",
+    "year": 1986,
+    "title_en": "Castle in the Sky",
+    "director": "宫崎骏"
+  },
+  "lines": [
+    {
+      "text": "军备不起，则根深叶茂。",
+      "en": "Arms grow weak, while roots grow deep.",
+      "character": "拉普达碑铭／希达传承",
+      "note": "天空之城核心箴言（碑文意译流传定稿），以根对抗武力。"
+    },
+    {
+      "text": "人不能离开土地生活。",
+      "character": "希达",
+      "note": "希达与穆斯卡对峙时诵出的拉普达箴言；通行字幕译法。"
+    },
+    {
+      "text": "别偷偷摸摸的——海盗就该堂堂正正地偷！",
+      "character": "朵拉船长",
+      "note": "朵拉奶奶的海盗哲学；通行字幕译法。",
+      "confidence": "medium"
+    }
+  ],
+  "tags": [
+    "动画",
+    "反战",
+    "文明"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 1000000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 190000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 96
+    }
+  },
+  "still_alt": "天空之城 · 浮空岛与飞艇宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/042-rank-042.jpg）（影片页 https://www.themoviedb.org/movie/10515）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/A1BKnRLhGlGkYmE5htth29aVmHz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "spirited-away",
+  "group": "top250",
+  "film": {
+    "title": "千与千寻",
+    "year": 2001,
+    "title_en": "Spirited Away",
+    "director": "宫崎骏"
+  },
+  "lines": [
+    {
+      "text": "曾经发生过的事不可能忘记，只不过是想不起来而已。",
+      "featured": true,
+      "en": "Once you've met someone you never really forget them.",
+      "character": "无脸男 / 钱婆婆旁白意蕴",
+      "note": "宫崎骏式温柔：遗忘也是记得。"
+    },
+    {
+      "text": "名字一旦被夺走，就再也找不到回家的路了。",
+      "character": "白龙",
+      "note": "白龙叮嘱千寻守住真名；通行配音译法。"
+    },
+    {
+      "text": "从今往后，你的名字就叫小千。",
+      "character": "汤婆婆",
+      "note": "签约夺名一幕；通行译法。"
+    },
+    {
+      "text": "千万不要回头。",
+      "character": "白龙",
+      "note": "片尾隧道送别的叮嘱；通行译法。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "成长",
+    "记忆"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.4,
+      "votes": 2400000
+    },
+    "imdb": {
+      "score": 8.6,
+      "votes": 900000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 96
+    },
+    "metacritic": {
+      "score": 96
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "千与千寻 · 千寻与无脸男同乘列车经典画面",
+  "license_note": "海报：TMDB 发行宣传物料 https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg（2000×3000）（影片页 https://www.themoviedb.org/movie/129-spirited-away）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/peWBHe4HBIXzgF94NvYEBm2406P.jpg（3840×2160）；场景匹配（千寻与无脸男同乘列车）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

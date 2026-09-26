@@ -1,0 +1,30 @@
+{
+  "group": "A-recheck",
+  "generated": "2026-09-26",
+  "summary": { "total": 96, "ok": 72, "wrong_wording": 16, "unverifiable": 8, "not_checked": 0 },
+  "fixes_applied": [
+    { "id": "blood-guanyin-family-business", "index": 1, "correction": "我是为你好。（通行金句均作「我是為你好」）", "source": "ELLE/HK01/痞客邦" },
+    { "id": "burning-great-hunger", "index": 1, "correction": "我烧塑料大棚……那是我的爱好。", "source": "知乎/豆瓣影评（Ben 自述烧大棚）" },
+    { "id": "busan-will-be-safe", "index": 1, "correction": "我妻子的名字，叫盛京。（尚华托付的是怀孕妻子盛京，原句「내 아내 이름은 성경이라고 합니다」）", "source": "百度百科角色条目+韩语原台词" },
+    { "id": "castaway-tide", "index": 1, "correction": "en 改 \"I couldn't even kill myself the way I wanted to. I had power over nothing.\"", "source": "IMDb quotes" },
+    { "id": "citizen-kane-rosebud", "index": 3, "correction": "en 改 \"You talk about the people as though you owned them, as though they belong to you.\"", "source": "通行剧本/引文" },
+    { "id": "dallas-buyers-not-done", "index": 1, "correction": "说话人为 Rayon 非 Ron；en 改 \"Sometimes I just feel like I'm fighting for a life I just ain't got time to live. I want it to mean something.\"", "source": "IMDb quotes" },
+    { "id": "do-right-thing-fight-power", "index": 1, "correction": "医生，永远做对的事。（Da Mayor 称 Mookie 为 Doctor）", "source": "quotesgram/影片字幕" },
+    { "id": "echoes-rainbow-time-thief", "index": 1, "correction": "做人，总要信。（罗妈妈语；罗爸名句是「最重要是保住个顶」）", "source": "搜狐/网易/经济观察网影评" },
+    { "id": "elephant-man-human", "index": 1, "correction": "en 改 \"Nothing will die.\"（丁尼生诗行）", "source": "IMDb/Wikiquote" },
+    { "id": "flipped-rainbow", "index": 2, "correction": "画论为 Juli 父亲语非 Chet；text/en 按 \"A painting is more than the sum of its parts.\" 改写并改挂说话人", "source": "IMDb quotes/Flipped transcript" },
+    { "id": "green-mile-like-to-go-home", "index": 3, "correction": "en 改 \"...the Green Mile is so long.\"", "source": "quotes.net/IMDb" },
+    { "id": "hachi-waiting", "index": 1, "correction": "「从未见过」的是外公非八公；text/en 按 \"Hachiko was my hero. I never met my grandfather...\" 改写", "source": "Hachi 剧本/Wikipedia" },
+    { "id": "harold-live", "index": 1, "correction": "按 Maude 原话改写：\"They're just backing away from life. Reach out. Take a chance. Get hurt even.\"", "source": "Goodreads/IMDb" },
+    { "id": "hidden-fortress-our-lives", "index": 1, "correction": "看那边。天空和大海这么蓝——我的国家看起来也是蓝的。（日文原句「私の国も青く見えますわ」）", "source": "日文影评/脚本资料" },
+    { "id": "howl-found-you", "index": 1, "correction": "我已经逃得够多了。终于有了必须守护的东西——那就是你。（「僕はもう十分逃げた…君だ」）", "source": "Yahoo知恵袋/renote" },
+    { "id": "catching-fire-if-we-burn", "index": 2, "correction": "hope 台词实出自《饥饿游戏》第一部（2012）Snow 语；第一部不在库内，该句已删除", "source": "UAF 引文/影片场景核实" }
+  ],
+  "unverifiable_kept_medium": [
+    { "id": "13-assassins-no-happiness", "index": 1 }, { "id": "beau-travail-freedom-remorse", "index": 1 },
+    { "id": "blood-guanyin-family-business", "index": 2 }, { "id": "broker-baby-family", "index": 1 },
+    { "id": "daisan-truth", "index": 1 }, { "id": "daisan-truth", "index": 2 },
+    { "id": "dragon-inn-man-i-wait", "index": 1 }, { "id": "furnace-unchanged", "index": 1 }
+  ],
+  "note": "unverifiable 句保留 medium 标记待后续人工核证，未删除（两次检索无果不等于编造）。ok 句共 72 句已去除 confidence 标记。"
+}

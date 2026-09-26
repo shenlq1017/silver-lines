@@ -1,0 +1,33 @@
+{
+  "id": "thief-false-father",
+  "group": "classics",
+  "film": {
+    "title": "小偷",
+    "year": 1997,
+    "title_en": "The Thief",
+    "director": "帕维尔·丘赫莱"
+  },
+  "lines": [
+    {
+      "text": "他教我叫他爸爸，却先偷走了我的童年。",
+      "en": "He taught me to call him father — then stole my childhood first.",
+      "character": "题眼 / False father",
+      "note": "策展意译：概括丘赫莱《小偷》中冒充父亲的男人与战后孤儿的情感劫掠；明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "孤儿",
+    "战后",
+    "父亲"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 105
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "小偷 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-thief-1997.jpg，800×1200）（影片页 https://www.themoviedb.org/movie/46187）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aKd2sEEgAWYZPvnn3NpGRGF2NJE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

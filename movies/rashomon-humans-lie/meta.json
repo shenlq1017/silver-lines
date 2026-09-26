@@ -1,0 +1,43 @@
+{
+  "id": "rashomon-humans-lie",
+  "group": "top250",
+  "film": {
+    "title": "罗生门",
+    "year": 1950,
+    "title_en": "Rashomon",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "人，是会说谎的。连对自己，也常常说不了实话。",
+      "en": "It's human to lie. Most of the time we can't even be honest with ourselves.",
+      "character": "题旨 / 樵夫与僧人",
+      "note": "罗生门把同一桩命案掰成四面镜子：此句为题旨通行凝练，非唯一逐字对白，边界已标。"
+    }
+  ],
+  "tags": [
+    "真相",
+    "人性",
+    "古典"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 420000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 190000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 98
+    }
+  },
+  "still_alt": "罗生门 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/232-rashomon.jpg）（影片页 https://www.themoviedb.org/movie/548）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tDn1dA52bQH9B85vilHeU7C83W1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

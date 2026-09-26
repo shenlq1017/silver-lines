@@ -1,0 +1,33 @@
+{
+  "id": "spirit-beehive-not-monster",
+  "group": "classics",
+  "film": {
+    "title": "蜂巢幽灵",
+    "year": 1973,
+    "title_en": "The Spirit of the Beehive",
+    "director": "维克多·埃里塞"
+  },
+  "lines": [
+    {
+      "text": "他不是怪物，他只是孤独。",
+      "en": "He is not a monster; he is only lonely.",
+      "character": "安娜",
+      "note": "主题性策展句：对应安娜把电影怪物、战争创伤与孤独经验混在一起的观看，不冒充逐字对白。"
+    }
+  ],
+  "tags": [
+    "童年",
+    "想象",
+    "西班牙电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 18000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "蜂巢幽灵 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-spirit-of-the-beehive-1973.jpg）（影片页 https://www.themoviedb.org/movie/4495）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/a9VzIScudEDjFXVSiRw7wHGYD3A.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

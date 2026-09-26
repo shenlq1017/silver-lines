@@ -1,0 +1,34 @@
+{
+  "id": "irreversible-time-destroys",
+  "group": "classics",
+  "film": {
+    "title": "不可撤销",
+    "year": 2002,
+    "title_en": "Irreversible",
+    "director": "加斯帕·诺埃"
+  },
+  "lines": [
+    {
+      "text": "时间摧毁一切。",
+      "en": "Time destroys all things.",
+      "character": "旁白／题旨 / title card",
+      "note": "通行可核验：诺埃《不可撤销》片头/片尾题旨句「Le temps détruit tout / Time destroys all things」的通行中译，影评与字幕广泛引用。"
+    }
+  ],
+  "tags": [
+    "时间",
+    "暴力",
+    "倒叙",
+    "诺埃"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 3440
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "不可撤销 · TMDB 宣传静帧（2357×1326）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/irreversible-2002.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/979）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/a69xFOTpEbTnNHREb4o3zBiwH9U.jpg（2357×1326）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

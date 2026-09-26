@@ -1,0 +1,38 @@
+{
+  "id": "good-morning-adults-nonsense",
+  "group": "classics",
+  "film": {
+    "title": "早安",
+    "year": 1959,
+    "title_en": "Good Morning",
+    "director": "小津安二郎"
+  },
+  "lines": [
+    {
+      "text": "大人总是在说些没用的话。",
+      "en": "Adults are always saying things that mean nothing.",
+      "character": "实 / 太郎",
+      "note": "策展意译：以孩子们对成人寒暄和电视的反抗概括影片的语言游戏，非逐字引文。"
+    },
+    {
+      "text": "大人整天说些没用的废话。",
+      "character": "少年兄弟",
+      "note": "兄弟俩拒绝说话的理由；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "家庭",
+    "日本电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 12000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "早安 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/good-morning-1959.jpg）（影片页 https://www.themoviedb.org/movie/28276）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/baYBS3bDEpFkUUfpdNR8ZAtUh0K.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

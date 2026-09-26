@@ -1,0 +1,63 @@
+{
+  "id": "wonderful-life-no-man-failure",
+  "group": "classics",
+  "film": {
+    "title": "生活多美好",
+    "year": 1947,
+    "title_en": "It's a Wonderful Life",
+    "director": "弗兰克·卡普拉"
+  },
+  "lines": [
+    {
+      "text": "记住，乔治——没有一个拥有朋友的人，会是失败者。",
+      "en": "Remember, George: no man is a failure who has friends.",
+      "character": "Clarence Oddbody",
+      "note": "天使 Clarence 的题词：生活多美好（风云人物）把友情写成最后的资产负债表。batch 片名「风云人物」；大陆通行亦称「生活多美好」。通行定译。"
+    },
+    {
+      "text": "你得到了一份大礼，乔治——看一看，没有你的世界是什么样子。",
+      "character": "Clarence Oddbody",
+      "en": "You've been given a great gift, George: a chance to see what the world would be like without you.",
+      "note": "天使克拉伦斯说明任务；IMDb quotes 可查。"
+    },
+    {
+      "text": "圣诞快乐，电影院！圣诞快乐，商铺！圣诞快乐，你这美妙的老建房互助会！",
+      "character": "George Bailey",
+      "en": "Merry Christmas, movie house! Merry Christmas, emporium! Merry Christmas, you wonderful old Building and Loan!",
+      "note": "雪夜狂奔回家的庆祝；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "爸爸你看，老师说每次铃铛响起来，就有一个天使得到了翅膀。",
+      "character": "Zuzu Bailey",
+      "en": "Look, Daddy. Teacher says every time a bell rings, an angel gets his wings.",
+      "note": "片尾祖祖递铃铛，全片题眼；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "人情",
+    "希望",
+    "圣诞"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 150000
+    },
+    "imdb": {
+      "score": 8.6,
+      "votes": 500000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 94
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 89
+    }
+  },
+  "still_alt": "生活多美好 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/it-and-apos-s-a-wonderful-life-1947.jpg）（影片页 https://www.themoviedb.org/movie/1585）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

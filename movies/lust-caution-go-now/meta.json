@@ -1,0 +1,43 @@
+{
+  "id": "lust-caution-go-now",
+  "group": "top250",
+  "film": {
+    "title": "色，戒",
+    "year": 2007,
+    "title_en": "Lust, Caution",
+    "director": "李安"
+  },
+  "lines": [
+    {
+      "text": "快走。",
+      "en": "Go. Now.",
+      "character": "王佳芝",
+      "note": "钻戒店里两个字推翻整盘棋：假戏真做的裂缝，也是王佳芝的死刑判决书。情色/谍战边界已审。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "悬疑",
+    "抉择"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 750000
+    },
+    "imdb": {
+      "score": 7.5,
+      "votes": 90000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 72
+    },
+    "metacritic": {
+      "score": 61
+    }
+  },
+  "still_alt": "色，戒 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/134-rank-134.jpg）（影片页 https://www.themoviedb.org/movie/4588）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9N7iwaZYPPuIC5XNHItVTOZDNMN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

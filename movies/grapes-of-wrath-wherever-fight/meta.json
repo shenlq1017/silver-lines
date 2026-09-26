@@ -1,0 +1,46 @@
+{
+  "id": "grapes-of-wrath-wherever-fight",
+  "group": "classics",
+  "film": {
+    "title": "愤怒的葡萄",
+    "year": 1940,
+    "title_en": "The Grapes of Wrath",
+    "director": "约翰·福特"
+  },
+  "lines": [
+    {
+      "text": "凡是有饥饿的人在争取食物，凡是警察在打人，我都在那里。",
+      "en": "Wherever there’s a fight so hungry people can eat, I’ll be there.",
+      "character": "Tom Joad",
+      "note": "汤姆·乔德的告别独白把个人流亡升为集体正义。通行译法。"
+    },
+    {
+      "text": "我们就是人民——我们要走下去。",
+      "character": "Ma Joad",
+      "en": "Why, we're the people — we go on.",
+      "note": "乔德妈妈的宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "遇上麻烦、受了伤、需要人帮——去找穷人。只有穷人才会帮你。",
+      "character": "Ma Joad",
+      "en": "If you're in trouble or hurt or need — go to poor people. They're the only ones that'll help.",
+      "note": "乔德妈妈的处世经验（节选）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "正义",
+    "尊严"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 100000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "愤怒的葡萄 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-grapes-of-wrath-1940.jpg）（影片页 https://www.themoviedb.org/movie/596）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xxJ68fIdrRa5pLerYRXsJm8K4aX.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

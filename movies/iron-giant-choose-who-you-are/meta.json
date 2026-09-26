@@ -1,0 +1,40 @@
+{
+  "id": "iron-giant-choose-who-you-are",
+  "group": "classics",
+  "film": {
+    "title": "钢铁巨人",
+    "year": 1999,
+    "title_en": "The Iron Giant",
+    "director": "布拉德·伯德"
+  },
+  "lines": [
+    {
+      "text": "你是谁，由你自己选择。",
+      "en": "You are who you choose to be.",
+      "character": "Dean McCoppin",
+      "note": "钢铁巨人的核心命题：出身与武器属性不能替你决定成为什么人。通行译法。"
+    },
+    {
+      "text": "超人。",
+      "character": "The Iron Giant",
+      "en": "Superman.",
+      "note": "巨人冲向导弹时的自我选择，全片泪点；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "成长",
+    "选择"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 220000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "钢铁巨人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-iron-giant-1999.jpg）（影片页 https://www.themoviedb.org/movie/10386）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ni5cXCrrGzoiIEoIwOzGiIwMZlH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

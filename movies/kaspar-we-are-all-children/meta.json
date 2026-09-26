@@ -1,0 +1,33 @@
+{
+  "id": "kaspar-we-are-all-children",
+  "group": "classics",
+  "film": {
+    "title": "卡斯帕·豪泽之谜",
+    "year": 1974,
+    "title_en": "The Enigma of Kaspar Hauser",
+    "director": "维尔纳·赫尔佐格"
+  },
+  "lines": [
+    {
+      "text": "我们都曾是孩子，只是后来学会了服从。",
+      "en": "We were all children once; later, we learned to obey.",
+      "character": "卡斯帕·豪泽 / Kaspar Hauser",
+      "note": "策展意译：从卡斯帕被社会化的寓言中提炼主句，明确不是影片逐字对白。"
+    }
+  ],
+  "tags": [
+    "寓言",
+    "语言",
+    "文明"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 20000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "卡斯帕·豪泽之谜 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-enigma-of-kaspar-hauser-1974.jpg）（影片页 https://www.themoviedb.org/movie/11710）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9zYXDMmhBKTbCbImJclf9hEbqZC.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

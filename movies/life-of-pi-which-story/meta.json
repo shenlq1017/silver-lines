@@ -1,0 +1,56 @@
+{
+  "id": "life-of-pi-which-story",
+  "group": "top250",
+  "film": {
+    "title": "少年派的奇幻漂流",
+    "year": 2012,
+    "title_en": "Life of Pi",
+    "director": "李安"
+  },
+  "lines": [
+    {
+      "text": "你更喜欢哪一个故事？",
+      "en": "Which story do you prefer?",
+      "character": "Pi Patel",
+      "note": "整部电影的钥匙句：故事选择即信仰选择。"
+    },
+    {
+      "text": "信仰是一座有许多房间的房子。",
+      "character": "Pi",
+      "en": "Faith is a house with many rooms.",
+      "note": "派对谈信仰（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "人生就是不断放手，最难受的，是没能好好道别。",
+      "character": "Pi",
+      "en": "All of life is an act of letting go, but what hurts the most is not taking a moment to say goodbye.",
+      "note": "派的总结独白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "信仰",
+    "叙事"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 1500000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 680000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 86
+    },
+    "metacritic": {
+      "score": 79
+    }
+  },
+  "still_alt": "少年派的奇幻漂流 · 海面与少年宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/045-life-of-pi.jpg）（影片页 https://www.themoviedb.org/movie/87827）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/21YsCNMub5455NQCn3jh9SmRFyG.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

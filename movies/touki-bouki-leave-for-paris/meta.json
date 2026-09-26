@@ -1,0 +1,33 @@
+{
+  "id": "touki-bouki-leave-for-paris",
+  "group": "classics",
+  "film": {
+    "title": "旅程",
+    "year": 1973,
+    "title_en": "Touki Bouki",
+    "director": "吉布里尔·迪奥普·曼贝蒂"
+  },
+  "lines": [
+    {
+      "text": "我们要离开这里，去巴黎。",
+      "en": "We are going to leave here, for Paris.",
+      "character": "莫里 / 安塔",
+      "note": "策展意译：以出走巴黎的欲望概括影片对迁徙、现代性与幻灭的复杂态度，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "非洲电影",
+    "出走",
+    "现代性"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 6000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "旅程 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/touki-bouki-1973.jpg）（影片页 https://www.themoviedb.org/movie/77771）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nAxtYHnt9ZZhDjKgcxZII3MlWLZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

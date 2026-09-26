@@ -1,62 +1,82 @@
-# 数据驱动扩量指南
+# 数据驱动指南（movies/ 文件夹格式）
 
-上架新金句时，**只改数据 + 素材，再跑同步脚本**。不必手改前端逻辑（`site.js` / CSS），除非要改交互或视觉。
+上架或修改台词时，**只动 `movies/{id}/` 文件夹 + 素材，再跑 build**。不用改 `site.js` / CSS。
 
-## 扩量步骤
+## 一部影片一个文件夹
 
-> **Quotes-only（自 C27）**：NEW draft 并入前必须先过  
-> `python3 scripts/check-quotes-only.py data/<batch>-draft-quotes.json`  
-> 仅可核对银幕对白；禁止主题性策展句／非逐字 paraphrases。详见 [`quotes-policy.md`](./quotes-policy.md)。
+```
+movies/
+└── {id}/                  # id：kebab-case（字母数字与连字符），与目录名一致
+    ├── meta.json          # 固定格式（见下）
+    ├── cover.jpg          # 封面海报（宽 ≥780）
+    └── still.jpg          # 静帧（宽边 ≥1920）
+```
 
+> 存量 951 条仍在 `data/quotes.json`（legacy），全量迁移到 movies/ 的计划见 [`ROADMAP.md`](./ROADMAP.md) Part 2。当前 10 部样例已用新格式，可直接参考 `movies/`。
 
-1. **写入 `data/quotes.json`**
-   - 追加一条对象，`status` 设为 `"published"`。
-   - 必填字段见 README：`id`, `line`, `film_title`, `year`, `tags[]`, `poster`, `still`, `still_alt`, `status`, `ratings`（至少含 `imdb` + `as_of`）。
-   - `id` 建议 kebab-case（字母数字与连字符），与素材文件名一致。
+## meta.json 固定格式
 
-2. **放入本地海报 / 静帧**
-   - `assets/posters/{id}.png`（或 `.jpg`，与 JSON 中路径一致）
-   - `assets/stills/{id}.png`（或 `.jpg`）
-   - 示意非原片截帧；`license_note` / `still_alt` 保持合规说明。
+```json
+{
+  "id": "shawshank-hope",
+  "group": "top250",
+  "film": {
+    "title": "肖申克的救赎",
+    "title_en": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "弗兰克·德拉邦特"
+  },
+  "lines": [
+    {
+      "text": "希望是美好的，也许是人间至善，而美好的事物永不消逝。",
+      "en": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+      "character": "Andy Dufresne",
+      "note": "策展一句话（可选）",
+      "featured": true
+    }
+  ],
+  "tags": ["剧情", "希望", "自由"],
+  "ratings": {
+    "douban": { "score": 9.7 },
+    "imdb": { "score": 9.3 },
+    "rotten_tomatoes": { "tomatometer": 89 },
+    "metacritic": { "score": 82 },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "剧照氛围示意（可选）",
+  "license_note": "素材出处与授权说明（可选）"
+}
+```
 
-3. **跑详情页同步脚本**
-
-   ```bash
-   cd /workspace/silver-lines   # 或你的站点根
-   node scripts/sync-quote-pages.mjs
-   ```
-
-   脚本会读取全部 `published` id，对缺失的 `quotes/{id}/` 生成壳页 `index.html`；已存在且与模板一致则跳过；模板变更时会覆盖对齐。
-
-4. **本地预览**（站点根起 HTTP）
-
-   ```bash
-   python3 -m http.server 8080
-   # 列表 http://127.0.0.1:8080/quotes/
-   # 详情 http://127.0.0.1:8080/quotes/{id}/
-   ```
-
-## 不必改的文件
-
-| 文件 | 说明 |
+| 字段 | 规则 |
 |------|------|
-| `assets/js/site.js` | 列表/详情渲染已读 `quotes.json`；`quoteDetailUrl` 固定为 `quotes/{id}/` |
-| `assets/css/style.css` | 除非改视觉 |
-| 已有 `quotes/{id}/index.html` | 由脚本维护；勿手改 25 份（会漂移） |
+| `id` | 必填，与目录名一致 |
+| `group` | `top250` / `classics`（未来新分组需同步 `site.js` 的 `GROUP_LABELS`） |
+| `film.title` / `film.year` | 必填 |
+| `lines[].text` | 必填，**可核对的原声对白**（见 quotes-policy.md） |
+| `lines[].featured` | 全库恰好 5 条为 true |
+| `ratings.imdb.score` + `ratings.as_of` | 必填；豆瓣尽量有；RT/MC 有则显示 |
+| `lines[]` 多句 | 已预留；现阶段 build 只上架主台词（featured 或首条），多句规划见 ROADMAP Part 1 |
 
-## 单一模板源
+## 构建
 
-- 壳页内容只维护一处：`quotes/_detail-template.html`
-- 各 `quotes/{id}/index.html` 由脚本从该模板生成（内容相同，靠 URL 路径取 id 再 `renderDetail`）
-- 改详情壳结构 / 公共脚本引用时：先改模板，再跑 `node scripts/sync-quote-pages.mjs`
+```bash
+node scripts/build.mjs
+```
 
-## 旧链接兼容
+1. 扫描全部 `movies/*/meta.json`，校验固定格式（缺字段 / id 不一致 / 缺图会报错或警告）
+2. 展开 lines → 主台词条目，`poster` / `still` 自动指向 `movies/{id}/cover.jpg` / `still.jpg`
+3. 与 legacy `data/quotes.json` 中未迁移条目合并，写回 quotes.json
+4. 调用 `sync-quote-pages.mjs`：缺失的 `quotes/{id}/` 生成壳页；模板变更统一对齐（旧链接不断）
 
-- 路径仍为 `quotes/{id}/`（GitHub Pages、已分享链接不断）
-- 列表页继续 `publishedQuotes(loadQuotes())` 数据驱动
-- 同步脚本**不修改** published 金句正文、海报/静帧文件内容
+## 新增一部影片的完整步骤
+
+1. 新建 `movies/{id}/`，放入 `meta.json` + `cover.jpg` + `still.jpg`
+2. `node scripts/build.mjs`
+3. 本地预览：`python3 -m http.server 8080` → http://127.0.0.1:8080/quotes/ 可见新条目
 
 ## 相关
 
-- 字段与 M3 状态：见根目录 `README.md`
-- Top250 入库：见 `docs/top250-ingest.md`
+- 字段与口径：根目录 `README.md`、`docs/quotes-policy.md`
+- 多台词深挖 / 存量迁移：`docs/ROADMAP.md`

@@ -1,0 +1,33 @@
+{
+  "id": "virgin-spring-god-forgive-me",
+  "group": "classics",
+  "film": {
+    "title": "处女泉",
+    "year": 1960,
+    "title_en": "The Virgin Spring",
+    "director": "英格玛·伯格曼"
+  },
+  "lines": [
+    {
+      "text": "上帝，请宽恕我。",
+      "en": "God, forgive me.",
+      "character": "托尔德",
+      "note": "复仇后的祈祷式通行意译；将影片最后的罪疚、信仰与宽恕悬置在一句话中。"
+    }
+  ],
+  "tags": [
+    "信仰",
+    "复仇",
+    "罪与罚"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 31000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "处女泉 · TMDB 宣传静帧（2400×1350）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-virgin-spring-1960.jpg）（影片页 https://www.themoviedb.org/movie/11656）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fOfl30Glkc7XD4R3h4xQvO69xmv.jpg（2400×1350）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

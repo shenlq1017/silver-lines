@@ -1,0 +1,33 @@
+{
+  "id": "tricky-master-fraud-world",
+  "group": "classics",
+  "film": {
+    "title": "千王之王2000",
+    "year": 1999,
+    "title_en": "The Tricky Master",
+    "director": "王晶"
+  },
+  "lines": [
+    {
+      "text": "千王之王，骗的不是局，是人心里愿意信的那一下。",
+      "en": "The king of swindlers does not cheat the game — he cheats the moment you want to believe.",
+      "character": "题眼 / Con ethos",
+      "note": "策展意译：概括王晶《千王之王2000》千术世界的“愿者上钩”；桥段口语句版本杂多，明确不冒充唯一逐字。"
+    }
+  ],
+  "tags": [
+    "骗术",
+    "周星驰",
+    "贺岁"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 5.9,
+      "votes": 53
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "千王之王2000 · TMDB 宣传静帧（3835×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-tricky-master-1999.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/53281）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u5sLDHV4w41EthmI9sXUEJ6qHuE.jpg（3835×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

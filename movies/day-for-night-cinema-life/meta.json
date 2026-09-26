@@ -1,0 +1,34 @@
+{
+  "id": "day-for-night-cinema-life",
+  "group": "classics",
+  "film": {
+    "title": "日以作夜",
+    "year": 1973,
+    "title_en": "Day for Night",
+    "director": "弗朗索瓦·特吕弗"
+  },
+  "lines": [
+    {
+      "text": "拍电影的时候，生活反而成了幻觉。",
+      "en": "While we make films, life itself becomes the illusion.",
+      "character": "费拉尔 / Ferrand",
+      "note": "策展意译：对应特吕弗《日以作夜》对片场与生活倒置关系的题旨，不冒充逐字台词。"
+    }
+  ],
+  "tags": [
+    "片场",
+    "电影",
+    "特吕弗",
+    "法国"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 680
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "日以作夜 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/day-for-night-1973.jpg，1018×1527）（影片页 https://www.themoviedb.org/movie/1675）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vEbTuew9kEJwRBS0tELNyEo0u8s.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

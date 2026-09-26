@@ -1,0 +1,34 @@
+{
+  "id": "snatch-nemesis",
+  "group": "classics",
+  "film": {
+    "title": "偷拐抢骗",
+    "year": 2001,
+    "title_en": "Snatch",
+    "director": "盖·里奇"
+  },
+  "lines": [
+    {
+      "text": "你知道「复仇女神」是什么意思吗？由合适的代理人体现出来的、正义的报应。就眼下这情形，代理人是个可怕的混蛋：我。",
+      "en": "Do you know what 'nemesis' means? A righteous infliction of retribution manifested by an appropriate agent. Personified in this case by an 'orrible cunt: me.",
+      "character": "砖头老大 / Brick Top",
+      "note": "砖头老大对索尔等人的对白；Wikiquote／IMDb quotes 通行英文字幕可核（保留粗口原词于英译）。"
+    }
+  ],
+  "tags": [
+    "黑帮",
+    "威胁",
+    "伦敦",
+    "盖·里奇"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 10300
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "偷拐抢骗 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/snatch-2001.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/107）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gj2VEY0jEjJExHa3sdNAssPISbi.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

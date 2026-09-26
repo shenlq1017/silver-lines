@@ -1,0 +1,47 @@
+{
+  "id": "arrival-language-first-weapon",
+  "group": "classics",
+  "film": {
+    "title": "降临",
+    "year": 2016,
+    "title_en": "Arrival",
+    "director": "丹尼斯·维伦纽瓦"
+  },
+  "lines": [
+    {
+      "text": "语言是文明的基础，也是冲突中拔出的第一件武器。",
+      "en": "Language is the foundation of civilization. It is the first weapon drawn in a conflict.",
+      "character": "路易斯·班克斯 / Louise Banks",
+      "note": "通行译法：路易斯著作/旁白中的核心句；完整句含“维系人民的胶水”一层，此处保留首尾两分句。"
+    },
+    {
+      "text": "如果能从头到尾看见你的一生，你还会改变它吗？",
+      "character": "Louise Banks",
+      "en": "If you could see your whole life from start to finish, would you change things?",
+      "note": "路易斯的核心之问；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "即使知道旅程和它的终点，我也拥抱它，迎接它的每一个瞬间。",
+      "character": "Louise Banks",
+      "en": "Despite knowing the journey and where it leads, I embrace it, and welcome every moment of it.",
+      "note": "结尾独白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "语言",
+    "时间",
+    "科幻"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 19904
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "降临 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/arrival-2016.jpg）（影片页 https://www.themoviedb.org/movie/329865）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

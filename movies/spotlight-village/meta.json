@@ -1,0 +1,34 @@
+{
+  "id": "spotlight-village",
+  "group": "classics",
+  "film": {
+    "title": "聚焦",
+    "year": 2015,
+    "title_en": "Spotlight",
+    "director": "汤姆·麦卡锡"
+  },
+  "lines": [
+    {
+      "text": "如果说养大一个孩子需要一整个村子，那么虐待一个孩子，也需要一整个村子。",
+      "en": "If it takes a village to raise a child, it takes a village to abuse one.",
+      "character": "米切尔·加拉贝迪安 / Mitchell Garabedian",
+      "note": "律师加拉贝迪安对记者说的对白；IMDb quotes／片中字幕可核。"
+    }
+  ],
+  "tags": [
+    "新闻",
+    "体制",
+    "儿童",
+    "真相"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 8984
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "聚焦 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/spotlight-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/314365）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/46fdzEQvL3kgJV9ib9I5Bys2YOj.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

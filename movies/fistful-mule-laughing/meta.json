@@ -1,0 +1,47 @@
+{
+  "id": "fistful-mule-laughing",
+  "group": "classics",
+  "film": {
+    "title": "荒野大镖客",
+    "year": 1964,
+    "title_en": "A Fistful of Dollars",
+    "director": "塞尔乔·莱昂内"
+  },
+  "lines": [
+    {
+      "text": "我的骡子不喜欢人笑它。",
+      "en": "My mule don't like people laughing. He gets the crazy idea you're laughing at him.",
+      "character": "无名客 / Joe",
+      "note": "通行译法：无名客开场警告的标志性台词；保留口语语法。"
+    },
+    {
+      "text": "备三口棺材。",
+      "character": "Joe（无名客）",
+      "en": "Get three coffins ready.",
+      "note": "开场酒馆的第一句台词；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我弄错了——四口。",
+      "character": "Joe（无名客）",
+      "en": "My mistake. Four coffins.",
+      "note": "枪响后的补刀名场面；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "西部片",
+    "冷幽默",
+    "莱昂内"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 4871
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "荒野大镖客 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-fistful-of-dollars-1964.jpg）（影片页 https://www.themoviedb.org/movie/391）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rTJRWO9zHcB29JecTXHg0wUa4Xs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

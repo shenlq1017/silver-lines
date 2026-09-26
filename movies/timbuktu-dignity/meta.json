@@ -1,0 +1,34 @@
+{
+  "id": "timbuktu-dignity",
+  "group": "classics",
+  "film": {
+    "title": "廷巴克图",
+    "year": 2014,
+    "title_en": "Timbuktu",
+    "director": "阿布德拉马纳·西萨科"
+  },
+  "lines": [
+    {
+      "text": "占领可以改规矩，改不了人要有尊严地活。",
+      "en": "Occupation can rewrite the rules — not a person's need to live with dignity.",
+      "character": "基达纳／萨提玛 / Kidane / Satima",
+      "note": "主题性策展句：概括西萨科《廷巴克图》中圣战占领下牧民家庭与日常抵抗的尊严题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "占领",
+    "尊严",
+    "马里",
+    "西萨科"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 526
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "廷巴克图 · TMDB 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/timbuktu-2014.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/265228）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wa7MeXfXOg7k2oApdRs9w3cskWm.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

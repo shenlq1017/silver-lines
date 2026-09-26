@@ -1,0 +1,43 @@
+{
+  "id": "hotel-rwanda-there-is-room",
+  "group": "top250",
+  "film": {
+    "title": "卢旺达饭店",
+    "year": 2004,
+    "title_en": "Hotel Rwanda",
+    "director": "特瑞·乔治"
+  },
+  "lines": [
+    {
+      "text": "这里永远有空房——给需要活下去的人。",
+      "en": "There is always room. At this hotel, there is always room.",
+      "character": "Paul Rusesabagina",
+      "note": "卢旺达饭店经理把酒店客房变成避难所：在种族屠杀的算术里，一句「还有空房」就是勇气的会计学。通行定译口吻。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "人性",
+    "庇护"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 370000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 91
+    },
+    "metacritic": {
+      "score": 79
+    }
+  },
+  "still_alt": "卢旺达饭店 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/196-hotel-rwanda.jpg）（影片页 https://www.themoviedb.org/movie/205）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jkvvXaN7FPVKGlk8oj9PL0FHNtj.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

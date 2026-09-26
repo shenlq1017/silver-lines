@@ -1,0 +1,60 @@
+{
+  "id": "american-beauty-so-much-beauty",
+  "group": "classics",
+  "film": {
+    "title": "美国丽人",
+    "year": 1999,
+    "title_en": "American Beauty",
+    "director": "萨姆·门德斯"
+  },
+  "lines": [
+    {
+      "text": "有时候这世界美得让人受不了——我感觉心要倾出来了。",
+      "en": "Sometimes there's so much beauty in the world, I feel like I can't take it... and my heart is just going to cave in.",
+      "character": "Ricky Fitts",
+      "note": "瑞奇给简看塑料袋录像时的旁白：美国丽人把「凝视」做成救赎。通行意译。"
+    },
+    {
+      "text": "这不是生活。这只是一堆东西——它们变得比生活本身还重要。",
+      "character": "Lester Burnham",
+      "en": "This isn't life. This is just stuff. And it's become more important to you than living.",
+      "note": "与卡罗琳关于沙发的争吵；IMDb quotes 可查。"
+    },
+    {
+      "text": "我只是个一无所有的普通人。",
+      "character": "Lester Burnham",
+      "en": "I'm just an ordinary guy with nothing to lose.",
+      "note": "蜕变后的自我宣告；IMDb quotes 可查。"
+    },
+    {
+      "text": "我今天就要把这栋房子卖掉。",
+      "character": "Carolyn Burnham",
+      "en": "I will sell this house today.",
+      "note": "卡罗琳对着空房的自我催眠，全片讽刺题眼；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.2,
+      "votes": 380000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 1300000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 87
+    },
+    "metacritic": {
+      "score": 84
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "美国丽人 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/american-beauty-1999.jpg）（影片页 https://www.themoviedb.org/movie/14）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2ndw55F40IkALzWyjCCza3M6nqM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

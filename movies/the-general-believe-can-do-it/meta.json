@@ -1,0 +1,33 @@
+{
+  "id": "the-general-believe-can-do-it",
+  "group": "classics",
+  "film": {
+    "title": "将军号",
+    "year": 1927,
+    "title_en": "The General",
+    "director": "Clyde Bruckman、Buster Keaton"
+  },
+  "lines": [
+    {
+      "text": "我想我能做到。",
+      "en": "I believe I can do it.",
+      "character": "约翰尼·格雷（Johnnie Gray）",
+      "note": "片中字幕意译；基顿把这句决心化成连续的身体喜剧。"
+    }
+  ],
+  "tags": [
+    "默片",
+    "动作",
+    "坚持"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 146400
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "将军号 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-general-1927.jpg）（影片页 https://www.themoviedb.org/movie/961）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/h3OrUbmxpatQid9C5kPuXhOwGYh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

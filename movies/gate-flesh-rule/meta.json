@@ -1,0 +1,34 @@
+{
+  "id": "gate-flesh-rule",
+  "group": "classics",
+  "film": {
+    "title": "肉体之门",
+    "year": 1964,
+    "title_en": "Gate of Flesh",
+    "director": "铃木清顺"
+  },
+  "lines": [
+    {
+      "text": "废墟里的规矩只有一条：肉体换口粮，背叛就挨打。",
+      "en": "In the ruins there is only one rule: flesh for rations — betrayal means a beating.",
+      "character": "妓女团体 / the prostitutes' gang",
+      "note": "主题性策展句：概括铃木清顺《肉体之门》中战后废墟妓女团体以肉体法则求生的残酷寓言，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "战后",
+    "肉体",
+    "规矩",
+    "铃木清顺"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.6,
+      "votes": 77
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "肉体之门 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/gate-of-flesh-1964.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/86666）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/54txsq2E7HHf2Ks79VKap3rV7EG.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

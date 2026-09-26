@@ -1,0 +1,33 @@
+{
+  "id": "ytu-never-meet-again",
+  "group": "classics",
+  "film": {
+    "title": "你妈妈也一样",
+    "year": 2001,
+    "title_en": "Y tu mamá también",
+    "director": "阿方索·卡隆"
+  },
+  "lines": [
+    {
+      "text": "他们以后再也不会见面了。",
+      "en": "They will never meet again.",
+      "character": "旁白 / Narrator",
+      "note": "片尾旁白通行译法：特诺奇与胡里奥在咖啡馆分手后「他们将永不再见」；旁白对阶级与命运的冷介入是全片金句入口。"
+    }
+  ],
+  "tags": [
+    "成年礼",
+    "公路",
+    "墨西哥"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 140000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "你妈妈也一样 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/y-tu-mama-tambien-2001.jpg）（影片页 https://www.themoviedb.org/movie/1391）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gXVCDUTVWHugHzk8YzPANx0akaV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

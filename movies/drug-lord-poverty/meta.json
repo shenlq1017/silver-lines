@@ -1,0 +1,49 @@
+{
+  "id": "drug-lord-poverty",
+  "group": "top250",
+  "film": {
+    "title": "我不是药神",
+    "year": 2018,
+    "title_en": "Dying to Survive",
+    "director": "文牧野"
+  },
+  "lines": [
+    {
+      "text": "世界上只有一种病，穷病。",
+      "en": "There's only one disease in the world: poverty.",
+      "character": "程勇",
+      "note": "华语当代公议金句，一句刺穿药价与尊严。"
+    },
+    {
+      "text": "领导，我求求你——我不想死，我想活着。",
+      "character": "患白血病的老太太",
+      "note": "老太太多年的哀求，全片最重一击；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "他才二十岁——他只是想活着，犯了什么罪！",
+      "character": "程勇",
+      "note": "程勇法庭后的爆发；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "现实",
+    "人性"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 2400000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 22000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "我不是药神 · 药店与人群意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/033-rank-033.jpg）（影片页 https://www.themoviedb.org/movie/532753）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xKiqWFtF14yEr1Udgsu1Quj2Alr.jpg（3000×1687）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

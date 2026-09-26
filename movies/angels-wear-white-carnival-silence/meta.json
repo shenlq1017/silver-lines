@@ -1,0 +1,33 @@
+{
+  "id": "angels-wear-white-carnival-silence",
+  "group": "classics",
+  "film": {
+    "title": "嘉年华",
+    "year": 2017,
+    "title_en": "Angels Wear White",
+    "director": "文晏"
+  },
+  "lines": [
+    {
+      "text": "她们穿白衣，可没人把她们当天使。",
+      "en": "They wear white — but no one treats them as angels.",
+      "character": "题眼 / Title irony",
+      "note": "策展意译：借英文章名 Angels Wear White 的反讽，概括文晏《嘉年华》中受害少女与洗浴中心女孩面对权力失语；不冒充某一句唯一逐字对白。"
+    }
+  ],
+  "tags": [
+    "未成年",
+    "权力",
+    "沉默"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 71
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "嘉年华 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/angels-wear-white-2017.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/468208）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qvWz9gN7z5EjKwWQ2MipR93Ze2a.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "hidden-fortress-our-lives",
+  "group": "classics",
+  "film": {
+    "title": "隠し砦の三悪人",
+    "year": 1958,
+    "title_en": "The Hidden Fortress",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "公主，这可是我们的命啊。",
+      "en": "Princess, this is a matter of life and death for us.",
+      "character": "真壁六郎太 / General Makabe",
+      "note": "策展意译：概括六郎太护卫雪姬突围时的紧迫感；影片对白以武士伦理与滑稽农民并置，此处取克制主句。"
+    },
+    {
+      "text": "快看那边。我第一次知道，天空和大海原来这么蓝。",
+      "character": "雪姫",
+      "note": "火烧城堡后仰望的著名镜头，黑泽明自认最爱的一场；通行字幕译法。",
+      "confidence": "medium"
+    },
+    {
+      "text": "金子！是金子！",
+      "character": "太平之又七",
+      "note": "两个农民发现金子的贪念喊叫，全片喜剧底色。"
+    }
+  ],
+  "tags": [
+    "冒险",
+    "主仆",
+    "黑泽明"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 743
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "隠し砦の三悪人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hidden-fortress-1958.jpg）（影片页 https://www.themoviedb.org/movie/1059）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7UNgpbSbFrsEyK4b2WU62MIbdTt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

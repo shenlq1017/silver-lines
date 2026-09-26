@@ -1,0 +1,33 @@
+{
+  "id": "three-times-best-of-times",
+  "group": "classics",
+  "film": {
+    "title": "最好的时光",
+    "year": 2005,
+    "title_en": "Three Times",
+    "director": "侯孝贤"
+  },
+  "lines": [
+    {
+      "text": "最好的时光，总在回望里。",
+      "en": "The best of times live in looking back.",
+      "character": "三段时光 / Three eras",
+      "note": "策展意译：概括侯孝贤三段式中爱情与时代错位、美好只在事后命名的母题；不冒充片中唯一对白。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "时代",
+    "回望"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 109
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "最好的时光 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/three-times-2005.jpg，1362×2040）（影片页 https://www.themoviedb.org/movie/11554）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nJj1J4AEc74oASN43ooL7TytmIo.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

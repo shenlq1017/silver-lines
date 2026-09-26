@@ -1,0 +1,43 @@
+{
+  "id": "paprika-dreams-open",
+  "group": "top250",
+  "film": {
+    "title": "红辣椒",
+    "year": 2006,
+    "title_en": "パプリカ",
+    "director": "今敏"
+  },
+  "lines": [
+    {
+      "text": "梦是会传染的。",
+      "en": "Dreams are contagious.",
+      "character": "题旨 / 千叶敦子意境",
+      "note": "对齐 DC迷你与红辣椒装置的核心设定；中文策展浓缩句，标题旨。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "梦境",
+    "失控"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 400000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 100000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 81
+    }
+  },
+  "still_alt": "红辣椒 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/099-rank-099.jpg）（影片页 https://www.themoviedb.org/movie/4977）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6oXn0037WWw4fTCc3Qczof71lSp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

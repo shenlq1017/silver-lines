@@ -1,0 +1,46 @@
+{
+  "id": "iron-man-i-am",
+  "group": "classics",
+  "film": {
+    "title": "钢铁侠",
+    "year": 2008,
+    "title_en": "Iron Man",
+    "director": "乔恩·费儒"
+  },
+  "lines": [
+    {
+      "text": "真相是……我就是钢铁侠。",
+      "en": "The truth is... I am Iron Man.",
+      "character": "托尼·斯塔克 / Tony Stark",
+      "note": "记者会坦白的通行名句；漫威电影宇宙原点级金句。"
+    },
+    {
+      "text": "有时候你得先学会跑——再学会走。",
+      "character": "Tony Stark",
+      "en": "Sometimes you gotta run before you can walk.",
+      "note": "托尼的试飞哲学；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "别浪费你的生命。",
+      "character": "Yinsen",
+      "en": "Don't waste your life.",
+      "note": "尹森的遗言；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "超级英雄",
+    "身份",
+    "流行文化"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 28857
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "钢铁侠 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/iron-man-2008.jpg）（影片页 https://www.themoviedb.org/movie/1726）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

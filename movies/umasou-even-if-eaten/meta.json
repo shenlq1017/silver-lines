@@ -1,0 +1,43 @@
+{
+  "id": "umasou-even-if-eaten",
+  "group": "top250",
+  "film": {
+    "title": "你看起来好像很好吃",
+    "year": 2010,
+    "title_en": "You Are Umasou",
+    "director": "藤森雅也"
+  },
+  "lines": [
+    {
+      "text": "就算被吃掉，我也想和你在一起。",
+      "en": "Even if I get eaten, I still want to be with you.",
+      "character": "心脏强 / Heart / 小光",
+      "note": "肉食与草食的父子约法：你看起来好像很好吃把「好吃」翻成守护。儿童向金句，通行定译；film_title_en=You Are Umasou。静帧 210 actual 1920。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "亲情",
+    "成长"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 420000
+    },
+    "imdb": {
+      "score": 7.5,
+      "votes": 1500
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 85
+    },
+    "metacritic": {
+      "score": 70
+    }
+  },
+  "still_alt": "你看起来好像很好吃 · 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/210-rank-210.jpg）（影片页 https://www.themoviedb.org/movie/89825）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2Cg7PNMd9kwvhx8asGSUUBldZTI.jpg（1920×1080）；静帧宽边 1920（源站最大，status=actual，≥1920 可上）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

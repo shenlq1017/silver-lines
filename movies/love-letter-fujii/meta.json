@@ -1,0 +1,44 @@
+{
+  "id": "love-letter-fujii",
+  "group": "top250",
+  "film": {
+    "title": "情书",
+    "year": 1995,
+    "title_en": "Love Letter",
+    "director": "岩井俊二"
+  },
+  "lines": [
+    {
+      "text": "请问，有没有一位叫藤井树的同学？",
+      "en": "Excuse me, is there a student named Fujii Tree in your class?",
+      "character": "渡边博子",
+      "note": "一封寄错时代的问询，情书整部电影的点火句；勿与网络伪句「世界角落仍有人爱着你」混淆。"
+    },
+    {
+      "text": "你还好吗？——我很好！",
+      "character": "渡边博子",
+      "en": "Genki desu ka? Watashi wa genki desu.",
+      "note": "晨雾中对雪山的放声告别；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "记忆",
+    "青春"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 1300000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 18000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "情书 · 雪国与书信意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/069-love-letter.jpg）（影片页 https://www.themoviedb.org/movie/47002）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/j0H799tVVLesjskDbL5FKcV5Nfr.jpg（3477×1956）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sierra-madre-badges",
+  "group": "classics",
+  "film": {
+    "title": "碧血金沙",
+    "year": 1948,
+    "title_en": "The Treasure of the Sierra Madre",
+    "director": "约翰·休斯顿"
+  },
+  "lines": [
+    {
+      "text": "徽章？我们不需要徽章！",
+      "en": "Badges? We ain’t got no badges. We don’t need no badges!",
+      "character": "Gold Hat",
+      "note": "淘金者与匪徒的荒诞交锋，成为电影史上最常被引用的反权威台词之一。通行译法。"
+    },
+    {
+      "text": "金子是个魔鬼。",
+      "character": "Howard",
+      "en": "Ah, gold is a very devil.",
+      "note": "老淘金客的告诫；IMDb quotes 可查。",
+      "confidence": "medium"
+    }
+  ],
+  "tags": [
+    "冒险",
+    "贪婪",
+    "黑色电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 300000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "碧血金沙 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-treasure-of-the-sierra-madre-1948.jpg）（影片页 https://www.themoviedb.org/movie/3090）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dbmPJixXf68wYpTeIRrPfPJF235.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

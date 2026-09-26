@@ -1,0 +1,54 @@
+{
+  "id": "gb-scientist",
+  "group": "classics",
+  "film": {
+    "title": "捉鬼敢死队",
+    "year": 1984,
+    "title_en": "Ghostbusters",
+    "director": "伊万·雷特曼"
+  },
+  "lines": [
+    {
+      "text": "退后，伙计。我是科学家。",
+      "en": "Back off, man. I'm a scientist.",
+      "character": "彼得·文克曼 / Peter Venkman",
+      "note": "文克曼在开场通灵研究场景的对白；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "我们来了，我们看了，我们收拾了它！",
+      "character": "Peter Venkman",
+      "en": "We came, we saw, we kicked its ass!",
+      "note": "捉鬼成功的宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "别让两条射线交叉。",
+      "character": "Egon Spengler",
+      "en": "Don't cross the streams.",
+      "note": "伊根的警告，终局伏笔；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "这姑娘烤定了。",
+      "character": "Peter Venkman",
+      "en": "This chick is toast!",
+      "note": "起飞前的调侃；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "超自然",
+    "科学家",
+    "纽约"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 10008
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "捉鬼敢死队 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ghostbusters-1984.jpg，1700×2550）（影片页 https://www.themoviedb.org/movie/620）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uUMiW6LbRyRWWPcglinQugBJWhF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "one-second-see-daughter",
+  "group": "classics",
+  "film": {
+    "title": "一秒钟",
+    "year": 2020,
+    "title_en": "One Second",
+    "director": "张艺谋"
+  },
+  "lines": [
+    {
+      "text": "我女儿在电影里，我来看我女儿。",
+      "en": "My daughter is in the film — I came to see my daughter.",
+      "character": "张九声 / Zhang Jiusheng",
+      "note": "通行对白：张译饰逃犯父亲为新闻简报里女儿的“一秒钟”影像而来的核心陈述。"
+    }
+  ],
+  "tags": [
+    "胶片",
+    "父女",
+    "文革"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 132
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "一秒钟 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/one-second-2020.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/575089）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xEOb5XdGGs8hVFCQyniatiHdRSC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

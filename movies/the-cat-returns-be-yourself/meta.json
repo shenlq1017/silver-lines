@@ -1,0 +1,33 @@
+{
+  "id": "the-cat-returns-be-yourself",
+  "group": "classics",
+  "film": {
+    "title": "猫的报恩",
+    "year": 2002,
+    "title_en": "The Cat Returns",
+    "director": "森田宏幸"
+  },
+  "lines": [
+    {
+      "text": "你要学会做你自己；做到这一点，就什么都不用怕。",
+      "en": "Learn to be yourself — once you can, you needn’t fear anything.",
+      "character": "男爵 / The Baron",
+      "note": "通行译法：吉卜力《猫的报恩》中男爵对小春的鼓励；字幕版略有压缩差异。"
+    }
+  ],
+  "tags": [
+    "勇气",
+    "自我",
+    "童话"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 2537
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "猫的报恩 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-cat-returns-2002.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/15370）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cPRfgCgNLJ20jLuOAXAxcNHNDn4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

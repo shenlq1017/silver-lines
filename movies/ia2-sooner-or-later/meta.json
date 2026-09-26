@@ -1,0 +1,43 @@
+{
+  "id": "ia2-sooner-or-later",
+  "group": "top250",
+  "film": {
+    "title": "无间道2",
+    "year": 2003,
+    "title_en": "Infernal Affairs II",
+    "director": "刘伟强 / 麦兆辉"
+  },
+  "lines": [
+    {
+      "text": "出来混，迟早要还的。",
+      "en": "You play the game, sooner or later you pay.",
+      "character": "倪永孝 / 题旨",
+      "note": "无间道宇宙的因果口头禅；前传里仇恨与卧底尚未成形，这句话已在倒计时。通行港片金句，边界见此。"
+    }
+  ],
+  "tags": [
+    "黑帮",
+    "因果",
+    "前传"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 7.2,
+      "votes": 30000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 75
+    },
+    "metacritic": {
+      "score": 66
+    }
+  },
+  "still_alt": "无间道2 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/173-ii.jpg）（影片页 https://www.themoviedb.org/movie/11647）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/j0bK5l5Wo4XvUUrKp1FckLvbse9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

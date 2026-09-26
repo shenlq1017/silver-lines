@@ -1,0 +1,33 @@
+{
+  "id": "room-view-vision-within",
+  "group": "classics",
+  "film": {
+    "title": "看得见风景的房间",
+    "year": 1985,
+    "title_en": "A Room with a View",
+    "director": "詹姆斯·艾弗利"
+  },
+  "lines": [
+    {
+      "text": "我的视界在心里！鸟在这儿歌唱，天在这儿湛蓝！",
+      "en": "My vision is within! Here is where the birds sing; here is where the sky is blue!",
+      "character": "艾默生先生 / Mr. Emerson",
+      "note": "艾默生先生在旅馆饭桌主动换房时的经典对白，通行英文字幕可核验。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "阶层",
+    "佛罗伦萨"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 45000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "看得见风景的房间 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-room-with-a-view-1985.jpg）（影片页 https://www.themoviedb.org/movie/11257）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mrfM8bo5poSRqVJcmyxBkW4l2jD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

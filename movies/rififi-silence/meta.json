@@ -1,0 +1,34 @@
+{
+  "id": "rififi-silence",
+  "group": "classics",
+  "film": {
+    "title": "里菲菲",
+    "year": 1955,
+    "title_en": "Rififi",
+    "director": "儒勒·达辛"
+  },
+  "lines": [
+    {
+      "text": "撬开保险柜的那半小时，谁先出声谁就输。",
+      "en": "In the half hour that cracks the safe, the first to speak has already lost.",
+      "character": "托尼等 / Tony le Stéphanois et al.",
+      "note": "主题性策展句：概括达辛《里菲菲》中著名无对白开保险柜长镜头的冷硬题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "劫案",
+    "沉默",
+    "黑色",
+    "达辛"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 657
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "里菲菲 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rififi-1955.jpg，843×1264）（影片页 https://www.themoviedb.org/movie/934）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/s6uMuw2hvrQauI5BTPyok4OlrFm.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

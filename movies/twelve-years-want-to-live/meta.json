@@ -1,0 +1,39 @@
+{
+  "id": "twelve-years-want-to-live",
+  "group": "classics",
+  "film": {
+    "title": "为奴十二年",
+    "year": 2013,
+    "title_en": "12 Years a Slave",
+    "director": "史蒂夫·麦奎因"
+  },
+  "lines": [
+    {
+      "text": "我不想只是活下来。我想要生活。",
+      "en": "I don't want to survive. I want to live.",
+      "character": "所罗门·诺萨普 / Solomon Northup",
+      "note": "所罗门对白人工匠巴斯倾诉的通行名句；中文取常见译法。"
+    },
+    {
+      "text": "我叫所罗门·诺瑟普——我是个自由人。",
+      "character": "Solomon Northup",
+      "en": "My name is Solomon Northup. I am a free man.",
+      "note": "所罗门几次偷写求助信的开头；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "历史",
+    "自由",
+    "奥斯卡"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 12229
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "为奴十二年 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/12-years-a-slave-2013.jpg）（影片页 https://www.themoviedb.org/movie/76203）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

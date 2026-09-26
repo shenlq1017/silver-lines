@@ -1,0 +1,43 @@
+{
+  "id": "wedding-banquet-unspoken",
+  "group": "top250",
+  "film": {
+    "title": "喜宴",
+    "year": 1993,
+    "title_en": "The Wedding Banquet",
+    "director": "李安"
+  },
+  "lines": [
+    {
+      "text": "有些真相，看在眼里就够了，不必说出口。",
+      "en": "Some truths are enough seen with the eyes—they need not be spoken.",
+      "character": "高父 / 题旨",
+      "note": "高父机场举手那一幕的题旨转述：喜宴的热闹里，包容有时比摊牌更有力量。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "同性",
+    "包容"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 20000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 97
+    },
+    "metacritic": {
+      "score": 78
+    }
+  },
+  "still_alt": "喜宴 · 宣传静帧（2732×1534）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/150-the-wedding-banquet.jpg）（影片页 https://www.themoviedb.org/movie/9261）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AiADW9ru9v1DLbFo4Ac76CtlXjK.jpg（2732×1534）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

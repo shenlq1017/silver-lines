@@ -1,0 +1,43 @@
+{
+  "id": "ice-age-that-a-family",
+  "group": "top250",
+  "film": {
+    "title": "冰川时代",
+    "year": 2002,
+    "title_en": "Ice Age",
+    "director": "克里斯·韦奇 / 卡洛斯·沙尔丹哈"
+  },
+  "lines": [
+    {
+      "text": "这，就是一家人。",
+      "en": "That's what you do in a family.",
+      "character": "Manny / 曼尼",
+      "note": "冰河世纪的临时护婴小队：猛犸、树懒与剑齿虎在「不是血亲」里学会家庭。通行定译短句，对应片中家庭主题收束。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "家庭",
+    "旅途"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 7.5,
+      "votes": 530000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 77
+    },
+    "metacritic": {
+      "score": 60
+    }
+  },
+  "still_alt": "冰川时代 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/198-ice-age.jpg）（影片页 https://www.themoviedb.org/movie/425）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8pwIhymsxfAVjrAE7syDjQULn37.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

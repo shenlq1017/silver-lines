@@ -1,0 +1,43 @@
+{
+  "id": "ralph-bad-guy-good",
+  "group": "top250",
+  "film": {
+    "title": "无敌破坏王",
+    "year": 2012,
+    "title_en": "Wreck-It Ralph",
+    "director": "瑞奇·摩尔"
+  },
+  "lines": [
+    {
+      "text": "我是坏人，那很好。我永远成不了好人，那也不坏。除了做自己，我谁也不想当。",
+      "en": "I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me.",
+      "character": "破坏王拉尔夫",
+      "note": "终章「坏人勋章」独白：无敌破坏王把自我接纳写成游戏角色说明书，中文取通行意译压缩，英文为片中获奖式自我宣言。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "自我",
+    "游戏"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 650000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 450000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 87
+    },
+    "metacritic": {
+      "score": 72
+    }
+  },
+  "still_alt": "无敌破坏王 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/191-wreck-it-ralph.jpg）（影片页 https://www.themoviedb.org/movie/82690）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1DnN37Vorg52G5TH2Azp9WsG9xe.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

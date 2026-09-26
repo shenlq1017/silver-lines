@@ -1,0 +1,34 @@
+{
+  "id": "read-lips-listen",
+  "group": "classics",
+  "film": {
+    "title": "读我唇语",
+    "year": 2001,
+    "title_en": "Read My Lips",
+    "director": "雅克·奥迪亚尔"
+  },
+  "lines": [
+    {
+      "text": "听不见的人，有时比谁都听得清。",
+      "en": "Those who cannot hear sometimes listen more clearly than anyone.",
+      "character": "卡拉／保罗 / Carla / Paul",
+      "note": "主题性策展句：概括奥迪亚尔《读我唇语》中听障女职员以唇读与前科犯共谋的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "窃听",
+    "共谋",
+    "听障",
+    "奥迪亚尔"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 385
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "读我唇语 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/read-my-lips-2001.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/6173）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xUCiXW8e6kX9ClySKqYjXkKeIA2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

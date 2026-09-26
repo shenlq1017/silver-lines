@@ -1,0 +1,33 @@
+{
+  "id": "summer-grandpa-adult-world",
+  "group": "classics",
+  "film": {
+    "title": "冬冬的假期",
+    "year": 1984,
+    "title_en": "A Summer at Grandpa’s",
+    "director": "侯孝贤"
+  },
+  "lines": [
+    {
+      "text": "大人的世界，小孩看不懂。",
+      "en": "Children can't understand the adult world.",
+      "character": "冬冬视角 / Dongdong's gaze",
+      "note": "策展意译：概括冬冬在外婆家假期里目击成人裂缝的主题；侯孝贤对白少、靠目光，明确为策展压缩而非逐字。"
+    }
+  ],
+  "tags": [
+    "童年",
+    "侯孝贤",
+    "家庭"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 56
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "冬冬的假期 · TMDB 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-summer-at-grandpas-1984.jpg）（影片页 https://www.themoviedb.org/movie/92989）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nqan3ZFdyVp1RkYNAfti2kzKD3y.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

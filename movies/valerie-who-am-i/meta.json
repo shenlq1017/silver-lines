@@ -1,0 +1,33 @@
+{
+  "id": "valerie-who-am-i",
+  "group": "classics",
+  "film": {
+    "title": "瓦莱丽的奇迹一周",
+    "year": 1970,
+    "title_en": "Valerie and Her Week of Wonders",
+    "director": "雅罗米尔·伊雷什"
+  },
+  "lines": [
+    {
+      "text": "我不知道自己是谁。",
+      "en": "I don’t know who I am.",
+      "character": "瓦莱丽",
+      "note": "策展意译：压缩瓦莱丽在童话、欲望与身份变形中的核心困惑，非逐字字幕。"
+    }
+  ],
+  "tags": [
+    "超现实主义",
+    "成长",
+    "捷克电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 8000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "瓦莱丽的奇迹一周 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/valerie-and-her-week-of-wonders-1970.jpg）（影片页 https://www.themoviedb.org/movie/46315）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aJehV6eLWNsPAk0ZQpB7QgFYMOb.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

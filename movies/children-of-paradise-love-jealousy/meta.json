@@ -1,0 +1,33 @@
+{
+  "id": "children-of-paradise-love-jealousy",
+  "group": "classics",
+  "film": {
+    "title": "天堂的孩子",
+    "year": 1945,
+    "title_en": "Children of Paradise",
+    "director": "马塞尔·卡尔内"
+  },
+  "lines": [
+    {
+      "text": "没有嫉妒，就没有爱情。",
+      "en": "There is no love without jealousy.",
+      "character": "巴蒂斯特",
+      "note": "舞台与情感纠葛中的通行意译；对应影片关于表演、欲望与占有的核心命题。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "戏剧",
+    "法国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.3,
+      "votes": 26000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "天堂的孩子 · TMDB 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/children-of-paradise-1945.jpg）（影片页 https://www.themoviedb.org/movie/2457）；静帧：TMDB backdrop/宣传图 undefined（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

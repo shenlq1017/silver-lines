@@ -1,0 +1,33 @@
+{
+  "id": "xiangnu-xiaoxiao-fate",
+  "group": "classics",
+  "film": {
+    "title": "湘女萧萧",
+    "year": 1986,
+    "title_en": "A Girl from Hunan",
+    "director": "谢飞"
+  },
+  "lines": [
+    {
+      "text": "萧萧的命，是别人给的。",
+      "en": "Xiaoxiao’s fate was handed to her by others.",
+      "character": "叙事主题 / Narrative theme",
+      "note": "策展意译：概括谢飞《湘女萧萧》（沈从文小说脉络）中童养媳被礼教与乡俗安排命运的核心；不冒充某一句唯一逐字对白。"
+    }
+  ],
+  "tags": [
+    "乡土",
+    "女性",
+    "命运"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 5.3,
+      "votes": 9
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "湘女萧萧 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-shimmering-moon-1986.jpg，780×1170）（影片页 https://www.themoviedb.org/movie/244308）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qexPgcITuI0JtD88kMo6LyS45Y2.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

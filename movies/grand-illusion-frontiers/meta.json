@@ -1,0 +1,33 @@
+{
+  "id": "grand-illusion-frontiers",
+  "group": "classics",
+  "film": {
+    "title": "大幻影",
+    "year": 1937,
+    "title_en": "Grand Illusion",
+    "director": "让·雷诺阿"
+  },
+  "lines": [
+    {
+      "text": "国界，是人们画在地图上的线。",
+      "en": "Frontiers are lines people draw on maps.",
+      "character": "罗森达尔 / Rosenthal",
+      "note": "策展意译：提炼影片关于国境、阶级与共同人性的核心命题；雷诺阿反战伦理的通行概括，非声称唯一逐字版本。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "阶级",
+    "人性"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 805
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "大幻影 · TMDB 宣传静帧（3413×1920）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/grand-illusion-1937.jpg）（影片页 https://www.themoviedb.org/movie/777）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8lxgU9V0zDd5Vf0CXoaGBM5BA7Y.jpg（3413×1920）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

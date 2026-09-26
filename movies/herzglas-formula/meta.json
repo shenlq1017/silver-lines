@@ -1,0 +1,34 @@
+{
+  "id": "herzglas-formula",
+  "group": "classics",
+  "film": {
+    "title": "玻璃精灵",
+    "year": 1976,
+    "title_en": "Heart of Glass",
+    "director": "维尔纳·赫尔佐格"
+  },
+  "lines": [
+    {
+      "text": "我望向远方，望向世界的尽头。这一天结束之前，末日就会到来。",
+      "en": "I look into the distance, to the end of the world. Before the day is over, the end will come.",
+      "character": "先知胡斯勒 / Hias",
+      "note": "先知胡斯勒开场预言对白；英语影评／字幕通行引述（Celluloid Wicker Man 等）。"
+    }
+  ],
+  "tags": [
+    "玻璃",
+    "预言",
+    "巴伐利亚",
+    "赫尔佐格"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.5,
+      "votes": 135
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "玻璃精灵 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/heart-of-glass-1976.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/27378）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nnUPsBal4N7Pn9LavIRDDJzq62w.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "duoming-cash",
+  "group": "classics",
+  "film": {
+    "title": "夺命金",
+    "year": 2011,
+    "title_en": "Life Without Principle",
+    "director": "杜琪峰"
+  },
+  "lines": [
+    {
+      "text": "股票，是人对未来的预测。测对了，就是赢家；测错了，就是输家。",
+      "en": "Stocks are people's predictions of the future. Guess right, you're a winner; guess wrong, you're a loser.",
+      "character": "宋先生 / Mr. Sung",
+      "note": "地下期货上游老板宋先生（尹子维）对白；华语影评逐段引述（通行粤语字幕汉译）。"
+    }
+  ],
+  "tags": [
+    "金融",
+    "香港",
+    "道德",
+    "杜琪峰"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.7,
+      "votes": 92
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "夺命金 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/life-without-principle-2011.jpg，2000×2837）（影片页 https://www.themoviedb.org/movie/90147）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7YcmPOTcYinZO4GGklc3jXA4KS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

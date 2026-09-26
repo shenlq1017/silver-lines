@@ -1,0 +1,34 @@
+{
+  "id": "boy-meets-night",
+  "group": "classics",
+  "film": {
+    "title": "男孩遇见女孩",
+    "year": 1984,
+    "title_en": "Boy Meets Girl",
+    "director": "莱奥·卡拉克斯"
+  },
+  "lines": [
+    {
+      "text": "巴黎的夜很长，刚好够两个陌生人走丢又相遇。",
+      "en": "Paris nights are long enough for two strangers to get lost — and meet again.",
+      "character": "阿列克斯／米蕾耶 / Alex / Mireille",
+      "note": "主题性策展句：概括卡拉克斯首作《男孩遇见女孩》中巴黎夜晚漫游的青春孤独与偶遇题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "巴黎",
+    "青春",
+    "偶遇",
+    "卡拉克斯"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.7,
+      "votes": 129
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "男孩遇见女孩 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/boy-meets-girl-1984.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/63418）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vFIC5xBv81hPHKnGU2noTid0HjE.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

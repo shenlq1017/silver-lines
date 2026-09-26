@@ -1,0 +1,34 @@
+{
+  "id": "audition-deeper",
+  "group": "classics",
+  "film": {
+    "title": "幻觉",
+    "year": 1999,
+    "title_en": "Audition",
+    "director": "三池崇史"
+  },
+  "lines": [
+    {
+      "text": "再往深处，痛才会变成爱。",
+      "en": "Only deeper does pain turn into love.",
+      "character": "荣子 / Asami Yamazaki",
+      "note": "策展意译：对应三池崇史《幻觉》（Audition）中荣子施虐名场面的气质与「kiri kiri」痛感台词群，不冒充单一字幕逐字句。"
+    }
+  ],
+  "tags": [
+    "惊悚",
+    "复仇",
+    "约会",
+    "三池崇史"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 1854
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "幻觉 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/audition-1999.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/11075）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gSzl1Fqk2NPc63S9x34OyKadStt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

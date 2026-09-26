@@ -1,0 +1,34 @@
+{
+  "id": "death-venice-beauty",
+  "group": "classics",
+  "film": {
+    "title": "魂断威尼斯",
+    "year": 1971,
+    "title_en": "Death in Venice",
+    "director": "卢奇诺·维斯康蒂"
+  },
+  "lines": [
+    {
+      "text": "美是感觉能达到的最高形式。",
+      "en": "Beauty is the highest form the senses can attain.",
+      "character": "阿申巴赫 / Gustav von Aschenbach",
+      "note": "通行可核验意译：维斯康蒂《魂断威尼斯》中阿申巴赫关于美的议论，源自托马斯·曼原著思想；字幕措辞或有出入，不保证单一逐字。"
+    }
+  ],
+  "tags": [
+    "美",
+    "欲望",
+    "衰老",
+    "维斯康蒂"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 560
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "魂断威尼斯 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/death-in-venice-1971.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/6619）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8AUfe4QJ0rrxOmAvI32O4eDUnXY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

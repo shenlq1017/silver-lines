@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>专题合辑 · 片语 Silver Lines</title>
+  <meta name="description" content="按主题浏览电影台词：爱与誓言、成长与青春、自由与希望……总有一句说到心里。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body data-base="../">
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="logo" href="../">片语 <span>Silver Lines</span></a>
+      <nav>
+        <ul class="nav">
+          <li><a href="../">首页</a></li>
+          <li><a href="../quotes/">片语</a></li>
+          <li><a href="../about/">关于</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <div class="page-head">
+        <h1>专题合辑</h1>
+        <p>按主题逛台词。点击合辑进入片语集，即可按对应标签筛选。</p>
+      </div>
+      <div id="collection-grid" class="collection-grid" aria-live="polite"></div>
+      <p class="error-msg" id="collection-error" hidden>无法加载数据。请从站点根启动 python3 -m http.server。</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p>片语 / Silver Lines · 电影只是出处，句子本身才是主角</p>
+    </div>
+  </footer>
+
+  <script src="../assets/js/ratings.js"></script>
+  <script src="../assets/js/site.js"></script>
+  <script>
+    (function () {
+      const grid = document.getElementById("collection-grid");
+      const errEl = document.getElementById("collection-error");
+
+      SilverSite.loadQuotes()
+        .then(function (data) {
+          const quotes = SilverSite.publishedQuotes(data);
+          grid.innerHTML = SilverSite.COLLECTIONS.map(function (c) {
+            const matched = quotes.filter(function (q) {
+              return (q.tags || []).some(function (t) { return c.tags.indexOf(t) !== -1; });
+            });
+            if (!matched.length) return "";
+            const sample = SilverSite.lineOf(matched[0]);
+            const primary = c.tags[0];
+            return (
+              '<a class="collection-card" href="../quotes/?tag=' + encodeURIComponent(primary) + '">' +
+              '<span class="collection-card__name">' + c.title +
+              '<span class="collection-card__count">' + matched.length + " 条</span></span>" +
+              '<p class="collection-card__desc">' + c.desc + "</p>" +
+              '<p class="collection-card__sample">「' + sample + "」</p>" +
+              "</a>"
+            );
+          }).join("");
+        })
+        .catch(function (e) {
+          errEl.hidden = false;
+          console.error(e);
+        });
+    })();
+  </script>
+</body>
+</html>

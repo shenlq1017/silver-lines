@@ -1,0 +1,47 @@
+{
+  "id": "logan-nature-made-freak",
+  "group": "classics",
+  "film": {
+    "title": "金刚狼3：殊死一战",
+    "year": 2017,
+    "title_en": "Logan",
+    "director": "詹姆斯·曼高德"
+  },
+  "lines": [
+    {
+      "text": "自然让我成为怪物，人类让我成为武器，而上帝让我活得太久。",
+      "en": "Nature made me a freak. Man made me a weapon. And God made it last too long.",
+      "character": "Logan",
+      "note": "罗根的自我判词：超级英雄神话在衰老与告别中落地。通行译法。"
+    },
+    {
+      "text": "原来这就是这种感觉。",
+      "character": "Logan",
+      "en": "So this is what it feels like.",
+      "note": "罗根弥留之际的最后一句话；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "别成为他们造出来的东西。",
+      "character": "Logan",
+      "en": "Don't be what they made you.",
+      "note": "罗根对劳拉的嘱托；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "告别",
+    "家庭"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 850000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "金刚狼3：殊死一战 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/logan-2017.jpg）（影片页 https://www.themoviedb.org/movie/263115）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qTdCfGyDisY9e8BLycszlyTsPWx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

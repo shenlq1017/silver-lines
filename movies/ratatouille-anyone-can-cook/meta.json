@@ -1,0 +1,40 @@
+{
+  "id": "ratatouille-anyone-can-cook",
+  "group": "classics",
+  "film": {
+    "title": "美食总动员",
+    "year": 2007,
+    "title_en": "Ratatouille",
+    "director": "布拉德·伯德"
+  },
+  "lines": [
+    {
+      "text": "不是每个人都能成为伟大的艺术家，但伟大的艺术家可以来自任何地方。",
+      "en": "Not everyone can become a great artist, but a great artist can come from anywhere.",
+      "character": "Anton Ego",
+      "note": "结尾评论把天赋从精英手中归还给所有愿意创作的人。通行定译。"
+    },
+    {
+      "text": "我们评论家必须面对的苦涩真相是：一件平庸的破烂，可能都比我们给它贴上的批评更有意义。",
+      "character": "Anton Ego",
+      "en": "The bitter truth we critics must face is that... the average piece of junk is probably more meaningful than our criticism designating it so.",
+      "note": "伊戈的终评（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "美食",
+    "梦想"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 850000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "美食总动员 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ratatouille-2007.jpg）（影片页 https://www.themoviedb.org/movie/2062）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

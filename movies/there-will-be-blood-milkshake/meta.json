@@ -1,0 +1,53 @@
+{
+  "id": "there-will-be-blood-milkshake",
+  "group": "classics",
+  "film": {
+    "title": "血色将至",
+    "year": 2008,
+    "title_en": "There Will Be Blood",
+    "director": "保罗·托马斯·安德森"
+  },
+  "lines": [
+    {
+      "text": "我喝你的奶昔！",
+      "en": "I drink your milkshake!",
+      "character": "Daniel Plainview",
+      "note": "把资本掠夺变成一场荒诞的吸管游戏；丹尼尔的胜利也是自我毁灭。通行译法。"
+    },
+    {
+      "text": "我心里有场比赛。我不许任何人成功。我恨大多数人。",
+      "character": "Daniel Plainview",
+      "en": "I have a competition in me. I want no one else to succeed. I hate most people.",
+      "note": "丹尼尔对亨利的自白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我说过我会吃了你！",
+      "character": "Daniel Plainview",
+      "en": "I told you I would eat you!",
+      "note": "保龄球馆对伊莱的最后摊牌；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "是排水！这是排水问题！",
+      "character": "Daniel Plainview",
+      "en": "Drainage! Drained dry, I'm so sorry.",
+      "note": "milkshake 名场面的关键词；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "贪婪",
+    "权力"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 650000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "血色将至 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/there-will-be-blood-2008.jpg）（影片页 https://www.themoviedb.org/movie/7345）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

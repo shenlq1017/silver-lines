@@ -1,0 +1,33 @@
+{
+  "id": "burnt-by-the-sun-everything-ends",
+  "group": "classics",
+  "film": {
+    "title": "烈日灼人",
+    "year": 1994,
+    "title_en": "Burnt by the Sun",
+    "director": "尼基塔·米哈尔科夫"
+  },
+  "lines": [
+    {
+      "text": "有一天这一切都会结束。",
+      "en": "One day all of this will end.",
+      "character": "科托夫家庭语境 / The Kotov household",
+      "note": "策展压缩：米哈尔科夫《烈日灼人》中田园午后将被历史打断的预感式陈述；完整版常接“再没有咖啡与槌球…”，此处取可独立传播的起句。"
+    }
+  ],
+  "tags": [
+    "肃反",
+    "家庭",
+    "苏联"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 210
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "烈日灼人 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/burnt-by-the-sun-1994.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/50797）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dR6oO0xtzUhRy9pGe5aL0yLARCu.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

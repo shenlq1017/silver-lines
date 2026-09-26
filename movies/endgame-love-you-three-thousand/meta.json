@@ -1,0 +1,54 @@
+{
+  "id": "endgame-love-you-three-thousand",
+  "group": "classics",
+  "film": {
+    "title": "复仇者联盟4：终局之战",
+    "year": 2019,
+    "title_en": "Avengers: Endgame",
+    "director": "安东尼·罗素、乔·罗素"
+  },
+  "lines": [
+    {
+      "text": "我爱你三千遍。",
+      "en": "I love you three thousand.",
+      "character": "Morgan Stark",
+      "note": "终局把宇宙级冒险收回一句家庭告白；简短而具有不可替代的情感重量。通行译法。"
+    },
+    {
+      "text": "旅程的一部分，就是终点。",
+      "character": "Tony Stark",
+      "en": "Part of the journey is the end.",
+      "note": "托尼留下的全息留言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我就是钢铁侠。",
+      "character": "Tony Stark",
+      "en": "I am Iron Man.",
+      "note": "打响指前的宣告，全系列闭环；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "复仇者——集合。",
+      "character": "Steve Rogers",
+      "en": "Avengers... assemble.",
+      "note": "终局决战的集结令；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "亲情",
+    "告别"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.4,
+      "votes": 1300000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "复仇者联盟4：终局之战 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/avengers-endgame-2019.jpg）（影片页 https://www.themoviedb.org/movie/299534）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

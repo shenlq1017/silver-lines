@@ -1,0 +1,33 @@
+{
+  "id": "rules-everyone-has-reasons",
+  "group": "classics",
+  "film": {
+    "title": "游戏规则",
+    "year": 1939,
+    "title_en": "The Rules of the Game",
+    "director": "让·雷诺阿"
+  },
+  "lines": [
+    {
+      "text": "人生可怕之处就在于：人人都有自己的理由。",
+      "en": "The awful thing about life is this: everyone has their reasons.",
+      "character": "奥克塔夫 / Octave",
+      "note": "通行译法：奥克塔夫（雷诺阿饰）的名句；完整语气含“可怕/糟糕之处”，勿简化为“人人皆有其理由”。"
+    }
+  ],
+  "tags": [
+    "上流社会",
+    "讽刺",
+    "法国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 683
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "游戏规则 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-rules-of-the-game-1939.jpg）（影片页 https://www.themoviedb.org/movie/776）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tBVTuHWbhk0bywHQn8q9gvFM9Vd.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

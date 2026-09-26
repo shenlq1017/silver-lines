@@ -1,0 +1,56 @@
+{
+  "id": "basterds-my-masterpiece",
+  "group": "top250",
+  "film": {
+    "title": "无耻混蛋",
+    "year": 2009,
+    "title_en": "Inglourious Basterds",
+    "director": "昆汀·塔伦蒂诺"
+  },
+  "lines": [
+    {
+      "text": "尤蒂维奇，我觉得这大概是我的杰作。",
+      "en": "You know somethin', Utivich? I think this just might be my masterpiece.",
+      "character": "Lt. Aldo Raine",
+      "note": "前额纳粹徽成了作者签名：无耻混蛋用阿尔多一句自鸣得意，把暴力美学收成反讽谢幕。通行定译。"
+    },
+    {
+      "text": "哦哦——宾果！",
+      "character": "Col. Hans Landa",
+      "en": "Oooh, that's a bingo!",
+      "note": "兰达确认协议的名场面；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我们不做俘虏生意——我们做的是杀纳粹的买卖。",
+      "character": "Lt. Aldo Raine",
+      "en": "We ain't in the prisoner-takin' business. We in the killin' Nazi business.",
+      "note": "奥尔多的「八人宣誓」段落（节选）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "黑色幽默",
+    "复仇"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 560000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 1700000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 89
+    },
+    "metacritic": {
+      "score": 69
+    }
+  },
+  "still_alt": "无耻混蛋 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/216-inglourious-basterds.jpg）（影片页 https://www.themoviedb.org/movie/16869）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

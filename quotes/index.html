@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>金句墙 · 银幕金句</title>
-  <meta name="description" content="银幕金句列表 · 支持分类筛选与分页，封面卡可点进详情">
+  <title>片语集 · 片语 Silver Lines</title>
+  <meta name="description" content="片语集 · 光影说过的好句子。按分组、标签、年代筛选，支持搜索、排序与分页浏览。">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet">
@@ -13,11 +13,11 @@
 <body data-base="../">
   <header class="site-header">
     <div class="site-header__inner">
-      <a class="logo" href="../">银幕金句 <span>Silver Lines</span></a>
+      <a class="logo" href="../">片语 <span>Silver Lines</span></a>
       <nav>
         <ul class="nav">
           <li><a href="../">首页</a></li>
-          <li><a href="./" aria-current="page">金句</a></li>
+          <li><a href="./" aria-current="page">片语</a></li>
           <li><a href="../about/">关于</a></li>
         </ul>
       </nav>
@@ -27,11 +27,12 @@
   <main>
     <div class="container">
       <div class="page-head">
-        <h1>金句墙</h1>
-        <p>按标签、年代、精选筛选，支持搜索与分页浏览；列表最多展示豆瓣 + IMDb 两枚评分徽章，点击封面卡进入详情。</p>
+        <h1>片语集</h1>
+        <p>每一句都来自一部电影——电影是出处，句子是主角。搜索置顶，筛选收合展开；点亮 ♥ 收藏，心动好句随时回看。</p>
       </div>
       <div id="quote-list-root" class="quote-list-root">
         <div data-list-toolbar class="list-toolbar"></div>
+        <div data-list-filters class="list-filters" hidden></div>
         <div id="quote-list" data-list-grid class="quote-grid" aria-live="polite">
           <p class="error-msg">加载中…</p>
         </div>
@@ -43,7 +44,7 @@
 
   <footer class="site-footer">
     <div class="site-footer__inner">
-      <p>银幕金句 / Silver Lines · 无播放器 · 图片相对路径本地示意 PNG</p>
+      <p>片语 / Silver Lines · 无播放器 · 图片为本地策展快照</p>
     </div>
   </footer>
 

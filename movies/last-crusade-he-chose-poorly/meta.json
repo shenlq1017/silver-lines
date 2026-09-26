@@ -1,0 +1,64 @@
+{
+  "id": "last-crusade-he-chose-poorly",
+  "group": "classics",
+  "film": {
+    "title": "印第安纳琼斯：圣战奇兵",
+    "year": 1989,
+    "title_en": "Indiana Jones and the Last Crusade",
+    "director": "史蒂文·斯皮尔伯格"
+  },
+  "lines": [
+    {
+      "text": "他选错了。",
+      "en": "He chose poorly.",
+      "character": "Grail Knight",
+      "note": "圣杯骑士对反派的冷判：圣战奇兵把「选择」做成生死一瞬。通行定译。"
+    },
+    {
+      "text": "你必须选择——但要明智地选。",
+      "character": "Grail Knight",
+      "en": "You must choose. But choose wisely.",
+      "note": "圣杯骑士的警告，主台词的前半；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我们把狗取名叫印第安纳。",
+      "character": "Henry Jones Sr.",
+      "en": "We named the dog Indiana.",
+      "note": "老琼斯拆穿外号来源的名梗；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "X 从来、从来不会标记藏宝点。",
+      "character": "Indiana Jones",
+      "en": "X never, ever marks the spot.",
+      "note": "课堂上的考古学教训，随后被打脸；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "冒险",
+    "信仰",
+    "选择"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 180000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 800000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 65
+    }
+  },
+  "still_alt": "印第安纳琼斯：圣战奇兵 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/indiana-jones-and-the-last-crusade-1989.jpg）（影片页 https://www.themoviedb.org/movie/89）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2Y7nbXrDtHwAfcTX7KBN0z40OAy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

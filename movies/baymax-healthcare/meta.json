@@ -1,0 +1,56 @@
+{
+  "id": "baymax-healthcare",
+  "group": "top250",
+  "film": {
+    "title": "超能陆战队",
+    "year": 2014,
+    "title_en": "Big Hero 6",
+    "director": "唐·霍尔 / 克里斯·威廉姆斯"
+  },
+  "lines": [
+    {
+      "text": "我是大白，你的个人健康顾问。",
+      "en": "I am Baymax, your personal healthcare companion.",
+      "character": "Baymax",
+      "note": "充气医疗机器人的标准自我介绍：一句设定台词，抱成整代观众的情绪支持系统。"
+    },
+    {
+      "text": "在你对护理服务表示满意之前，我无法进入待机状态。",
+      "character": "Baymax",
+      "en": "I cannot deactivate until you say you are satisfied with your care.",
+      "note": "大白的规则，全片泪点伏笔；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "阿正还在。",
+      "character": "Baymax（大白）",
+      "en": "Tadashi is here.",
+      "note": "小宏让大白「复活」哥哥的话；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "陪伴",
+    "治愈"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 1100000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 500000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 74
+    }
+  },
+  "still_alt": "超能陆战队 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/107-big-hero-6.jpg）（影片页 https://www.themoviedb.org/movie/177572）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

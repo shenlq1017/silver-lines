@@ -1,0 +1,43 @@
+{
+  "id": "identity-who-are-you",
+  "group": "top250",
+  "film": {
+    "title": "致命ID",
+    "year": 2003,
+    "title_en": "Identity",
+    "director": "詹姆斯·曼高德"
+  },
+  "lines": [
+    {
+      "text": "你到底是谁？",
+      "en": "Who are you?",
+      "character": "题旨 / 多角色回环",
+      "note": "暴雨旅馆连环杀的核心质问；对白随人格分裂回环，取可上墙题旨句并标明。"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "身份",
+    "心理"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 800000
+    },
+    "imdb": {
+      "score": 7.3,
+      "votes": 250000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 62
+    },
+    "metacritic": {
+      "score": 64
+    }
+  },
+  "still_alt": "致命ID · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/091-identity.jpg）（影片页 https://www.themoviedb.org/movie/2832）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iiPBXynI88EgnpunHoUlBCnLpSE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

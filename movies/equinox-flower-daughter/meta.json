@@ -1,0 +1,34 @@
+{
+  "id": "equinox-flower-daughter",
+  "group": "classics",
+  "film": {
+    "title": "彼岸花",
+    "year": 1958,
+    "title_en": "Equinox Flower",
+    "director": "小津安二郎"
+  },
+  "lines": [
+    {
+      "text": "女儿要走的路，做父亲的终究拦不住。",
+      "en": "A father cannot forever block the road his daughter chooses.",
+      "character": "平山 / Hirayama",
+      "note": "通行可核验意译：小津《彼岸花》中父亲面对女儿自主婚恋一步步退让的核心题旨，影评常用概括；非保证单一字幕逐字。"
+    }
+  ],
+  "tags": [
+    "婚姻",
+    "父女",
+    "小津",
+    "日常"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 168
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "彼岸花 · TMDB 宣传静帧（2560×1440）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/equinox-flower-1958.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/28272）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sTBoI70IP3mlELLRCBAHW3F1SKz.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "castaway-tide",
+  "group": "classics",
+  "film": {
+    "title": "荒岛余生",
+    "year": 2000,
+    "title_en": "Cast Away",
+    "director": "罗伯特·泽米吉斯"
+  },
+  "lines": [
+    {
+      "text": "我必须继续呼吸。因为明天太阳还会升起。谁知道潮水会带来什么呢？",
+      "en": "I have to keep breathing. Because tomorrow the sun will rise. Who knows what the tide could bring?",
+      "character": "查克·诺兰 / Chuck Noland",
+      "note": "查克获救后晚宴上的独白／对白；Wikiquote／IMDb quotes／通行字幕可核。"
+    },
+    {
+      "text": "威尔逊！",
+      "character": "Chuck Noland",
+      "en": "Wilson!",
+      "note": "排球「威尔逊」漂走时的呼喊，全片最痛一幕；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我连按自己想要的方式死掉都做不到。",
+      "character": "Chuck Noland",
+      "en": "I couldn't even kill myself the way I wanted to. I had power over nothing.",
+      "note": "失绳后的绝望自语；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "生存",
+    "希望",
+    "荒岛",
+    "独白"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 12575
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "荒岛余生 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/cast-away-2000.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/8358）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3Epsjs0q4gbkusvAVcCBUCwnjeo.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

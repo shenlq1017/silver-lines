@@ -1,0 +1,33 @@
+{
+  "id": "flight-white-army-run",
+  "group": "classics",
+  "film": {
+    "title": "溃逃",
+    "year": 1971,
+    "title_en": "The Flight",
+    "director": "亚历山大·阿洛夫 / 弗拉基米尔·瑙莫夫"
+  },
+  "lines": [
+    {
+      "text": "溃败的人在跑，跑的不是路，是故乡。",
+      "en": "The defeated keep running — not along a road, but away from home.",
+      "character": "题眼 / Бег",
+      "note": "策展意译：概括阿洛夫/瑙莫夫改编布尔加科夫《溃逃》中白军溃退与流亡；明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "白军",
+    "流亡",
+    "布尔加科夫"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 5.9,
+      "votes": 25
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "溃逃 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-flight-1970.jpg，1128×1586）（影片页 https://www.themoviedb.org/movie/95431）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6xjIxq8nwdiRDKcBQZiumZXNmPX.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

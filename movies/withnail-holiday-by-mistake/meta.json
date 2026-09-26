@@ -1,0 +1,40 @@
+{
+  "id": "withnail-holiday-by-mistake",
+  "group": "classics",
+  "film": {
+    "title": "我与长指甲",
+    "year": 1987,
+    "title_en": "Withnail and I",
+    "director": "布鲁斯·罗宾逊"
+  },
+  "lines": [
+    {
+      "text": "我们是误打误撞来度假的。",
+      "en": "We have gone on holiday by mistake.",
+      "character": "马斯特斯 / Withnail",
+      "note": "通行译法：影片开场的标志性台词，中文按常见字幕译法处理。"
+    },
+    {
+      "text": "我觉得像有头猪在我脑袋里拉了屎。",
+      "character": "Withnail",
+      "en": "I feel like a pig shat in my head.",
+      "note": "威尔奈尔的宿醉名句；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "cult电影",
+    "友谊",
+    "英国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 45000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "我与长指甲 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/withnail-and-i-1987.jpg）（影片页 https://www.themoviedb.org/movie/13446）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bOgKCymrdPHPHozhRBNr9XhVD87.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

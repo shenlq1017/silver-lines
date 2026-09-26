@@ -1,0 +1,47 @@
+{
+  "id": "kung-fu-panda-no-secret",
+  "group": "classics",
+  "film": {
+    "title": "功夫熊猫",
+    "year": 2008,
+    "title_en": "Kung Fu Panda",
+    "director": "马克·奥斯本 / 约翰·史蒂文森"
+  },
+  "lines": [
+    {
+      "text": "没有什么秘方。秘方就是你自己。",
+      "en": "There is no secret ingredient. It's just you.",
+      "character": "阿宝的父亲 / Mr. Ping（及阿宝领悟）",
+      "note": "「秘方」段落通行译法；父子汤面与武学顿悟的合体金句。"
+    },
+    {
+      "text": "昨天是历史，明天是谜团，只有今天是天赐的礼物——所以才叫「现在」（present）。",
+      "character": "Master Oogway",
+      "en": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.",
+      "note": "乌龟大师的双关名言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "人往往在逃避命运的路上，撞见自己的命运。",
+      "character": "Master Oogway",
+      "en": "One often meets his destiny on the road he takes to avoid it.",
+      "note": "乌龟大师的开场箴言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "成长",
+    "自我"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 13016
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "功夫熊猫 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kung-fu-panda-2008.jpg）（影片页 https://www.themoviedb.org/movie/9502）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/d1RHScaZc7I8j0lDke1c4AxI435.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

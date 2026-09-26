@@ -1,0 +1,34 @@
+{
+  "id": "porco-better-pig-than-fascist",
+  "group": "classics",
+  "film": {
+    "title": "红猪",
+    "year": 1992,
+    "title_en": "Porco Rosso",
+    "director": "宫崎骏"
+  },
+  "lines": [
+    {
+      "text": "与其做法西斯，我宁可做猪。",
+      "en": "I'd rather be a pig than a fascist.",
+      "character": "波鲁克·罗素 / Porco Rosso",
+      "note": "通行可核验：宫崎骏《红猪》主角对法西斯的拒绝句，多语种影迷引用极广。"
+    }
+  ],
+  "tags": [
+    "反战",
+    "飞行员",
+    "宫崎骏",
+    "动画"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 3823
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "红猪 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/porco-rosso-1992.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/11621）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ec4m0EvVlEtVl5aySdw6ab9uG0b.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

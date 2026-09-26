@@ -1,0 +1,56 @@
+{
+  "id": "double-indemnity-money-and-woman",
+  "group": "classics",
+  "film": {
+    "title": "双重赔偿",
+    "year": 1944,
+    "title_en": "Double Indemnity",
+    "director": "比利·怀尔德"
+  },
+  "lines": [
+    {
+      "text": "是的，我杀了他。我为了钱——也为了一个女人——杀了他。结果呢？钱没拿到，女人也没到手。真够惨的，对吧？",
+      "en": "Yes, I killed him. I killed him for money—and a woman—and I didn't get the money and I didn't get the woman. Pretty, isn't it?",
+      "character": "Walter Neff",
+      "note": "Neff 对着录音机的开场自白：双重赔偿把黑色电影的失败写进第一句。通行意译。"
+    },
+    {
+      "text": "我也爱你，沃尔特。",
+      "character": "Barton Keyes",
+      "en": "I love you, too.",
+      "note": "凯斯在死牢前的回应，全片收束；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "一路直行。",
+      "character": "Walter Neff",
+      "en": "Straight down the line.",
+      "note": "两人的共谋暗语；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "黑色电影",
+    "犯罪",
+    "欲望"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 90000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 170000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 97
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 95
+    }
+  },
+  "still_alt": "双重赔偿 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/double-indemnity-1944.jpg）（影片页 https://www.themoviedb.org/movie/996）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jY0dBKvoN9jIjKQ0w6cWrfhKmy8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

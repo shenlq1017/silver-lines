@@ -1,0 +1,34 @@
+{
+  "id": "yonosuke-kind",
+  "group": "classics",
+  "film": {
+    "title": "横道世之介",
+    "year": 2013,
+    "title_en": "A Story of Yonosuke",
+    "director": "冲田修一"
+  },
+  "lines": [
+    {
+      "text": "温和到不像这个时代的人，反而把时代照得更清楚。",
+      "en": "Someone too gentle for his time ends up lighting that time more clearly.",
+      "character": "横道世之介 / Yonosuke Yokomichi",
+      "note": "主题性策展句：概括冲田修一《横道世之介》中过分善良的青年映照时代切片的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "温和",
+    "青春",
+    "平成",
+    "冲田修一"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 76
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "横道世之介 · TMDB 宣传静帧（2755×1550）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-story-of-yonosuke-2013.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/200145）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pEMQnOafad8lSlEVTdoh3GYWdNz.jpg（2755×1550）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

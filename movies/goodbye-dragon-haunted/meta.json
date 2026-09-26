@@ -1,0 +1,33 @@
+{
+  "id": "goodbye-dragon-haunted",
+  "group": "classics",
+  "film": {
+    "title": "不散",
+    "year": 2003,
+    "title_en": "Goodbye, Dragon Inn",
+    "director": "蔡明亮"
+  },
+  "lines": [
+    {
+      "text": "你知道吗，这家戏院闹鬼。闹鬼。有鬼。",
+      "en": "Do you know this theater is haunted? This theater is haunted. Ghosts.",
+      "character": "走廊男子 / Mysterious man",
+      "note": "片中极少对白之一；走廊男子对日本游客说出的通行中英引录。"
+    }
+  ],
+  "tags": [
+    "戏院",
+    "鬼魂",
+    "台湾"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 9000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "不散 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/goodbye-dragon-inn-2003.jpg）（影片页 https://www.themoviedb.org/movie/56616）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lch9NDBb4oM0xKNEz0ZN7Mc27MS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

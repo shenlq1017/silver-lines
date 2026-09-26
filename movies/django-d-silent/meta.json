@@ -1,0 +1,50 @@
+{
+  "id": "django-d-silent",
+  "group": "top250",
+  "film": {
+    "title": "被解救的姜戈",
+    "year": 2012,
+    "title_en": "Django Unchained",
+    "director": "昆汀·塔伦蒂诺"
+  },
+  "lines": [
+    {
+      "text": "姜戈。D 不发音。",
+      "en": "Django. The D is silent.",
+      "character": "Dr. King Schultz / Django",
+      "note": "舒尔茨纠正发音的瞬间，也在把奴隶的名字还原成主体：D 不发音，人要发声。"
+    },
+    {
+      "text": "先生们，你们曾激起我的好奇。现在——你们得到了我的注意。",
+      "character": "Calvin Candie",
+      "en": "Gentlemen, you had my curiosity. Now you have my attention.",
+      "note": "坎迪的登场宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "西部",
+    "复仇",
+    "自由"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 900000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 1700000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 87
+    },
+    "metacritic": {
+      "score": 81
+    }
+  },
+  "still_alt": "被解救的姜戈 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/144-django-unchained.jpg）（影片页 https://www.themoviedb.org/movie/68718）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/s4cJQaj40SwMifUrrdtdOJsjnRO.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

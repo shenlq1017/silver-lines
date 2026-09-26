@@ -1,0 +1,60 @@
+{
+  "id": "yiyi-life-three-times",
+  "group": "top250",
+  "film": {
+    "title": "一一",
+    "year": 2000,
+    "title_en": "Yi yi",
+    "director": "杨德昌"
+  },
+  "lines": [
+    {
+      "text": "电影发明以后，人类的生命延长了三倍。",
+      "en": "Movies give us three times as much life.",
+      "character": "NJ（旁白意境） / 杨德昌题旨",
+      "note": "对齐杨德昌多次阐述的电影观与片中洋洋拍照动机；华语影史题旨句，标出典边界。"
+    },
+    {
+      "text": "爸比，你看不到，所以我拍给你看。",
+      "character": "洋洋",
+      "note": "洋洋拍照的著名解释，与主台词同源互补；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "再活一次的话，好像……真的没有必要。",
+      "character": "简南俊",
+      "note": "NJ 对初恋的收束；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "爸比，我们是不是只能知道一半的事情？我只能看到前面，看不到后面。",
+      "character": "简南俊",
+      "note": "NJ 的中年独白；通行引述可查。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "日常",
+    "电影"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 30000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 99
+    },
+    "metacritic": {
+      "score": 92
+    }
+  },
+  "still_alt": "一一 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/088-yi-yi.jpg）（影片页 https://www.themoviedb.org/movie/25538）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/x903dx8Km6XNLFEmvbXc98vePSV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vagabond-no-roof",
+  "group": "classics",
+  "film": {
+    "title": "旅途中的女人",
+    "year": 1985,
+    "title_en": "Vagabond",
+    "director": "阿涅斯·瓦尔达"
+  },
+  "lines": [
+    {
+      "text": "我不要屋顶，也不要法律。",
+      "en": "I want no roof and no law.",
+      "character": "莫娜 / Mona Bergeron",
+      "note": "策展意译：将莫娜拒绝被安置、拒绝规训的流浪伦理凝成主句；影片多靠行为而非格言对白。"
+    }
+  ],
+  "tags": [
+    "流浪",
+    "自由",
+    "瓦尔达"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 374
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "旅途中的女人 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/vagabond-1985.jpg）（影片页 https://www.themoviedb.org/movie/44018）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dsdw2dGnqv59onfnqd9CJw1mLK.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

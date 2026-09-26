@@ -1,0 +1,33 @@
+{
+  "id": "school-on-fire-no-way-back",
+  "group": "classics",
+  "film": {
+    "title": "学校风云",
+    "year": 1988,
+    "title_en": "School on Fire",
+    "director": "林岭东"
+  },
+  "lines": [
+    {
+      "text": "校园里没有退路。",
+      "en": "There is no way back on campus.",
+      "character": "校园暴力语境 / School-violence milieu",
+      "note": "策展意译：概括林岭东《学校风云》中少年被黑社会与校园暴力裹挟、无路可退的处境；明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "校园",
+    "暴力",
+    "八十年代"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 32
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "学校风云 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/school-on-fire-1988.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/112929）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mU2491LPsH6izjtQ7KyJ3tzRe3b.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

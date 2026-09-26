@@ -1,0 +1,33 @@
+{
+  "id": "through-glass-god-is-love",
+  "group": "classics",
+  "film": {
+    "title": "犹在镜中",
+    "year": 1961,
+    "title_en": "Through a Glass Darkly",
+    "director": "英格玛·伯格曼"
+  },
+  "lines": [
+    {
+      "text": "上帝就是爱，而爱就是上帝。",
+      "en": "God is love, and love is God.",
+      "character": "大卫",
+      "note": "影片关于上帝与爱的核心命题的通行译法；在精神疾病与家庭关系之间形成反讽。"
+    }
+  ],
+  "tags": [
+    "信仰",
+    "家庭",
+    "心理"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 32000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "犹在镜中 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/through-a-glass-darkly-1961.jpg）（影片页 https://www.themoviedb.org/movie/11602）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xUvE2qim7mBzdUomoYDP9YC8gsZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

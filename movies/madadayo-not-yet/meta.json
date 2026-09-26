@@ -1,0 +1,34 @@
+{
+  "id": "madadayo-not-yet",
+  "group": "classics",
+  "film": {
+    "title": "还未",
+    "year": 1993,
+    "title_en": "Madadayo",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "还没呢！",
+      "en": "Not yet!",
+      "character": "内田百闲 / Hyakken Uchida",
+      "note": "通行可核验：黑泽明《还未》中「まあだだよ / Madadayo!」师生寿宴口号的通行中译，片名即此。"
+    }
+  ],
+  "tags": [
+    "师生",
+    "寿宴",
+    "黑泽明",
+    "日本"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 141
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "还未 · TMDB 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/madadayo-1993.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/13889）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/x6iDvFKX4utbsKAoHzFkPCHtNNo.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

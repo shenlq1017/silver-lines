@@ -1,0 +1,43 @@
+{
+  "id": "source-code-everything-ok",
+  "group": "top250",
+  "film": {
+    "title": "源代码",
+    "year": 2011,
+    "title_en": "Source Code",
+    "director": "邓肯·琼斯"
+  },
+  "lines": [
+    {
+      "text": "一切都会好起来的。",
+      "en": "Everything's going to be okay.",
+      "character": "Colter Stevens",
+      "note": "八分钟循环的终点不是拆弹，是安慰：源代码把科幻壳剥开，只剩一句给人听的话。短句，重在收束。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "循环",
+    "救赎"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 720000
+    },
+    "imdb": {
+      "score": 7.5,
+      "votes": 560000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 92
+    },
+    "metacritic": {
+      "score": 74
+    }
+  },
+  "still_alt": "源代码 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/206-source-code.jpg）（影片页 https://www.themoviedb.org/movie/45612）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tY98hSDUlDqfgjSI6dInHiytoKH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

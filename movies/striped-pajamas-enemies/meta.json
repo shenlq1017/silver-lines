@@ -1,0 +1,49 @@
+{
+  "id": "striped-pajamas-enemies",
+  "group": "top250",
+  "film": {
+    "title": "穿条纹睡衣的男孩",
+    "year": 2008,
+    "title_en": "The Boy in the Striped Pajamas",
+    "director": "马克·赫尔曼"
+  },
+  "lines": [
+    {
+      "text": "我们不该做朋友，你和我。我们本该是敌人。",
+      "en": "We're not supposed to be friends, you and me. We're meant to be enemies.",
+      "character": "Bruno",
+      "note": "铁丝网两侧童言；本片少箴言金句，此为篱墙谈心次选（对白以通行英文字幕为据）。"
+    },
+    {
+      "text": "你是我最好的朋友，什穆埃尔——一辈子的那种。",
+      "character": "Bruno",
+      "en": "You're my best friend, Shmuel. My best friend for life.",
+      "note": "铁丝网边布鲁诺的告白；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "战争",
+    "童真"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 650000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 250000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 65
+    },
+    "metacritic": {
+      "score": 55
+    }
+  },
+  "still_alt": "穿条纹睡衣的男孩 · 篱墙与原野宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/065-the-boy-in-the-striped-pajamas.jpg）（影片页 https://www.themoviedb.org/movie/14574）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6aRuABAdhuuDypLGscM7HoEWHx4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

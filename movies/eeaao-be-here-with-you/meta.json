@@ -1,0 +1,47 @@
+{
+  "id": "eeaao-be-here-with-you",
+  "group": "classics",
+  "film": {
+    "title": "瞬息全宇宙",
+    "year": 2022,
+    "title_en": "Everything Everywhere All at Once",
+    "director": "关家永、丹尼尔·施纳特"
+  },
+  "lines": [
+    {
+      "text": "在所有可能的地方，我只想和你待在这里。",
+      "en": "Of all the places I could be, I just want to be here with you.",
+      "character": "Waymond Wang",
+      "note": "多重宇宙把选择题改写成陪伴题：留下来，本身就是答案。通行译法。"
+    },
+    {
+      "text": "在另一种人生里，我会很喜欢和你一起洗衣、报税。",
+      "character": "Waymond Wang",
+      "en": "In another life, I would have really liked just doing laundry and taxes with you.",
+      "note": "威蒙德的告白，全片最温柔一句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "这就是我战斗的方式。",
+      "character": "Waymond Wang",
+      "en": "This is how I fight.",
+      "note": "威蒙德的善良宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "亲情",
+    "选择"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 500000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "瞬息全宇宙 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/everything-everywhere-all-at-once-2022.jpg）（影片页 https://www.themoviedb.org/movie/545611）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

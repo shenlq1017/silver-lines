@@ -1,0 +1,33 @@
+{
+  "id": "howards-end-only-connect",
+  "group": "classics",
+  "film": {
+    "title": "霍华德庄园",
+    "year": 1992,
+    "title_en": "Howards End",
+    "director": "詹姆斯·艾弗利"
+  },
+  "lines": [
+    {
+      "text": "只连接：把散文与激情、世俗与诗意连在一起。",
+      "en": "Only connect! Only connect the prose and the passion.",
+      "character": "玛格丽特·施莱格尔 / Margaret Schlegel",
+      "note": "策展标注：福斯特原著题词与玛格丽特思想核心「Only connect」在银幕中更多以人物行动呈现，未必以逐字对白出现；此处作书影同源的通行主句，不冒充影片字幕。"
+    }
+  ],
+  "tags": [
+    "阶级",
+    "联结",
+    "英国文学"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 22000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "霍华德庄园 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/howards-end-1992.jpg）（影片页 https://www.themoviedb.org/movie/8293）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/novvibtQv0B4psRxuqvd8g2qS5M.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mulholland-no-band",
+  "group": "classics",
+  "film": {
+    "title": "穆赫兰道",
+    "year": 2001,
+    "title_en": "Mulholland Drive",
+    "director": "大卫·林奇"
+  },
+  "lines": [
+    {
+      "text": "没有乐队。",
+      "en": "There is no band.",
+      "character": "蓝发女人",
+      "note": "Club Silencio 场景的通行字幕；短句为片中明确台词。"
+    },
+    {
+      "text": "就是这个女孩。",
+      "character": "导演 Adam（被指定）",
+      "en": "This is the girl.",
+      "note": "选角片场反复出现的台词，全片梦魇枢纽；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "这家店后面坐着一个人。我做的噩梦，都是因为他。",
+      "character": "Dan",
+      "en": "There's a man in the back of this place. He's the reason I'm having nightmares.",
+      "note": "温基餐厅两场恐惧戏；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "梦境",
+    "身份",
+    "美国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 380000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "穆赫兰道 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mulholland-drive-2001.jpg）（影片页 https://www.themoviedb.org/movie/1018）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/A5n963lCjuVhiCHtBLTxMz1KgCF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

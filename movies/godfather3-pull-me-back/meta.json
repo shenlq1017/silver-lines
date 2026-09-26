@@ -1,0 +1,50 @@
+{
+  "id": "godfather3-pull-me-back",
+  "group": "top250",
+  "film": {
+    "title": "教父3",
+    "year": 1990,
+    "title_en": "The Godfather Part III",
+    "director": "弗朗西斯·福特·科波拉"
+  },
+  "lines": [
+    {
+      "text": "正当我以为已经脱身，他们又把我拉了回去。",
+      "en": "Just when I thought I was out, they pull me back in.",
+      "character": "Michael Corleone",
+      "note": "迈克的绝望金句：洗手上岸的幻灭，被一代观众借去形容一切「退不了的局」。"
+    },
+    {
+      "text": "永远不要恨你的敌人——这会影响你的判断。",
+      "character": "Michael Corleone",
+      "en": "Never hate your enemies. It affects your judgment.",
+      "note": "迈克尔晚年的领悟；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "家族",
+    "命运"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 450000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 66
+    },
+    "metacritic": {
+      "score": 60
+    }
+  },
+  "still_alt": "教父3 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/137-the-godfather-part-iii.jpg）（影片页 https://www.themoviedb.org/movie/242）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zNnjHLDtV8Ti3aworltaeaLMov4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

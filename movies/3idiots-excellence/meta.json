@@ -1,0 +1,56 @@
+{
+  "id": "3idiots-excellence",
+  "group": "top250",
+  "film": {
+    "title": "三傻大闹宝莱坞",
+    "year": 2009,
+    "title_en": "3 Idiots",
+    "director": "拉库马·希拉尼"
+  },
+  "lines": [
+    {
+      "text": "追求卓越，成功就会在不经意间追上你。",
+      "featured": false,
+      "en": "Pursue excellence, and success will come chasing after you.",
+      "character": "Rancho",
+      "note": "印度校园片里最常被引用的一句。"
+    },
+    {
+      "text": "一切顺利。",
+      "en": "All is well.",
+      "character": "Rancho",
+      "note": "全片的定心咒语，连同名主题曲。"
+    },
+    {
+      "text": "心很脆弱，你要学会哄它。不管遇到多大的问题，就告诉你的心：「一切顺利，朋友。」",
+      "en": "This heart scares easily. You have to trick it. However big the problem, tell your heart, 'All is well, pal.'",
+      "character": "Rancho",
+      "note": "深夜劝法罕与拉贾的名段；通行译法。"
+    },
+    {
+      "text": "凡是能帮人省力、帮人省时的东西，就是机器。",
+      "en": "Anything that simplifies work, or saves time, is a machine.",
+      "character": "Rancho",
+      "note": "顶撞校长的「机器定义」。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "教育",
+    "梦想"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 2100000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 450000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "三傻大闹宝莱坞 · 校园三人组宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/015-3-idiots.jpg）（影片页 https://www.themoviedb.org/movie/20453）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sUwyPtW8ljfz88YS1KcIy7onVMZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ace-hole-story",
+  "group": "classics",
+  "film": {
+    "title": "冷暖人间",
+    "year": 1951,
+    "title_en": "Ace in the Hole",
+    "director": "比利·怀尔德"
+  },
+  "lines": [
+    {
+      "text": "新闻要的不是救人，是把洞挖得够深。",
+      "en": "What the news wants is not a rescue — it is a hole dug deep enough.",
+      "character": "查克·塔特姆 / Chuck Tatum",
+      "note": "主题性策展句：概括怀尔德《冷暖人间》中记者拖延营救以炒作矿难的媒体伦理寓言，非逐字引文。"
+    },
+    {
+      "text": "大新闻小新闻我都能对付——要是没新闻，我就出去咬条狗回来。",
+      "character": "Chuck Tatum",
+      "en": "I can handle big news and little news. And if there's no news, I'll go out and bite a dog.",
+      "note": "塔图姆的新闻观；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "媒体",
+    "炒作",
+    "伦理",
+    "怀尔德"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 779
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "冷暖人间 · TMDB 宣传静帧（3648×2052）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ace-in-the-hole-1951.jpg，840×1260）（影片页 https://www.themoviedb.org/movie/25364）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bG8EGUNGvZ6vNcBKlXa8Xkoe3kS.jpg（3648×2052）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

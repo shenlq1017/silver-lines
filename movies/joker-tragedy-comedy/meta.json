@@ -1,0 +1,57 @@
+{
+  "id": "joker-tragedy-comedy",
+  "group": "top250",
+  "film": {
+    "title": "小丑",
+    "year": 2019,
+    "title_en": "Joker",
+    "director": "托德·菲利普斯"
+  },
+  "lines": [
+    {
+      "text": "我曾以为我的人生是部悲剧，现在我明白了——它是部喜剧。",
+      "en": "I used to think that my life was a tragedy, but now I realize it's a comedy.",
+      "character": "Arthur Fleck / Joker",
+      "note": "亚瑟的变调宣言：笑与哭共用一张脸，哥谭把悲剧排练成全民喜剧。"
+    },
+    {
+      "text": "有精神疾病最糟的是：所有人都要你装作没病。",
+      "character": "Arthur Fleck",
+      "en": "The worst part of having a mental illness is people expect you to behave as if you don't.",
+      "note": "亚瑟在节目里的自白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我只希望我的死，比我的生更值钱。",
+      "character": "Arthur Fleck",
+      "en": "I just hope my death makes more cents than my life.",
+      "note": "日记里的双关（cents/sense）；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "社会",
+    "疯狂"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 1400000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 1600000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 68
+    },
+    "metacritic": {
+      "score": 59
+    }
+  },
+  "still_alt": "小丑 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/172-joker.jpg）（影片页 https://www.themoviedb.org/movie/475557）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rlay2M5QYvi6igbGcFjq8jxeusY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

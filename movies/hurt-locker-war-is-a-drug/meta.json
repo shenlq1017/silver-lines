@@ -1,0 +1,33 @@
+{
+  "id": "hurt-locker-war-is-a-drug",
+  "group": "classics",
+  "film": {
+    "title": "拆弹部队",
+    "year": 2008,
+    "title_en": "The Hurt Locker",
+    "director": "凯瑟琳·毕格罗"
+  },
+  "lines": [
+    {
+      "text": "战争是一种毒品。",
+      "en": "War is a drug.",
+      "character": "片首题词（克里斯·赫奇斯）",
+      "note": "影片开场援引 Chris Hedges 的题词缩略通行句；整句更长，策展取公众最熟悉的核心短语。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "成瘾",
+    "奥斯卡"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 6374
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "拆弹部队 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hurt-locker-2008.jpg）（影片页 https://www.themoviedb.org/movie/12162）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AnnXQNraaC2dBO8r03jd5PTC2hh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

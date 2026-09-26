@@ -1,0 +1,50 @@
+{
+  "id": "last-emperor-lonely",
+  "group": "top250",
+  "film": {
+    "title": "末代皇帝",
+    "year": 1987,
+    "title_en": "The Last Emperor",
+    "director": "贝纳尔多·贝托鲁奇"
+  },
+  "lines": [
+    {
+      "text": "皇上是世上最寂寞的孩子。",
+      "en": "The Emperor is the loneliest boy on Earth.",
+      "character": "Reginald Johnston",
+      "note": "帝师一语戳穿九五至尊的童年牢笼，传世冷清。"
+    },
+    {
+      "text": "开门！",
+      "character": "溥仪",
+      "en": "Open the door!",
+      "note": "溥仪一生被关在门外的呐喊，全片题眼；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "历史",
+    "孤独"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 1000000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 120000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 86
+    },
+    "metacritic": {
+      "score": 76
+    }
+  },
+  "still_alt": "末代皇帝 · 紫禁城与孤独帝影宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/026-the-last-emperor.jpg）（影片页 https://www.themoviedb.org/movie/746）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

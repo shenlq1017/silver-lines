@@ -1,0 +1,33 @@
+{
+  "id": "pather-panchali-sorrow-and-joy",
+  "group": "classics",
+  "film": {
+    "title": "大地之歌",
+    "year": 1955,
+    "title_en": "Pather Panchali",
+    "director": "Satyajit Ray"
+  },
+  "lines": [
+    {
+      "text": "悲伤和欢乐总是相伴而来。",
+      "en": "Sorrow and joy always arrive together.",
+      "character": "哈里哈尔·罗伊（Harihar Ray）",
+      "note": "通行字幕意译，贴合影片对贫困、家庭与希望的并置。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "成长",
+    "生活"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 51100
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "大地之歌 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pather-panchali-1955.jpg）（影片页 https://www.themoviedb.org/movie/5801）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

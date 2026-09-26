@@ -1,0 +1,33 @@
+{
+  "id": "furnaces-hour-colonized",
+  "group": "classics",
+  "film": {
+    "title": "燃火的时刻",
+    "year": 1968,
+    "title_en": "The Hour of the Furnaces",
+    "director": "费尔南多·索拉纳斯 / 奥克塔维奥·赫蒂诺"
+  },
+  "lines": [
+    {
+      "text": "熔炉的时刻到了：要么解放，要么灭亡。",
+      "en": "The hour of the furnaces has come: liberation or death.",
+      "character": "旁白 / Narration ethos",
+      "note": "通行题眼：索拉纳斯/赫蒂诺《燃火的时刻》取自切·格瓦拉名句传统的解放动员语感；影片为宣言式纪录片，取题旨而非某一字幕逐字唯一版。"
+    }
+  ],
+  "tags": [
+    "第三电影",
+    "解放",
+    "纪录片"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 32
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "燃火的时刻 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hour-of-the-furnaces-1968.jpg，960×1303）（影片页 https://www.themoviedb.org/movie/89681）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e76PS1NvbAh3zhZpH5soKyoqpwb.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

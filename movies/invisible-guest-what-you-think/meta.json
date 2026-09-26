@@ -1,0 +1,37 @@
+{
+  "id": "invisible-guest-what-you-think",
+  "group": "top250",
+  "film": {
+    "title": "看不见的客人",
+    "year": 2016,
+    "title_en": "The Invisible Guest",
+    "director": "奥里奥尔·保罗"
+  },
+  "lines": [
+    {
+      "text": "你以为你以为的，就是你以为的吗？",
+      "en": "Are you sure that what you think you think is what you think?",
+      "character": "题旨 / 叙事圈套",
+      "note": "对齐豆瓣长评/短评高频题旨句与片单介绍语感；本片对白少箴言，标为题旨次选（非逐字原声核验）。"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "反转",
+    "叙事"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 1500000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 200000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "看不见的客人 · 山间公路与雨夜意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/075-contratiempo.jpg）（影片页 https://www.themoviedb.org/movie/411088）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/157QuwzU58D5RtXmkBl5iNaxigN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

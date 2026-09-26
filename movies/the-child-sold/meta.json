@@ -1,0 +1,34 @@
+{
+  "id": "the-child-sold",
+  "group": "classics",
+  "film": {
+    "title": "孩子",
+    "year": 2005,
+    "title_en": "The Child",
+    "director": "达尔登兄弟"
+  },
+  "lines": [
+    {
+      "text": "把孩子卖掉的那一刻，你也把自己卖了。",
+      "en": "The moment you sell the child, you sell yourself.",
+      "character": "布鲁诺 / Bruno",
+      "note": "主题性策展句：概括达尔登兄弟《孩子》中少年父亲卖婴后道德崩溃与赎回的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "父职",
+    "道德",
+    "觉醒",
+    "达尔登"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 291
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "孩子 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-child-2005.jpg，800×1200）（影片页 https://www.themoviedb.org/movie/11490）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/A1Xn1UtqOlfnULEyiDOy1gdUQBw.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "sanjuro-best-sword-sheath",
+  "group": "classics",
+  "film": {
+    "title": "椿三十郎",
+    "year": 1962,
+    "title_en": "Sanjuro",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "最好的刀，是留在刀鞘里的刀。",
+      "en": "The best sword is the one that stays in its sheath.",
+      "character": "桑十郎",
+      "note": "桑十郎关于克制与武力的通行字幕意译；以短句保留其冷峻的实用主义。"
+    },
+    {
+      "text": "阿巴约——再见啦！",
+      "character": "椿三十郎",
+      "note": "片尾挥手的告别，三船敏郎的名场面；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "武士",
+    "动作",
+    "克制"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 42000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "椿三十郎 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sanjuro-1962.jpg）（影片页 https://www.themoviedb.org/movie/11712）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qrej2n8HYielh286xIXs75kgfkt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "red-beard-heal-pain",
+  "group": "classics",
+  "film": {
+    "title": "红胡子",
+    "year": 1965,
+    "title_en": "Red Beard",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "要医治一个人，先得理解他的痛苦。",
+      "en": "To heal a person, you must first understand their pain.",
+      "character": "赤胡子",
+      "note": "策展意译：概括赤胡子关于贫困、尊严与医者伦理的核心态度，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "人道主义",
+    "医疗",
+    "日本电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 22000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "红胡子 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/red-beard-1965.jpg）（影片页 https://www.themoviedb.org/movie/3780）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jJK3skg06c2iUXgpJg9DTxQhRb4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

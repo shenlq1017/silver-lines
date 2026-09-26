@@ -1,0 +1,47 @@
+{
+  "id": "misery-fan",
+  "group": "classics",
+  "film": {
+    "title": "危情十日",
+    "year": 1990,
+    "title_en": "Misery",
+    "director": "罗伯·莱纳"
+  },
+  "lines": [
+    {
+      "text": "我是你的头号书迷。",
+      "en": "I'm your number one fan.",
+      "character": "安妮·威尔克斯 / Annie Wilkes",
+      "note": "安妮初见保罗时说出的对白（后反复出现）；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "他没能从那辆破车里出来！",
+      "character": "Annie Wilkes",
+      "en": "He didn't get out of the COCKADOODIE CAR!",
+      "note": "安妮为续集结局的暴怒；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你杀了我的米瑟莉！",
+      "character": "Annie Wilkes",
+      "en": "You killed my Misery!",
+      "note": "书稿被焚后的崩溃；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "惊悚",
+    "粉丝",
+    "囚禁",
+    "金·凯瑞"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 5424
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "危情十日 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/misery-1990.jpg，1600×2400）（影片页 https://www.themoviedb.org/movie/1700）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

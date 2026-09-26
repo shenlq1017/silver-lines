@@ -1,0 +1,43 @@
+{
+  "id": "east-west-long-time-no-see",
+  "group": "top250",
+  "film": {
+    "title": "射雕英雄传之东成西就",
+    "year": 1993,
+    "title_en": "The Eagle Shooting Heroes",
+    "director": "刘镇伟"
+  },
+  "lines": [
+    {
+      "text": "我最讨厌别人见面时说上一句：好久不见。",
+      "en": "What I hate most is when people greet me with: Long time no see.",
+      "character": "黄药师",
+      "note": "东成西就式颠覆金句：黄药师一开口，射雕宇宙就滑进无厘头。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "武侠",
+    "港片"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 550000
+    },
+    "imdb": {
+      "score": 7,
+      "votes": 5000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 80
+    },
+    "metacritic": {
+      "score": 68
+    }
+  },
+  "still_alt": "射雕英雄传之东成西就 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/164-rank-164.jpg）（影片页 https://www.themoviedb.org/movie/55157）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fSUsuiI6wYxMB4KgxgEIULc9Mx1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

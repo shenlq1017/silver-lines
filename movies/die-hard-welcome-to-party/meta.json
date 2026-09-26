@@ -1,0 +1,63 @@
+{
+  "id": "die-hard-welcome-to-party",
+  "group": "classics",
+  "film": {
+    "title": "虎胆龙威",
+    "year": 1988,
+    "title_en": "Die Hard",
+    "director": "约翰·麦克蒂尔南"
+  },
+  "lines": [
+    {
+      "text": "欢迎来参加派对，伙计。",
+      "en": "Welcome to the party, pal.",
+      "character": "John McClane",
+      "note": "麦克莱恩撂倒恐怖分子后的冷幽默：虎胆龙威把「圣诞办公室劫案」做成动作范式。取此句而非更粗口的招牌句，便于策展；通行译法。"
+    },
+    {
+      "text": "呀哈——去你的，混蛋。",
+      "character": "John McClane",
+      "en": "Yippee-ki-yay, motherfucker.",
+      "note": "对讲机里对格鲁伯的招牌挑衅；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "来西海岸吧，我们聚一聚，乐一乐。",
+      "character": "John McClane",
+      "en": "Come out to the coast, we'll get together, have a few laughs.",
+      "note": "楼顶上用嘲讽复述妻子的邀请；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "偷走六亿美金，他们一定会找你——除非他们认为你已经死了。",
+      "character": "Hans Gruber",
+      "en": "When you steal six hundred million, they will find you, unless they think you're already dead.",
+      "note": "向同伙解释假死计划；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动作",
+    "惊悚"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.1,
+      "votes": 280000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 960000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 94
+    },
+    "metacritic": {
+      "score": 72
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "虎胆龙威 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/die-hard-1988.jpg）（影片页 https://www.themoviedb.org/movie/562）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

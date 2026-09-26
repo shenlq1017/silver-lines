@@ -1,0 +1,47 @@
+{
+  "id": "guardians-i-am-groot",
+  "group": "classics",
+  "film": {
+    "title": "银河护卫队",
+    "year": 2014,
+    "title_en": "Guardians of the Galaxy",
+    "director": "詹姆斯·古恩"
+  },
+  "lines": [
+    {
+      "text": "我是格鲁特。",
+      "en": "I am Groot.",
+      "character": "格鲁特 / Groot",
+      "note": "格鲁特唯一（亦是全部）通行对白；中文音译取「格鲁特」。"
+    },
+    {
+      "text": "除了我，没有东西像我！",
+      "character": "Rocket",
+      "en": "Ain't no thing like me except me!",
+      "note": "火箭的自况；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我们是格鲁特。",
+      "character": "Groot",
+      "en": "We are Groot.",
+      "note": "飞船坠毁前的转变，全片泪点；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "超级英雄",
+    "友情",
+    "漫威"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 30342
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "银河护卫队 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/guardians-of-the-galaxy-2014.jpg）（影片页 https://www.themoviedb.org/movie/118340）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

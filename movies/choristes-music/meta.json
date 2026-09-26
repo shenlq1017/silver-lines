@@ -1,0 +1,37 @@
+{
+  "id": "choristes-music",
+  "group": "top250",
+  "film": {
+    "title": "放牛班的春天",
+    "year": 2004,
+    "title_en": "Les choristes",
+    "director": "克里斯托夫·巴拉蒂"
+  },
+  "lines": [
+    {
+      "text": "永远别说永远，凡事都有可能。",
+      "en": "Never say never — anything is possible.",
+      "character": "Clément Mathieu",
+      "note": "马修以音乐唤醒禁锢童年时最常被引用的信念句。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "音乐",
+    "教育"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 1500000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 70000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "放牛班的春天 · 合唱团宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/017-les-choristes.jpg）（影片页 https://www.themoviedb.org/movie/5528）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eWYrrdCKd4bjOKB9DB0HtRUhI1o.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

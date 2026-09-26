@@ -1,0 +1,50 @@
+{
+  "id": "flipped-rainbow",
+  "group": "top250",
+  "film": {
+    "title": "怦然心动",
+    "year": 2010,
+    "title_en": "Flipped",
+    "director": "罗伯·莱纳"
+  },
+  "lines": [
+    {
+      "text": "有些人浅薄，有些人金玉其外败絮其中。有一天，你会遇到一个彩虹般绚丽的人；当你遇到这个人后，会觉得其他人不过是浮云。",
+      "en": "Some of us get dipped in flat, some in satin, some in gloss.... But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare.",
+      "character": "Chet Duncan（父亲）",
+      "note": "华语区爆红「彩虹人」译法，对应片中父亲油漆比喻；中文措辞为流传定稿，非逐字硬译。"
+    },
+    {
+      "text": "见到布莱斯·罗斯基的第一天，我就心动了。是他的眼睛——那双眼睛里有种闪闪发光的东西。",
+      "character": "Juli Baker",
+      "en": "The first day I met Bryce Loski, I flipped. It was those eyes, something in those dazzling eyes.",
+      "note": "朱莉的初见独白；IMDb quotes 可查。",
+      "confidence": "medium"
+    },
+    {
+      "text": "一幅画大于各部分之和——牛、草地、阳光，放在一起就可能变成魔法。",
+      "character": "Juli 的父亲",
+      "en": "A painting is more than the sum of its parts.",
+      "note": "切特外公的画论，引向识人之道；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "成长",
+    "青春"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 2100000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 100000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "怦然心动 · 树屋与少年意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/030-flipped.jpg）（影片页 https://www.themoviedb.org/movie/43949）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xBSwwkAYl9h8QVG2OxNpSaSgJwr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

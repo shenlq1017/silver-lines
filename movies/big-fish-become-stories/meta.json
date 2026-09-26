@@ -1,0 +1,50 @@
+{
+  "id": "big-fish-become-stories",
+  "group": "top250",
+  "film": {
+    "title": "大鱼",
+    "year": 2003,
+    "title_en": "Big Fish",
+    "director": "蒂姆·波顿"
+  },
+  "lines": [
+    {
+      "text": "一个人把他的故事讲了太多次，他就变成了那些故事。故事在他死后继续活着，他也因此不朽。",
+      "en": "A man tells his stories so many times that he becomes the stories. They live on after him, and in that way he becomes immortal.",
+      "character": "Edward Bloom / 旁白",
+      "note": "大鱼的遗言式旁白：夸张故事不是谎言，是父亲留给儿子的永生形式。"
+    },
+    {
+      "text": "人们说，当你遇见一生的挚爱时，时间会停住——这是真的。",
+      "character": "Edward Bloom",
+      "en": "They say when you meet the love of your life, time stops, and that's true.",
+      "note": "爱德华的马戏团告白开场；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "父子",
+    "叙事"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 600000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 470000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 76
+    },
+    "metacritic": {
+      "score": 58
+    }
+  },
+  "still_alt": "大鱼 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/160-big-fish.jpg）（影片页 https://www.themoviedb.org/movie/587）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bLqUd0tBvKezDr9MEla7k34i3rp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

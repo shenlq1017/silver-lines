@@ -1,0 +1,33 @@
+{
+  "id": "taboo-gohatto-beauty",
+  "group": "classics",
+  "film": {
+    "title": "御法度",
+    "year": 1999,
+    "title_en": "Taboo",
+    "director": "大岛渚"
+  },
+  "lines": [
+    {
+      "text": "美，本身就是御法度。",
+      "en": "Beauty itself is the taboo.",
+      "character": "题眼 / Gohatto",
+      "note": "策展意译：借日语题名「御法度」（禁令）概括大岛渚晚期片中美少年搅动武士团秩序的主题；不冒充唯一逐字对白。"
+    }
+  ],
+  "tags": [
+    "武士",
+    "禁忌",
+    "美"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.6,
+      "votes": 132
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "御法度 · TMDB 宣传静帧（3579×2013）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/taboo-1999.jpg，1439×2158）（影片页 https://www.themoviedb.org/movie/20617）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pFhVhEh5yRA8zfFcn2oiENJ31Q5.jpg（3579×2013）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

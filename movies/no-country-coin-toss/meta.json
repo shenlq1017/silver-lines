@@ -1,0 +1,57 @@
+{
+  "id": "no-country-coin-toss",
+  "group": "classics",
+  "film": {
+    "title": "老无所依",
+    "year": 2007,
+    "title_en": "No Country for Old Men",
+    "director": "乔尔·科恩 / 伊桑·科恩"
+  },
+  "lines": [
+    {
+      "text": "你在一次抛硬币上，最多输过多少？",
+      "en": "What's the most you ever lost on a coin toss?",
+      "character": "Anton Chigurh",
+      "note": "气罐杀手把生死交给硬币：老无所依用一句收银台式提问，定义科恩式命运观。通行定译。"
+    },
+    {
+      "text": "如果你所遵循的规则把你带到了这里，那这规则还有什么用？",
+      "character": "Anton Chigurh",
+      "en": "If the rule you followed brought you to this, of what use was the rule?",
+      "note": "安东在加油站的哲学；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "叫吧，伙计。",
+      "character": "Anton Chigurh",
+      "en": "Call it, friendo.",
+      "note": "抛硬币前的指令；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "命运",
+    "暴力",
+    "冷峻"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.3,
+      "votes": 390000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 1100000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 87
+    },
+    "metacritic": {
+      "score": 92
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "老无所依 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/no-country-for-old-men-2007.jpg）（影片页 https://www.themoviedb.org/movie/6977）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7T9e6yS8SQ0EAWLQHrhLSyCtTz7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

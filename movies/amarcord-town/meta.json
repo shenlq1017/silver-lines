@@ -1,0 +1,34 @@
+{
+  "id": "amarcord-town",
+  "group": "classics",
+  "film": {
+    "title": "阿玛柯德",
+    "year": 1973,
+    "title_en": "Amarcord",
+    "director": "费德里科·费里尼"
+  },
+  "lines": [
+    {
+      "text": "小镇记得春天、法西斯和每个人的笑话。",
+      "en": "The town remembers spring, fascism, and everybody's jokes.",
+      "character": "蒂塔／镇民 / Titta / townspeople",
+      "note": "主题性策展句：概括费里尼《阿玛柯德》中里米尼式小镇四季与法西斯日常并置的记忆长卷，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "怀旧",
+    "法西斯",
+    "成长",
+    "费里尼"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 1245
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "阿玛柯德 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/amarcord-1973.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/7857）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/isSZn3vMPbNSke4P662ZzFGTPOU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

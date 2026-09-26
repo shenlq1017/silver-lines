@@ -1,0 +1,63 @@
+{
+  "id": "inception-dreams",
+  "group": "top250",
+  "film": {
+    "title": "盗梦空间",
+    "year": 2010,
+    "title_en": "Inception",
+    "director": "克里斯托弗·诺兰"
+  },
+  "lines": [
+    {
+      "text": "一个想法就像病毒，有韧性，极具传染力。",
+      "en": "An idea is like a virus. Resilient. Highly contagious.",
+      "character": "Cobb",
+      "note": "诺兰命题：念头一旦种下。"
+    },
+    {
+      "text": "亲爱的，做梦不妨做得再大一点。",
+      "character": "Eames",
+      "en": "You mustn't be afraid to dream a little bigger, darling.",
+      "note": "伊姆斯的调侃名句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你要跳下信仰之跃，还是变成一个满怀悔恨、等待孤独死去的老人？",
+      "character": "Mal",
+      "en": "Do you want to take a leap of faith, or become an old man, filled with regret, waiting to die alone?",
+      "note": "柯布记忆中玛尔的诘问；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "回来吧——我们再一起做年轻人。",
+      "character": "Saito",
+      "en": "Come back and we'll be young men together again.",
+      "note": "斋ito 在意识的边缘向柯布发出的邀请；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "烧脑",
+    "梦境"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.4,
+      "votes": 2200000
+    },
+    "imdb": {
+      "score": 8.8,
+      "votes": 2600000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 87
+    },
+    "metacritic": {
+      "score": 74
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "盗梦空间 · 城市折叠梦境层次标志画面",
+  "license_note": "海报：TMDB 发行宣传物料 https://image.tmdb.org/t/p/original/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg（2000×3000）（影片页 https://www.themoviedb.org/movie/27205-inception）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg（3840×2160）；场景匹配（城市折叠梦境标志画面）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

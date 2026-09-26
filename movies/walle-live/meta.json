@@ -1,0 +1,50 @@
+{
+  "id": "walle-live",
+  "group": "top250",
+  "film": {
+    "title": "机器人总动员",
+    "year": 2008,
+    "title_en": "WALL·E",
+    "director": "安德鲁·斯坦顿"
+  },
+  "lines": [
+    {
+      "text": "我不想只是活着，我想要生活。",
+      "en": "I don't want to survive. I want to live.",
+      "character": "Captain",
+      "note": "少言机器人电影里，人类舰长的一声醒转。"
+    },
+    {
+      "text": "伊——娃！",
+      "character": "WALL-E",
+      "en": "Ee-vah!",
+      "note": "瓦力呼唤伊娃的标志性发音；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "科幻",
+    "觉醒"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 1500000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 1300000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 95
+    }
+  },
+  "still_alt": "机器人总动员 · WALL·E 与地球废墟宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/016-walle.jpg）（影片页 https://www.themoviedb.org/movie/10681）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

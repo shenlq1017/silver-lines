@@ -1,0 +1,40 @@
+{
+  "id": "dangal-gold",
+  "group": "top250",
+  "film": {
+    "title": "摔跤吧！爸爸",
+    "year": 2016,
+    "title_en": "Dangal",
+    "director": "涅提·蒂瓦里"
+  },
+  "lines": [
+    {
+      "text": "不拿金牌，一切都等于零。",
+      "en": "If you don't win the gold, nothing else matters.",
+      "character": "Mahavir Singh Phogat",
+      "note": "教练式父爱的极端句，摔跤吧爸爸的胜负哲学（华语流行译法）。"
+    }
+  ],
+  "tags": [
+    "运动",
+    "父女",
+    "争胜"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 1800000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 220000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 84
+    }
+  },
+  "still_alt": "摔跤吧！爸爸 · 赛场与父女宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/044-dangal.jpg）（影片页 https://www.themoviedb.org/movie/360814）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

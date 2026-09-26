@@ -1,0 +1,34 @@
+{
+  "id": "germany-zero-ruins",
+  "group": "classics",
+  "film": {
+    "title": "德意志零年",
+    "year": 1948,
+    "title_en": "Germany Year Zero",
+    "director": "罗伯托·罗西里尼"
+  },
+  "lines": [
+    {
+      "text": "废墟里长大的孩子，最先学会的不是哭，是怎样把罪过扛回家。",
+      "en": "A child raised in ruins learns first not to cry, but how to carry guilt home.",
+      "character": "埃德蒙 / Edmund",
+      "note": "主题性策展句：概括罗西里尼《德意志零年》中柏林废墟少年伦理崩塌的新现实主义题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "废墟",
+    "战后",
+    "伦理",
+    "罗西里尼"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 434
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "德意志零年 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/germany-year-zero-1948.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8016）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tybXFMsqvShS6TQGJIurpInPhGy.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

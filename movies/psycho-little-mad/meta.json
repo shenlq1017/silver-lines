@@ -1,0 +1,63 @@
+{
+  "id": "psycho-little-mad",
+  "group": "top250",
+  "film": {
+    "title": "惊魂记",
+    "year": 1960,
+    "title_en": "Psycho",
+    "director": "阿尔弗雷德·希区柯克"
+  },
+  "lines": [
+    {
+      "text": "我们每个人，偶尔都会有一点疯狂。",
+      "en": "We all go a little mad sometimes.",
+      "character": "Norman Bates",
+      "note": "诺曼的轻描淡写把整部惊魂记钉进日常：疯狂不是例外，是我们都会路过的一瞬。"
+    },
+    {
+      "text": "男孩最好的朋友，是他的母亲。",
+      "character": "Norman Bates",
+      "en": "A boy's best friend is his mother.",
+      "note": "与玛丽昂谈母亲的名句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我们都被困在自己的陷阱里——而且那陷阱从来不会变。",
+      "character": "Norman Bates",
+      "en": "We're all in our private traps, clamped in them, and none of us can ever get out. They never really change.",
+      "note": "旅馆客厅关于陷阱的独白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "头痛就像决心——不疼了，也就忘了。",
+      "character": "Marion Crane",
+      "en": "Headaches are like resolutions. You forget them as soon as they stop hurting.",
+      "note": "携款开车路上的自语；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "惊悚",
+    "经典",
+    "人性"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 720000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 97
+    },
+    "metacritic": {
+      "score": 97
+    }
+  },
+  "still_alt": "惊魂记 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/158-psycho.jpg）（影片页 https://www.themoviedb.org/movie/539）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

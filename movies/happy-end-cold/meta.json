@@ -1,0 +1,34 @@
+{
+  "id": "happy-end-cold",
+  "group": "classics",
+  "film": {
+    "title": "快乐结局",
+    "year": 2017,
+    "title_en": "Happy End",
+    "director": "迈克尔·哈内克"
+  },
+  "lines": [
+    {
+      "text": "家庭宴席照开，窗外的难民与室内的冷漠隔着一层玻璃。",
+      "en": "The family banquet goes on — refugees outside and coldness inside are only a pane of glass apart.",
+      "character": "洛朗家族 / the Laurent family",
+      "note": "主题性策展句：概括哈内克《快乐结局》中布尔乔亚家族冷漠与欧洲难民危机并置的讽刺题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "冷漠",
+    "家族",
+    "难民",
+    "哈内克"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.2,
+      "votes": 443
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "快乐结局 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/happy-end-2017.jpg，960×1440）（影片页 https://www.themoviedb.org/movie/399031）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7DYkTG9eS7nGLlsl9YMav4mcHw6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

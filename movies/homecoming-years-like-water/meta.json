@@ -1,0 +1,33 @@
+{
+  "id": "homecoming-years-like-water",
+  "group": "classics",
+  "film": {
+    "title": "似水流年",
+    "year": 1984,
+    "title_en": "Homecoming",
+    "director": "严浩"
+  },
+  "lines": [
+    {
+      "text": "似水流年。",
+      "en": "Years flow away like water.",
+      "character": "片名/主题 / Title refrain",
+      "note": "通行题眼：严浩《似水流年》以片名凝练故乡、时间与离散；片中对白围绕回乡与记忆展开，取题眼作策展金句，不冒充某一句唯一逐字。"
+    }
+  ],
+  "tags": [
+    "故乡",
+    "记忆",
+    "香港"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 8
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "似水流年 · TMDB 宣传静帧（2788×1568）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/homecoming-1984.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/176217）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/r9Xv2mmqfOAH4xAuhk8LnlGKcf5.jpg（2788×1568）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "vampyr-shadow",
+  "group": "classics",
+  "film": {
+    "title": "吸血鬼",
+    "year": 1932,
+    "title_en": "Vampyr",
+    "director": "卡尔·西奥多·德莱叶"
+  },
+  "lines": [
+    {
+      "text": "她需要血。必须是人血。你愿意献出自己的血吗？",
+      "en": "But she needs blood. It must be human blood. Are you willing to give her your own?",
+      "character": "医生 / The Doctor",
+      "note": "村医劝艾伦献血救莱奥娜时的对白；修复版英文字幕稿可核对（Subs like Script 等）。"
+    }
+  ],
+  "tags": [
+    "吸血鬼",
+    "阴影",
+    "梦魇",
+    "德莱叶"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 615
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "吸血鬼 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/vampyr-1932.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/779）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4Pu2bfZFMcFwTpQVkgHVdcXDQeF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

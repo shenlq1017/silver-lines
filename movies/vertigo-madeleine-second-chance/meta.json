@@ -1,0 +1,50 @@
+{
+  "id": "vertigo-madeleine-second-chance",
+  "group": "classics",
+  "film": {
+    "title": "迷魂记",
+    "year": 1958,
+    "title_en": "Vertigo",
+    "director": "阿尔弗雷德·希区柯克"
+  },
+  "lines": [
+    {
+      "text": "你是我的第二次机会。",
+      "en": "You're my second chance, Judy.",
+      "character": "John 'Scottie' Ferguson",
+      "note": "斯科蒂把朱迪改造成死去的「玛德琳」：迷魂记把哀悼做成强迫症。通行意译；对位片中身份置换主题。"
+    },
+    {
+      "text": "一个人是流浪——两个人在一起，总是要去某个地方。",
+      "character": "Madeleine",
+      "en": "Only one is a wanderer; two together are always going somewhere.",
+      "note": "玛德琳的神秘独白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "执念",
+    "悬疑",
+    "爱情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.2,
+      "votes": 160000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 430000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 94
+    },
+    "metacritic": {
+      "score": 100
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "迷魂记 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/vertigo-1958.jpg）（影片页 https://www.themoviedb.org/movie/426）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rtVwkTqllcmyY4TVOycgVBHppWf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

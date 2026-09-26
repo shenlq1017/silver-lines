@@ -1,0 +1,39 @@
+{
+  "id": "elephant-man-human",
+  "group": "classics",
+  "film": {
+    "title": "象人",
+    "year": 1980,
+    "title_en": "The Elephant Man",
+    "director": "大卫·林奇"
+  },
+  "lines": [
+    {
+      "text": "我不是动物！我是人！我是人！",
+      "en": "I am not an animal! I am a human being! I am a man!",
+      "character": "John Merrick",
+      "note": "约翰·梅里克对尊严的呐喊，迫使观看者重新理解“正常”与“人”。通行译法。"
+    },
+    {
+      "text": "没有什么会死去。",
+      "character": "John Merrick",
+      "en": "Nothing will die.",
+      "note": "梅里克引用的诗行；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "尊严",
+    "人性"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 260000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "象人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-elephant-man-1980.jpg）（影片页 https://www.themoviedb.org/movie/1955）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e1pxC4qHLL0uc1Num5jek3GXaK3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

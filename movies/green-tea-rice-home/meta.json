@@ -1,0 +1,34 @@
+{
+  "id": "green-tea-rice-home",
+  "group": "classics",
+  "film": {
+    "title": "茶泡饭的味道",
+    "year": 1952,
+    "title_en": "The Flavor of Green Tea over Rice",
+    "director": "小津安二郎"
+  },
+  "lines": [
+    {
+      "text": "家的味道，往往是最普通的那一碗。",
+      "en": "The taste of home is often the plainest bowl.",
+      "character": "佐藤夫妻 / the Satakes",
+      "note": "主题性策展句：对应小津《茶泡饭的味道》以日常饮食修复婚姻温度的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "日常",
+    "婚姻",
+    "小津"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 108
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "茶泡饭的味道 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-flavor-of-green-tea-over-rice-1952.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/55197）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/brGZLkmPzzidh2H3YHVYg3xnSdg.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

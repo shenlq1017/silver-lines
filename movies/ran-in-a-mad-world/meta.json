@@ -1,0 +1,43 @@
+{
+  "id": "ran-in-a-mad-world",
+  "group": "classics",
+  "film": {
+    "title": "乱",
+    "year": 1985,
+    "title_en": "Ran",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "在这疯狂的世界里——只有疯子才能自由。",
+      "en": "In a mad world, only the mad are sane.",
+      "character": "Kyoami",
+      "note": "弄臣狂言：乱把李尔王式的乱世收成一句反讽。通行意译（常作英文金句流传）。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "权力",
+    "疯癫"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 80000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 140000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 96
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 96
+    }
+  },
+  "still_alt": "乱 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ran-1985.jpg）（影片页 https://www.themoviedb.org/movie/11645）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3ssNAWypRl47iriwBFNx7RUEUub.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

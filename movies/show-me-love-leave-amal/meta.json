@@ -1,0 +1,33 @@
+{
+  "id": "show-me-love-leave-amal",
+  "group": "classics",
+  "film": {
+    "title": "爱现",
+    "year": 1998,
+    "title_en": "Show Me Love",
+    "director": "卢卡斯·穆迪森"
+  },
+  "lines": [
+    {
+      "text": "我受够了这个鬼地方。",
+      "en": "I’m so fucking sick of this place.",
+      "character": "埃琳 / Elin",
+      "note": "通行译法：穆迪森《爱现》（Fucking Åmål）中少女对小镇窒息的著名抱怨；瑞典语原片粗口力度强，中文取常见字幕语气，不冒充唯一逐字。"
+    }
+  ],
+  "tags": [
+    "青春",
+    "同志",
+    "小镇"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 614
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "爱现 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/show-me-love-1998.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/11634）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bajOYQZMS0bn4sOPTU86LPgHg00.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

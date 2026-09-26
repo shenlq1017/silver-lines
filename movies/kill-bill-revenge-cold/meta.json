@@ -1,0 +1,56 @@
+{
+  "id": "kill-bill-revenge-cold",
+  "group": "classics",
+  "film": {
+    "title": "杀死比尔",
+    "year": 2003,
+    "title_en": "Kill Bill: Vol. 1",
+    "director": "昆汀·塔伦蒂诺"
+  },
+  "lines": [
+    {
+      "text": "复仇是一道凉菜——冷着吃最好。",
+      "en": "Revenge is a dish best served cold.",
+      "character": "The Bride (title card / Bill)",
+      "note": "片头题记（片名卡引用的老谚语，亦是比尔世界观）：杀死比尔把复仇美学写成菜单。通行定译；本条对应 Vol.1。"
+    },
+    {
+      "text": "复仇从来不是一条直线。",
+      "character": "Hattori Hanzo",
+      "en": "Revenge is never a straight line.",
+      "note": "服部半藏的告诫；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "砰。",
+      "character": "Beatrix Kiddo",
+      "en": "Bang.",
+      "note": "五步心法后的最后一声；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动作",
+    "犯罪"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8,
+      "votes": 380000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 1300000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 85
+    },
+    "metacritic": {
+      "score": 69
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "杀死比尔 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kill-bill-vol-1-2003.jpg）（影片页 https://www.themoviedb.org/movie/24）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/p3WiF8qYS7Qp17YRYgrFh7gf9P9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

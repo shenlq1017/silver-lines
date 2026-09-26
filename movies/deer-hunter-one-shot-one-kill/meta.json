@@ -1,0 +1,39 @@
+{
+  "id": "deer-hunter-one-shot-one-kill",
+  "group": "classics",
+  "film": {
+    "title": "猎鹿人",
+    "year": 1979,
+    "title_en": "The Deer Hunter",
+    "director": "Michael Cimino"
+  },
+  "lines": [
+    {
+      "text": "一枪，一杀，不许失手。",
+      "en": "One shot. One kill. No exceptions.",
+      "character": "尼克（Nick）",
+      "note": "狩猎规则在战争中变成创伤记忆；通行字幕译法。"
+    },
+    {
+      "text": "这就是现在——这不是别的东西。这就是现在。",
+      "character": "Michael",
+      "en": "This is this. This ain't something else. This is this.",
+      "note": "猎鹿时的信条；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "创伤",
+    "友情"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 439600
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "猎鹿人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-deer-hunter-1979.jpg）（影片页 https://www.themoviedb.org/movie/11778）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

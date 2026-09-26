@@ -1,0 +1,56 @@
+{
+  "id": "angry-men-prejudice",
+  "group": "top250",
+  "film": {
+    "title": "十二怒汉",
+    "year": 1957,
+    "title_en": "12 Angry Men",
+    "director": "西德尼·吕美特"
+  },
+  "lines": [
+    {
+      "text": "偏见，总会模糊真相。",
+      "en": "Prejudice always obscures the truth.",
+      "character": "8号陪审员",
+      "note": "十二人密闭房间里的启蒙句，短而锋利。"
+    },
+    {
+      "text": "不经讨论就举手把一个孩子送上电椅，没那么容易。",
+      "character": "Juror 8",
+      "en": "It's not easy to raise my hand and send a boy off to die without talking about it first.",
+      "note": "8 号陪审员的开场立场；IMDb quotes 可查。"
+    },
+    {
+      "text": "你不会真的想杀了我吧？",
+      "character": "Juror 8",
+      "en": "You don't really mean you'll kill me, do you?",
+      "note": "3 号怒吼「我要杀了你」后的致命一问，全片转折；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "正义",
+    "理性"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.4,
+      "votes": 590000
+    },
+    "imdb": {
+      "score": 9,
+      "votes": 900000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 100
+    },
+    "metacritic": {
+      "score": 97
+    }
+  },
+  "still_alt": "十二怒汉 · 陪审室对峙宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/038-12-angry-men.jpg）（影片页 https://www.themoviedb.org/movie/389）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/p1nBxgrSu9Ex0Uvci1ItWWCWPlk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

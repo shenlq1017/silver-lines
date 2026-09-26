@@ -1,0 +1,54 @@
+{
+  "id": "totoro-laugh",
+  "group": "top250",
+  "film": {
+    "title": "龙猫",
+    "year": 1988,
+    "title_en": "となりのトトロ",
+    "director": "宫崎骏"
+  },
+  "lines": [
+    {
+      "text": "来，大家笑一个。一笑，什么可怕的事都会过去。",
+      "featured": false,
+      "en": "Everybody, try laughing. Then whatever scares you will go away!",
+      "character": "草壁靖子（母亲）",
+      "note": "龙猫少箴言金句；取母亲病床边的暖心次选，胜于网络伪宫崎骏语录。"
+    },
+    {
+      "text": "我看到龙猫了！",
+      "character": "小梅",
+      "note": "小梅向爸爸和姐姐报喜；通行配音译法。"
+    },
+    {
+      "text": "能见到龙猫，小梅真是个幸运的孩子。",
+      "character": "草壁达郎（父亲）",
+      "note": "樟树下父亲的温言；通行译法。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "童真",
+    "勇气"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 1400000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 400000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 86
+    }
+  },
+  "still_alt": "龙猫 · 乡野与龙猫意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/028-rank-028.jpg）（影片页 https://www.themoviedb.org/movie/8392）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

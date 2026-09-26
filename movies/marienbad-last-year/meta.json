@@ -1,0 +1,34 @@
+{
+  "id": "marienbad-last-year",
+  "group": "classics",
+  "film": {
+    "title": "去年在马里昂巴德",
+    "year": 1961,
+    "title_en": "Last Year at Marienbad",
+    "director": "阿伦·雷乃"
+  },
+  "lines": [
+    {
+      "text": "去年是否发生过，取决于你今夜是否愿意承认。",
+      "en": "Whether it happened last year depends on whether you will admit it tonight.",
+      "character": "X／A / X / A",
+      "note": "主题性策展句：概括雷乃／罗伯-格里耶《去年在马里昂巴德》中时间与记忆不确定性的迷宫题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "记忆",
+    "迷宫",
+    "叙述",
+    "雷乃"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 558
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "去年在马里昂巴德 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/last-year-at-marienbad-1961.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/4024）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

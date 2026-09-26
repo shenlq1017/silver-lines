@@ -1,0 +1,54 @@
+{
+  "id": "wonka-little-nonsense",
+  "group": "classics",
+  "film": {
+    "title": "查理和巧克力工厂",
+    "year": 2005,
+    "title_en": "Charlie and the Chocolate Factory",
+    "director": "蒂姆·伯顿"
+  },
+  "lines": [
+    {
+      "text": "偶尔一点荒唐，连最聪明的人也津津有味。",
+      "en": "A little nonsense now and then is relished by the wisest men.",
+      "character": "威利·旺卡 / Willy Wonka",
+      "note": "旺卡箴言式对白（伯顿版亦保留）；中文取通行译法。"
+    },
+    {
+      "text": "别忘了那个突然得到自己想要的一切的人的下场——他从此幸福地生活下去了。",
+      "character": "Willy Wonka",
+      "en": "Don't forget what happened to the man who suddenly got everything he always wanted... He lived happily ever after.",
+      "note": "旺卡对查理的机锋；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "拿全世界所有的巧克力来换，我也不换我的家人。",
+      "character": "Charlie Bucket",
+      "en": "I wouldn't give up my family for anything. Not for all the chocolate in the world.",
+      "note": "查理的选择；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "糖果不需要什么意义——这正是它成为糖果的原因。",
+      "character": "Willy Wonka",
+      "en": "Candy doesn't need a point. That's why it's candy.",
+      "note": "旺卡的糖果哲学；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "荒诞",
+    "寓言"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 16405
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "查理和巧克力工厂 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/charlie-and-the-chocolate-factory-2005.jpg）（影片页 https://www.themoviedb.org/movie/118）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

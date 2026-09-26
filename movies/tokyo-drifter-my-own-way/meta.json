@@ -1,0 +1,33 @@
+{
+  "id": "tokyo-drifter-my-own-way",
+  "group": "classics",
+  "film": {
+    "title": "东京流浪者",
+    "year": 1966,
+    "title_en": "Tokyo Drifter",
+    "director": "铃木清顺"
+  },
+  "lines": [
+    {
+      "text": "我走自己的路。",
+      "en": "I walk my own path.",
+      "character": "辰",
+      "note": "策展意译：对应辰在帮派秩序崩解后坚持自我规则的姿态，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "黑帮",
+    "新浪潮",
+    "日本电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 5000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "东京流浪者 · TMDB 宣传静帧（3648×2052）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/tokyo-drifter-1966.jpg）（影片页 https://www.themoviedb.org/movie/45706）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bhAuNmyb3noOMeQ9kCy6X6HnMgZ.jpg（3648×2052）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

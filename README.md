@@ -1,42 +1,49 @@
-# 银幕金句 / Silver Lines
+# 片语 / Silver Lines
 
-电影质感的银幕金句策展站 · **金句 951 · Classics C29** · Phase C29（Top249 + Classics×702）。
+光影说过的好句子 · **收录 951 句台词**（豆瓣 Top249 + 影史经典 702 部，各 1 条主台词）。
 
-暗色胶片风、静帧叠字、评分徽章可视化。无播放器、无盗链；图片均为相对路径本地氛围示意 PNG（非原片截帧）。
+台词是主体，电影只是出处。浅色书卷风摘抄站：全屏静帧叠一句台词、评分徽章为策展快照。无播放器、无盗链；图片均为本地物料（非逐句对白精确截帧）。
 
-## 状态 · C29
+## 本站是什么
 
-| 项 | 说明 |
-|----|------|
-| 数据 | `data/quotes.json` **951** 条 `status=published`（Top249 + Classics C1×25 + C2×25 + C3×25 + C4×25 + C5×25 + C6×25 + C7×25 + C8×25 + C9×25 + C10×25 + C11×25 + C12×25 + C13×25 + C14×17 + C15×25 + C16×25 + C17×25 + C18×25 + C19×21 + C20×25 + C21×25 + C22×25 + C23×20 + C24×25 + C25×25 + C26×25 + C27×19 + C28×25 + C29×25） |
-| 片名 | Top249 对齐豆瓣 Top250 意图截取（名次 1–250 除 108 茶馆；冻结日 2026-09-25）；另含 Classics C1+C2+C3+C4+C5 batch-jia + C6+C7+C8+C9+C10+C11 batch-jia2 + C12+C13+C14 batch-yi + C15+C16+C17+C18+C19 batch-bing + C20+C21+C22+C23 batch-yi2 + C24+C25 batch-yi id-repair + C26 batch-bing id-repair + C27 quotes-only（bing×13+yi×6）+ C28 leftovers quotes-only（jia×20+yi×5）+ C29 ding quotes-only（ding×25）影史经典共 702 部（见 `data/source.json` → `c1` / `c2` / `c3` / `c4` / `c5` / `c6` / `c7` / `c8` / `c9` / `c10` / `c11` / `c12` / `c13` / `c14` / `c15` / `c16` / `c17` / `c18` / `c19` / `c20` / `c21` / `c22` / `c23` / `c24` / `c25` / `c26` / `c27` / `c28` / `c29`） |
-| 字段 | `id`, `line`, `film_title`, `year`, `tags[]`, `poster`, `still`, `still_alt`, `status`, `ratings`（必有 `imdb` + `as_of`；豆瓣尽量有；RT/MC 有则显） |
-| 可选 | `featured`, `curator_note`, `line_en`, `film_title_en`, `license_note`, `character`, `director` |
-| 图像 | `assets/posters/{id}.png` · `assets/stills/{id}.png`；`license_note` 标明示意非原片截帧 |
-| 首页 | `featured=true` 精选 3～5 条 |
+刷得越多，记住越少。片语以「一句可核对的银幕对白」为最小单位，给台词一份可以停下来的摘抄本——不是观后感，不是主题概括，每句都是电影里真的被说出来的话。
 
-### 字段说明（产品对齐）
+- **今日一句**：每天呈现同一句；**随机来一句**：让光影替你抽签
+- **片语集**：按分组、标签、年代筛选，支持搜索与排序
+- 下一步：每片多句深挖、台词排行（计划见 [`docs/ROADMAP.md`](docs/ROADMAP.md)）
 
-- **line**：金句中文正文（主字段）
-- **film_title**：中文片名
-- **ratings.imdb**：必填；`douban` 强建议；`rotten_tomatoes` / `metacritic` 有则前端详情显示、无则隐藏
-- **ratings.as_of**：有评分必填；**source_note**=策展快照（禁止爬虫实时抓）
+## 数据驱动（movies/ 文件夹格式）
 
-> M0 曾用 `quote` / `movie`。M1 已改为 `line` / `film_title`；`site.js` 仍对旧键做只读兼容回退，新数据请勿再写旧键。
+一部影片一个文件夹，**新增影片 = 放文件夹 + 跑 build**：
+
+```
+movies/{id}/
+├── meta.json    # 固定格式：film / lines[] / tags / group / ratings
+├── cover.jpg    # 封面海报（宽 ≥780）
+└── still.jpg    # 静帧（宽边 ≥1920）
+```
+
+```bash
+node scripts/build.mjs     # 扫描 movies/ → 校验 → 合并生成 data/quotes.json → 同步详情壳
+```
+
+- `lines[]` 为多台词预留：现阶段仅上架主台词（featured 或首条），全库 featured 恰好 5
+- `group`：暂允许 `top250` / `classics`；存量条目迁移完成后统一补齐（计划见 ROADMAP Part 2）
+- meta.json 固定格式与校验规则详见 [`docs/data-driven.md`](docs/data-driven.md)
 
 ## 本地预览
 
 必须从**站点根**用本地 HTTP 服务打开（`fetch` 加载 JSON，`file://` 会失败）：
 
 ```bash
-cd /workspace/silver-lines
+cd silver-lines
 python3 -m http.server 8080
 ```
 
 | 页面 | URL |
 |------|-----|
 | 首页 | http://127.0.0.1:8080/ |
-| 金句列表 | http://127.0.0.1:8080/quotes/ |
+| 片语集 | http://127.0.0.1:8080/quotes/ |
 | 详情样例 | http://127.0.0.1:8080/quotes/shawshank-hope/ |
 | 关于 | http://127.0.0.1:8080/about/ |
 
@@ -44,33 +51,38 @@ python3 -m http.server 8080
 
 ```
 silver-lines/
-├── index.html
-├── about/index.html
+├── index.html / about/ / quotes/
+│   └── index.html            # 片语集（摘抄卡 + 筛选）
 ├── quotes/
-│   ├── index.html
-│   ├── _detail-template.html   # 详情壳单一模板源
-│   └── {id}/index.html         # 由 sync 脚本生成（路径兼容旧链接）
+│   ├── _detail-template.html  # 详情壳单一模板源（改完跑 sync）
+│   └── {id}/index.html        # 由脚本生成（路径兼容旧链接）
+├── movies/                    # ★ 唯一数据源：每片一个文件夹（10 部样例已迁移）
 ├── data/
-│   ├── quotes.json          # published 金句
-│   └── source.json          # 来源 / 冻结日 / Top249 名单 / Classics C1+C2+C3+C4+C5+C6+C7+C8+C9+C10+C11+C12+C13+C14+C15+C16+C17+C18+C19+C20+C21+C22+C23+C24+C25+C26+C27+C28+C29
+│   ├── quotes.json            # build 生成物（legacy 存量 + movies/ 合并）
+│   ├── source.json / top250.json
 ├── assets/
 │   ├── css/style.css
 │   ├── js/ratings.js
 │   ├── js/site.js
 │   ├── posters/*
-│   └── stills/*
+│   ├── stills/*
+│   └── audio/                 # 背景音乐（见 assets/audio/ATTRIBUTION.md）
 ├── scripts/
-│   ├── sync-quote-pages.mjs # 按 published id 生成/对齐详情壳
-│   └── check-quotes-only.py # NEW draft quotes-only 门禁（merge 前必跑）
+│   ├── build.mjs              # 扫描 movies/ + 生成 quotes.json + 同步详情壳
+│   ├── sync-quote-pages.mjs   # 按 published id 生成/对齐详情壳
+│   └── check-quotes-only.py   # 对白核对门禁（merge 前必跑）
 ├── docs/
-│   ├── 影片搜集指南.md      # 候选→seed→静帧→金句→并入（含 TMDB_API_KEY 申请，不含真实密钥）
-│   ├── data-driven.md       # 扩量步骤
-│   └── quotes-policy.md     # 仅可核对对白；禁主题性策展句
-├── .env.example             # 仅变量名占位；真实 Key 勿提交
+│   ├── 影片搜集指南.md        # 候选→seed→静帧→金句→并入（含 TMDB_API_KEY 申请，不含真实密钥）
+│   ├── data-driven.md         # 扩量步骤
+│   └── quotes-policy.md       # 仅可核对对白；禁主题性策展句
+├── .env.example               # 仅变量名占位；真实 Key 勿提交
 └── README.md
 ```
 
-## 上架新金句（数据驱动）
+## 台词口径（硬规则）
+
+- **可核对的银幕原声对白**（逐字，非概括）；核不到出处不入库。
+- 政策说明：[`docs/quotes-policy.md`](docs/quotes-policy.md)；路线图：[`docs/ROADMAP.md`](docs/ROADMAP.md)。
 
 片源搜集与备料全流程见 [`docs/影片搜集指南.md`](docs/影片搜集指南.md)（含 `TMDB_API_KEY` 申请方式；**真实密钥勿提交**）。
 
@@ -90,8 +102,8 @@ node scripts/sync-quote-pages.mjs
 
 ## 版权
 
-- 金句：公映对白引用，仅策展展示。
-- 海报 / 静帧：自绘氛围 PNG 示意，**非原片截帧**；待合规剧照替换。
+- 台词：公映对白引用，仅策展展示。
+- 海报 / 静帧：本地缓存物料，出处见各条 `license_note`；待合规剧照替换。
 - 评分：策展快照，非官方合作。详见 `about/`。
 
 ## 推仓

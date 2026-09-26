@@ -1,0 +1,33 @@
+{
+  "id": "charulata-lonely",
+  "group": "classics",
+  "film": {
+    "title": "查鲁拉达",
+    "year": 1964,
+    "title_en": "Charulata",
+    "director": "萨蒂亚吉特·雷伊"
+  },
+  "lines": [
+    {
+      "text": "我很孤独。",
+      "en": "I am lonely.",
+      "character": "查鲁拉塔",
+      "note": "查鲁拉塔被困在婚姻与书写欲望之间的通行意译；简短句保留雷伊的内敛语气。"
+    }
+  ],
+  "tags": [
+    "女性",
+    "孤独",
+    "爱情"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 18000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "查鲁拉达 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/charulata-1964.jpg）（影片页 https://www.themoviedb.org/movie/35790）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/y8kGw0FMgzDuf7LsJOq6hoMuvQy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

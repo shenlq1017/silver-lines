@@ -1,0 +1,57 @@
+{
+  "id": "se7en-whats-in-box",
+  "group": "top250",
+  "film": {
+    "title": "七宗罪",
+    "year": 1995,
+    "title_en": "Se7en",
+    "director": "大卫·芬奇"
+  },
+  "lines": [
+    {
+      "text": "盒子里是什么？",
+      "en": "What's in the box?",
+      "character": "Detective David Mills",
+      "note": "荒原交货的三字质问：七宗罪收束成一个看不见的翻盖，文化模因级。"
+    },
+    {
+      "text": "海明威写过：世界是个好地方，值得为之奋斗。我同意后半句。",
+      "character": "Detective Somerset",
+      "en": "Ernest Hemingway once wrote, 'The world is a fine place and worth fighting for.' I agree with the second part.",
+      "note": "萨默塞特的开场独白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "真希望我这一生，能活得稍微不同一点。",
+      "character": "John Doe",
+      "en": "I wish I could have lived my life a little differently.",
+      "note": "杜克的最后自白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "恐惧",
+    "结局"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 1100000
+    },
+    "imdb": {
+      "score": 8.6,
+      "votes": 1900000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 83
+    },
+    "metacritic": {
+      "score": 65
+    }
+  },
+  "still_alt": "七宗罪 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/098-se7en.jpg）（影片页 https://www.themoviedb.org/movie/807）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

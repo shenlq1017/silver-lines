@@ -1,0 +1,48 @@
+{
+  "id": "sunny-we-were-sunshine",
+  "group": "top250",
+  "film": {
+    "title": "阳光姐妹淘",
+    "year": 2011,
+    "title_en": "Sunny",
+    "director": "姜炯哲"
+  },
+  "lines": [
+    {
+      "text": "我们曾是彼此的阳光。",
+      "en": "We were each other's sunshine.",
+      "character": "题旨 / 姐妹淘",
+      "note": "片名 Sunny 的题旨化一句：中年重聚把校园外号重新点亮。非逐字对白，边界已标。"
+    },
+    {
+      "text": "我，以前真的很漂亮吧？",
+      "character": "春花",
+      "note": "病床前姐妹团哭笑不得的名场面；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "友情",
+    "青春",
+    "重逢"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 500000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 15000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 72
+    }
+  },
+  "still_alt": "阳光姐妹淘 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/168-rank-168.jpg）（影片页 https://www.themoviedb.org/movie/77117）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gPWoo4RTO1Hrjp0ka0QcyPn9zUm.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

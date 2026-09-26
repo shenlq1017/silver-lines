@@ -1,0 +1,34 @@
+{
+  "id": "assassination-mission",
+  "group": "classics",
+  "film": {
+    "title": "暗杀",
+    "year": 2015,
+    "title_en": "Assassination",
+    "director": "崔东勋"
+  },
+  "lines": [
+    {
+      "text": "暗杀名单上的人，未必比执行的人更知道自己为何而战。",
+      "en": "Those on the assassination list may know no better than the killers why they are fighting.",
+      "character": "安玉润／韩国独立军等 / Ahn Ok-yun et al.",
+      "note": "主题性策展句：概括崔东勋《暗杀》中抗日暗杀行动与身份错位的类型群像题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "抗日",
+    "暗杀",
+    "群像",
+    "崔东勋"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 290
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "暗杀 · TMDB 宣传静帧（2048×1153）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/assassination-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/291549）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tktmRVVTmHUaspFGHirEsdVfrB1.jpg（2048×1153）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "slumdog-it-is-written",
+  "group": "top250",
+  "film": {
+    "title": "贫民窟的百万富翁",
+    "year": 2008,
+    "title_en": "Slumdog Millionaire",
+    "director": "丹尼·博伊尔"
+  },
+  "lines": [
+    {
+      "text": "一切都是写好的。",
+      "en": "It is written.",
+      "character": "Jamal Malik / 旁白收束",
+      "note": "答题与重逢共用同一句宿命：贫民窟的百万富翁用「写好的」把贫民窟编年史收成童话，也收成争议。短句，通行定译。"
+    },
+    {
+      "text": "这是我们的命运。",
+      "character": "Jamal Malik",
+      "en": "It's our destiny.",
+      "note": "站台重逢时对拉媞卡的话；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "命运",
+    "爱情",
+    "孟买"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 680000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 900000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 91
+    },
+    "metacritic": {
+      "score": 86
+    }
+  },
+  "still_alt": "贫民窟的百万富翁 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/212-slumdog-millionaire.jpg）（影片页 https://www.themoviedb.org/movie/12405）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

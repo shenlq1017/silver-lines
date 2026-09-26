@@ -1,0 +1,50 @@
+{
+  "id": "room-so-much-world",
+  "group": "top250",
+  "film": {
+    "title": "房间",
+    "year": 2015,
+    "title_en": "Room",
+    "director": "伦尼·阿伯拉罕森"
+  },
+  "lines": [
+    {
+      "text": "外面有好多好多地方。",
+      "en": "There's so much of place in the world.",
+      "character": "Jack",
+      "note": "房间外的第一课不是地理，是「地方」一词开始膨胀：Room 用童声收束劫后余生。通行定译。"
+    },
+    {
+      "text": "再见，房间。",
+      "character": "Jack",
+      "en": "Goodbye, Room.",
+      "note": "杰克离开前对「房间」的告别，全片收束；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "母子",
+    "自由",
+    "创伤"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 520000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 480000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 86
+    }
+  },
+  "still_alt": "房间 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/250-room.jpg）（影片页 https://www.themoviedb.org/movie/264644）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cGV6R2vzT4TYIabf3JgmrOISQ0y.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

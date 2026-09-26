@@ -1,0 +1,57 @@
+{
+  "id": "green-book-first-move",
+  "group": "top250",
+  "film": {
+    "title": "绿皮书",
+    "year": 2018,
+    "title_en": "Green Book",
+    "director": "彼得·法拉利"
+  },
+  "lines": [
+    {
+      "text": "这世上到处都是寂寞的人，等着别人迈出第一步。",
+      "en": "The world is full of lonely people waiting to make the first move.",
+      "character": "Tony Lip",
+      "note": "绿皮书的人情公式：寂寞普遍，勇气稀缺。"
+    },
+    {
+      "text": "因为只有天才是不够的——改变人心，需要勇气。",
+      "character": "Don Shirley",
+      "en": "Because genius is not enough. It takes courage to change people's hearts.",
+      "note": "唐的雨夜爆发；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "如果我不够黑，也不够白——那你告诉我，托尼，我到底是什么？",
+      "character": "Don Shirley",
+      "en": "If I'm not black enough and if I'm not white enough... then tell me, Tony, what am I?",
+      "note": "唐的身份之问；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "种族",
+    "友谊"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 1900000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 580000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 77
+    },
+    "metacritic": {
+      "score": 69
+    }
+  },
+  "still_alt": "绿皮书 · 公路与双人同行宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/050-green-book.jpg）（影片页 https://www.themoviedb.org/movie/490132）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

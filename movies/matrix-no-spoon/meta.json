@@ -1,0 +1,71 @@
+{
+  "id": "matrix-no-spoon",
+  "group": "top250",
+  "film": {
+    "title": "黑客帝国",
+    "year": 1999,
+    "title_en": "The Matrix",
+    "director": "沃卓斯基姐妹"
+  },
+  "lines": [
+    {
+      "text": "世上本没有勺子。",
+      "en": "There is no spoon.",
+      "character": "匙孩（Spoon Boy）",
+      "note": "黑客帝国认知翻转的最小完整句，弯匙一语道破矩阵。"
+    },
+    {
+      "text": "我只能给你看门在哪——走过去的，只能是你自己。",
+      "character": "Morpheus",
+      "en": "I can only show you the door. You're the one that has to walk through it.",
+      "note": "墨菲斯的点拨；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "知道路，和走路，是两回事。",
+      "character": "Morpheus",
+      "en": "There's a difference between knowing the path and walking the path.",
+      "note": "墨菲斯的补充；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "无知是福。",
+      "character": "Cypher",
+      "en": "Ignorance is bliss.",
+      "note": "赛弗的背叛逻辑；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "永远别让人类去干机器的活。",
+      "character": "Agent Smith",
+      "en": "Never send a human to do a machine's job.",
+      "note": "史密斯的讽刺；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "哲学",
+    "觉醒"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 960000
+    },
+    "imdb": {
+      "score": 8.7,
+      "votes": 2100000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 83
+    },
+    "metacritic": {
+      "score": 73
+    }
+  },
+  "still_alt": "黑客帝国 · 矩阵绿码与都市意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/054-the-matrix.jpg）（影片页 https://www.themoviedb.org/movie/603）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

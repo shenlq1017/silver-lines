@@ -1,0 +1,33 @@
+{
+  "id": "shanghai-flowers-good-client",
+  "group": "classics",
+  "film": {
+    "title": "海上花",
+    "year": 1998,
+    "title_en": "Flowers of Shanghai",
+    "director": "侯孝贤"
+  },
+  "lines": [
+    {
+      "text": "做倌人最难的，是遇着一个好客人。",
+      "en": "The hardest thing about being a courtesan is finding a good client.",
+      "character": "沈小红侧 / 青楼对白",
+      "note": "片中关于倌人与客人关系的通行引录对白；侯孝贤以吴语长镜呈现青楼秩序，金句密度低，取此句作中文语境入口。"
+    }
+  ],
+  "tags": [
+    "晚清",
+    "规矩",
+    "上海"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 5000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "海上花 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/flowers-of-shanghai-1998.jpg）（影片页 https://www.themoviedb.org/movie/45935）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/Anxhh4DeakufTyCdjpuVGF08Gpq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

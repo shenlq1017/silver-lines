@@ -1,0 +1,56 @@
+{
+  "id": "gbu-there-are-two-kinds",
+  "group": "classics",
+  "film": {
+    "title": "黄金三镖客",
+    "year": 1967,
+    "title_en": "Il buono, il brutto, il cattivo",
+    "director": "赛尔乔·莱翁内"
+  },
+  "lines": [
+    {
+      "text": "世界上有两种人，我的朋友——有枪的，和要挖的。你，挖。",
+      "en": "There are two kinds of people in the world, my friend: those with a loaded gun, and those who dig. You dig.",
+      "character": "Blondie",
+      "note": "坟场对峙：黄金三镖客把枪与铲子做成文明的二分法。通行意译。"
+    },
+    {
+      "text": "该开枪的时候就开枪，别废话。",
+      "character": "Tuco",
+      "en": "When you have to shoot, shoot. Don't talk.",
+      "note": "图科干掉追杀者后的名言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "靠干活谋生的人，为什么还要拼命干活？",
+      "character": "Tuco",
+      "en": "If you work for a living, why do you kill yourself working?",
+      "note": "图科的流浪哲学；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "西部",
+    "权力",
+    "讽喻"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 220000
+    },
+    "imdb": {
+      "score": 8.8,
+      "votes": 800000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 97
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 90
+    }
+  },
+  "still_alt": "黄金三镖客 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/il-buono-il-brutto-il-cattivo-1967.jpg）（影片页 https://www.themoviedb.org/movie/429）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "end-summer-family-ends",
+  "group": "classics",
+  "film": {
+    "title": "小早川家之秋",
+    "year": 1961,
+    "title_en": "The End of Summer",
+    "director": "小津安二郎"
+  },
+  "lines": [
+    {
+      "text": "这个家，也就这样了。",
+      "en": "This family — this is how it ends.",
+      "character": "小早川家众人 / The Kohayagawa family",
+      "note": "策展意译：概括《小早川家之秋》中酿造厂家族在家长逝去前后的散场感；小津对白克制，不冒充逐字引文。"
+    }
+  ],
+  "tags": [
+    "家族",
+    "告别",
+    "小津"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 113
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "小早川家之秋 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-end-of-summer-1961.jpg）（影片页 https://www.themoviedb.org/movie/28273）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/53uPO1yAWyQpevkmpfw8AqpjWXx.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

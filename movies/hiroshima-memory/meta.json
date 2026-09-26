@@ -1,0 +1,34 @@
+{
+  "id": "hiroshima-memory",
+  "group": "classics",
+  "film": {
+    "title": "广岛之恋",
+    "year": 1959,
+    "title_en": "Hiroshima Mon Amour",
+    "director": "阿伦·雷乃"
+  },
+  "lines": [
+    {
+      "text": "你什么也没看见——在广岛。可记忆偏要你看见。",
+      "en": "You saw nothing — in Hiroshima. And memory insists that you did.",
+      "character": "她／他 / Elle / Lui",
+      "note": "主题性策展句：呼应雷乃／杜拉斯《广岛之恋》开场「你在广岛什么也没看见」的经典对位，策展意译而非逐字核对全片。"
+    }
+  ],
+  "tags": [
+    "记忆",
+    "广岛",
+    "爱欲",
+    "雷乃"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 957
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "广岛之恋 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/hiroshima-mon-amour-1959.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/5544）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wM3ITI9a7u4PMqglkZ0bQH0sZdz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

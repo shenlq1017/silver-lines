@@ -1,0 +1,55 @@
+{
+  "id": "ai-place-dreams-born",
+  "group": "top250",
+  "film": {
+    "title": "人工智能",
+    "year": 2001,
+    "title_en": "A.I. Artificial Intelligence",
+    "director": "史蒂文·斯皮尔伯格"
+  },
+  "lines": [
+    {
+      "text": "他生平第一次，去了梦开始的地方。",
+      "en": "And for the first time in his life, he went to that place where dreams are born.",
+      "character": "旁白",
+      "note": "机器男孩等到世界尽头：人工智能用旁白童话句，把库布里克遗稿收成一次被许可的睡眠。通行定译。"
+    },
+    {
+      "text": "我存在。我曾存在。",
+      "character": "Gigolo Joe",
+      "en": "I am. I was.",
+      "note": "乔被吊走前的最后一句话；IMDb quotes 可查。"
+    },
+    {
+      "text": "请把我变成真的。请让我成为一个真正的男孩。",
+      "character": "David",
+      "en": "Please make me real. Please make me a real boy.",
+      "note": "海底望向蓝仙女时的执念重复；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "亲情",
+    "童话"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 460000
+    },
+    "imdb": {
+      "score": 7.2,
+      "votes": 340000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 76
+    },
+    "metacritic": {
+      "score": 65
+    }
+  },
+  "still_alt": "人工智能 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/225-a-i-artificial-intelligence.jpg）（影片页 https://www.themoviedb.org/movie/644）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hWykOnE53A7qPe2RNrGF3LvRzTr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

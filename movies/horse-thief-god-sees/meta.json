@@ -1,0 +1,33 @@
+{
+  "id": "horse-thief-god-sees",
+  "group": "classics",
+  "film": {
+    "title": "盗马贼",
+    "year": 1986,
+    "title_en": "The Horse Thief",
+    "director": "田壮壮"
+  },
+  "lines": [
+    {
+      "text": "神看得见。",
+      "en": "God sees.",
+      "character": "旁白/仪式语境 / Ritual voice",
+      "note": "策展意译：从盗马贼被宗族放逐与宗教仪式中提炼监督性“看见”；影片对白极少，不冒充逐字引文。"
+    }
+  ],
+  "tags": [
+    "信仰",
+    "流放",
+    "西藏"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.6,
+      "votes": 56
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "盗马贼 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-horse-thief-1986.jpg）（影片页 https://www.themoviedb.org/movie/42018）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3SrVa2yrtj7SeK794vLDl5CI8CZ.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

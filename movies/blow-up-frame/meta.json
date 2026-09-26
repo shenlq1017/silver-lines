@@ -1,0 +1,34 @@
+{
+  "id": "blow-up-frame",
+  "group": "classics",
+  "film": {
+    "title": "放大",
+    "year": 1966,
+    "title_en": "Blow-Up",
+    "director": "米开朗基罗·安东尼奥尼"
+  },
+  "lines": [
+    {
+      "text": "放大以后看见的，不一定是真相，更像是你愿意相信的空白。",
+      "en": "What enlargement reveals is not necessarily truth — more like a blank you are willing to believe.",
+      "character": "托马斯 / Thomas",
+      "note": "主题性策展句：概括安东尼奥尼《放大》中摄影取证与看见／真相错位的现代性谜题，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "摄影",
+    "真相",
+    "伦敦",
+    "安东尼奥尼"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 1422
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "放大 · TMDB 宣传静帧（1966×1106）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/blow-up-1966.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/1052）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iO2Yn75mqOB4KjVTsxnSoTok0Uj.jpg（1966×1106）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

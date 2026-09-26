@@ -1,0 +1,49 @@
+{
+  "id": "mary-max-thank-friend",
+  "group": "top250",
+  "film": {
+    "title": "玛丽和麦克斯",
+    "year": 2009,
+    "title_en": "Mary and Max",
+    "director": "亚当·艾略特"
+  },
+  "lines": [
+    {
+      "text": "谢谢你做我的朋友。",
+      "en": "Thank you for being my friend.",
+      "character": "Max / Mary",
+      "note": "粘土世界里最轻也最重的一句：跨洋笔友把孤独写成可投递的温度。"
+    },
+    {
+      "text": "你是我最好的朋友，我唯一的朋友。",
+      "character": "Max Horovitz",
+      "en": "You are my best friend. You are my only friend.",
+      "note": "马克思给玛丽的信；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "书信",
+    "孤独"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 650000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 190000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 88
+    }
+  },
+  "still_alt": "玛丽和麦克斯 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/156-mary-and-max.jpg）（影片页 https://www.themoviedb.org/movie/24238）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3EbNHb0SdbpdKr787llgpktfbZp.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "alien-admire-purity",
+  "group": "classics",
+  "film": {
+    "title": "异形",
+    "year": 1979,
+    "title_en": "Alien",
+    "director": "雷德利·斯科特"
+  },
+  "lines": [
+    {
+      "text": "我欣赏它的纯粹。一个幸存者——不被良心、悔恨或道德幻觉所遮蔽。",
+      "en": "I admire its purity. A survivor... unclouded by conscience, remorse, or delusions of morality.",
+      "character": "Ash",
+      "note": "合成人阿什对异形的礼赞：异形把公司逻辑说成物种赞美。与 C1《异形2》不同片；片名用简体「异形」（batch 繁体「異形」已统一）。"
+    },
+    {
+      "text": "你还是不明白自己在对付什么，对吧？完美的有机体。它结构之完美，只有它的敌意能与之相称。",
+      "character": "Ash",
+      "en": "You still don't understand what you're dealing with, do you? A perfect organism. Its structural perfection is matched only by its hostility.",
+      "note": "机械臂失控前对雷普利的自白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "关于你们的胜算，我无法对你撒谎。不过——我深表同情。",
+      "character": "Ash",
+      "en": "I can't lie to you about your chances, but... you have my sympathies.",
+      "note": "被断头后对船员的著名告别；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "这里是雷普利，诺斯托罗莫号最后的幸存者，结束记录。",
+      "character": "Ripley",
+      "en": "This is Ripley, last survivor of the Nostromo, signing off.",
+      "note": "片尾救生舱录音独白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "恐怖"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.2,
+      "votes": 320000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 970000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 89
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "异形 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/alien-1979.jpg）（影片页 https://www.themoviedb.org/movie/348）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "kwai-madness-war",
+  "group": "classics",
+  "film": {
+    "title": "桂河大桥",
+    "year": 1957,
+    "title_en": "The Bridge on the River Kwai",
+    "director": "大卫·里恩"
+  },
+  "lines": [
+    {
+      "text": "疯狂……疯狂……战争就是这样。",
+      "en": "Madness! Madness!",
+      "character": "Major Clipton",
+      "note": "桥塌之后 Clipton 的一声：桂河大桥把军人荣誉的悖论收成「疯狂」。通行定译。"
+    },
+    {
+      "text": "我都做了什么？",
+      "character": "Colonel Nicholson",
+      "en": "What have I done?",
+      "note": "尼科尔森扑上引爆器前的最后清醒；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "在你们的工作里快乐吧。",
+      "character": "Colonel Nicholson",
+      "en": "Be happy in your work.",
+      "note": "大桥通车仪式致辞的点题句；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "疯狂",
+    "荣誉"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 90000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 230000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 96
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 87
+    }
+  },
+  "still_alt": "桂河大桥 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-bridge-on-the-river-kwai-1957.jpg）（影片页 https://www.themoviedb.org/movie/826）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/r2MkkyGJSxnWVn9qujSBZS63jEA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "bukchon-revisit",
+  "group": "classics",
+  "film": {
+    "title": "北村方向",
+    "year": 2011,
+    "title_en": "The Day He Arrives",
+    "director": "洪常秀"
+  },
+  "lines": [
+    {
+      "text": "生活里许多事无缘无故地发生。我们挑出几件，连成一条思路，就称之为理由。",
+      "en": "Random things happen for no reason in our lives. We choose a few and form a line of thought made by all these dots, which we call a reason.",
+      "character": "成俊 / Seong-jun",
+      "note": "成俊在 Novel 酒吧谈巧合时的对白；影评引述英文字幕通行译法（The Cinematograph 等）。"
+    }
+  ],
+  "tags": [
+    "循环",
+    "雪夜",
+    "对话",
+    "洪常秀"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 85
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "北村方向 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-day-he-arrives-2011.jpg，932×1398）（影片页 https://www.themoviedb.org/movie/85525）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3q1TT0LQANOtDdN3NIuUm4KT0e2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

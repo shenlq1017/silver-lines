@@ -1,0 +1,33 @@
+{
+  "id": "samurai-cooking-board",
+  "group": "classics",
+  "film": {
+    "title": "武士的食谱",
+    "year": 2013,
+    "title_en": "A Tale of Samurai Cooking",
+    "director": "朝原雄三"
+  },
+  "lines": [
+    {
+      "text": "刀可以放下，砧板前的人仍要立身。",
+      "en": "You may lay down the sword — but at the cutting board, a person must still stand upright.",
+      "character": "题眼 / Cuisine ethic",
+      "note": "策展意译：概括朝原雄三《武士的食谱》弃刀从厨的立身伦理；明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "武士",
+    "料理",
+    "日常"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 22
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "武士的食谱 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-tale-of-samurai-cooking-2013.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/208986）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/l37eLB7GlBKTrznuhg0WFjYhteT.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

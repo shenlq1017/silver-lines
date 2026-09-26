@@ -1,0 +1,33 @@
+{
+  "id": "touch-of-zen-no-desire-no-fear",
+  "group": "classics",
+  "film": {
+    "title": "侠女",
+    "year": 1971,
+    "title_en": "A Touch of Zen",
+    "director": "胡金铨"
+  },
+  "lines": [
+    {
+      "text": "无欲，便无所畏惧。",
+      "en": "Without desire, there is nothing to fear.",
+      "character": "慧圆",
+      "note": "影片禅宗伦理的通行意译；以简洁命题连接隐逸、正义与内在自由。"
+    }
+  ],
+  "tags": [
+    "武侠",
+    "禅意",
+    "自由"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 11000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "侠女 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-touch-of-zen-1971.jpg）（影片页 https://www.themoviedb.org/movie/44154）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2YizR2BtP21cy9AIYCOE9s2WVhH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

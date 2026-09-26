@@ -1,0 +1,34 @@
+{
+  "id": "dodeska-den-tram",
+  "group": "classics",
+  "film": {
+    "title": "电车狂",
+    "year": 1970,
+    "title_en": "Dodes'ka-den",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "电车开往哪儿不重要，重要的是它还在开。",
+      "en": "It does not matter where the tram goes — only that it still runs.",
+      "character": "六ちゃん / Rokuchan",
+      "note": "主题性策展句：对应黑泽明《电车狂》中智障少年幻想驾驶电车「どですかでん」的核心意象，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "贫民窟",
+    "幻想",
+    "群像",
+    "黑泽明"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 162
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "电车狂 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dodes-ka-den-1970.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/33205）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7NpKHJXbZxNzQK4K1vFO1G3CcqP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

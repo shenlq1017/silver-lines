@@ -1,0 +1,43 @@
+{
+  "id": "hotaru-touch-vanish",
+  "group": "top250",
+  "film": {
+    "title": "萤火之森",
+    "year": 2011,
+    "title_en": "Hotarubi no Mori e",
+    "director": "大森贵弘"
+  },
+  "lines": [
+    {
+      "text": "人一旦碰触到妖怪，妖怪就会消失。",
+      "en": "If a human touches a spirit, that spirit will disappear.",
+      "character": "银",
+      "note": "夏日禁忌写成整部片子的引力：碰触即消散，萤火之森把「不能爱」变成自然法则。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "奇幻",
+    "别离"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 15000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 72
+    }
+  },
+  "still_alt": "萤火之森 · 宣传静帧（3456×1944）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/151-hotarubi-no-mori-e.jpg）（影片页 https://www.themoviedb.org/movie/92321）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg（3456×1944）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

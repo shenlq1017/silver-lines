@@ -1,0 +1,49 @@
+{
+  "id": "iamsam-not-perfect-parent",
+  "group": "top250",
+  "film": {
+    "title": "我是山姆",
+    "year": 2001,
+    "title_en": "I Am Sam",
+    "director": "杰西·尼尔森"
+  },
+  "lines": [
+    {
+      "text": "你不必做一个完美的父母，才能做一个好父母。",
+      "en": "You don't need to be a perfect parent to be a good parent.",
+      "character": "Rita Harrison / 题旨",
+      "note": "法庭与抚养权辩论的核芯：智商量表测不出山姆式的爱。中文为通行定译/题旨边界。"
+    },
+    {
+      "text": "你需要的只是爱。",
+      "character": "Sam Dawson",
+      "en": "All you need is love.",
+      "note": "山姆反复引用披头士的人生答案；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "亲情",
+    "司法",
+    "爱"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 550000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 160000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 35
+    },
+    "metacritic": {
+      "score": 28
+    }
+  },
+  "still_alt": "我是山姆 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/167-i-am-sam.jpg）（影片页 https://www.themoviedb.org/movie/10950）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/41lrEzK0XwH6mTQMVYR34y8UYX2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "skyfall-old-ways",
+  "group": "classics",
+  "film": {
+    "title": "007：大破天幕杀机",
+    "year": 2012,
+    "title_en": "Skyfall",
+    "director": "萨姆·门德斯"
+  },
+  "lines": [
+    {
+      "text": "有时候，老办法才是最好的办法。",
+      "en": "Sometimes the old ways are the best.",
+      "character": "Kincade / 金凯德",
+      "note": "天幕庄园枪战前的通行短句；亦呼应整部「回归原点」主题。"
+    },
+    {
+      "text": "每个人都需要个爱好。——你的呢？——复活。",
+      "character": "Bond / Silva",
+      "en": "Everybody needs a hobby. ... So what's yours? ... Resurrection.",
+      "note": "天幕庄园地下通道的对答；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "邦德",
+    "家园",
+    "传统"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 16424
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "007：大破天幕杀机 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/skyfall-2012.jpg）（影片页 https://www.themoviedb.org/movie/37724）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wkA622CCN2X0uwpgqYEOnUYEDf5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

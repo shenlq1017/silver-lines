@@ -1,0 +1,63 @@
+{
+  "id": "hunting-not-your-fault",
+  "group": "top250",
+  "film": {
+    "title": "心灵捕手",
+    "year": 1997,
+    "title_en": "Good Will Hunting",
+    "director": "格斯·范·桑特"
+  },
+  "lines": [
+    {
+      "text": "这不是你的错。",
+      "en": "It's not your fault.",
+      "character": "Sean Maguire",
+      "note": "肖恩连说直到威尔崩溃那一段：五个字拆开童年罪责，治愈系金句天花板。"
+    },
+    {
+      "text": "你会有糟心的日子，但那总会提醒你——注意那些你一直忽略的东西。",
+      "character": "Sean Maguire",
+      "en": "You'll have bad times, but it'll always wake you up to the things you weren't paying attention to.",
+      "note": "尚恩的人生注解；IMDb quotes 可查。"
+    },
+    {
+      "text": "如果我问你战争，你会甩出莎士比亚给我……可你说不出它闻起来是什么味道。",
+      "character": "Sean Maguire",
+      "en": "If I asked you about war, you'd probably throw Shakespeare at me... but you can't tell me what it smells like.",
+      "note": "公园长椅名段（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我得去看看一个姑娘。",
+      "character": "Chuckie Sullivan",
+      "en": "I gotta go see about a girl.",
+      "note": "查克上车前的告别，模仿《毕业生》；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "治愈",
+    "创伤",
+    "师徒"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 1100000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 1100000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 97
+    },
+    "metacritic": {
+      "score": 70
+    }
+  },
+  "still_alt": "心灵捕手 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/084-good-will-hunting.jpg）（影片页 https://www.themoviedb.org/movie/489）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

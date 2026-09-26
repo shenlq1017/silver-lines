@@ -1,0 +1,33 @@
+{
+  "id": "colonel-blimp-war-starts-at-midnight",
+  "group": "classics",
+  "film": {
+    "title": "上校布林普的生平与死亡",
+    "year": 1943,
+    "title_en": "The Life and Death of Colonel Blimp",
+    "director": "迈克尔·鲍威尔 / 埃默里克·普雷斯伯格"
+  },
+  "lines": [
+    {
+      "text": "战争从午夜开始。",
+      "en": "The war starts at midnight.",
+      "character": "克莱夫·坎迪",
+      "note": "军官俱乐部争论中的凝练台词意译；影片借此拆解旧式荣誉观。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "友谊",
+    "时代"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 25000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "上校布林普的生平与死亡 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-life-and-death-of-colonel-blimp-1943.jpg）（影片页 https://www.themoviedb.org/movie/25037）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

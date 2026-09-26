@@ -1,0 +1,50 @@
+{
+  "id": "exorcist-the-power-of-christ",
+  "group": "classics",
+  "film": {
+    "title": "驱魔人",
+    "year": 1973,
+    "title_en": "The Exorcist",
+    "director": "威廉·弗里德金"
+  },
+  "lines": [
+    {
+      "text": "基督的力量命令你——滚开！",
+      "en": "The power of Christ compels you!",
+      "character": "Father Merrin",
+      "note": "驱魔仪式的反复呼喊：驱魔人把信仰做成对抗的节奏。通行定译。"
+    },
+    {
+      "text": "我不是蕾根。",
+      "character": "附身者（借蕾根之口）",
+      "en": "I'm not Regan.",
+      "note": "被附身的蕾根对卡拉斯神父的宣告；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "恐怖",
+    "信仰",
+    "驱魔"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 7.8,
+      "votes": 150000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 450000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 78
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 81
+    }
+  },
+  "still_alt": "驱魔人 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-exorcist-1973.jpg）（影片页 https://www.themoviedb.org/movie/9552）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iqgFp4jpBGlRmxajNRTDWXRZwTx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

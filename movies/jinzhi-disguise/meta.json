@@ -1,0 +1,34 @@
+{
+  "id": "jinzhi-disguise",
+  "group": "classics",
+  "film": {
+    "title": "金枝玉叶",
+    "year": 1994,
+    "title_en": "He Is a Woman, She Is a Man",
+    "director": "陈可辛"
+  },
+  "lines": [
+    {
+      "text": "男也好，女也好，我只知道我中意你。",
+      "en": "Man or woman—doesn't matter. I only know I love you.",
+      "character": "顾家明 / Koo Ka-ming",
+      "note": "片中告白对白（张国荣饰顾家明）；华语通行引述／影评常引，粤语原声意近「男也好女也好，我只知道我中意你」。"
+    }
+  ],
+  "tags": [
+    "身份",
+    "性别",
+    "爱情",
+    "陈可辛"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 41
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "金枝玉叶 · TMDB 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/he-is-a-woman-she-is-a-man-1994.jpg，2000×2999）（影片页 https://www.themoviedb.org/movie/115156）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/x32lvi7XHnBNfL6iBJ6CGufmvUC.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "harlan-coal-killing-us",
+  "group": "classics",
+  "film": {
+    "title": "哈兰县",
+    "year": 1976,
+    "title_en": "Harlan County U.S.A.",
+    "director": "芭芭拉·科普尔"
+  },
+  "lines": [
+    {
+      "text": "煤炭正在杀死我们。",
+      "en": "The coal is killing us.",
+      "character": "矿工家属 / Miners and families",
+      "note": "现场发言的策展译法；将片中矿工与家属关于职业伤害的真实声音压缩为一句，不指认单一说话者。"
+    }
+  ],
+  "tags": [
+    "纪录片",
+    "劳工",
+    "抗争"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 8000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "哈兰县 · TMDB 宣传静帧（2522×1419）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/harlan-county-u-s-a-1976.jpg）（影片页 https://www.themoviedb.org/movie/33324）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6SgerYw7IPtaUK65Ktui4XLWF7b.jpg（2522×1419）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

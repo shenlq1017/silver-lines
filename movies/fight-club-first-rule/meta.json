@@ -1,0 +1,71 @@
+{
+  "id": "fight-club-first-rule",
+  "group": "top250",
+  "film": {
+    "title": "搏击俱乐部",
+    "year": 1999,
+    "title_en": "Fight Club",
+    "director": "大卫·芬奇"
+  },
+  "lines": [
+    {
+      "text": "搏击俱乐部第一条规则：不要谈论搏击俱乐部。",
+      "en": "The first rule of Fight Club is: you do not talk about Fight Club.",
+      "character": "Tyler Durden",
+      "note": "泰勒·德顿的元规则，全球迷因级传世金句。"
+    },
+    {
+      "text": "你拥有的东西，最终拥有了你。",
+      "character": "Tyler Durden",
+      "en": "The things you own end up owning you.",
+      "note": "泰勒的消费主义批判；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "只有失去一切之后，我们才自由地做任何事。",
+      "character": "Tyler Durden",
+      "en": "It's only after we've lost everything that we're free to do anything.",
+      "note": "泰勒的自由观；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你不是你的工作，不是你银行里的存款。",
+      "character": "Tyler Durden",
+      "en": "You're not your job. You're not how much money you have in the bank.",
+      "note": "同段批判（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我是杰克燃烧的受挫感。",
+      "character": "Narrator",
+      "en": "I am Jack's inflamed sense of rejection.",
+      "note": "叙述者的器官拟人独白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "反讽",
+    "规则"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 990000
+    },
+    "imdb": {
+      "score": 8.8,
+      "votes": 2400000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 79
+    },
+    "metacritic": {
+      "score": 66
+    }
+  },
+  "still_alt": "搏击俱乐部 · 地下擂台与都市意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/063-fight-club.jpg）（影片页 https://www.themoviedb.org/movie/550）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cr15eQHMIV1wwAvf2VLME5yYCA3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

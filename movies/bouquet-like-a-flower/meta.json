@@ -1,0 +1,49 @@
+{
+  "id": "bouquet-like-a-flower",
+  "group": "top250",
+  "film": {
+    "title": "花束般的恋爱",
+    "year": 2021,
+    "title_en": "I Fell in Love Like a Flower Bouquet",
+    "director": "土井裕泰"
+  },
+  "lines": [
+    {
+      "text": "我们啊，是最接近恋爱的朋友，也是最接近朋友的恋人。",
+      "en": "We were the closest thing to lovers among friends—and the closest thing to friends among lovers.",
+      "character": "山音麦 / 八谷绢",
+      "note": "五年同轨又错轨：花束般的恋爱把「像恋人的朋友」写成最痛的中间态。通行金句口吻，略有字幕差，已标。film_title_en 取通行英译（非原日文片名）。"
+    },
+    {
+      "text": "我们结婚吧。",
+      "character": "山音麦",
+      "en": "Kekkon shiyou.",
+      "note": "分手夜谈后麦突然的挽留求婚；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "恋爱",
+    "错过",
+    "青春"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 750000
+    },
+    "imdb": {
+      "score": 7.2,
+      "votes": 6000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 70
+    }
+  },
+  "still_alt": "花束般的恋爱 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/204-rank-204.jpg）（影片页 https://www.themoviedb.org/movie/695932）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/893hqH2OLQo1Vv0dwHtQmrfP3fT.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

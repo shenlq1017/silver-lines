@@ -1,0 +1,34 @@
+{
+  "id": "gods-men-stay",
+  "group": "classics",
+  "film": {
+    "title": "人神之间",
+    "year": 2010,
+    "title_en": "Of Gods and Men",
+    "director": "格扎维埃·博瓦"
+  },
+  "lines": [
+    {
+      "text": "留下或离开，祷告都要先问自己怕不怕死。",
+      "en": "Stay or leave — prayer first asks whether you fear death.",
+      "character": "克里斯蒂安院长等 / Frère Christian et al.",
+      "note": "主题性策展句：概括博瓦《人神之间》中阿尔及利亚修士面对圣战威胁抉择去留的信仰题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "信仰",
+    "殉道",
+    "修道院",
+    "博瓦"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.7,
+      "votes": 425
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "人神之间 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/of-gods-and-men-2010.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/46332）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2TiTGCp0UgFgATSH6hHqHUofyPz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

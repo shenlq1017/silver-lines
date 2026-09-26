@@ -1,0 +1,33 @@
+{
+  "id": "casanova-empty-seduction",
+  "group": "classics",
+  "film": {
+    "title": "卡萨诺瓦",
+    "year": 1976,
+    "title_en": "Fellini's Casanova",
+    "director": "费德里科·费里尼"
+  },
+  "lines": [
+    {
+      "text": "我征服的不是女人，是她们愿意被征服的幻想。",
+      "en": "I do not conquer women — I conquer the fantasy that they wish to be conquered.",
+      "character": "卡萨诺瓦 / Casanova",
+      "note": "策展意译：概括费里尼《卡萨诺瓦》中情圣自我作为空洞表演的题眼；影片对白版本与译本多，明确不冒充唯一逐字。"
+    }
+  ],
+  "tags": [
+    "情欲",
+    "表演",
+    "空洞"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 253
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "卡萨诺瓦 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/fellinis-casanova-1976.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/42236）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/q94QTkm6UgLT2mL52u1TICCefUH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

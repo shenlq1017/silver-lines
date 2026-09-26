@@ -1,0 +1,46 @@
+{
+  "id": "finding-nemo-just-keep-swimming",
+  "group": "classics",
+  "film": {
+    "title": "海底总动员",
+    "year": 2003,
+    "title_en": "Finding Nemo",
+    "director": "安德鲁·斯坦顿"
+  },
+  "lines": [
+    {
+      "text": "当生活让你失望时，你知道该怎么办吗？继续游。继续游。",
+      "en": "When life gets you down, you know what you gotta do? Just keep swimming.",
+      "character": "Dory",
+      "note": "多莉把遗忘变成前进的节奏；一句儿童台词也能成为成人的生存箴言。通行译法。"
+    },
+    {
+      "text": "我看着你，就是回家。",
+      "character": "Dory",
+      "en": "I look at you, and I'm home.",
+      "note": "多莉的告白，全片题眼；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我保证过不让他出事。",
+      "character": "Marlin",
+      "en": "I promised I'd never let anything happen to him.",
+      "note": "马林的保护欲；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "勇气",
+    "亲情"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 1100000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "海底总动员 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/finding-nemo-2003.jpg）（影片页 https://www.themoviedb.org/movie/12）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pDMndR1yj7WHZmLTwzLxMu16xxD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

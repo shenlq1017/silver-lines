@@ -1,0 +1,33 @@
+{
+  "id": "skin-i-live-in-new-skin",
+  "group": "classics",
+  "film": {
+    "title": "吾栖之肤",
+    "year": 2011,
+    "title_en": "The Skin I Live In",
+    "director": "佩德罗·阿尔莫多瓦"
+  },
+  "lines": [
+    {
+      "text": "我给了你一张不会被烧毁的皮肤。",
+      "en": "I gave you a skin that cannot be burned.",
+      "character": "罗伯特·莱德加 / Robert Ledgard",
+      "note": "策展意译：概括阿尔莫多瓦片中人造耐火皮肤与毁容创伤的核心设定/医生自陈；片中对白分散，明确为主题压缩，不冒充单一字幕。"
+    }
+  ],
+  "tags": [
+    "身份",
+    "皮肤",
+    "囚禁"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 4748
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "吾栖之肤 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-skin-i-live-in-2011.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/63311）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qLOboFiCtFZXkJJCz0nl5NgXUV1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

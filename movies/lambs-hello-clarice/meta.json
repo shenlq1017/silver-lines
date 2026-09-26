@@ -1,0 +1,70 @@
+{
+  "id": "lambs-hello-clarice",
+  "group": "top250",
+  "film": {
+    "title": "沉默的羔羊",
+    "year": 1991,
+    "title_en": "The Silence of the Lambs",
+    "director": "乔纳森·戴米"
+  },
+  "lines": [
+    {
+      "text": "你好，克拉丽斯。",
+      "en": "Hello, Clarice.",
+      "character": "Hannibal Lecter",
+      "note": "莱克特隔栏相迎的四个音节，比吃肝名场面更先钉进文化记忆；中文定译沿用流行译法。"
+    },
+    {
+      "text": "有个人口调查员曾想试探我。我把他的肝吃了，配蚕豆，还有一支上好的基安蒂酒。",
+      "character": "Hannibal Lecter",
+      "en": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+      "note": "第一次会面的著名独白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "真想多聊一会儿——不过我要和一位老朋友共进晚餐了。",
+      "character": "Hannibal Lecter",
+      "en": "I do wish we could chat longer, but I'm having an old friend for dinner.",
+      "note": "结尾挂电话的著名收束；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "等价交换，克拉丽斯。",
+      "character": "Hannibal Lecter",
+      "en": "Quid pro quo, Clarice.",
+      "note": "交易规则的口头禅；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "回到第一性。简单。读马可·奥勒留。对每一件具体的事都要问：它本身是什么？它的本性是什么？",
+      "character": "Hannibal Lecter",
+      "en": "First principles, Clarice. Simplicity. Read Marcus Aurelius. Of each particular thing ask: what is it in itself? What is its nature?",
+      "note": "汉尼拔的斯多葛功课；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "惊悚",
+    "心理",
+    "对峙"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 850000
+    },
+    "imdb": {
+      "score": 8.6,
+      "votes": 1600000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 85
+    }
+  },
+  "still_alt": "沉默的羔羊 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/077-the-silence-of-the-lambs.jpg）（影片页 https://www.themoviedb.org/movie/274）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

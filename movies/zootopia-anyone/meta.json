@@ -1,0 +1,64 @@
+{
+  "id": "zootopia-anyone",
+  "group": "top250",
+  "film": {
+    "title": "疯狂动物城",
+    "year": 2016,
+    "title_en": "Zootopia",
+    "director": "拜伦·霍华德 / 瑞奇·摩尔"
+  },
+  "lines": [
+    {
+      "text": "在动物城，任何人都可以成为想成为的人。",
+      "en": "In Zootopia, anyone can be anything.",
+      "character": "Judy Hopps",
+      "note": "童趣外壳下的城市寓言开场白。"
+    },
+    {
+      "text": "永远别让他们看到——他们伤到了你。",
+      "character": "Nick Wilde",
+      "en": "Never let them see that they get to you.",
+      "note": "尼克教朱迪的生存术；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你知道你爱我。",
+      "character": "Judy Hopps",
+      "en": "You know you love me.",
+      "note": "结尾朱迪的调侃；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "知道吗？——知道。",
+      "character": "Nick Wilde",
+      "en": "Do I know that? Yes. Yes, I do.",
+      "note": "同场尼克的回答；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "梦想",
+    "偏见"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 2400000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 580000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 78
+    }
+  },
+  "still_alt": "疯狂动物城 · 城市天际线宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/014-zootopia.jpg）（影片页 https://www.themoviedb.org/movie/269149）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9tOkjBEiiGcaClgJFtwocStZvIT.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

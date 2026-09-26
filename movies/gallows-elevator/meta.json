@@ -1,0 +1,34 @@
+{
+  "id": "gallows-elevator",
+  "group": "classics",
+  "film": {
+    "title": "通往绞刑架的电梯",
+    "year": 1958,
+    "title_en": "Elevator to the Gallows",
+    "director": "路易·马勒"
+  },
+  "lines": [
+    {
+      "text": "完美的谋杀停在电梯里——外面的夜还在继续。",
+      "en": "The perfect murder stalls in an elevator — outside, the night goes on.",
+      "character": "朱利安／弗洛朗丝 / Julien / Florence",
+      "note": "主题性策展句：概括路易·马勒《通往绞刑架的电梯》中计划崩盘与夜巴黎游荡并置的黑色题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "谋杀",
+    "巴黎",
+    "爵士",
+    "马勒"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 731
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "通往绞刑架的电梯 · TMDB 宣传静帧（3528×1982）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/elevator-to-the-gallows-1958.jpg，1999×3000）（影片页 https://www.themoviedb.org/movie/1093）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e5TXa8JTB83Ik99pf9nUKdx0cmA.jpg（3528×1982）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

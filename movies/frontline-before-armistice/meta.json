@@ -1,0 +1,33 @@
+{
+  "id": "frontline-before-armistice",
+  "group": "classics",
+  "film": {
+    "title": "高地战",
+    "year": 2011,
+    "title_en": "The Front Line",
+    "director": "张勋"
+  },
+  "lines": [
+    {
+      "text": "停战前的最后一颗子弹，往往最没有意义。",
+      "en": "The last bullet before an armistice is often the most meaningless.",
+      "character": "高地战伦理 / Front-line ethos",
+      "note": "策展意译：概括张勋《高地战》停战钟声前争夺高地的战争虚无；不冒充某一句唯一逐字。"
+    }
+  ],
+  "tags": [
+    "朝鲜战争",
+    "停战",
+    "兄弟"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 208
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "高地战 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-front-line-2011.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/79553）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/PlGJOdf8ZSh5F6odLCvL1tqhex.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

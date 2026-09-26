@@ -1,0 +1,33 @@
+{
+  "id": "local-hero-beautiful-place",
+  "group": "classics",
+  "film": {
+    "title": "地方英雄",
+    "year": 1983,
+    "title_en": "Local Hero",
+    "director": "比尔·福赛斯"
+  },
+  "lines": [
+    {
+      "text": "这是个美丽的地方。",
+      "en": "It is a beautiful place.",
+      "character": "菲利克斯·哈珀 / Felix Happer",
+      "note": "通行译法：影片反复回到海岸与村落时的简洁感叹，保留其温柔而不煽情的语气。"
+    }
+  ],
+  "tags": [
+    "地方",
+    "资本",
+    "喜剧"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 31000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "地方英雄 · TMDB 宣传静帧（2400×1350）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/local-hero-1983.jpg）（影片页 https://www.themoviedb.org/movie/11235）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oPntydPBR7n4c3RHfhJcJaawhQe.jpg（2400×1350）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "code-unknown-cannot-read",
+  "group": "classics",
+  "film": {
+    "title": "未知代码",
+    "year": 2000,
+    "title_en": "Code Unknown",
+    "director": "米夏埃尔·哈内克"
+  },
+  "lines": [
+    {
+      "text": "代码未知——我们读不懂彼此。",
+      "en": "Code unknown—we cannot read each other.",
+      "character": "（主题概括）",
+      "note": "策展意译：由片名 Code inconnu 与聋校手势开场、城市擦肩段落提炼的主题主句，明确不是逐字字幕。"
+    }
+  ],
+  "tags": [
+    "沟通",
+    "欧洲",
+    "碎片"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 12000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "未知代码 · TMDB 宣传静帧（3616×2034）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/code-unknown-2000.jpg）（影片页 https://www.themoviedb.org/movie/30970）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/m712sc1e4NSzftDrXJ1wC8sZCDV.jpg（3616×2034）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

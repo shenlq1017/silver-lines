@@ -1,0 +1,64 @@
+{
+  "id": "lion-king-remember",
+  "group": "top250",
+  "film": {
+    "title": "狮子王",
+    "year": 1994,
+    "title_en": "The Lion King",
+    "director": "罗杰·阿勒斯 / 罗伯·明可夫"
+  },
+  "lines": [
+    {
+      "text": "记住你是谁。",
+      "en": "Remember who you are.",
+      "character": "Mufasa",
+      "note": "木法沙云中低语，狮子王最干净的传世句。"
+    },
+    {
+      "text": "国王的统治，像太阳一样有升有落。",
+      "character": "Mufasa",
+      "en": "A king's time as ruler rises and falls like the sun.",
+      "note": "木法沙的教诲；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "哈库纳玛塔塔！",
+      "character": "Timon and Pumbaa",
+      "en": "Hakuna Matata!",
+      "note": "丁满彭彭的人生口号；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "看看你的内心，辛巴——你比现在的你更伟大。",
+      "character": "Mufasa",
+      "en": "Look inside yourself, Simba. You are more than what you have become.",
+      "note": "云中木法沙的点醒；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "成长",
+    "责任"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 970000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 1200000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 88
+    }
+  },
+  "still_alt": "狮子王 · 荣耀石与草原意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/058-the-lion-king.jpg）（影片页 https://www.themoviedb.org/movie/8587）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6GF9uJs7AnbcJvyfoZyjZv063Oo.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

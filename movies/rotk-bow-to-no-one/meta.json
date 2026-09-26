@@ -1,0 +1,71 @@
+{
+  "id": "rotk-bow-to-no-one",
+  "group": "top250",
+  "film": {
+    "title": "指环王3：王者无敌",
+    "year": 2003,
+    "title_en": "The Lord of the Rings: The Return of the King",
+    "director": "彼得·杰克逊"
+  },
+  "lines": [
+    {
+      "text": "我的朋友们，你们无需向任何人鞠躬。",
+      "en": "My friends, you bow to no one.",
+      "character": "Aragorn",
+      "note": "加冕礼上对霍比特人的一躬一语，史诗收束的温度。"
+    },
+    {
+      "text": "我背不动它……但我背得动你！",
+      "character": "Samwise Gamgee",
+      "en": "I can't carry it for you... but I can carry you!",
+      "note": "末日火山的最后一段路；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我不会说「别哭」——因为并非所有眼泪都是苦的。",
+      "character": "Gandalf",
+      "en": "I will not say: do not weep; for not all tears are an evil.",
+      "note": "灰港的告别；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我不是男人。",
+      "character": "Eowyn",
+      "en": "I am no man.",
+      "note": "伊奥温摘盔对决安格玛巫王；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "起来吧，起来吧，希优顿的骑士们！冲锋！为了毁灭，为了世界的终结，冲锋！",
+      "character": "King Théoden",
+      "en": "Arise, arise, Riders of Théoden! ... Ride for ruin and the world's ending!",
+      "note": "佩兰诺平原冲锋令（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "友谊",
+    "荣耀"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 920000
+    },
+    "imdb": {
+      "score": 9,
+      "votes": 2000000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 94
+    },
+    "metacritic": {
+      "score": 94
+    }
+  },
+  "still_alt": "指环王3：王者无敌 · 王座与征途宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/032-the-lord-of-the-rings-the-return-of-the-king.jpg）（影片页 https://www.themoviedb.org/movie/122）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

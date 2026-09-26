@@ -1,0 +1,54 @@
+{
+  "id": "black-panther-wakanda-forever",
+  "group": "classics",
+  "film": {
+    "title": "黑豹",
+    "year": 2018,
+    "title_en": "Black Panther",
+    "director": "瑞恩·库格勒"
+  },
+  "lines": [
+    {
+      "text": "瓦坎达永存！",
+      "en": "Wakanda forever!",
+      "character": "特查拉 / T'Challa（及瓦坎达众人）",
+      "note": "片中礼敬与战斗口号的通行译法（forever≈永存/万岁，取「永存」）。"
+    },
+    {
+      "text": "危机之中，智者修桥，愚者筑墙。",
+      "character": "T'Challa",
+      "en": "In times of crisis, the wise build bridges while the foolish build barriers.",
+      "note": "特查拉在联合国的发言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "把我葬进海里，和那些跳船的祖先在一起——他们知道，死亡好过枷锁。",
+      "character": "Killmonger",
+      "en": "Bury me in the ocean, with my ancestors that jumped from the ships, because they knew death was better than bondage.",
+      "note": "齐尔蒙格的临终请求，全片最重一击；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我们要学会彼此照看——像同一个部族。",
+      "character": "T'Challa",
+      "en": "We must find a way to look after one another, as if we were one single tribe.",
+      "note": "特查拉的结语；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "超级英雄",
+    "认同",
+    "漫威"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 23993
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "黑豹 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/black-panther-2018.jpg）（影片页 https://www.themoviedb.org/movie/284054）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

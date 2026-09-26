@@ -1,0 +1,33 @@
+{
+  "id": "baby-driver-anywhere",
+  "group": "classics",
+  "film": {
+    "title": "极盗车神",
+    "year": 2017,
+    "title_en": "Baby Driver",
+    "director": "埃德加·赖特"
+  },
+  "lines": [
+    {
+      "text": "去哪儿都行。某个地方。随便哪儿。",
+      "en": "Anywhere. Somewhere. Wherever.",
+      "character": "宝宝 / Baby",
+      "note": "宝宝回答黛博拉「去哪儿」的通行短句；与音景驱动的逃亡美学一致。"
+    }
+  ],
+  "tags": [
+    "节奏",
+    "爱情",
+    "逃亡"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 17220
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "极盗车神 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/baby-driver-2017.jpg）（影片页 https://www.themoviedb.org/movie/339403）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yir5430WblZSZuIMd9C6pIZerfA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

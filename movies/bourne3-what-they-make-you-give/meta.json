@@ -1,0 +1,43 @@
+{
+  "id": "bourne3-what-they-make-you-give",
+  "group": "top250",
+  "film": {
+    "title": "谍影重重3",
+    "year": 2007,
+    "title_en": "The Bourne Ultimatum",
+    "director": "保罗·格林格拉斯"
+  },
+  "lines": [
+    {
+      "text": "看看我们。看看他们逼你交出了什么。",
+      "en": "Look at us. Look at what they make you give.",
+      "character": "Paz",
+      "note": "天台对峙的低语：杀手认出同类，整部谍影的伦理重量压在这一句。"
+    }
+  ],
+  "tags": [
+    "动作",
+    "身份",
+    "代价"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 500000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 680000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 92
+    },
+    "metacritic": {
+      "score": 85
+    }
+  },
+  "still_alt": "谍影重重3 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/171-the-bourne-ultimatum.jpg）（影片页 https://www.themoviedb.org/movie/2503）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cmz8Fl7YuyEpCL0B2ivIIP0EYoY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

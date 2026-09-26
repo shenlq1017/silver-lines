@@ -1,0 +1,34 @@
+{
+  "id": "scene-at-sea-waves",
+  "group": "classics",
+  "film": {
+    "title": "那年夏天，宁静的海",
+    "year": 1991,
+    "title_en": "A Scene at the Sea",
+    "director": "北野武"
+  },
+  "lines": [
+    {
+      "text": "听不见浪声，也能学会跟海相处。",
+      "en": "Even without hearing the waves, you can still learn to live with the sea.",
+      "character": "清水 / Shigeru",
+      "note": "主题性策展句：对应北野武《那年夏天，宁静的海》聋人青年以身体而非听觉与海相处的意象，片中对白极少，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "冲浪",
+    "静观",
+    "聋人",
+    "北野武"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 231
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "那年夏天，宁静的海 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-scene-at-the-sea-1991.jpg，1280×1920）（影片页 https://www.themoviedb.org/movie/23606）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2F5VRSmiPQgPA6MMLdn8tpXwHzG.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

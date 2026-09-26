@@ -1,0 +1,50 @@
+{
+  "id": "capernaum-sue-parents",
+  "group": "top250",
+  "film": {
+    "title": "何以为家",
+    "year": 2018,
+    "title_en": "Capernaum",
+    "director": "娜丁·拉巴基"
+  },
+  "lines": [
+    {
+      "text": "我想起诉我的父母。",
+      "en": "I want to sue my parents.",
+      "character": "Zain El Beige",
+      "note": "开场一句把整部片钉死：孩子控告遗弃他的世界，传世锋利。"
+    },
+    {
+      "text": "因为他们生下了我。",
+      "character": "Zain",
+      "en": "Because they gave birth to me.",
+      "note": "法庭上起诉理由的下半句，全片题眼；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "儿童",
+    "控诉"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 1200000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 120000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 75
+    }
+  },
+  "still_alt": "何以为家 · 贝鲁特贫民街巷与少年身影宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/051-rank-051.jpg）（影片页 https://www.themoviedb.org/movie/517814）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sEW8q9al73rtow257dXAusD9yS7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

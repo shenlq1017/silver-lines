@@ -1,0 +1,77 @@
+{
+  "id": "fellowship-given-time",
+  "group": "top250",
+  "film": {
+    "title": "指环王1：护戒使者",
+    "year": 2001,
+    "title_en": "The Lord of the Rings: The Fellowship of the Ring",
+    "director": "彼得·杰克逊"
+  },
+  "lines": [
+    {
+      "text": "我们所能决定的，只有如何利用被给予的时间。",
+      "en": "All we have to decide is what to do with the time that is given us.",
+      "character": "Gandalf",
+      "note": "甘道夫对佛罗多的慰藉，魔戒首部的人生哲学压舱石。"
+    },
+    {
+      "text": "你不能通过！",
+      "character": "Gandalf",
+      "en": "You shall not pass!",
+      "note": "卡扎督姆桥上的名场面；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我会陪你去到最后——一直走进魔多的火焰深处。",
+      "character": "Aragorn",
+      "en": "I would have gone with you to the end, into the very fires of Mordor.",
+      "note": "对博罗米尔的承诺；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我许过诺，佛罗多先生：「不许丢下他，山姆怀斯·詹吉。」我打算遵守。",
+      "character": "Samwise Gamgee",
+      "en": "I made a promise, Mr Frodo. A promise. 'Don't you leave him, Samwise Gamgee.' And I don't mean to.",
+      "note": "山姆趟水追赶的名场面；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "没有人能就这么走进魔多。",
+      "character": "Boromir",
+      "en": "One does not simply walk into Mordor.",
+      "note": "波瑞吉尔的著名陈词；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "魔戒的主人只有一个——而且他不会分享权力。",
+      "character": "Gandalf",
+      "en": "There is only one Lord of the Ring. Only one who can bend it to his will. And he does not share power.",
+      "note": "爱隆会议上甘道夫的警告（原挂在《双塔奇兵》，核证后归位）。"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "冒险",
+    "抉择"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 970000
+    },
+    "imdb": {
+      "score": 8.9,
+      "votes": 2000000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 91
+    },
+    "metacritic": {
+      "score": 92
+    }
+  },
+  "still_alt": "指环王1：护戒使者 · 中洲旅程宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/055-the-lord-of-the-rings-the-fellowship-of-the-ring.jpg）（影片页 https://www.themoviedb.org/movie/120）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

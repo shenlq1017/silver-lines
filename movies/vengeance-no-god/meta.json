@@ -1,0 +1,33 @@
+{
+  "id": "vengeance-no-god",
+  "group": "classics",
+  "film": {
+    "title": "复仇在我",
+    "year": 1979,
+    "title_en": "Vengeance Is Mine",
+    "director": "今村昌平"
+  },
+  "lines": [
+    {
+      "text": "这个世界上没有神。",
+      "en": "There is no God in this world.",
+      "character": "榎津严",
+      "note": "策展意译：对应榎津的虚无与社会性暴力，不声称为单一字幕逐字转译。"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "家庭",
+    "日本电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 9000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "复仇在我 · TMDB 宣传静帧（2880×1620）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/vengeance-is-mine-1979.jpg）（影片页 https://www.themoviedb.org/movie/42170）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aOf5jlcp4nCYXwEVgn82YNIs3ZP.jpg（2880×1620）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

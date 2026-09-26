@@ -1,0 +1,33 @@
+{
+  "id": "onibaba-only-the-living",
+  "group": "classics",
+  "film": {
+    "title": "鬼婆",
+    "year": 1964,
+    "title_en": "Onibaba",
+    "director": "新藤兼人"
+  },
+  "lines": [
+    {
+      "text": "只要活着，就不能停下来。",
+      "en": "As long as we live, we cannot stop.",
+      "character": "老妇人",
+      "note": "沼泽与生存竞争中的策展意译；把影片的饥饿、恐惧与欲望收束为一句。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "欲望",
+    "民俗"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 24000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "鬼婆 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/onibaba-1964.jpg）（影片页 https://www.themoviedb.org/movie/3763）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/y56ycgSvDI1qYk7WqgkKaYqSZo0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sunrise-song-of-man-and-woman",
+  "group": "classics",
+  "film": {
+    "title": "日出",
+    "year": 1927,
+    "title_en": "Sunrise",
+    "director": "F·W·茂瑙"
+  },
+  "lines": [
+    {
+      "text": "这是一首关于男人和女人的歌，它属于任何地方，也属于每个地方；你可能在任何时间、任何地点听见它。",
+      "en": "This song of the Man and the Woman is of no place and every place; you might hear it anywhere at any time.",
+      "character": "片首字幕",
+      "note": "片首字幕原文的通行中译；以字幕作为默片主句。"
+    }
+  ],
+  "tags": [
+    "默片",
+    "爱情",
+    "电影宣言"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 56000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "日出 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sunrise-1927.jpg）（影片页 https://www.themoviedb.org/movie/631）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

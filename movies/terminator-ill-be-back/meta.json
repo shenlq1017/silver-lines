@@ -1,0 +1,57 @@
+{
+  "id": "terminator-ill-be-back",
+  "group": "classics",
+  "film": {
+    "title": "终结者",
+    "year": 1984,
+    "title_en": "The Terminator",
+    "director": "詹姆斯·卡梅隆"
+  },
+  "lines": [
+    {
+      "text": "我会回来的。",
+      "en": "I'll be back.",
+      "character": "The Terminator",
+      "note": "T-800 走进警局前的四个音节：终结者把机器承诺做成影史最短爆款金句。通行定译。"
+    },
+    {
+      "text": "想活命就跟我来。",
+      "character": "Kyle Reese",
+      "en": "Come with me if you wanna live!",
+      "note": "里斯的救援宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我需要你的衣服、靴子和摩托车。",
+      "character": "The Terminator",
+      "en": "I need your clothes, your boots and your motorcycle.",
+      "note": "夺车的名场面；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "动作",
+    "惊悚"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.1,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 940000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 100
+    },
+    "metacritic": {
+      "score": 84
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "终结者 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-terminator-1984.jpg）（影片页 https://www.themoviedb.org/movie/218）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

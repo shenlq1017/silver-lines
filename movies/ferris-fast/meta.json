@@ -1,0 +1,48 @@
+{
+  "id": "ferris-fast",
+  "group": "classics",
+  "film": {
+    "title": "春天不是读书天",
+    "year": 1986,
+    "title_en": "Ferris Bueller's Day Off",
+    "director": "约翰·休斯"
+  },
+  "lines": [
+    {
+      "text": "人生过得很快。如果你不时停下来四处看看，可能就会错过它。",
+      "en": "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.",
+      "character": "费里斯·布勒 / Ferris Bueller",
+      "note": "费里斯开场／片末对镜头的旁白对白；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "菲利斯·布勒，你是我的英雄。",
+      "character": "Cameron Frye",
+      "en": "Ferris Bueller, you're my hero.",
+      "note": "卡梅伦的告白，全片情感落点；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "问题不是「我们要做什么」——问题是不做什么。",
+      "character": "Ferris Bueller",
+      "en": "The question isn't 'what are we going to do'. The question is 'what aren't we going to do?'",
+      "note": "菲利斯的度假宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "青春",
+    "旷课",
+    "旁白",
+    "人生"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 5582
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "春天不是读书天 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ferris-bueller-s-day-off-1986.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/9377）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jehzP4JKiFzgTWIaASLFOJocJke.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "batman-why-we-fall",
+  "group": "classics",
+  "film": {
+    "title": "蝙蝠侠：开战时刻",
+    "year": 2005,
+    "title_en": "Batman Begins",
+    "director": "克里斯托弗·诺兰"
+  },
+  "lines": [
+    {
+      "text": "我们为什么会跌倒？这样我们才能学会重新站起来。",
+      "en": "Why do we fall, Bruce? So we can learn to pick ourselves up.",
+      "character": "Alfred Pennyworth",
+      "note": "蝙蝠侠起源的核心训诫：失败不是身份，重新站起才是。通行译法。"
+    },
+    {
+      "text": "舞台感与欺骗，是强大的武器。",
+      "character": "Ra's al Ghul",
+      "en": "Theatricality and deception are powerful agents.",
+      "note": "拉斯·艾尔·古尔的教诲；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "定义我的，不是面具下的我是谁——而是我做的事。",
+      "character": "Batman",
+      "en": "It's not who I am underneath, but what I do that defines me.",
+      "note": "对瑞秋的坦白，起源篇的点题；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "要征服恐惧，你必须成为恐惧本身。",
+      "character": "Ducard",
+      "en": "To conquer fear, you must become fear.",
+      "note": "影武者联盟的训练箴言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "成长",
+    "勇气",
+    "正义"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 1600000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "蝙蝠侠：开战时刻 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/batman-begins-2005.jpg）（影片页 https://www.themoviedb.org/movie/272）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

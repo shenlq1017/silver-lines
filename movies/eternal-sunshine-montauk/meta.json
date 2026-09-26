@@ -1,0 +1,70 @@
+{
+  "id": "eternal-sunshine-montauk",
+  "group": "classics",
+  "film": {
+    "title": "美丽心灵的永恒阳光",
+    "year": 2004,
+    "title_en": "Eternal Sunshine of the Spotless Mind",
+    "director": "米歇尔·贡德里"
+  },
+  "lines": [
+    {
+      "text": "蒙托克见。",
+      "en": "Meet me in Montauk.",
+      "character": "Joel Barish / Clementine Kruczynski",
+      "note": "删除记忆后仍被写下的约会坐标：美丽心灵的永恒阳光（亦通译「暖暖内含光」）用三个字把循环爱上锁。通行定译。"
+    },
+    {
+      "text": "为什么只要对方稍给我一点注意，我就会爱上她？",
+      "character": "Joel Barish",
+      "en": "Why do I fall in love with every woman I see who shows me the least bit of attention?",
+      "note": "开场火车上的独白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我只是个一团糟的女孩，想给自己找一点安宁。别把你那份也摊到我头上。",
+      "character": "Clementine Kruczynski",
+      "en": "I'm just a fucked-up girl who's lookin' for my own peace of mind. Don't assign me yours.",
+      "note": "争吵中的爆发；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我看不出你有什么地方是我不喜欢的。",
+      "character": "Joel Barish",
+      "en": "I can't see anything I don't like about you.",
+      "note": "凌晨结冰河面的和好对答；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "健忘的人有福了，他们连自己的过错都一并占了好运。",
+      "character": "旁白（Lacuna 广告）",
+      "en": "Blessed are the forgetful, for they get the better even of their blunders.",
+      "note": "遗忘诊所广告引尼采语；IMDb/Wikiquote 可查。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "记忆",
+    "重来"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 480000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 1100000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 92
+    },
+    "metacritic": {
+      "score": 89
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "美丽心灵的永恒阳光 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/eternal-sunshine-of-the-spotless-mind-2004.jpg）（影片页 https://www.themoviedb.org/movie/38）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/744ybMaYRry1IQKoDakMc4GEU4L.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

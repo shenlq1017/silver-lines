@@ -1,0 +1,34 @@
+{
+  "id": "jeanne-dielman-routine",
+  "group": "classics",
+  "film": {
+    "title": "让娜·迪尔曼",
+    "year": 1975,
+    "title_en": "Jeanne Dielman",
+    "director": "尚塔尔·阿克曼"
+  },
+  "lines": [
+    {
+      "text": "重复到极致的家务，会在某一秒忽然不再听话。",
+      "en": "Housework repeated to its limit will, in one second, suddenly stop obeying.",
+      "character": "让娜 / Jeanne Dielman",
+      "note": "主题性策展句：概括阿克曼《让娜·迪尔曼》中家务日常极限与秩序崩溃的女性主义里程碑题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "日常",
+    "重复",
+    "爆发",
+    "阿克曼"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 412
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "让娜·迪尔曼 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/jeanne-dielman-1975.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/44012）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2qL6rsvq29ueZ0ITh47Jj2F985R.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

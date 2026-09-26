@@ -1,0 +1,53 @@
+{
+  "id": "v-for-vendetta-people-fear",
+  "group": "classics",
+  "film": {
+    "title": "V字仇杀队",
+    "year": 2006,
+    "title_en": "V for Vendetta",
+    "director": "詹姆斯·麦克特格"
+  },
+  "lines": [
+    {
+      "text": "人民不应该害怕政府，政府应该害怕人民。",
+      "en": "People should not be afraid of their government. Governments should be afraid of their people.",
+      "character": "V",
+      "note": "面具演说把个人复仇提升为公民反抗的宣言。通行译法。"
+    },
+    {
+      "text": "面具之下不只有血肉。面具之下是思想，克里迪先生——而思想，是杀不死的。",
+      "character": "V",
+      "en": "Beneath this mask there is more than flesh. Beneath this mask there is an idea, Mr. Creedy — and ideas are bulletproof.",
+      "note": "V 反杀克里迪前的名言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "上帝在雨里。",
+      "character": "Evey Hammond",
+      "en": "God is in the rain.",
+      "note": "伊芙雨中重生的独白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "瞧！眼前是一位谦逊的杂耍老手……",
+      "character": "V",
+      "en": "Voilà! In view, a humble vaudevillian veteran...",
+      "note": "V 的头韵式自我介绍开头；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "政治",
+    "自由",
+    "反抗"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 1200000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "V字仇杀队 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/v-for-vendetta-2006.jpg）（影片页 https://www.themoviedb.org/movie/752）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dgFzcHaQ3HOAa8sSUeelXEd312B.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

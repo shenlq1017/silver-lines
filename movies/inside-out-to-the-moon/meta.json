@@ -1,0 +1,56 @@
+{
+  "id": "inside-out-to-the-moon",
+  "group": "top250",
+  "film": {
+    "title": "头脑特工队",
+    "year": 2015,
+    "title_en": "Inside Out",
+    "director": "彼特·道格特"
+  },
+  "lines": [
+    {
+      "text": "带她去月球看看。",
+      "en": "Take her to the moon for me.",
+      "character": "Bing Bong",
+      "note": "冰棍幻想朋友坠入遗忘深渊前的托付：把童年交还给莱莉，也交还给所有长大的人。"
+    },
+    {
+      "text": "哭泣能让我慢下来，好好掂量人生难题的重量。",
+      "character": "Sadness",
+      "en": "Crying helps me slow down and obsess over the weight of life's problems.",
+      "note": "忧忧解释哭的价值，全片情感论题；IMDb quotes 可查。",
+      "confidence": "medium"
+    },
+    {
+      "text": "谁是那个爱玩的朋友呀？",
+      "character": "Bing Bong",
+      "en": "Who's your friend who likes to play?",
+      "note": "冰棒的招牌小调，与火箭车回忆绑定。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "成长",
+    "告别"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 900000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 800000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 94
+    }
+  },
+  "still_alt": "头脑特工队 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/113-inside-out.jpg）（影片页 https://www.themoviedb.org/movie/150540）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

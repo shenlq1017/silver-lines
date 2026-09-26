@@ -1,0 +1,61 @@
+{
+  "id": "avengers-always-angry",
+  "group": "classics",
+  "film": {
+    "title": "复仇者联盟",
+    "year": 2012,
+    "title_en": "The Avengers",
+    "director": "乔斯·韦登"
+  },
+  "lines": [
+    {
+      "text": "这就是我的秘密，队长。我一直都很愤怒。",
+      "en": "That's my secret, Captain. I'm always angry.",
+      "character": "布鲁斯·班纳 / Bruce Banner",
+      "note": "纽约决战变身前对美国队长的通行名句；中文取 MCU 常见译法。"
+    },
+    {
+      "text": "我是阿斯加德的洛基，我肩负着光荣的使命。",
+      "character": "Loki",
+      "en": "I am Loki, of Asgard, and I am burdened with glorious purpose.",
+      "note": "斯图加特开场自报家门；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "天才，亿万富翁，花花公子，慈善家。",
+      "character": "Tony Stark",
+      "en": "Genius, billionaire, playboy, philanthropist.",
+      "note": "回应美队「脱了盔甲你还算什么」的名对答；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我有大军。",
+      "character": "Loki",
+      "en": "I have an army.",
+      "note": "与斯塔克对峙一问一答的上半句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我们有浩克。",
+      "character": "Tony Stark",
+      "en": "We have a Hulk.",
+      "note": "同上对答下半句，全片最著名梗；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "超级英雄",
+    "漫威",
+    "团队"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 39820
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "复仇者联盟 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-avengers-2012.jpg）（影片页 https://www.themoviedb.org/movie/24428）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

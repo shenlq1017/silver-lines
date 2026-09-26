@@ -1,0 +1,49 @@
+{
+  "id": "bucket-measure-yourself",
+  "group": "top250",
+  "film": {
+    "title": "遗愿清单",
+    "year": 2007,
+    "title_en": "The Bucket List",
+    "director": "罗伯·莱纳"
+  },
+  "lines": [
+    {
+      "text": "衡量自己的标准，是那些以你为标准的人。",
+      "en": "You measure yourself by the people who measure themselves by you.",
+      "character": "Edward Cole",
+      "note": "亿万富翁对机械师朋友的反躬：遗愿清单把「成功尺度」从资产簿翻成他人目光，一句收束公路与病房。"
+    },
+    {
+      "text": "我们生，我们死，公交车轮子转个不停。",
+      "character": "Edward Cole",
+      "en": "We live, we die, and the wheels on the bus go round and round.",
+      "note": "爱德华的黑色总结；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "人生",
+    "友谊",
+    "临终"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 420000
+    },
+    "imdb": {
+      "score": 7.4,
+      "votes": 280000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 41
+    },
+    "metacritic": {
+      "score": 42
+    }
+  },
+  "still_alt": "遗愿清单 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/201-the-bucket-list.jpg）（影片页 https://www.themoviedb.org/movie/7350）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/e7PNkfrcy4EYIM4QxH3CCifXSTF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

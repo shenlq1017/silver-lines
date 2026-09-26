@@ -1,0 +1,50 @@
+{
+  "id": "groundhog-what-if-stuck",
+  "group": "classics",
+  "film": {
+    "title": "土拨鼠之日",
+    "year": 1993,
+    "title_en": "Groundhog Day",
+    "director": "哈罗德·拉米斯"
+  },
+  "lines": [
+    {
+      "text": "要是你被困住了——每天都一模一样——而这件事永远不会有尽头呢？",
+      "en": "What would you do if you were stuck in one place, and every day was exactly the same, and nothing that you did mattered?",
+      "character": "Phil Connors",
+      "note": "Phil 向 Rita 抛出的假设：土拨鼠之日把永恒轮回问成一记温柔的存在主义。通行意译。"
+    },
+    {
+      "text": "我是神明。不是那个上帝。",
+      "character": "Phil Connors",
+      "en": "I'm a god. I'm not the God.",
+      "note": "菲尔的狂妄与较真；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "时间",
+    "觉醒"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 700000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 94
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 72
+    }
+  },
+  "still_alt": "土拨鼠之日 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/groundhog-day-1993.jpg）（影片页 https://www.themoviedb.org/movie/137）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4W6RYDNe4OByNryOCvJprrutm9h.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

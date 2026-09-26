@@ -1,0 +1,43 @@
+{
+  "id": "coherence-another-house",
+  "group": "top250",
+  "film": {
+    "title": "彗星来的那一夜",
+    "year": 2013,
+    "title_en": "Coherence",
+    "director": "詹姆斯·沃德·布柯特"
+  },
+  "lines": [
+    {
+      "text": "如果你走进另一栋房子——你可能再也回不来了。",
+      "en": "If you walk into another house, you might never come back.",
+      "character": "题旨 / 晚宴众人",
+      "note": "彗星夜把邻桌变成平行宇宙：彗星来的那一夜用「另一栋房子」收束量子寓言。题旨凝练，非唯一逐字对白，边界已标。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "多重现实",
+    "悬疑"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 480000
+    },
+    "imdb": {
+      "score": 7.2,
+      "votes": 160000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 65
+    }
+  },
+  "still_alt": "彗星来的那一夜 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/228-coherence.jpg）（影片页 https://www.themoviedb.org/movie/220289）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fZDfpoC3rVAuiqCMKbr7leW1Cxa.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

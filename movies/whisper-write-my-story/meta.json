@@ -1,0 +1,43 @@
+{
+  "id": "whisper-write-my-story",
+  "group": "top250",
+  "film": {
+    "title": "侧耳倾听",
+    "year": 1995,
+    "title_en": "耳をすませば",
+    "director": "近藤喜文"
+  },
+  "lines": [
+    {
+      "text": "我想写一个属于自己的故事。",
+      "en": "I want to write a story that is truly my own.",
+      "character": "月岛雯",
+      "note": "雯的创作宣言：侧耳倾听的不只是轨道路声，还有把自己写成主角的勇气。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "爱情",
+    "成长"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 550000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 75000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 96
+    },
+    "metacritic": {
+      "score": 75
+    }
+  },
+  "still_alt": "侧耳倾听 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/143-rank-143.jpg）（影片页 https://www.themoviedb.org/movie/37797）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rphor0XQcYO4CQoQ6auaQm3UPap.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

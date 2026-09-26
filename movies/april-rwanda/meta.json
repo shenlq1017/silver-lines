@@ -1,0 +1,34 @@
+{
+  "id": "april-rwanda",
+  "group": "classics",
+  "film": {
+    "title": "四月某时",
+    "year": 2005,
+    "title_en": "Sometimes in April",
+    "director": "劳尔·佩克"
+  },
+  "lines": [
+    {
+      "text": "四月的某几天，兄弟也能被广播分成两边。",
+      "en": "In a few days of April, even brothers can be split by a radio broadcast.",
+      "character": "奥古斯丁／奥诺雷 / Augustin / Honoré",
+      "note": "主题性策展句：概括佩克《四月某时》中卢旺达大屠杀里兄弟分裂与 记忆的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "卢旺达",
+    "种族",
+    "兄弟",
+    "佩克"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 91
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "四月某时 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sometimes-in-april-2005.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/16374）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dUrKylt7c9HoqpOnDc4mHDMRXSu.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

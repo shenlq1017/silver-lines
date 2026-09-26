@@ -1,0 +1,33 @@
+{
+  "id": "dont-look-now-signs",
+  "group": "classics",
+  "film": {
+    "title": "威尼斯疑魂",
+    "year": 1973,
+    "title_en": "Don't Look Now",
+    "director": "尼古拉斯·罗伊格"
+  },
+  "lines": [
+    {
+      "text": "有些预兆，看见了也不该相信。",
+      "en": "Some signs should not be believed, even when you see them.",
+      "character": "约翰·巴克斯特",
+      "note": "策展意译：将影片关于预兆、哀悼与观看的不可靠性凝为主句，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "惊悚",
+    "哀悼",
+    "英国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 35000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "威尼斯疑魂 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/don-t-look-now-1973.jpg）（影片页 https://www.themoviedb.org/movie/931）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lWgAYR2gfKoTDeDnVAlqUkw7Pmh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

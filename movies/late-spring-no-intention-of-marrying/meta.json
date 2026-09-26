@@ -1,0 +1,33 @@
+{
+  "id": "late-spring-no-intention-of-marrying",
+  "group": "classics",
+  "film": {
+    "title": "晚春",
+    "year": 1949,
+    "title_en": "Late Spring",
+    "director": "小津安二郎"
+  },
+  "lines": [
+    {
+      "text": "我没有结婚的打算。",
+      "en": "I have no intention of marrying.",
+      "character": "纪子",
+      "note": "纪子面对婚姻安排的克制回答；以短句呈现小津式日常对话的余韵。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "婚姻",
+    "日本电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 25000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "晚春 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/late-spring-1949.jpg）（影片页 https://www.themoviedb.org/movie/20530）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

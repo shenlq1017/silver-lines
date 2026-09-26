@@ -1,0 +1,43 @@
+{
+  "id": "lives-others-for-me",
+  "group": "top250",
+  "film": {
+    "title": "窃听风暴",
+    "year": 2006,
+    "title_en": "The Lives of Others",
+    "director": "弗洛里安·亨克尔·冯·多纳斯马克"
+  },
+  "lines": [
+    {
+      "text": "这是送给我的。",
+      "en": "This is for me.",
+      "character": "Gerd Wiesler",
+      "note": "书店一幕：魏斯勒看见题献「HGW XX/7」，低声说出窃听风暴最轻也最重的一句。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "良知",
+    "监视"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 640000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 430000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 92
+    },
+    "metacritic": {
+      "score": 89
+    }
+  },
+  "still_alt": "窃听风暴 · 东德窃听与打字机意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/071-das-leben-der-anderen.jpg）（影片页 https://www.themoviedb.org/movie/582）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3mxteiwtcCPjbYKlyC0WxY1G9J3.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

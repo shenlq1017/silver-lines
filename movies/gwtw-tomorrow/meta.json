@@ -1,0 +1,62 @@
+{
+  "id": "gwtw-tomorrow",
+  "group": "top250",
+  "film": {
+    "title": "乱世佳人",
+    "year": 1939,
+    "title_en": "Gone with the Wind",
+    "director": "维克多·弗莱明"
+  },
+  "lines": [
+    {
+      "text": "明天又是新的一天。",
+      "featured": false,
+      "en": "Tomorrow is another day.",
+      "character": "Scarlett O'Hara",
+      "note": "乱世收束的自我打气，短到可以刻进座右铭。"
+    },
+    {
+      "text": "坦白说，亲爱的，我一点也不在乎。",
+      "en": "Frankly, my dear, I don't give a damn.",
+      "character": "Rhett Butler",
+      "note": "瑞德离场名句，影史引用之最。"
+    },
+    {
+      "text": "上帝为我作证，我再也不要挨饿了。",
+      "en": "As God is my witness, I'll never be hungry again.",
+      "character": "Scarlett O'Hara",
+      "note": "塔拉庄园红土里的起誓。"
+    },
+    {
+      "text": "我现在无法去想这些，再想下去我会发疯的。我明天再想。",
+      "en": "I can't think about that right now. If I do, I'll go crazy. I'll think about that tomorrow.",
+      "character": "Scarlett O'Hara",
+      "note": "与主台词同源的「明天」哲学。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "战争",
+    "重生"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 810000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 340000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 97
+    }
+  },
+  "still_alt": "乱世佳人 · 夕阳与庄园意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/034-gone-with-the-wind.jpg）（影片页 https://www.themoviedb.org/movie/770）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kI2a58nerEBRD9Rk0zOznkwm85r.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

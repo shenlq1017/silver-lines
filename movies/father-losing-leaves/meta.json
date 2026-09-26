@@ -1,0 +1,40 @@
+{
+  "id": "father-losing-leaves",
+  "group": "classics",
+  "film": {
+    "title": "父亲",
+    "year": 2021,
+    "title_en": "The Father",
+    "director": "弗洛里安·泽勒"
+  },
+  "lines": [
+    {
+      "text": "我觉得自己像在掉叶子。",
+      "en": "I feel as if I'm losing all my leaves.",
+      "character": "安东尼 / Anthony",
+      "note": "安东尼片末对护理员说出的对白；IMDb 角色语录／导演访谈确认片中原句；通行字幕可核。"
+    },
+    {
+      "text": "我要妈妈。把外套给我，我要回家……我要妈妈。",
+      "character": "Anthony",
+      "en": "I want my mummy. Get my coat. I want to go home... I want my mummy.",
+      "note": "老人夜里崩溃找母亲；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "记忆",
+    "衰老",
+    "失智",
+    "霍普金斯"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 3779
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "父亲 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-father-2021.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/600354）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/h3weAFgg06GqchI2xDfufBgSFTj.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

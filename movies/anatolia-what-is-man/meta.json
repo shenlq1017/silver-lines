@@ -1,0 +1,33 @@
+{
+  "id": "anatolia-what-is-man",
+  "group": "classics",
+  "film": {
+    "title": "小亚细亚往事",
+    "year": 2011,
+    "title_en": "Once Upon a Time in Anatolia",
+    "director": "努里·比格·锡兰"
+  },
+  "lines": [
+    {
+      "text": "人到底是什么？",
+      "en": "What, after all, is a man?",
+      "character": "检察官/医生夜谈 / Prosecutor and doctor",
+      "note": "策展意译：提炼长夜寻尸途中检察官与医生关于人性、记忆与真相的谈话内核；锡兰对白绵密，不冒充单一逐字。"
+    }
+  ],
+  "tags": [
+    "哲思",
+    "官僚",
+    "锡兰"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 565
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "小亚细亚往事 · TMDB 宣传静帧（2560×1440）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/once-upon-a-time-in-anatolia-2011.jpg）（影片页 https://www.themoviedb.org/movie/74879）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/213Gdu9zjGsVeWQl6p5gJrBq8n8.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

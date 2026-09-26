@@ -1,0 +1,63 @@
+{
+  "id": "truman-goodnight",
+  "group": "top250",
+  "film": {
+    "title": "楚门的世界",
+    "year": 1998,
+    "title_en": "The Truman Show",
+    "director": "彼得·威尔"
+  },
+  "lines": [
+    {
+      "text": "如果再也见不到你，祝你早安，午安，晚安。",
+      "en": "In case I don't see you… good afternoon, good evening, and good night.",
+      "character": "Truman Burbank",
+      "note": "假世界里最真的一句告别。"
+    },
+    {
+      "text": "我们都会接受摆在眼前的世界——就这么简单。",
+      "character": "Christof",
+      "en": "We accept the reality of the world with which we're presented. It's as simple as that.",
+      "note": "克里斯托弗谈观众与楚门，全片题眼；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你们从来就没在我脑子里装过摄影机！",
+      "character": "Truman Burbank",
+      "en": "You never had a camera in my head!",
+      "note": "楚门对导演的反抗；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "外面的世界和我造给你的世界一样没多少真话。但在我的世界里，你什么都不用怕。",
+      "character": "Christof",
+      "en": "There's no more truth out there than in the world I created for you... but in my world, you have nothing to fear.",
+      "note": "克里斯托弗的挽留（节选）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "自由",
+    "真实"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.4,
+      "votes": 1800000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 1200000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 94
+    },
+    "metacritic": {
+      "score": 90
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "楚门的世界 · 片尾出口门前挥手告别经典帧",
+  "license_note": "海报：TMDB 发行宣传物料 https://image.tmdb.org/t/p/original/nwBCPprRB4FzIQPTiSZ3HuF60mC.jpg（2000×3000）（影片页 https://www.themoviedb.org/movie/37165-the-truman-show）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hwBDtutbmTKMkhD95dgubEBB7Vt.jpg（3840×2160）；场景匹配（片尾出口门前挥手告别）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

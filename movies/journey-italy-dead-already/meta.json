@@ -1,0 +1,33 @@
+{
+  "id": "journey-italy-dead-already",
+  "group": "classics",
+  "film": {
+    "title": "意大利之旅",
+    "year": 1954,
+    "title_en": "Journey to Italy",
+    "director": "罗伯托·罗西里尼"
+  },
+  "lines": [
+    {
+      "text": "我们像两个陌生人。",
+      "en": "We're like two strangers.",
+      "character": "亚历克斯 / Alex Joyce",
+      "note": "据通行字幕：亚历克斯对婚姻疏离的概括性对白；不同修复/字幕版措辞或有出入。"
+    }
+  ],
+  "tags": [
+    "婚姻",
+    "意大利",
+    "新现实主义"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 346
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "意大利之旅 · TMDB 宣传静帧（2222×1250）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/journey-to-italy-1954.jpg）（影片页 https://www.themoviedb.org/movie/2748）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qepQ7F6HtYJIjSxDzCMaDsgXsDy.jpg（2222×1250）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

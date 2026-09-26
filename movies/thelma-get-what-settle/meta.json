@@ -1,0 +1,56 @@
+{
+  "id": "thelma-get-what-settle",
+  "group": "top250",
+  "film": {
+    "title": "末路狂花",
+    "year": 1991,
+    "title_en": "Thelma & Louise",
+    "director": "雷德利·斯科特"
+  },
+  "lines": [
+    {
+      "text": "你安于什么，就会得到什么。",
+      "en": "You get what you settle for.",
+      "character": "Louise",
+      "note": "Louise 把委屈说成定律：公路尽头的悬崖，是拒绝再「安于」的最后加速。"
+    },
+    {
+      "text": "有什么东西在我身体里变了。我回不去了。",
+      "character": "Thelma",
+      "en": "Something's, like, crossed over in me. I can't go back.",
+      "note": "荒野夜谈塞尔玛的觉醒；IMDb quotes 可查。"
+    },
+    {
+      "text": "别被抓住。我们继续走。",
+      "character": "Louise",
+      "en": "Let's not get caught. Let's keep going.",
+      "note": "大峡谷边的最后一句，全片收束；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "公路",
+    "女性",
+    "自由"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 7.5,
+      "votes": 180000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 86
+    },
+    "metacritic": {
+      "score": 88
+    }
+  },
+  "still_alt": "末路狂花 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/165-thelma-louise.jpg）（影片页 https://www.themoviedb.org/movie/1541）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u49EZzHvGCNrHdQxkc3hhLmQEPP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

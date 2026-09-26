@@ -1,0 +1,38 @@
+{
+  "id": "postmen-xiangtou-ideal",
+  "group": "classics",
+  "film": {
+    "title": "那山那人那狗",
+    "year": 1999,
+    "title_en": "Postmen in the Mountains",
+    "director": "霍建起"
+  },
+  "lines": [
+    {
+      "text": "想头，也叫理想。人有想头，就什么都有。",
+      "en": "What we call hope is also called an ideal. If you have hope, you have everything.",
+      "character": "父亲 / The father",
+      "note": "通行名句：父亲对儿子解释山路邮差苦中有“想头”；中文取通行字幕/影评引用，略有版本差异。"
+    },
+    {
+      "text": "山里人为什么要住在山里呢？——山里人住在山里，就像脚放在鞋里面，舒服。",
+      "character": "老邮递员",
+      "note": "父子问答的点题句；通行引述可查。"
+    }
+  ],
+  "tags": [
+    "父子",
+    "乡土",
+    "邮路"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 61
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "那山那人那狗 · TMDB 宣传静帧（2343×1318）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/postmen-in-the-mountains-1999.jpg）（影片页 https://www.themoviedb.org/movie/108954）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7UPrFqc6lhMjJZMOjYlOUvT5QsQ.jpg（2343×1318）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

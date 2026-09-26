@@ -1,0 +1,34 @@
+{
+  "id": "waiting-happiness-shore",
+  "group": "classics",
+  "film": {
+    "title": "等待幸福",
+    "year": 2002,
+    "title_en": "Waiting for Happiness",
+    "director": "阿布德拉马纳·西萨科"
+  },
+  "lines": [
+    {
+      "text": "幸福若在对岸，港口就只会一直等人上船。",
+      "en": "If happiness is across the water, the port will only keep waiting for someone to board.",
+      "character": "阿卜杜拉／地方群像 / Abdallah / locals",
+      "note": "主题性策展句：概括西萨科《等待幸福》中毛里塔尼亚港口小镇疏离与离境等待的过渡题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "等待",
+    "港口",
+    "过渡",
+    "西萨科"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.5,
+      "votes": 30
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "等待幸福 · TMDB 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/waiting-for-happiness-2002.jpg，960×1440）（影片页 https://www.themoviedb.org/movie/47226）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fgkt6KVenMAiKtEMNV67KZPueyq.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

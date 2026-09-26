@@ -1,0 +1,33 @@
+{
+  "id": "cairo-station-i-am-normal",
+  "group": "classics",
+  "film": {
+    "title": "开罗车站",
+    "year": 1958,
+    "title_en": "Cairo Station",
+    "director": "尤瑟夫·夏因"
+  },
+  "lines": [
+    {
+      "text": "我不是疯子，我只是想被爱。",
+      "en": "I am not crazy; I only want to be loved.",
+      "character": "坎纳维",
+      "note": "坎纳维欲望与孤独线的策展意译；将人物自我辩护与被排斥感合并呈现。"
+    }
+  ],
+  "tags": [
+    "城市",
+    "欲望",
+    "埃及电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 11000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "开罗车站 · TMDB 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/cairo-station-1958.jpg）（影片页 https://www.themoviedb.org/movie/47324）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4mGX1MhA63kddBiZRrXeg5gvquJ.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "hail-judge-justice-hearts",
+  "group": "top250",
+  "film": {
+    "title": "九品芝麻官",
+    "year": 1994,
+    "title_en": "Hail the Judge",
+    "director": "王晶"
+  },
+  "lines": [
+    {
+      "text": "公道自在人心。",
+      "en": "Justice lives in the hearts of the people.",
+      "character": "包龙星",
+      "note": "周星驰包龙星的法庭呐喊：戏谑外壳下仍是「人心即公道」的民间信念。"
+    },
+    {
+      "text": "做贪官要奸，做清官要更奸——不然你怎么治得了那些坏人？",
+      "character": "包龙星",
+      "note": "包龙星悟出的为官之道；通行引述可查。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "古装",
+    "正义"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 600000
+    },
+    "imdb": {
+      "score": 7.2,
+      "votes": 5000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 80
+    },
+    "metacritic": {
+      "score": 55
+    }
+  },
+  "still_alt": "九品芝麻官 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/138-hail-the-judge.jpg）（影片页 https://www.themoviedb.org/movie/55156）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/x8zprGIgH2pExKCyNdwfANcbnlG.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "chinatown-forget-it-jake",
+  "group": "classics",
+  "film": {
+    "title": "唐人街",
+    "year": 1974,
+    "title_en": "Chinatown",
+    "director": "罗曼·波兰斯基"
+  },
+  "lines": [
+    {
+      "text": "算了吧，杰克。这儿是唐人街。",
+      "en": "Forget it, Jake. It's Chinatown.",
+      "character": "Walsh",
+      "note": "全片最后的安慰即放弃：唐人街用地名收束对体制的无力感。通行定译。"
+    },
+    {
+      "text": "大多数人从不必面对一个事实：在对的时间、对的地点，他们什么都干得出来。",
+      "character": "Noah Cross",
+      "en": "Most men never have to face the fact that at the right time and the right place, they're capable of anything.",
+      "note": "克罗斯的邪恶哲学；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你真是只多管闲事的小猫。",
+      "character": "Jake Gittes",
+      "en": "You're a very nosy fellow, kitty cat.",
+      "note": "吉特斯被割破鼻子前的调侃；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "黑色",
+    "腐败",
+    "无力"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 160000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 370000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 92
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "唐人街 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/chinatown-1974.jpg）（影片页 https://www.themoviedb.org/movie/829）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mGcRgFTFoD9qf7eXUXqgSRew4n7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

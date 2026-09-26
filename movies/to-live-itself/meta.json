@@ -1,0 +1,43 @@
+{
+  "id": "to-live-itself",
+  "group": "top250",
+  "film": {
+    "title": "活着",
+    "year": 1994,
+    "title_en": "Lifetimes",
+    "director": "张艺谋"
+  },
+  "lines": [
+    {
+      "text": "人是为活着本身而活着，而不是为了活着之外的任何事物而活着。",
+      "en": "A person lives for the sake of living itself, not for anything beyond that.",
+      "character": "题旨（余华／福贵意蕴）",
+      "note": "华语传世题旨句，出自余华原著表述，非张艺谋电影逐字原声核验；常见转述，策展保留并标明出处边界。"
+    },
+    {
+      "text": "小鸡长大了就变成鹅，鹅长大了就变成羊，羊长大了就变成牛——牛以后，日子就越来越好了。",
+      "character": "福贵",
+      "note": "福贵对儿子的循环许诺，全片命运的谶语；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "历史",
+    "生存"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 980000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 22000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "活着 · 乡土与皮影意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/029-lifetimes.jpg）（影片页 https://www.themoviedb.org/movie/31439）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vEeT6ObSDVngiWS6vDIPUtu9r8X.jpg（2160×1215）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

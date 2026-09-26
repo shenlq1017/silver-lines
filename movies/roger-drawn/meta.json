@@ -1,0 +1,40 @@
+{
+  "id": "roger-drawn",
+  "group": "classics",
+  "film": {
+    "title": "谁陷害了兔子罗杰",
+    "year": 1988,
+    "title_en": "Who Framed Roger Rabbit",
+    "director": "罗伯特·泽米吉斯"
+  },
+  "lines": [
+    {
+      "text": "我不坏。我只是被画成这样。",
+      "en": "I'm not bad. I'm just drawn that way.",
+      "character": "杰西卡·拉比特 / Jessica Rabbit",
+      "note": "杰西卡对艾迪说出的对白；Wikiquote／IMDb quotes／通行字幕可核。"
+    },
+    {
+      "text": "笑可以是非常强大的东西。",
+      "character": "Roger Rabbit",
+      "en": "A laugh can be a very powerful thing.",
+      "note": "罗杰谈笑的力量；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "身份",
+    "卡通",
+    "辩护"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 6355
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "谁陷害了兔子罗杰 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/who-framed-roger-rabbit-1988.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/856）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

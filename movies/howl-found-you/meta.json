@@ -1,0 +1,48 @@
+{
+  "id": "howl-found-you",
+  "group": "top250",
+  "film": {
+    "title": "哈尔的移动城堡",
+    "year": 2004,
+    "title_en": "Howl's Moving Castle",
+    "director": "宫崎骏"
+  },
+  "lines": [
+    {
+      "text": "找到你了，亲爱的。抱歉我来晚了。我找了你好久。",
+      "en": "There you are, sweetheart. Sorry I'm late. I was looking everywhere for you.",
+      "character": "哈尔",
+      "note": "战场烟尘里的情话，移动城堡最被记住的一句。"
+    },
+    {
+      "text": "我已经逃得够多了。终于有了必须守护的东西——那就是你。",
+      "character": "Howl",
+      "note": "哈尔向苏菲的告白；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "爱情",
+    "奇幻"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 1300000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 460000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 87
+    },
+    "metacritic": {
+      "score": 80
+    }
+  },
+  "still_alt": "哈尔的移动城堡 · 城堡与天空宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/037-rank-037.jpg）（影片页 https://www.themoviedb.org/movie/4935）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pjy0T63vIFYvxRSJ3ZtjB4tmWV4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

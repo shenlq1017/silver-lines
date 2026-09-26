@@ -1,0 +1,48 @@
+{
+  "id": "busan-will-be-safe",
+  "group": "top250",
+  "film": {
+    "title": "釜山行",
+    "year": 2016,
+    "title_en": "Train to Busan",
+    "director": "延尚昊"
+  },
+  "lines": [
+    {
+      "text": "到了釜山，就会安全了。",
+      "en": "Once we reach Busan, we'll be safe.",
+      "character": "石宇 / 乘客们",
+      "note": "全车人的共同幻觉：终点即安全。丧尸列车把「家」与「活着」压成同一方向。"
+    },
+    {
+      "text": "我妻子的名字，叫盛京。",
+      "character": "尚华",
+      "note": "尚华托付女儿时说出的名字；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "灾难",
+    "人性",
+    "亲情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 1100000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 250000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 94
+    },
+    "metacritic": {
+      "score": 72
+    }
+  },
+  "still_alt": "釜山行 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/147-rank-147.jpg）（影片页 https://www.themoviedb.org/movie/396535）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aKISIT8ir0UhHD4yRHDzpK4b6yS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

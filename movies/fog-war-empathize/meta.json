@@ -1,0 +1,54 @@
+{
+  "id": "fog-war-empathize",
+  "group": "classics",
+  "film": {
+    "title": "战争迷雾",
+    "year": 2003,
+    "title_en": "The Fog of War",
+    "director": "埃罗尔·莫里斯"
+  },
+  "lines": [
+    {
+      "text": "设身处地去理解你的敌人。",
+      "en": "Empathize with your enemy.",
+      "character": "罗伯特·麦克纳马拉 / Robert S. McNamara",
+      "note": "麦克纳马拉「十一条教训」之首的通行概括；他解释为设身处地、透过对方眼睛看自己。纪录片口述可核验。"
+    },
+    {
+      "text": "理性救不了我们。",
+      "character": "Robert S. McNamara",
+      "en": "Rationality will not save us.",
+      "note": "十一条教训之二；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "为了行善，你可能不得不作恶。",
+      "character": "Robert S. McNamara",
+      "en": "In order to do good, you may have to engage in evil.",
+      "note": "十一条教训之九；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "相信与看见，常常都是错的。",
+      "character": "Robert S. McNamara",
+      "en": "Belief and seeing are both often wrong.",
+      "note": "十一条教训之七；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "战争",
+    "口述历史",
+    "教训"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 28000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "战争迷雾 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-fog-of-war-2003.jpg）（影片页 https://www.themoviedb.org/movie/12698）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uxnKSGcoYk9O7UqdIH46aVGMYHv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

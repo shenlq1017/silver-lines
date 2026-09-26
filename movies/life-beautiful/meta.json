@@ -1,0 +1,60 @@
+{
+  "id": "life-beautiful",
+  "group": "top250",
+  "film": {
+    "title": "美丽人生",
+    "year": 1997,
+    "title_en": "Life Is Beautiful",
+    "director": "罗伯托·贝尼尼"
+  },
+  "lines": [
+    {
+      "text": "为了你，我愿意天天都是生日。",
+      "en": "For you, every day can be a birthday.",
+      "character": "Guido",
+      "note": "用游戏护住孩子眼中的世界。"
+    },
+    {
+      "text": "早安，公主！",
+      "character": "Guido",
+      "en": "Buongiorno, Principessa!",
+      "note": "对多拉的标志性问候，贯穿全片；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "哭鼻子、想吃点心、想见妈妈的，都要扣分出局。",
+      "character": "Guido",
+      "en": "If you cry, if you ask for a snack, if you want to see your mama, you lose points.",
+      "note": "集中营里向儿子解释「游戏规则」；通行字幕译法。"
+    },
+    {
+      "text": "这是我的故事。这是我父亲所作的牺牲，这是父亲赐我的恩典。",
+      "character": "Giosuè（旁白）",
+      "en": "This is my story. This is the sacrifice my father made. This was his gift to me.",
+      "note": "片尾成年约书亚的收束旁白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "亲情",
+    "希望"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.5,
+      "votes": 1400000
+    },
+    "imdb": {
+      "score": 8.6,
+      "votes": 760000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 81
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "美丽人生 · 父子在集中营「游戏」相关宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料 https://image.tmdb.org/t/p/original/29A1cLKmPM8atzI9nM4ESk9pFjh.jpg（2000×3000）（影片页 https://www.themoviedb.org/movie/637-life-is-beautiful）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rIt6ON5s9lAFhkCPU7mVwENNFfE.jpg（3702×2080）；场景匹配（父子集中营「游戏」相关宣传静帧）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pigeon-branch-existence",
+  "group": "classics",
+  "film": {
+    "title": "寒枝雀静",
+    "year": 2014,
+    "title_en": "A Pigeon Sat on a Branch Reflecting on Existence",
+    "director": "罗伊·安德森"
+  },
+  "lines": [
+    {
+      "text": "鸽子停在枝上，思考有没有必要存在。",
+      "en": "A pigeon sat on a branch, reflecting on whether existence is necessary.",
+      "character": "题眼 / Title tableau",
+      "note": "策展意译：借安德森威尼斯金狮片名点题；片中人物常以静帧式对白呈现，明确不冒充唯一逐字。"
+    },
+    {
+      "text": "很高兴听到你一切都好。",
+      "character": "推销 wine 的双人组",
+      "en": "I'm happy to hear you're doing fine.",
+      "note": "贯穿全片的推销开场白，电影标志性句式。"
+    }
+  ],
+  "tags": [
+    "存在",
+    "静帧",
+    "人间喜剧"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 508
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "寒枝雀静 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-pigeon-sat-on-a-branch-reflecting-on-existence-2014.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/110390）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/o7IHtxgurVCuAuT3UWqrgimVJRD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

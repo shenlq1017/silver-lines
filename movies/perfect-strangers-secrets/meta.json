@@ -1,0 +1,34 @@
+{
+  "id": "perfect-strangers-secrets",
+  "group": "classics",
+  "film": {
+    "title": "完美陌生人",
+    "year": 2016,
+    "title_en": "Perfect Strangers",
+    "director": "保罗·杰诺韦塞"
+  },
+  "lines": [
+    {
+      "text": "有些秘密，说出来，朋友就做不成了。",
+      "en": "Some secrets, once spoken, end a friendship.",
+      "character": "晚宴众人 / dinner guests",
+      "note": "策展意译：对应杰诺韦塞《完美陌生人》手机坦白游戏的核心风险，不冒充单一字幕句。"
+    }
+  ],
+  "tags": [
+    "手机",
+    "秘密",
+    "社交",
+    "意大利"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 4691
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "完美陌生人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/perfect-strangers-2016.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/381341）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1YhiocGm8aOwILGX7mwlkdbr0ph.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

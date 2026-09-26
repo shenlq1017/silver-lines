@@ -1,0 +1,48 @@
+{
+  "id": "ponyo-loves-sosuke",
+  "group": "top250",
+  "film": {
+    "title": "崖上的波妞",
+    "year": 2008,
+    "title_en": "Ponyo",
+    "director": "宫崎骏"
+  },
+  "lines": [
+    {
+      "text": "波妞喜欢宗介！",
+      "en": "Ponyo loves Sosuke!",
+      "character": "波妞",
+      "note": "半鱼女孩扑向人类男孩：崖上的波妞把告白压成五个字加感叹号。通行定译；film_title_en=Ponyo（非原日文片名）。"
+    },
+    {
+      "text": "我会保护你的。",
+      "character": "宗介",
+      "note": "宗介对波妞的承诺；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "海洋",
+    "童年"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 520000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 180000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 91
+    },
+    "metacritic": {
+      "score": 86
+    }
+  },
+  "still_alt": "崖上的波妞 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/226-rank-226.jpg）（影片页 https://www.themoviedb.org/movie/12429）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vdeWSX4fvuWz2oHpbCW2t8mYi6e.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "stand-by-me-friends-forever",
+  "group": "classics",
+  "film": {
+    "title": "伴我同行",
+    "year": 1986,
+    "title_en": "Stand by Me",
+    "director": "罗伯·莱纳"
+  },
+  "lines": [
+    {
+      "text": "我再也没有交过像十二岁时那样的朋友——你是不是也这样？",
+      "en": "I never had any friends later on like the ones I had when I was twelve. Jesus, does anyone?",
+      "character": "Gordie Lachance",
+      "note": "旁白收束：伴我同行把童年友谊写成不可复刻的一次。通行意译。"
+    }
+  ],
+  "tags": [
+    "成长",
+    "友谊",
+    "回忆"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 280000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 450000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 92
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 75
+    }
+  },
+  "still_alt": "伴我同行 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/stand-by-me-1986.jpg）（影片页 https://www.themoviedb.org/movie/235）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yjGllQUm28R4X9xD9T5xMszirgw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

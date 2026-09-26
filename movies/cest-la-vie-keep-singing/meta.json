@@ -1,0 +1,33 @@
+{
+  "id": "cest-la-vie-keep-singing",
+  "group": "classics",
+  "film": {
+    "title": "新不了情",
+    "year": 1993,
+    "title_en": "C'est la vie, mon chéri",
+    "director": "尔冬升"
+  },
+  "lines": [
+    {
+      "text": "我还想再唱一次。",
+      "en": "I want to sing one more time.",
+      "character": "敏慧 / Minhui",
+      "note": "策展意译：提炼袁咏仪饰歌手在病中仍要唱歌的生命意志；与主题曲《新不了情》互文，非声称唯一对白。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "疾病",
+    "粤语歌"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 23
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "新不了情 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/c-est-la-vie-mon-cheri-1993.jpg）（影片页 https://www.themoviedb.org/movie/107682）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dHczrkFkXSJHANHeI5ZVep89ob.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

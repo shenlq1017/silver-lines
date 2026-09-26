@@ -1,0 +1,60 @@
+{
+  "id": "eat-drink-desire",
+  "group": "top250",
+  "film": {
+    "title": "饮食男女",
+    "year": 1994,
+    "title_en": "Eat Drink Man Woman",
+    "director": "李安"
+  },
+  "lines": [
+    {
+      "text": "饮食男女，人之大欲存焉。",
+      "en": "Food, drink, man, woman—basic human desires.",
+      "character": "片题 / 题旨",
+      "note": "出自《礼记》，亦是片题与全家晚餐的题旨句；非角色对白逐字原声，已标明出典边界。"
+    },
+    {
+      "text": "人生不能像做菜，把所有的料都准备好了才下锅。",
+      "character": "老朱",
+      "note": "关于人生与做菜的著名感悟；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "其实一家人住在一个屋檐下，照样可以各过各的日子。可是从心里产生的那种顾忌，才是一个家之所以为家的意义。",
+      "character": "老朱",
+      "note": "结尾家宴的和解独白；通行引述可查。",
+      "confidence": "medium"
+    },
+    {
+      "text": "女儿……爸爸尝不出味道来了。",
+      "character": "老朱",
+      "note": "结尾味觉之谜揭晓的告白。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "饮食",
+    "情感"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 740000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 45000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 91
+    },
+    "metacritic": {
+      "score": 76
+    }
+  },
+  "still_alt": "饮食男女 · 餐桌与家常烟火宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/060-eat-drink-man-woman.jpg）（影片页 https://www.themoviedb.org/movie/10451）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

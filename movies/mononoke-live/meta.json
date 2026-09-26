@@ -1,0 +1,48 @@
+{
+  "id": "mononoke-live",
+  "group": "top250",
+  "film": {
+    "title": "幽灵公主",
+    "year": 1997,
+    "title_en": "もののけ姫",
+    "director": "宫崎骏"
+  },
+  "lines": [
+    {
+      "text": "活着。即使被诅咒，也要好好地活着。",
+      "en": "Live. Even if you are cursed, live.",
+      "character": "阿席达卡",
+      "note": "阿席达卡把「生きろ」喊成全片伦理：在神与人的杀伐里，活着本身就是抵抗。"
+    },
+    {
+      "text": "都看好了——我来示范，怎么杀掉一个神。",
+      "character": "幻姬大人",
+      "note": "黑帽大人对铁工厂众人的宣言；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "生存",
+    "自然"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 650000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 450000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 76
+    }
+  },
+  "still_alt": "幽灵公主 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/102-rank-102.jpg）（影片页 https://www.themoviedb.org/movie/128）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w7Lj720FNJf9bh9yOc314pRILcW.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

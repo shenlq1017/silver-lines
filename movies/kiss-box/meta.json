@@ -1,0 +1,34 @@
+{
+  "id": "kiss-box",
+  "group": "classics",
+  "film": {
+    "title": "死吻",
+    "year": 1955,
+    "title_en": "Kiss Me Deadly",
+    "director": "罗伯特·奥尔德里奇"
+  },
+  "lines": [
+    {
+      "text": "如果我们到不了……记住我。",
+      "en": "If we don't, remember me.",
+      "character": "克里斯蒂娜·贝利 / Christina Bailey",
+      "note": "克里斯蒂娜在车上对迈克·哈默说的对白；IMDb quotes／影片开场通行英文字幕。"
+    }
+  ],
+  "tags": [
+    "黑色电影",
+    "盒子",
+    "核恐惧",
+    "奥尔德里奇"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 420
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "死吻 · TMDB 宣传静帧（3072×1728）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kiss-me-deadly-1955.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/18030）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rDOQGoYaEtIf7hbs8tdNEnMmH6n.jpg（3072×1728）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

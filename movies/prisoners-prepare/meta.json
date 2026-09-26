@@ -1,0 +1,34 @@
+{
+  "id": "prisoners-prepare",
+  "group": "classics",
+  "film": {
+    "title": "囚徒",
+    "year": 2013,
+    "title_en": "Prisoners",
+    "director": "丹尼斯·维伦纽瓦"
+  },
+  "lines": [
+    {
+      "text": "祈求最好的，也要为最坏的做准备。",
+      "en": "Pray for the best, but prepare for the worst.",
+      "character": "凯勒·多佛 / Keller Dover",
+      "note": "凯勒反复说的家庭信条对白；片末警探洛基亦复述；IMDb quotes／字幕稿可核。"
+    }
+  ],
+  "tags": [
+    "生存",
+    "父亲",
+    "信仰",
+    "维伦纽瓦"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 13526
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "囚徒 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/prisoners-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/146233）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

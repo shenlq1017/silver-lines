@@ -1,0 +1,34 @@
+{
+  "id": "balthazar-burden",
+  "group": "classics",
+  "film": {
+    "title": "巴尔塔扎尔的遭遇",
+    "year": 1966,
+    "title_en": "Au Hasard Balthazar",
+    "director": "罗贝尔·布列松"
+  },
+  "lines": [
+    {
+      "text": "牲口不懂得宽恕，却比人更早学会了承受。",
+      "en": "A beast does not know forgiveness, yet learns to bear more sooner than men.",
+      "character": "巴尔塔扎尔／玛丽 / Balthazar / Marie",
+      "note": "主题性策展句：概括布列松《巴尔塔扎尔的遭遇》中驴子承载人间残酷与圣愚恩典的寓言，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "受难",
+    "恩典",
+    "简约",
+    "布列松"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 529
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "巴尔塔扎尔的遭遇 · TMDB 宣传静帧（3024×1701）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/au-hasard-balthazar-1966.jpg，1181×1771）（影片页 https://www.themoviedb.org/movie/20108）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lEDQFnMQeCgQJfTB1tFngRq2yJN.jpg（3024×1701）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

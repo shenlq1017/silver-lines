@@ -1,0 +1,43 @@
+{
+  "id": "little-forest-winter-land",
+  "group": "top250",
+  "film": {
+    "title": "小森林 冬春篇",
+    "year": 2015,
+    "title_en": "Little Forest: Winter/Spring",
+    "director": "森淳一"
+  },
+  "lines": [
+    {
+      "text": "无论冬春，土地都会给出答案。",
+      "en": "Winter or spring, the land always answers back.",
+      "character": "市子",
+      "note": "冬春篇与夏秋篇对位：季节轮转，市子把「答案」交还给土地。题旨凝练句。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "治愈",
+    "季节"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 400000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 4000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 78
+    }
+  },
+  "still_alt": "小森林 冬春篇 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/149-little-forest-winter-spring.jpg）（影片页 https://www.themoviedb.org/movie/336026）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3jxT6hCi5eDBseucDRo5c04qWCZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

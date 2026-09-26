@@ -1,0 +1,57 @@
+{
+  "id": "frozen-love-is-putting",
+  "group": "top250",
+  "film": {
+    "title": "冰雪奇缘",
+    "year": 2013,
+    "title_en": "Frozen",
+    "director": "克里斯·巴克 / 珍妮弗·李"
+  },
+  "lines": [
+    {
+      "text": "爱，就是把别人的需要放在自己前面。",
+      "en": "Love is putting someone else's needs before yours.",
+      "character": "Olaf",
+      "note": "雪宝替安娜定义真爱：冰雪奇缘把「敞开门」从情歌改写成牺牲伦理。通行定译。"
+    },
+    {
+      "text": "反正寒冷从来困扰不了我。",
+      "character": "Elsa",
+      "en": "The cold never bothered me anyway.",
+      "note": "《Let It Go》的收束一句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你想不想堆雪人？",
+      "character": "Anna",
+      "en": "Do you want to build a snowman?",
+      "note": "安娜隔门呼唤姐姐的插曲；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "姐妹",
+    "爱"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 900000
+    },
+    "imdb": {
+      "score": 7.4,
+      "votes": 700000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 74
+    }
+  },
+  "still_alt": "冰雪奇缘 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/235-frozen.jpg）（影片页 https://www.themoviedb.org/movie/109445）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

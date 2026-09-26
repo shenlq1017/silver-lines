@@ -1,0 +1,33 @@
+{
+  "id": "human-condition-remain-human",
+  "group": "classics",
+  "film": {
+    "title": "人间的条件",
+    "year": 1959,
+    "title_en": "The Human Condition I",
+    "director": "小林正树"
+  },
+  "lines": [
+    {
+      "text": "我绝不能放弃做人。",
+      "en": "I will never stop being human.",
+      "character": "梶 / Kaji",
+      "note": "策展意译：提炼梶在军队与劳役制度中坚守人道底线的核心立场；不同字幕版本措辞有差异。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "人道主义",
+    "日本电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 299
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "人间的条件 · TMDB 宣传静帧（2047×1151）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-human-condition-i-1959.jpg）（影片页 https://www.themoviedb.org/movie/31217）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/10ObilAqjWNqDKuoU8BN5vpYeW7.jpg（2047×1151）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hollywood-enjoy-the-silence",
+  "group": "classics",
+  "film": {
+    "title": "好莱坞往事",
+    "year": 2019,
+    "title_en": "Once Upon a Time in Hollywood",
+    "director": "昆汀·塔伦蒂诺"
+  },
+  "lines": [
+    {
+      "text": "当你能安静一会儿、舒服地享受沉默——那你就知道遇到对的人了。",
+      "en": "That's when you know you've found somebody special. When you can just shut the fuck up for a minute and comfortably enjoy the silence.",
+      "character": "里克·道尔顿 / Rick Dalton（转述/酒后）",
+      "note": "里克关于「享受沉默」的通行名句（原句含粗口，中文略作书面化）；塔伦蒂诺式男子友谊注脚。"
+    },
+    {
+      "text": "官宣了，老伙计——我是个过气明星。",
+      "character": "Rick Dalton",
+      "en": "It's official, old buddy. I'm a has-been.",
+      "note": "瑞克的自我清算；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "好莱坞",
+    "友谊",
+    "挽歌"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 15281
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "好莱坞往事 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/once-upon-a-time-in-hollywood-2019.jpg）（影片页 https://www.themoviedb.org/movie/466272）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

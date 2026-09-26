@@ -1,0 +1,47 @@
+{
+  "id": "spider-verse-own-thing",
+  "group": "classics",
+  "film": {
+    "title": "蜘蛛侠：纵横宇宙",
+    "year": 2023,
+    "title_en": "Spider-Man: Across the Spider-Verse",
+    "director": "肯普·鲍尔斯 / 贾斯汀·K·汤普森 / 华金·多斯·桑托斯"
+  },
+  "lines": [
+    {
+      "text": "不。我要走自己的路。",
+      "en": "Nah. Imma do my own thing.",
+      "character": "迈尔斯·莫拉莱斯 / Miles Morales",
+      "note": "迈尔斯对抗「正典」命运的通行短句；中文取口语达意译法。"
+    },
+    {
+      "text": "就这样——信仰之跃。",
+      "character": "Peter B. Parker",
+      "en": "That's all it is, Miles. A leap of faith.",
+      "note": "彼得对迈尔斯的临别点拨，衔接纵身一跳名场面；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "谁都可以戴上面具——你也可以。以前你若不知道，现在希望你知道了。",
+      "character": "Peter B. Parker",
+      "en": "Anyone can wear the mask. You can wear the mask. If you didn't know that before, I hope you do now.",
+      "note": "彼得留给迈尔斯的字条；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "身份",
+    "选择"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.3,
+      "votes": 9289
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "蜘蛛侠：纵横宇宙 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/spider-man-across-the-spider-verse-2023.jpg）（影片页 https://www.themoviedb.org/movie/569094）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "play-in-hell-cinema",
+  "group": "classics",
+  "film": {
+    "title": "何不下地狱玩",
+    "year": 2013,
+    "title_en": "Why Don't You Play in Hell?",
+    "director": "园子温"
+  },
+  "lines": [
+    {
+      "text": "地狱里不好好拍电影，要在哪儿拍？",
+      "en": "If you won't make a movie in hell, where will you?",
+      "character": "电影青年帮 / the amateur film crew",
+      "note": "策展意译：呼应园子温《何不下地狱玩》片名与「用鲜血拍出真正电影」的戏谑题旨，不冒充逐字字幕。"
+    }
+  ],
+  "tags": [
+    "电影",
+    "黑帮",
+    "戏谑",
+    "园子温"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 333
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "何不下地狱玩 · TMDB 宣传静帧（3008×1692）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/why-don-t-you-play-in-hell-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/134350）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kmVMJ8vrPh6QNigevV3u7eXllmD.jpg（3008×1692）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

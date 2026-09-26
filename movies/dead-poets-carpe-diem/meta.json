@@ -1,0 +1,62 @@
+{
+  "id": "dead-poets-carpe-diem",
+  "group": "top250",
+  "film": {
+    "title": "死亡诗社",
+    "year": 1989,
+    "title_en": "Dead Poets Society",
+    "director": "彼得·威尔"
+  },
+  "lines": [
+    {
+      "text": "及时行乐。孩子们，让你们的生命变得非凡。",
+      "featured": true,
+      "en": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+      "character": "John Keating",
+      "note": "死亡诗社的灵魂召唤，拉丁文借口下的生命动员令。"
+    },
+    {
+      "text": "哦，船长，我的船长！",
+      "en": "O Captain! My Captain!",
+      "character": "Todd Anderson",
+      "note": "片终课桌上的第一声呐喊，出自惠特曼诗。"
+    },
+    {
+      "text": "我们读诗、写诗，并非因为它好玩。我们读诗、写诗，因为我们是人类的一员，而人类充满了激情。医药、法律、商业、工程，这些崇高的追求足以支撑人的一生。但诗歌、美、浪漫、爱，这些才是我们活着的意义。",
+      "en": "We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. Medicine, law, business, engineering: these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love: these are what we stay alive for.",
+      "character": "John Keating",
+      "note": "基廷课堂名段；通行译法。"
+    },
+    {
+      "text": "我步入丛林，因为我希望活得有意义。我希望活得深刻，汲取生命中所有的精华，以免当我生命终结时，发现自己从来没有活过。",
+      "en": "I went to the woods because I wanted to live deliberately. I wanted to live deep and suck out all the marrow of life. To put to rout all that was not life, and not, when I had come to die, discover that I had not lived.",
+      "character": "John Keating",
+      "note": "基廷课堂诵读梭罗《瓦尔登湖》。"
+    }
+  ],
+  "tags": [
+    "教育",
+    "自由",
+    "青春"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 900000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 570000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 84
+    },
+    "metacritic": {
+      "score": 79
+    }
+  },
+  "still_alt": "死亡诗社 · 课堂与诗社宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/046-dead-poets-society.jpg）（影片页 https://www.themoviedb.org/movie/207）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rSzDfniDjqh2TIP9uH7rwi2iRy3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

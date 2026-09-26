@@ -1,0 +1,57 @@
+{
+  "group": "pilots",
+  "generated": "2026-09-26",
+  "movies": [
+    { "id": "3idiots-excellence", "verdicts": [
+      { "index": 0, "text": "追求卓越，成功就会在不经意间追上你。", "verdict": "ok", "source": "豆瓣三傻经典台词榜首（中文通行）；Wikiquote/3 Idiots（官方英字另有 \"Pursue excellence, and success will follow, pants down.\" 变体，现 en 为通行净版）" },
+      { "index": 1, "text": "一切顺利。", "verdict": "ok", "source": "Wikiquote/3 Idiots（\"Aal izz well. All is well.\"）" },
+      { "index": 2, "text": "心很脆弱，你要学会哄它。", "verdict": "wrong-wording", "correction": "en 改为 \"This heart scares easily. You have to trick it. However big the problem, tell your heart, 'All is well, pal.'\"（中文通行，仅 en 与英字脚本不符）", "source": "3 Idiots Fandom Full Movie Script + GetYarn 片段" },
+      { "index": 3, "text": "凡是能帮人省力、帮人省时的东西，就是机器", "verdict": "ok", "source": "Wikiquote/3 Idiots（逐字一致）" } ] },
+    { "id": "dead-poets-carpe-diem", "verdicts": [
+      { "index": 0, "text": "及时行乐。孩子们，让你们的生命变得非凡。", "verdict": "ok", "source": "AFI #95 及 Wikiquote/Dead Poets Society；中文通行" },
+      { "index": 1, "text": "哦，船长，我的船长！", "verdict": "ok", "source": "惠特曼诗题逐字；IMDb quotes" },
+      { "index": 2, "text": "我们读诗、写诗，并非因为它好玩。", "verdict": "ok", "source": "Wikiquote（逐段一致）；中文通行" },
+      { "index": 3, "text": "我步入丛林，因为我希望活得有意义。", "verdict": "ok", "source": "Wikiquote（梭罗段逐字一致）；中文经典通行版" } ] },
+    { "id": "farewell-concubine", "verdicts": [
+      { "index": 0, "text": "不疯魔，不成活。", "verdict": "ok", "source": "zh.Wikiquote/霸王别姬 + 豆瓣影评", "note": "措辞通行；原片由段小楼对程蝶衣说出（\"你可真是不疯魔不成活啊\"），character 建议改为 段小楼" },
+      { "index": 1, "text": "说的是一辈子！差一年，一个月，一天，一个", "verdict": "ok", "source": "影片原话逐字（B站原片片段 + 知乎专栏）" },
+      { "index": 2, "text": "我本是男儿郎，又不是女娇娥。", "verdict": "ok", "source": "影片终场错口原话逐字（知乎专栏赏析）" },
+      { "index": 3, "text": "人，得自个儿成全自个儿。", "verdict": "ok", "source": "关师傅原话逐字，豆瓣台词整理" } ] },
+    { "id": "godfather-offer", "verdicts": [
+      { "index": 0, "text": "我会给他一个他无法拒绝的条件。", "verdict": "ok", "source": "Wikiquote/The Godfather（AFI #2）" },
+      { "index": 1, "text": "这不是私人恩怨，纯属生意。", "verdict": "ok", "source": "Wikiquote（逐字一致）" },
+      { "index": 2, "text": "不花时间陪伴家人的男人，永远算不上真正的", "verdict": "ok", "source": "Wikiquote（逐字一致）" },
+      { "index": 3, "text": "也许有一天——也许那一天永远不会来——我会", "verdict": "ok", "source": "Wikiquote（仅标点差异）" },
+      { "index": 4, "text": "把枪留下，把奶油卷带走。", "verdict": "ok", "source": "Wikiquote（\"Leave the gun. Take the Cannoli.\"）；中文通行" } ] },
+    { "id": "gwtw-tomorrow", "verdicts": [
+      { "index": 0, "text": "明天又是新的一天。", "verdict": "ok", "source": "Wikiquote（AFI #31）" },
+      { "index": 1, "text": "坦白说，亲爱的，我一点也不在乎。", "verdict": "ok", "source": "Wikiquote（AFI #1 逐字）；中文标准通行" },
+      { "index": 2, "text": "上帝为我作证，我再也不要挨饿了。", "verdict": "ok", "source": "Wikiquote（AFI #59）；豆瓣通行版一致" },
+      { "index": 3, "text": "我现在无法去想这些，再想下去我会发疯的。", "verdict": "ok", "source": "Quotes.net/IMDb quotes；中文通行" } ] },
+    { "id": "happyness-never-let", "verdicts": [
+      { "index": 0, "text": "别让别人告诉你，你成不了才。", "verdict": "ok", "source": "IMDb quotes；Wikiquote 作 someone 系变体" },
+      { "index": 1, "text": "如果你有梦想的话，就要去捍卫它。", "verdict": "ok", "source": "IMDb quotes（逐字一致）；中文豆瓣通行版" },
+      { "index": 2, "text": "我人生中的这个阶段，这一小段，叫做幸福。", "verdict": "ok", "source": "片尾画外音原句（IMDb/豆瓣交叉）" },
+      { "index": 3, "text": "也许幸福是我们只能追求、却永远无法真正拥", "verdict": "ok", "source": "Wikiquote；中文通行" } ] },
+    { "id": "monkey-king-next-year", "verdicts": [
+      { "index": 0, "text": "皇帝轮流做，明年到我家！", "verdict": "unverifiable", "source": "为《西游记》原著第七回语；未找到 1961/1964 动画原片说出此句的可靠出处，en 为自译" },
+      { "index": 1, "text": "俺老孙来也！", "verdict": "unverifiable", "source": "孙悟空通用口头禅，未检索到 1961 动画原片佐证" },
+      { "index": 2, "text": "吃俺老孙一棒！", "verdict": "unverifiable", "source": "多与 86 版《西游记》关联，未检索到 1961 动画原片佐证" } ] },
+    { "id": "shawshank-hope", "verdicts": [
+      { "index": 0, "text": "希望是美好的，也许是人间至善，而美好的事", "verdict": "ok", "source": "Wikiquote（Andy 信中原句逐字）" },
+      { "index": 1, "text": "要么忙着活，要么忙着死。", "verdict": "ok", "source": "Wikiquote；中文通行" },
+      { "index": 2, "text": "监狱里的高墙实在是很有趣。", "verdict": "ok", "source": "IMDb quotes（逐字一致，多源确认）；中文通行字幕译法" },
+      { "index": 3, "text": "听我说，朋友，希望是件危险的事。", "verdict": "ok", "source": "IMDb quotes" },
+      { "index": 4, "text": "我希望我能越过边境。", "verdict": "ok", "source": "Wikiquote（片尾画外音逐字，仅标点差异）" } ] },
+    { "id": "spirited-away", "verdicts": [
+      { "index": 0, "text": "曾经发生过的事不可能忘记。", "verdict": "ok", "source": "英文配音版逐字前半；中文通行译法" },
+      { "index": 1, "text": "名字一旦被夺走，就再也找不到回家的路了。", "verdict": "ok", "source": "白龙叮嘱，豆瓣/维基百科/凤凰网多源逐字通行" },
+      { "index": 2, "text": "从今往后，你的名字就叫小千。", "verdict": "ok", "source": "汤婆婆原场景，知乎专栏引用，措辞通行" },
+      { "index": 3, "text": "千万不要回头。", "verdict": "ok", "source": "片尾隧道送别（日文原句内核一致），通行变体" } ] },
+    { "id": "totoro-laugh", "verdicts": [
+      { "index": 0, "text": "来，大家笑一个。", "verdict": "ok", "source": "Sideshow Ghibli / GetYarn / r/ghibli 日文对照", "note": "en 与英文配音版逐字一致；角色归属有误：此句为浴室戏父亲草壁达郎所说，character 建议改为 草壁达郎（父亲），note 同步修订" },
+      { "index": 1, "text": "我看到龙猫了！", "verdict": "ok", "source": "小梅报喜场景（B站原片 + 豆瓣交叉），通行配音译法" },
+      { "index": 2, "text": "能见到龙猫，小梅真是个幸运的孩子。", "verdict": "ok", "source": "樟树入口父亲回应（B站片段 + 知乎交叉），通行译法" } ] }
+  ],
+  "summary": { "total": 40, "ok": 36, "wrong_wording": 1, "unverifiable": 3, "not_checked": 0 }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "before-midnight-say-or-age",
+  "group": "top250",
+  "film": {
+    "title": "爱在午夜降临前",
+    "year": 2013,
+    "title_en": "Before Midnight",
+    "director": "理查德·林克莱特"
+  },
+  "lines": [
+    {
+      "text": "我们可以把一切说清楚——或者就这样一起老去。",
+      "en": "We can say everything out loud—or grow old together anyway.",
+      "character": "Jesse / Celine（酒店对峙）",
+      "note": "三部曲收束夜：爱在午夜降临前把浪漫撕成婚姻账本。此为酒店长谈的题旨凝练，非单一精确台词汇总，边界已标。与已刊黎明/日落金句不撞车。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "婚姻",
+    "长谈"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 180000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 94
+    }
+  },
+  "still_alt": "爱在午夜降临前 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/180-before-midnight.jpg）（影片页 https://www.themoviedb.org/movie/132344）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aPSGg0ZGirS0sSxGlwTGTAo0ruV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

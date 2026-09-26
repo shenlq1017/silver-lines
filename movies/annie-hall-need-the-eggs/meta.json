@@ -1,0 +1,47 @@
+{
+  "id": "annie-hall-need-the-eggs",
+  "group": "classics",
+  "film": {
+    "title": "安妮·霍尔",
+    "year": 1977,
+    "title_en": "Annie Hall",
+    "director": "伍迪·艾伦"
+  },
+  "lines": [
+    {
+      "text": "我们需要那些蛋。",
+      "en": "I guess we need the eggs.",
+      "character": "艾尔维 / Alvy Singer",
+      "note": "通行译法：片尾关于“弟弟以为自己是鸡、我需要蛋”笑话的收束句；完整段落说明关系非理性但人仍需要。"
+    },
+    {
+      "text": "感情就像鲨鱼——必须不停地向前游，不然就死。",
+      "character": "Alvy Singer",
+      "en": "A relationship, I think, is like a shark. It has to constantly move forward or it dies.",
+      "note": "阿尔维的感情观；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "啦嘀嗒，啦嘀嗒。",
+      "character": "Annie Hall",
+      "en": "La-dee-da, la-dee-da.",
+      "note": "安妮的标志性哼唱式口头禅；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "喜剧",
+    "纽约"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 4351
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "安妮·霍尔 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/annie-hall-1977.jpg）（影片页 https://www.themoviedb.org/movie/703）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

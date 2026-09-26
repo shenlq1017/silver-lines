@@ -1,0 +1,43 @@
+{
+  "id": "ancora-domani-tomorrow",
+  "group": "top250",
+  "film": {
+    "title": "还有明天",
+    "year": 2023,
+    "title_en": "C'è ancora domani",
+    "director": "保拉·科尔泰莱西"
+  },
+  "lines": [
+    {
+      "text": "还有明天。",
+      "en": "There's still tomorrow.",
+      "character": "题旨 / 片名",
+      "note": "片名即题旨：战后罗马主妇把「明天」喊成反抗家暴与父权的口号；对白少箴言，标片名题旨句。"
+    }
+  ],
+  "tags": [
+    "女性",
+    "勇气",
+    "战后"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 200000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 30000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 92
+    },
+    "metacritic": {
+      "score": 78
+    }
+  },
+  "still_alt": "还有明天 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/080-c-e-ancora-domani.jpg）（影片页 https://www.themoviedb.org/movie/1026227）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fNXUCk54vGcoKr34olN14ohUSFY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

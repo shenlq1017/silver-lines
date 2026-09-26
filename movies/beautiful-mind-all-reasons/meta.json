@@ -1,0 +1,57 @@
+{
+  "id": "beautiful-mind-all-reasons",
+  "group": "top250",
+  "film": {
+    "title": "美丽心灵",
+    "year": 2001,
+    "title_en": "A Beautiful Mind",
+    "director": "朗·霍华德"
+  },
+  "lines": [
+    {
+      "text": "你是我活下去的全部理由。",
+      "en": "You are the reason I am. You are all my reasons.",
+      "character": "John Nash",
+      "note": "纳什领奖词里写给艾丽西亚的句子，美丽心灵的情感核。"
+    },
+    {
+      "text": "我一直相信数字、方程和逻辑可以指引我们理性……但只有在爱的神秘等式里，才能找到任何逻辑或理由。",
+      "character": "John Nash",
+      "en": "I've always believed in numbers... It is only in the mysterious equations of love that any logic or reasons can be found.",
+      "note": "诺贝尔奖答辞（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我还是会看见那些不存在的东西。只是我选择不去理会。",
+      "character": "John Nash",
+      "en": "I still see things that are not here. I just choose not to acknowledge them.",
+      "note": "向罗森医生解释与幻觉共处；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "传记",
+    "爱情",
+    "理性"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 860000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 1000000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 74
+    },
+    "metacritic": {
+      "score": 72
+    }
+  },
+  "still_alt": "美丽心灵 · 数学与爱情意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/064-a-beautiful-mind.jpg）（影片页 https://www.themoviedb.org/movie/453）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6LT5N3imY9j7pKSCPB7IokqxKGZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

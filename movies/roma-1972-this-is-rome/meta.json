@@ -1,0 +1,33 @@
+{
+  "id": "roma-1972-this-is-rome",
+  "group": "classics",
+  "film": {
+    "title": "罗马风情画",
+    "year": 1972,
+    "title_en": "Roma",
+    "director": "费德里科·费里尼"
+  },
+  "lines": [
+    {
+      "text": "这就是罗马。",
+      "en": "This is Rome.",
+      "character": "旁白/费里尼式画外 / Narration",
+      "note": "策展意译：将费里尼自传拼贴中对罗马街景、回忆与狂欢的反复指认凝成主句；影片多声部，不指认单一说话者。"
+    }
+  ],
+  "tags": [
+    "城市",
+    "记忆",
+    "费里尼"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 375
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "罗马风情画 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/roma-1972.jpg）（影片页 https://www.themoviedb.org/movie/11035）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/650ScQgJYhQTGtJaqkMoXO3MYXF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "holy-grail-not-dead-yet",
+  "group": "classics",
+  "film": {
+    "title": "巨蟒与圣杯",
+    "year": 1975,
+    "title_en": "Monty Python and the Holy Grail",
+    "director": "特里·吉列姆、特里·琼斯"
+  },
+  "lines": [
+    {
+      "text": "我还没死呢！",
+      "en": "I’m not dead yet!",
+      "character": "The Not Dead Yet Man",
+      "note": "把死亡也变成笑点的荒诞宣言；语气越轻，反抗越顽强。通行译法。"
+    },
+    {
+      "text": "不过是擦伤。",
+      "character": "Black Knight",
+      "en": "'Tis but a scratch.",
+      "note": "黑骑士的著名嘴硬；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "只是皮外伤。",
+      "character": "Black Knight",
+      "en": "It's just a flesh wound.",
+      "note": "断臂后的升级版嘴硬；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "死亡正等着你们——带着又大又尖的牙齿！",
+      "character": "Tim the Enchanter",
+      "en": "Death awaits you all, with nasty, big, pointy teeth!",
+      "note": "魔法师蒂姆的警告；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "荒诞",
+    "生存"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 550000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "巨蟒与圣杯 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/monty-python-and-the-holy-grail-1975.jpg）（影片页 https://www.themoviedb.org/movie/762）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

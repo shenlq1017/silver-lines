@@ -1,0 +1,71 @@
+{
+  "id": "dark-knight-hero-villain",
+  "group": "top250",
+  "film": {
+    "title": "蝙蝠侠：黑暗骑士",
+    "year": 2008,
+    "title_en": "The Dark Knight",
+    "director": "克里斯托弗·诺兰"
+  },
+  "lines": [
+    {
+      "text": "你要么死去成为英雄，要么活得够久，眼看着自己变成恶棍。",
+      "en": "You either die a hero, or you live long enough to see yourself become the villain.",
+      "character": "Harvey Dent",
+      "note": "哈维·登特的谶语，黑暗骑士时代的道德翻转器。"
+    },
+    {
+      "text": "干嘛这么严肃？",
+      "character": "The Joker",
+      "en": "Why so serious?",
+      "note": "小丑的标志性台词；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "这座城市配得上更高档的罪犯。",
+      "character": "The Joker",
+      "en": "This city deserves a better class of criminal.",
+      "note": "小丑炸医院前的宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "哥谭需要我是什么，我就是什么。",
+      "character": "Batman",
+      "en": "I'm whatever Gotham needs me to be.",
+      "note": "蝙蝠侠的守望者宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "他是哥谭应得的英雄，却不是此刻需要的英雄。",
+      "character": "Gordon（旁白）",
+      "en": "He's the hero Gotham deserves, but not the one it needs right now.",
+      "note": "戈登的结尾独白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "英雄",
+    "堕落"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 1200000
+    },
+    "imdb": {
+      "score": 9,
+      "votes": 2900000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 94
+    },
+    "metacritic": {
+      "score": 84
+    }
+  },
+  "still_alt": "蝙蝠侠：黑暗骑士 · Gotham 夜色宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/031-the-dark-knight.jpg）（影片页 https://www.themoviedb.org/movie/155）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

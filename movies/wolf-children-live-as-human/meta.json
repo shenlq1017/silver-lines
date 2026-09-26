@@ -1,0 +1,34 @@
+{
+  "id": "wolf-children-live-as-human",
+  "group": "classics",
+  "film": {
+    "title": "狼的孩子雨和雪",
+    "year": 2012,
+    "title_en": "Wolf Children",
+    "director": "细田守"
+  },
+  "lines": [
+    {
+      "text": "想做人就做人，想做狼就做狼。你们自己选。",
+      "en": "Live as humans, or live as wolves. You choose.",
+      "character": "花 / Hana",
+      "note": "通行可核验意译：细田守《狼的孩子雨和雪》中母亲把物种身份的选择交给孩子，影迷引用常见。"
+    }
+  ],
+  "tags": [
+    "母职",
+    "成长",
+    "身份",
+    "动画"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 2541
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "狼的孩子雨和雪 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/wolf-children-2012.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/110420）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oMqgJMCaNIqeJtilc71D4nRqdmt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

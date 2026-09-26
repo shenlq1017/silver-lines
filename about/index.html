@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>关于 · 银幕金句</title>
-  <meta name="description" content="银幕金句项目说明、版权与预览方式 · 金句 951 · Classics C29">
+  <title>关于 · 片语 Silver Lines</title>
+  <meta name="description" content="片语 Silver Lines 是什么：光影说过的好句子。电影只是出处，句子本身才是主角。">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet">
@@ -13,11 +13,11 @@
 <body data-base="../">
   <header class="site-header">
     <div class="site-header__inner">
-      <a class="logo" href="../">银幕金句 <span>Silver Lines</span></a>
+      <a class="logo" href="../">片语 <span>Silver Lines</span></a>
       <nav>
         <ul class="nav">
           <li><a href="../">首页</a></li>
-          <li><a href="../quotes/">金句</a></li>
+          <li><a href="../quotes/">片语</a></li>
           <li><a href="./" aria-current="page">关于</a></li>
         </ul>
       </nav>
@@ -27,45 +27,51 @@
   <main>
     <div class="container">
       <article class="prose">
-        <h1>关于银幕金句</h1>
-        <p class="lead">Silver Lines · 电影质感的银幕金句策展站。当前库内 <strong>951</strong> 条 published：豆瓣 Top250 意图截取 Top249（除 108 茶馆静帧缺口）+ Classics C1+C2+C3+C4+C5+C6+C7+C8+C9+C10+C11+C12+C13+C14+C15+C16+C17+C18+C19+C20+C21+C22+C23+C24+C25+C26+C27+C28+C29 影史经典 702 条；各 1 条主金句。海报与静帧为可标注的本地宣传物料。</p>
+        <h1>关于片语</h1>
+        <p class="lead">片语 Silver Lines · 光影说过的好句子。这里收录电影里值得记住的台词——电影只是出处，句子本身才是主角。</p>
 
-        <h2>本站是什么</h2>
-        <p>收集值得回看的电影金句：大静帧叠字、暗色胶片风、评分徽章可视化。不做片源、不做播放器、不盗链外站媒体。</p>
+        <h2>本站解决什么问题</h2>
+        <p>刷得越多，记住越少。片单越来越长，切片和解说越来越碎，我们与一部电影真正相遇的时刻却越来越少。片语把「一句可核对的银幕对白」当作最小单位：不为看全片做攻略，只为那句击中过你的话，留一份可以停下來的摘抄本。</p>
+        <p>所以你在这里看到的每一句，都是真的在电影里被说出来的话——不是观后感，不是主题概括。出处（片名、年代、导演）只是注脚。</p>
 
-        <h2>当前范围 · C29</h2>
+        <h2>现在有什么</h2>
         <ul>
-          <li>静态 HTML + 本地 JSON（<code>data/quotes.json</code>）</li>
-          <li><strong>951</strong> 条 <code>status=published</code>：Top249（豆瓣 Top250 意图截取，跳过 rank 108 茶馆）+ Classics C1×25 + C2×25 + C3×25 + C4×25 + C5×25 + C6×25 + C7×25 + C8×25 + C9×25 + C10×25 + C11×25 + C12×25 + C13×25 + C14×17 + C15×25 + C16×25 + C17×25 + C18×25 + C19×21 + C20×25 + C21×25 + C22×25 + C23×20 + C24×25 + C25×25 + C26×25 + C27×19 + C28×25 + C29×25</li>
-          <li>海报 / 静帧为本地缓存的发行宣传物料（PNG），出处见各条 <code>license_note</code></li>
-          <li>评分字段为策展快照（含 <code>as_of</code>），非实时抓取；详见 <code>data/source.json</code></li>
+          <li>「今日一句」：每天呈现同一句，慢下来；「随机来一句」：让光影替你抽签。</li>
+          <li>片语集：按分组、标签、年代筛选，支持搜索与排序；点击卡片进入全屏静帧页，一句话叠在画上。</li>
+          <li>每部影片一条主台词；数据来自本地策展快照（见 <code>data/quotes.json</code>）。</li>
+        </ul>
+
+        <h2>接下来想做什么</h2>
+        <ul>
+          <li>充分挖掘每部电影的台词——一部好片往往不止一句值得记住（计划见 <code>docs/ROADMAP.md</code>）。</li>
+          <li>每日推荐、经典随机已是第一步；之后想围绕台词做排行与社区：哪一句被最多人记在了心里。</li>
         </ul>
 
         <h2>本地预览</h2>
         <p>在站点根目录执行：</p>
-        <p><code>cd /workspace/silver-lines &amp;&amp; python3 -m http.server 8080</code></p>
+        <p><code>python3 -m http.server 8080</code></p>
         <p>浏览器打开 <code>http://127.0.0.1:8080/</code>。勿直接用 <code>file://</code> 打开（fetch 会失败）。</p>
 
         <h2>版权与素材声明</h2>
         <ul>
-          <li>金句文案：引用自公映电影对白，仅用于策展展示与评论，非商业片源分发。</li>
+          <li>台词文案：引用自公映电影对白，仅用于策展展示与评论，非商业片源分发。</li>
           <li>海报 / 静帧：经 <a href="https://www.themoviedb.org/" rel="noopener noreferrer" target="_blank">TMDB</a> 可标注取用的发行宣传物料，已下载为站内本地文件（禁止外链热图）。版权归各制片方 / 发行方；本站仅作策展展示。This product uses the TMDB API but is not endorsed or certified by TMDB.</li>
           <li>静帧多为宣传 / 剧照级画面，非逐句对白精确截帧；细节见各条 <code>license_note</code>。</li>
           <li>权利方如需下架，请通过仓库 Issue 联系，我们将在合理周期内移除相关条目与素材。</li>
           <li>评分徽章：展示策展写入的快照数值；不代表与豆瓣 / IMDb / RT / Metacritic 有任何官方合作。</li>
           <li>商标与片名归各自权利方所有。</li>
-          <li>详情页背景氛围乐：EmptyCity: Background Music（作者 yd），许可 <strong>CC0</strong>，来源 <a href="https://opengameart.org/content/emptycity-background-music" rel="noopener noreferrer" target="_blank">OpenGameArt</a>；本地文件 <code>assets/audio/ambient-loop.mp3</code>（另有 .ogg 备份）。非电影原声、不外链热链。明细见 <code>assets/audio/ATTRIBUTION.md</code>。进页默认静音，需手动开启。</li>
+          <li>详情页背景氛围乐：站内自研合成轻音乐（轻快舒缓：琶音拨弦 + 五声钢琴旋律，96 秒无缝循环），本项目自有、无第三方版权；本地文件 <code>assets/audio/ambient-loop.mp3</code>（另有 .ogg 备份）。非电影原声、不外链热链。明细见 <code>assets/audio/ATTRIBUTION.md</code>。进页默认静音，需手动开启。</li>
         </ul>
 
         <h2>推仓说明</h2>
-        <p>本沙箱目录即为站点根。确认无密钥、无侵权素材后可自行入库。本阶段<strong>不自动推 GitHub</strong>。</p>
+        <p>本目录即为站点根。确认无密钥、无侵权素材后可自行入库。本阶段<strong>不自动推 GitHub</strong>。</p>
       </article>
     </div>
   </main>
 
   <footer class="site-footer">
     <div class="site-footer__inner">
-      <p>银幕金句 / Silver Lines · 版权声明见本页</p>
+      <p>片语 / Silver Lines · 版权声明见本页</p>
     </div>
   </footer>
 </body>

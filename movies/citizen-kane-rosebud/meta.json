@@ -1,0 +1,63 @@
+{
+  "id": "citizen-kane-rosebud",
+  "group": "classics",
+  "film": {
+    "title": "公民凯恩",
+    "year": 1941,
+    "title_en": "Citizen Kane",
+    "director": "奥逊·威尔斯"
+  },
+  "lines": [
+    {
+      "text": "玫瑰花蕾。",
+      "en": "Rosebud.",
+      "character": "Charles Foster Kane",
+      "note": "临终一词撑起整座叙述迷宫：公民凯恩把童年雪橇名「Rosebud」做成影史最著名的未解之谜。通行定译。"
+    },
+    {
+      "text": "你负责写散文诗，我负责提供战争。",
+      "character": "Charles Foster Kane",
+      "en": "You provide the prose poems, and I'll provide the war.",
+      "note": "接办《问事报》时对利兰的宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "如果我不是很富有，我也许会成为一个真正伟大的人。",
+      "character": "Charles Foster Kane",
+      "en": "If I hadn't been very rich, I might have been a really great man.",
+      "note": "与利兰决裂夜的酒后自白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你说起人民，就好像他们属于你似的。",
+      "character": "Jed Leland",
+      "en": "You talk about the people as though you owned them, as though they belong to you.",
+      "note": "利兰对凯恩的控诉；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "悬疑",
+    "遗产"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 180000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 480000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 99
+    },
+    "metacritic": {
+      "score": 100
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "公民凯恩 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/citizen-kane-1941.jpg）（影片页 https://www.themoviedb.org/movie/15）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "amelie-hard-for-dreamers",
+  "group": "top250",
+  "film": {
+    "title": "天使爱美丽",
+    "year": 2001,
+    "title_en": "Amélie",
+    "director": "让-皮埃尔·热内"
+  },
+  "lines": [
+    {
+      "text": "对做梦的人来说，日子总是艰难。",
+      "en": "Times are hard for dreamers.",
+      "character": "旁白 / Amélie",
+      "note": "旁白给梦想家的温柔判决：世界粗糙，而艾米丽选择把善意做成小阴谋。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "爱情",
+    "梦想"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 950000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 800000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 89
+    },
+    "metacritic": {
+      "score": 69
+    }
+  },
+  "still_alt": "天使爱美丽 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/140-le-fabuleux-destin-d-amelie-poulain.jpg）（影片页 https://www.themoviedb.org/movie/194）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

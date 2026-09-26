@@ -1,0 +1,33 @@
+{
+  "id": "boat-people-want-leave",
+  "group": "classics",
+  "film": {
+    "title": "投奔怒海",
+    "year": 1982,
+    "title_en": "Boat People",
+    "director": "许鞍华"
+  },
+  "lines": [
+    {
+      "text": "我想离开这里。",
+      "en": "I want to leave this place.",
+      "character": "阿琴 / Cam Nuong",
+      "note": "策展译法：概括影片中越南年轻人求生出境的直接诉求；不同字幕版措辞或有出入。"
+    }
+  ],
+  "tags": [
+    "难民",
+    "战争",
+    "许鞍华"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 60
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "投奔怒海 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/boat-people-1982.jpg）（影片页 https://www.themoviedb.org/movie/72445）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8uxcz8W9GZ4dGiL7N6b4PvaZWwh.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

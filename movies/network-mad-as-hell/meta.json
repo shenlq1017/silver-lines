@@ -1,0 +1,55 @@
+{
+  "id": "network-mad-as-hell",
+  "group": "classics",
+  "film": {
+    "title": "电视广播网",
+    "year": 1976,
+    "title_en": "Network",
+    "director": "西德尼·吕美特"
+  },
+  "lines": [
+    {
+      "text": "我气疯了——我再也不打算忍受下去了！",
+      "en": "I'm as mad as hell, and I'm not going to take this anymore!",
+      "character": "Howard Beale",
+      "note": "比勒号召观众打开窗怒吼：电视广播网把收视率异变成先知布道。通行定译。"
+    },
+    {
+      "text": "关掉你们的电视机。",
+      "character": "Howard Beale",
+      "en": "Turn off your televisions.",
+      "note": "比尔最后一次布道；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "这个世界就是一门生意。",
+      "character": "Howard Beale",
+      "en": "The world is a business.",
+      "note": "比尔揭穿电视业的真相；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "社会",
+    "剧情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.3,
+      "votes": 90000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 180000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 91
+    },
+    "metacritic": {
+      "score": 88
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "电视广播网 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/network-1976.jpg）（影片页 https://www.themoviedb.org/movie/10774）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/of6OQnsvPHXEASczrBc3nVsMZ7q.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

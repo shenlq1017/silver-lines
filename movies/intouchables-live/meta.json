@@ -1,0 +1,43 @@
+{
+  "id": "intouchables-live",
+  "group": "top250",
+  "film": {
+    "title": "触不可及",
+    "year": 2011,
+    "title_en": "Intouchables",
+    "director": "奥利维·那卡什 / 艾瑞克·托莱达诺"
+  },
+  "lines": [
+    {
+      "text": "我真正的残疾，不是坐在轮椅上，而是没有她的世界。",
+      "en": "My true disability isn't the wheelchair — it's living without her.",
+      "character": "Philippe",
+      "note": "菲利普道出触不可及的真相：残缺之外，是失去所爱。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "友谊",
+    "温暖"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 1300000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 950000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 75
+    },
+    "metacritic": {
+      "score": 57
+    }
+  },
+  "still_alt": "触不可及 · 双人同行宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/023-intouchables.jpg）（影片页 https://www.themoviedb.org/movie/77338）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cK070s3Qdn1Ib7Gq8RgIyJKgvu3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

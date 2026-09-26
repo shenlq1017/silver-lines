@@ -1,0 +1,34 @@
+{
+  "id": "waiqu-ward",
+  "group": "classics",
+  "film": {
+    "title": "外出",
+    "year": 2005,
+    "title_en": "April Snow",
+    "director": "许秦豪"
+  },
+  "lines": [
+    {
+      "text": "那就该在春天下雪。",
+      "en": "Then I guess it should snow in spring.",
+      "character": "仁秀 / In-su",
+      "note": "仁秀与徐英谈季节时的对白；英文字幕通行译法（SubtitleCat 等字幕稿可核对）。"
+    }
+  ],
+  "tags": [
+    "婚外",
+    "病房",
+    "雪",
+    "许秦豪"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.1,
+      "votes": 55
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "外出 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/april-snow-2005.jpg，1200×1800）（影片页 https://www.themoviedb.org/movie/62569）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xtR4wRlYvqExfGoHTnn6yfzeDhI.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

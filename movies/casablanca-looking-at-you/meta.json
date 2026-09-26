@@ -1,0 +1,71 @@
+{
+  "id": "casablanca-looking-at-you",
+  "group": "classics",
+  "film": {
+    "title": "卡萨布兰卡",
+    "year": 1943,
+    "title_en": "Casablanca",
+    "director": "迈克尔·柯蒂兹"
+  },
+  "lines": [
+    {
+      "text": "来日方长，孩子。",
+      "en": "Here's looking at you, kid.",
+      "character": "Rick Blaine",
+      "note": "里克对伊尔莎的祝酒式告别：卡萨布兰卡把私情折进世界大战。通行定译；与「我们将永远拥有巴黎」同级名句，本批取更口语的这一句。"
+    },
+    {
+      "text": "我们永远拥有巴黎。",
+      "character": "Rick Blaine",
+      "en": "We'll always have Paris.",
+      "note": "里克与伊尔莎的重逢夜；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "世界上有那么多城镇，城镇里有那么多酒馆，她偏偏走进了我这家。",
+      "character": "Rick Blaine",
+      "en": "Of all the gin joints in all the towns in all the world, she walks into mine.",
+      "note": "里克的著名独白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "照老规矩，抓几个惯犯。",
+      "character": "Captain Renault",
+      "en": "Round up the usual suspects.",
+      "note": "雷诺的官样文章，影史名句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "路易斯，我想这是一段美好友谊的开始。",
+      "character": "Rick Blaine",
+      "en": "Louis, I think this is the beginning of a beautiful friendship.",
+      "note": "片尾并肩走进雾里的收束；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "战争",
+    "告别"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 220000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 630000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 99
+    },
+    "metacritic": {
+      "score": 100
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "卡萨布兰卡 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/casablanca-1943.jpg）（影片页 https://www.themoviedb.org/movie/289）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tfNuePdHrP9fp6K2VTJwHKKJf8C.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

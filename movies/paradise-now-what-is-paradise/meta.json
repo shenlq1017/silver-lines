@@ -1,0 +1,33 @@
+{
+  "id": "paradise-now-what-is-paradise",
+  "group": "classics",
+  "film": {
+    "title": "天堂此时",
+    "year": 2005,
+    "title_en": "Paradise Now",
+    "director": "哈尼·阿布-阿萨德"
+  },
+  "lines": [
+    {
+      "text": "天堂若要用尸体铺路，那还是不是天堂？",
+      "en": "If paradise is paved with corpses, is it still paradise?",
+      "character": "道德争辩 / Moral debate",
+      "note": "策展意译：概括阿布-阿萨德《天堂此时》中围绕自杀袭击与“天堂”许诺的伦理辩论；不同字幕措辞不一，明确为主题压缩，不伪造逐字引文。"
+    }
+  ],
+  "tags": [
+    "人弹",
+    "巴勒斯坦",
+    "伦理"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 297
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "天堂此时 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/paradise-now-2005.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/67）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rnuraNgw9zOlqdDkl8y6lNE2RJb.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

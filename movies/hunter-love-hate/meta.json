@@ -1,0 +1,34 @@
+{
+  "id": "hunter-love-hate",
+  "group": "classics",
+  "film": {
+    "title": "猎人之夜",
+    "year": 1955,
+    "title_en": "The Night of the Hunter",
+    "director": "查尔斯·劳顿"
+  },
+  "lines": [
+    {
+      "text": "指节上刻着爱与恨——孩子们比大人更早认出哪一只手。",
+      "en": "Love and Hate are tattooed on the knuckles — children recognize which hand first.",
+      "character": "哈利·鲍威尔 / Harry Powell",
+      "note": "主题性策展句：呼应劳顿《猎人之夜》中牧师杀手指节 LOVE/HATE 的著名意象与童话语境，非整句对白逐字引文。"
+    }
+  ],
+  "tags": [
+    "童话",
+    "恐怖",
+    "宗教",
+    "劳顿"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 1908
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "猎人之夜 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-night-of-the-hunter-1955.jpg，2000×2666）（影片页 https://www.themoviedb.org/movie/3112）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sTwVct9k3FJ7Mn1GeIfUJDk7Jyr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

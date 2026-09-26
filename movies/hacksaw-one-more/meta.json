@@ -1,0 +1,49 @@
+{
+  "id": "hacksaw-one-more",
+  "group": "top250",
+  "film": {
+    "title": "血战钢锯岭",
+    "year": 2016,
+    "title_en": "Hacksaw Ridge",
+    "director": "梅尔·吉布森"
+  },
+  "lines": [
+    {
+      "text": "上帝，请再帮我救一个。",
+      "en": "Please, Lord, help me get one more.",
+      "character": "Desmond Doss",
+      "note": "钢锯岭夜救的反复祷告：拒持枪的卫生员用「再一个」写下整场战役的人性刻度。"
+    },
+    {
+      "text": "这世界拼了命要把自己撕碎，我想把其中一点点缝回去——这不该算坏事。",
+      "character": "Desmond Doss",
+      "en": "With the world so set on tearing itself apart, it don't seem like such a bad thing to me to want to put a little bit of it back together.",
+      "note": "多斯对军事法庭的陈述（节选）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "信仰",
+    "勇气"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 850000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 600000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 84
+    },
+    "metacritic": {
+      "score": 71
+    }
+  },
+  "still_alt": "血战钢锯岭 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/163-hacksaw-ridge.jpg）（影片页 https://www.themoviedb.org/movie/324786）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

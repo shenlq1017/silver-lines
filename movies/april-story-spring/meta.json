@@ -1,0 +1,38 @@
+{
+  "id": "april-story-spring",
+  "group": "classics",
+  "film": {
+    "title": "四月物语",
+    "year": 1998,
+    "title_en": "April Story",
+    "director": "岩井俊二"
+  },
+  "lines": [
+    {
+      "text": "四月的风，把人吹到东京。",
+      "en": "An April wind blows a person all the way to Tokyo.",
+      "character": "武琉璃 / Ujiie Uzuki",
+      "note": "策展意译：概括岩井俊二《四月物语》女大学生初入东京的轻盈启程；影片以气氛胜对白，明确为主题压缩。"
+    },
+    {
+      "text": "学长……我一直很喜欢你。",
+      "character": "榆野卯月",
+      "note": "图书馆书架间的最终告白；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "青春",
+    "东京",
+    "抒情"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 140
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "四月物语 · TMDB 宣传静帧（2380×1339）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/april-story-1998.jpg，960×1440）（影片页 https://www.themoviedb.org/movie/72933）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jLiV9xnmqoWl8TbTFe5QEp2Md06.jpg（2380×1339）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "mitty-beautiful-things",
+  "group": "top250",
+  "film": {
+    "title": "白日梦想家",
+    "year": 2013,
+    "title_en": "The Secret Life of Walter Mitty",
+    "director": "本·斯蒂勒"
+  },
+  "lines": [
+    {
+      "text": "美好的事物，从不主动吸引注意。",
+      "en": "Beautiful things don't ask for attention.",
+      "character": "Sean O'Connell",
+      "note": "雪豹与底片的箴言：白日梦想家用摄影师一句轻声，把「被看见」从表演改写成静候。通行定译。"
+    },
+    {
+      "text": "开拓视野，冲破艰险，看见世界，身临其境，贴近彼此，感受生活——这就是生活的目的。",
+      "character": "《生活》杂志社训",
+      "en": "To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life.",
+      "note": "杂志的座右铭（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "冒险",
+    "梦想",
+    "觉醒"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 580000
+    },
+    "imdb": {
+      "score": 7.3,
+      "votes": 340000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 52
+    },
+    "metacritic": {
+      "score": 54
+    }
+  },
+  "still_alt": "白日梦想家 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/202-the-secret-life-of-walter-mitty.jpg）（影片页 https://www.themoviedb.org/movie/116745）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8hSjOHRY4OUEpqxszYbMdem8z9C.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

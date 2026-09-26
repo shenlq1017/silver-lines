@@ -1,0 +1,33 @@
+{
+  "id": "festen-i-have-a-speech",
+  "group": "classics",
+  "film": {
+    "title": "庆典",
+    "year": 1998,
+    "title_en": "The Celebration",
+    "director": "托马斯·文特伯格"
+  },
+  "lines": [
+    {
+      "text": "我有话要说。",
+      "en": "I have something to say.",
+      "character": "克里斯蒂安 / Christian",
+      "note": "通行译法：家宴上克里斯蒂安揭开真相前的开场句；不同字幕版本或作“我有一篇演讲”。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "真相",
+    "教条95"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 1321
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "庆典 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-celebration-1998.jpg）（影片页 https://www.themoviedb.org/movie/309）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7rkgM8yZ49LwYTcka5ETGRJAQ9M.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

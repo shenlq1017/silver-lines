@@ -1,0 +1,33 @@
+{
+  "id": "gangster-cop-devil-deal",
+  "group": "classics",
+  "film": {
+    "title": "恶人传",
+    "year": 2019,
+    "title_en": "The Gangster, the Cop, the Devil",
+    "director": "李元泰"
+  },
+  "lines": [
+    {
+      "text": "要抓魔鬼，有时得先跟恶棍握手。",
+      "en": "To catch a devil, sometimes you shake hands with a gangster first.",
+      "character": "题眼 / Uneasy alliance",
+      "note": "策展意译：概括李元泰《恶人传》连环杀手、警察与黑帮的三角同盟；类型片对白版本多，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "同盟",
+    "类型片"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 1580
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "恶人传 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-gangster-the-cop-the-devil-2019.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/581528）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jtvOhbWcYRWkV60CLNePTjDfCjz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

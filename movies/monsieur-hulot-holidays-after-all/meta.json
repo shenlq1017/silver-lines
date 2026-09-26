@@ -1,0 +1,33 @@
+{
+  "id": "monsieur-hulot-holidays-after-all",
+  "group": "classics",
+  "film": {
+    "title": "于洛先生的假期",
+    "year": 1953,
+    "title_en": "Monsieur Hulot's Holiday",
+    "director": "雅克·塔蒂"
+  },
+  "lines": [
+    {
+      "text": "毕竟，这是假期。",
+      "en": "After all, it’s the holidays.",
+      "character": "于洛先生",
+      "note": "以片中极少量对白的通行意译呈现；塔蒂的核心笑点更多依靠声音、节奏与身体动作。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "假期",
+    "默片式喜剧"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 19000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "于洛先生的假期 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/monsieur-hulot-s-holiday-1953.jpg）（影片页 https://www.themoviedb.org/movie/778）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

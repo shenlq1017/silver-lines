@@ -1,0 +1,39 @@
+{
+  "id": "touch-of-evil-future-used-up",
+  "group": "classics",
+  "film": {
+    "title": "历劫佳人",
+    "year": 1958,
+    "title_en": "Touch of Evil",
+    "director": "奥逊·威尔斯"
+  },
+  "lines": [
+    {
+      "text": "你的未来已经用光了。",
+      "en": "Your future is all used up.",
+      "character": "塔妮娅",
+      "note": "片尾塔妮娅对昆兰的通行译法；一句话收束人物的腐败与耗尽。"
+    },
+    {
+      "text": "他是个了不起的人——我是说，他算个人物。",
+      "character": "Pete Menzies",
+      "en": "He was some kind of a man.",
+      "note": "门齐斯为奎兰的收尾评价；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "黑色电影",
+    "腐败",
+    "宿命"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 125000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "历劫佳人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/touch-of-evil-1958.jpg）（影片页 https://www.themoviedb.org/movie/1480）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4VoHeMD5EugrxmEfeUgxXpXyzuR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

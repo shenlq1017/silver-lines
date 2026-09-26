@@ -1,0 +1,49 @@
+{
+  "id": "manchester-cant-beat-it",
+  "group": "top250",
+  "film": {
+    "title": "海边的曼彻斯特",
+    "year": 2016,
+    "title_en": "Manchester by the Sea",
+    "director": "肯尼思·洛纳根"
+  },
+  "lines": [
+    {
+      "text": "我打不过它。我打不过它。",
+      "en": "I can't beat it. I can't beat it.",
+      "character": "Lee Chandler",
+      "note": "监护权谈话把整部片的重量砸穿：海边的曼彻斯特用重复的「打不过」，拒绝疗愈叙事的廉价收束。通行定译。"
+    },
+    {
+      "text": "我过不去这道坎。我过不去这道坎。对不起。",
+      "character": "Lee Chandler",
+      "en": "I can't beat it. I can't beat it. I'm sorry.",
+      "note": "李对前妻兰迪的坦白；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "悲伤",
+    "家庭",
+    "罪疚"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 380000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 330000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 96
+    },
+    "metacritic": {
+      "score": 96
+    }
+  },
+  "still_alt": "海边的曼彻斯特 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/231-manchester-by-the-sea.jpg）（影片页 https://www.themoviedb.org/movie/334541）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fjk4eE8Ypke4YLv5A3ArDH4GzYH.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "brokeback-quit-you",
+  "group": "top250",
+  "film": {
+    "title": "断背山",
+    "year": 2005,
+    "title_en": "Brokeback Mountain",
+    "director": "李安"
+  },
+  "lines": [
+    {
+      "text": "我多希望我知道怎么戒掉你。",
+      "en": "I wish I knew how to quit you.",
+      "character": "Jack Twist",
+      "note": "电话那头的崩溃告白：断背山上的风雪，落成一句无法戒断的爱。"
+    },
+    {
+      "text": "修不好，就得忍着。",
+      "character": "Ennis Del Mar",
+      "en": "If you can't fix it, you've got to stand it.",
+      "note": "重聚争吵中恩尼斯的人生观；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "告诉你，我们本可以一起过好日子的——他妈的真正的好日子！",
+      "character": "Jack Twist",
+      "en": "Tell you what, we coulda had a good life together! Fuckin' real good life!",
+      "note": "杰克的爆发独白开头，全片情感顶点；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "杰克，我发誓——",
+      "character": "Ennis Del Mar",
+      "en": "Jack, I swear—",
+      "note": "片尾对着衣柜与明信片的收束台词；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "压抑",
+    "牛仔"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 400000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 87
+    }
+  },
+  "still_alt": "断背山 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/121-brokeback-mountain.jpg）（影片页 https://www.themoviedb.org/movie/142）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u7pSxGzHkRRD8lNtvdhRCcGc4S8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

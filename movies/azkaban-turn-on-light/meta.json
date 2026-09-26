@@ -1,0 +1,50 @@
+{
+  "id": "azkaban-turn-on-light",
+  "group": "top250",
+  "film": {
+    "title": "哈利·波特与阿兹卡班的囚徒",
+    "year": 2004,
+    "title_en": "Harry Potter and the Prisoner of Azkaban",
+    "director": "阿方索·卡隆"
+  },
+  "lines": [
+    {
+      "text": "就算在最黑暗的时候，也能找到幸福——只要记得打开灯。",
+      "en": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+      "character": "Albus Dumbledore",
+      "note": "阿兹卡班特有的邓布利多台词（电影原创味浓），已成哈利波特系列传世安慰句。"
+    },
+    {
+      "text": "那你真该死掉！死也不该背叛朋友！",
+      "character": "Sirius Black",
+      "en": "Then you should have died! Died, rather than betray your friends!",
+      "note": "小天狼星对背叛者的控诉；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "希望",
+    "光明"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 910000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 750000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 82
+    }
+  },
+  "still_alt": "哈利·波特与阿兹卡班的囚徒 · 霍格沃茨与风暴宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/072-harry-potter-and-the-prisoner-of-azkaban.jpg）（影片页 https://www.themoviedb.org/movie/673）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

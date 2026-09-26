@@ -1,0 +1,57 @@
+{
+  "id": "taxi-driver-talkin-to-me",
+  "group": "classics",
+  "film": {
+    "title": "出租车司机",
+    "year": 1976,
+    "title_en": "Taxi Driver",
+    "director": "马丁·斯科塞斯"
+  },
+  "lines": [
+    {
+      "text": "你是在跟我说话吗？",
+      "en": "You talkin' to me?",
+      "character": "Travis Bickle",
+      "note": "镜前独角戏成为流行文化口头禅：出租车司机把无人应答的对话练成拔枪仪式。通行定译。"
+    },
+    {
+      "text": "孤独跟了我一辈子。酒吧、汽车、人行道、商店——无处不在。无处可逃。我是上帝的孤独之人。",
+      "character": "Travis Bickle",
+      "en": "Loneliness has followed me my whole life... There's no escape. I'm God's lonely man.",
+      "note": "日记独白（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我觉得该有人把这城市整个……冲下马桶。",
+      "character": "Travis Bickle",
+      "en": "I think someone should just take this city and just... flush it down the fuckin' toilet.",
+      "note": "日记独白（原文含粗口）；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "孤独",
+    "暴力",
+    "城市"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 310000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 980000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 89
+    },
+    "metacritic": {
+      "score": 94
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "出租车司机 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/taxi-driver-1976.jpg）（影片页 https://www.themoviedb.org/movie/103）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

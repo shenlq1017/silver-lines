@@ -1,0 +1,63 @@
+{
+  "id": "jurassic-life-finds-a-way",
+  "group": "classics",
+  "film": {
+    "title": "侏罗纪公园",
+    "year": 1993,
+    "title_en": "Jurassic Park",
+    "director": "史蒂文·斯皮尔伯格"
+  },
+  "lines": [
+    {
+      "text": "生命自会找到出路。",
+      "en": "Life finds a way.",
+      "character": "Ian Malcolm",
+      "note": "Malcolm 对「控制」的嘲讽：侏罗纪公园把混沌理论收成一句流行箴言。通行定译。"
+    },
+    {
+      "text": "你们的科学家满脑子都是「能不能做到」，却从没停下来想想「该不该做」。",
+      "character": "Ian Malcolm",
+      "en": "Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should.",
+      "note": "马尔科姆的著名质疑；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我讨厌自己总是对的。",
+      "character": "Ian Malcolm",
+      "en": "I hate being right all the time.",
+      "note": "灾难后的黑色总结；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "它们真的成群活动。",
+      "character": "Alan Grant",
+      "en": "They do move in herds.",
+      "note": "恐龙群出现的震撼一幕；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "生命",
+    "傲慢"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 1100000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 91
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 68
+    }
+  },
+  "still_alt": "侏罗纪公园 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/jurassic-park-1993.jpg）（影片页 https://www.themoviedb.org/movie/329）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

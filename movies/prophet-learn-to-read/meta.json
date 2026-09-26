@@ -1,0 +1,34 @@
+{
+  "id": "prophet-learn-to-read",
+  "group": "classics",
+  "film": {
+    "title": "预言者",
+    "year": 2009,
+    "title_en": "A Prophet",
+    "director": "雅克·奥迪亚尔"
+  },
+  "lines": [
+    {
+      "text": "在这里想活下去，先学会读懂规则。",
+      "en": "To survive here, first learn to read the rules.",
+      "character": "马利克 / Malik El Djebena",
+      "note": "策展意译：概括奥迪亚尔《预言者》中马利克在狱中权力网络里的生存学习，不冒充逐字台词。"
+    }
+  ],
+  "tags": [
+    "监狱",
+    "生存",
+    "成长",
+    "法国"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 1784
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "预言者 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-prophet-2009.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/21575）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jEJDjDBT6KCoS4WOBq68vZMbFk2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

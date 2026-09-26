@@ -1,0 +1,43 @@
+{
+  "id": "first-love-little-thing",
+  "group": "top250",
+  "film": {
+    "title": "初恋这件小事",
+    "year": 2010,
+    "title_en": "A Little Thing Called Love",
+    "director": "普缇朋·普森 / 华森·波克彭"
+  },
+  "lines": [
+    {
+      "text": "初恋是小事——却足以把一辈子的天气改掉。",
+      "en": "First love is a little thing—yet it can change the weather of a whole life.",
+      "character": "题旨 / 小球与阿亮",
+      "note": "泰国校园恋爱的名片句：初恋这件小事片名即题旨。此为凝练改写，非单一精确对白，边界已标；film_title_en=A Little Thing Called Love。"
+    }
+  ],
+  "tags": [
+    "初恋",
+    "青春",
+    "泰国"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 950000
+    },
+    "imdb": {
+      "score": 7.5,
+      "votes": 12000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 80
+    },
+    "metacritic": {
+      "score": 65
+    }
+  },
+  "still_alt": "初恋这件小事 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/223-rank-223.jpg）（影片页 https://www.themoviedb.org/movie/57627）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qQRpC4S36cyqZPwDGnbc9pMgVo7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

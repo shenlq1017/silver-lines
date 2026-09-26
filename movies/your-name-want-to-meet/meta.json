@@ -1,0 +1,53 @@
+{
+  "id": "your-name-want-to-meet",
+  "group": "top250",
+  "film": {
+    "title": "你的名字。",
+    "year": 2016,
+    "title_en": "Your Name.",
+    "director": "新海诚"
+  },
+  "lines": [
+    {
+      "text": "我想要见你。不管你在哪里，我都会去见你。",
+      "en": "I want to see you. Wherever you are, I'll go to see you.",
+      "character": "泷 / 三叶",
+      "note": "彗星夜之前的誓言：换身记忆模糊，想见的冲动却清晰如灾前预警。"
+    },
+    {
+      "text": "重要的人。不能忘记的人。不想忘记的人。是谁？是谁？是谁？",
+      "character": "立花泷",
+      "note": "写下的名字逐渐消失时的独白；通行字幕译法。"
+    },
+    {
+      "text": "只要相见——一定立刻就会明白。",
+      "character": "宫水三叶",
+      "note": "三叶的信念；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "恋爱",
+    "命运"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 1600000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 340000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 81
+    }
+  },
+  "still_alt": "你的名字。 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/162-rank-162.jpg）（影片页 https://www.themoviedb.org/movie/372058）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

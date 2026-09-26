@@ -1,0 +1,56 @@
+{
+  "id": "jaws-bigger-boat",
+  "group": "classics",
+  "film": {
+    "title": "大白鲨",
+    "year": 1975,
+    "title_en": "Jaws",
+    "director": "史蒂文·斯皮尔伯格"
+  },
+  "lines": [
+    {
+      "text": "你们需要一艘更大的船。",
+      "en": "You're gonna need a bigger boat.",
+      "character": "Martin Brody",
+      "note": "布洛迪看见巨鲨后的即兴句（演员现场发挥后定稿）：大白鲨把恐惧收成一句实用建议。通行定译；片名简体「大白鲨」（batch「大白鯊」已统一）。"
+    },
+    {
+      "text": "笑一个，你这狗娘养的——",
+      "character": "Brody",
+      "en": "Smile, you son of a—",
+      "note": "布罗迪把气瓶塞进鲨鱼嘴后的临别（原文含粗口）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "这不是船的事故。",
+      "character": "Hooper",
+      "en": "This was no boat accident.",
+      "note": "胡珀确认鲨鱼存在；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "惊悚",
+    "恐怖",
+    "冒险"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 7.8,
+      "votes": 250000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 680000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 97
+    },
+    "metacritic": {
+      "score": 87
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "大白鲨 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/jaws-1975.jpg）（影片页 https://www.themoviedb.org/movie/578）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kJMLPj5enrZti8udTVeULlM70mz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "novecento-two-born",
+  "group": "classics",
+  "film": {
+    "title": "一九零零",
+    "year": 1976,
+    "title_en": "1900",
+    "director": "贝纳尔多·贝托鲁奇"
+  },
+  "lines": [
+    {
+      "text": "我们同一天出生。",
+      "en": "We were born on the same day.",
+      "character": "奥尔莫与阿尔弗雷多 / Olmo and Alfredo",
+      "note": "通行译法：地主子与雇农子同日出生的设定性开场信息；影片以平行人生展开二十世纪意大利阶级史。"
+    }
+  ],
+  "tags": [
+    "阶级",
+    "史诗",
+    "贝托鲁奇"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 699
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "一九零零 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/1900-1976.jpg）（影片页 https://www.themoviedb.org/movie/3870）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2nFjXkrPxtIM31JupmifUI0qO9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

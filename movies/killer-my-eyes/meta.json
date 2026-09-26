@@ -1,0 +1,33 @@
+{
+  "id": "killer-my-eyes",
+  "group": "classics",
+  "film": {
+    "title": "喋血双雄",
+    "year": 1989,
+    "title_en": "The Killer",
+    "director": "吴宇森"
+  },
+  "lines": [
+    {
+      "text": "我的眼睛，只留给重要的人。",
+      "en": "I save my eyes only for those who matter.",
+      "character": "小庄 / Ah Jong",
+      "note": "策展意译：从杀手护眼、护人的道义逻辑凝成主句；吴宇森对白常有多版粤语/国语字幕差异。"
+    }
+  ],
+  "tags": [
+    "英雄片",
+    "道义",
+    "吴宇森"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 941
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "喋血双雄 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-killer-1989.jpg）（影片页 https://www.themoviedb.org/movie/10835）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2Mvx4vWT4dy4vuX2iWiW0x8oME4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

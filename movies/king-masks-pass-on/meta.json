@@ -1,0 +1,39 @@
+{
+  "id": "king-masks-pass-on",
+  "group": "classics",
+  "film": {
+    "title": "变脸",
+    "year": 1996,
+    "title_en": "The King of Masks",
+    "director": "吴天明"
+  },
+  "lines": [
+    {
+      "text": "变脸的绝活，只传男不传女。",
+      "en": "The secret of face-changing is passed only to males.",
+      "character": "变脸王 / The King of Masks",
+      "note": "通行译法：老艺人坚持“传男不传女”的行规与收留假扮男童的狗娃形成伦理冲突；是影片核心设定句。"
+    },
+    {
+      "text": "爷爷，你别丢下我！",
+      "character": "狗娃",
+      "note": "被送走时死抱船舷的哭喊，全片情感转折点。",
+      "confidence": "medium"
+    }
+  ],
+  "tags": [
+    "传承",
+    "性别",
+    "戏曲"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 65
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "变脸 · TMDB 宣传静帧（3000×1687）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-king-of-masks-1996.jpg）（影片页 https://www.themoviedb.org/movie/25471）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/CGlwHevhR9vIg4A7ayjYlmpIO7.jpg（3000×1687）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

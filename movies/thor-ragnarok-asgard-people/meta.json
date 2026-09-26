@@ -1,0 +1,47 @@
+{
+  "id": "thor-ragnarok-asgard-people",
+  "group": "classics",
+  "film": {
+    "title": "雷神3：诸神黄昏",
+    "year": 2017,
+    "title_en": "Thor: Ragnarok",
+    "director": "塔伊加·维迪提"
+  },
+  "lines": [
+    {
+      "text": "阿斯加德不是一个地方，从来都不是。这里也可以是阿斯加德。阿斯加德，就是我们的子民所在之处。",
+      "en": "Asgard is not a place. Never was. This could be Asgard. Asgard is where our people stand.",
+      "character": "奥丁 / Odin",
+      "note": "奥丁临终教诲的通行译法；略取完整三段以便策展，非逐字加戏。"
+    },
+    {
+      "text": "我向你保证，哥哥——太阳会再次照耀我们。",
+      "character": "Loki",
+      "en": "I assure you, brother... the sun will shine on us again.",
+      "note": "洛基的最后一句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "把灭霸给我带来！",
+      "character": "Thor",
+      "en": "Bring me Thanos!",
+      "note": "索尔的复仇怒吼；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "神话",
+    "家园",
+    "漫威"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 22520
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "雷神3：诸神黄昏 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/thor-ragnarok-2017.jpg）（影片页 https://www.themoviedb.org/movie/284053）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

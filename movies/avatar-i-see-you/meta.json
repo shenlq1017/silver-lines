@@ -1,0 +1,50 @@
+{
+  "id": "avatar-i-see-you",
+  "group": "top250",
+  "film": {
+    "title": "阿凡达",
+    "year": 2009,
+    "title_en": "Avatar",
+    "director": "詹姆斯·卡梅隆"
+  },
+  "lines": [
+    {
+      "text": "我看见你了。",
+      "en": "I see you.",
+      "character": "Neytiri / Jake",
+      "note": "纳美礼敬语，阿凡达的情感协议：看见，而非征服。"
+    },
+    {
+      "text": "你不在堪萨斯了——你到了潘多拉。",
+      "character": "Col. Quaritch",
+      "en": "You're not in Kansas anymore. You are on Pandora.",
+      "note": "夸里奇的登场演说；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "连接",
+    "尊重"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 1600000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 1400000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 81
+    },
+    "metacritic": {
+      "score": 83
+    }
+  },
+  "still_alt": "阿凡达 · 潘多拉夜光雨林宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/073-avatar.jpg）（影片页 https://www.themoviedb.org/movie/19995）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

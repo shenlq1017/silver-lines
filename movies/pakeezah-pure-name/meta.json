@@ -1,0 +1,33 @@
+{
+  "id": "pakeezah-pure-name",
+  "group": "classics",
+  "film": {
+    "title": "墓地里的玫瑰",
+    "year": 1972,
+    "title_en": "Pakeezah",
+    "director": "卡迈勒·阿姆罗希"
+  },
+  "lines": [
+    {
+      "text": "他们叫我纯洁，却不许我走进纯洁的门槛。",
+      "en": "They name me pure — yet forbid me to cross the threshold of purity.",
+      "character": "萨希卜简 / Sahibjaan",
+      "note": "策展意译：借《Pakeezah》（意为“纯洁的”）题眼概括舞女被命名为纯洁却拒于婚姻门槛之外的悲剧；歌舞对白/歌词版本多，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    " courtesan",
+    "纯洁",
+    "歌舞"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.5,
+      "votes": 29
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "墓地里的玫瑰 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pakeezah-1972.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/54966）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tIl0lDcOTWs34PDY7bfu33VdGmB.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

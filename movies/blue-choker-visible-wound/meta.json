@@ -1,0 +1,33 @@
+{
+  "id": "blue-choker-visible-wound",
+  "group": "classics",
+  "film": {
+    "title": "蓝色项圈",
+    "year": 2018,
+    "title_en": "The Blue Choker",
+    "director": "张训玮"
+  },
+  "lines": [
+    {
+      "text": "脖子上的蓝色勒痕，是他们不肯看见的证据。",
+      "en": "The blue mark on the neck is the evidence they refuse to see.",
+      "character": "题眼 / Visible wound",
+      "note": "策展意译：借《蓝色项圈》题眼概括校园凌虐留下的可见伤痕与旁观；明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "校园",
+    "暴力",
+    "可见"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 4.9,
+      "votes": 5
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "蓝色项圈 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-blue-choker-2018.jpg，1200×1794）（影片页 https://www.themoviedb.org/movie/537610）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dJO0irpG8EjPKrs7ahVqdzvtWiB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "four-hundred-blows-lie-to-breathe",
+  "group": "classics",
+  "film": {
+    "title": "四百击",
+    "year": 1959,
+    "title_en": "The 400 Blows",
+    "director": "弗朗索瓦·特吕弗"
+  },
+  "lines": [
+    {
+      "text": "我撒谎——是为了能喘气。",
+      "en": "I lie so I can breathe.",
+      "character": "Antoine Doinel",
+      "note": "心理访谈里安托万的自我辩解：四百击把逃学与偷窃说成呼吸权。通行中文字幕定译略有差，已标。"
+    }
+  ],
+  "tags": [
+    "成长",
+    "新浪潮",
+    "少年"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 110000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 140000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 99
+    },
+    "metacritic": {
+      "score": 96
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "四百击 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/les-quatre-cents-coups-1959.jpg）（影片页 https://www.themoviedb.org/movie/147）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

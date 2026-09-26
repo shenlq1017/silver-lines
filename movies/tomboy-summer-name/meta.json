@@ -1,0 +1,34 @@
+{
+  "id": "tomboy-summer-name",
+  "group": "classics",
+  "film": {
+    "title": "假小子",
+    "year": 2011,
+    "title_en": "Tomboy",
+    "director": "塞莉娜·席安玛"
+  },
+  "lines": [
+    {
+      "text": "这个夏天，我想用另一个名字做自己。",
+      "en": "This summer, I want to be myself under another name.",
+      "character": "洛尔／米卡埃尔 / Laure / Mickaël",
+      "note": "策展意译：对应席安玛《假小子》洛尔在新社区以男孩身份度过夏天的核心选择，不冒充单一字幕句。"
+    }
+  ],
+  "tags": [
+    "性别",
+    "童年",
+    "夏天",
+    "席安玛"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 770
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "假小子 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/tomboy-2011.jpg，960×1440）（影片页 https://www.themoviedb.org/movie/65229）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8PVAnyt7AgvxhvlS582Gv64aLfN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

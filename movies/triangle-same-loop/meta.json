@@ -1,0 +1,43 @@
+{
+  "id": "triangle-same-loop",
+  "group": "top250",
+  "film": {
+    "title": "恐怖游轮",
+    "year": 2009,
+    "title_en": "Triangle",
+    "director": "克里斯托弗·史密斯"
+  },
+  "lines": [
+    {
+      "text": "你以为你在逃，其实你只是又绕回了起点。",
+      "en": "You think you're escaping—you're only looping back to the start.",
+      "character": "题旨 / Jess",
+      "note": "恐怖游轮的结构即诅咒：三角号甲板上的时间环，把母爱与暴力焊成同一条回路。题旨句，非唯一精确对白，已标。"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "循环",
+    "惊悚"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 6.9,
+      "votes": 130000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 80
+    },
+    "metacritic": {
+      "score": 62
+    }
+  },
+  "still_alt": "恐怖游轮 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/190-triangle.jpg）（影片页 https://www.themoviedb.org/movie/26466）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tw3cn2lBnmgCek6g6pCLPR4EwPt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

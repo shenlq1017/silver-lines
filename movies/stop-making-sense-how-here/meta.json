@@ -1,0 +1,33 @@
+{
+  "id": "stop-making-sense-how-here",
+  "group": "classics",
+  "film": {
+    "title": "停止理智",
+    "year": 1984,
+    "title_en": "Stop Making Sense",
+    "director": "乔纳森·戴米"
+  },
+  "lines": [
+    {
+      "text": "你可能会问自己：我是怎么来到这里的？",
+      "en": "You may ask yourself, well, how did I get here?",
+      "character": "大卫·伯恩",
+      "note": "演出中《Once in a Lifetime》的通行译法；保留歌曲文本的明确出处。"
+    }
+  ],
+  "tags": [
+    "音乐",
+    "现场",
+    "美国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.7,
+      "votes": 30000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "停止理智 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/stop-making-sense-1984.jpg）（影片页 https://www.themoviedb.org/movie/24128）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kPDmoP4BCFaELJVBog4nIV4CPge.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "platform-times-changed",
+  "group": "classics",
+  "film": {
+    "title": "站台",
+    "year": 2001,
+    "title_en": "Platform",
+    "director": "贾樟柯"
+  },
+  "lines": [
+    {
+      "text": "时代已经不一样了。",
+      "en": "The times are already different.",
+      "character": "崔明亮一辈文工团员 / Performance troupe",
+      "note": "策展意译：概括文工团少年见证流行文化与体制转向的时代感受；影片金句分散，不冒充单一场景逐字。"
+    }
+  ],
+  "tags": [
+    "改革年代",
+    "青年",
+    "贾樟柯"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 102
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "站台 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/platform-2001.jpg）（影片页 https://www.themoviedb.org/movie/80427）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/IB5MmLHq7aJUK0IGhCmw9UNTUT.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

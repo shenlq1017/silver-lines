@@ -1,0 +1,34 @@
+{
+  "id": "paisan-chapters",
+  "group": "classics",
+  "film": {
+    "title": "战火",
+    "year": 1946,
+    "title_en": "Paisan",
+    "director": "罗伯托·罗西里尼"
+  },
+  "lines": [
+    {
+      "text": "解放不是一条直线，是六段还来不及互相认识的善意。",
+      "en": "Liberation is not a straight line — it is six chapters of goodwill that never quite meet.",
+      "character": "群像 / ensemble",
+      "note": "主题性策展句：概括罗西里尼《战火》六章式解放意大利叙事中的短暂相遇与人道裂隙，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "解放",
+    "短章",
+    "战争",
+    "罗西里尼"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 365
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "战火 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/paisan-1946.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8429）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ss5kJkUUfA5ioGZmUzuNDiRcbsH.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

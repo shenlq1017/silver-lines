@@ -1,0 +1,39 @@
+{
+  "id": "solaris-need-mirrors",
+  "group": "classics",
+  "film": {
+    "title": "飞向太空",
+    "year": 1972,
+    "title_en": "Solaris",
+    "director": "安德烈·塔可夫斯基"
+  },
+  "lines": [
+    {
+      "text": "我们不要别的世界。我们要的是镜子。",
+      "en": "We don't need other worlds. We need mirrors.",
+      "character": "斯诺特 / Dr. Snaut",
+      "note": "通行译法：斯诺特关于人类探索动机的名句；不同字幕版本略有措辞差异。"
+    },
+    {
+      "text": "人需要人。",
+      "character": "斯瑙特",
+      "en": "Chelovek cheloveku nuzhen.",
+      "note": "论「人不需要别的世界」后的收束；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "记忆",
+    "塔可夫斯基"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 1905
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "飞向太空 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/solaris-1972.jpg）（影片页 https://www.themoviedb.org/movie/593）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4c8DuX0XRkjvqo4BVZBfHuRkz07.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

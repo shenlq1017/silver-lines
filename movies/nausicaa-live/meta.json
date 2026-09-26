@@ -1,0 +1,43 @@
+{
+  "id": "nausicaa-live",
+  "group": "top250",
+  "film": {
+    "title": "风之谷",
+    "year": 1984,
+    "title_en": "Nausicaä of the Valley of the Wind",
+    "director": "宫崎骏"
+  },
+  "lines": [
+    {
+      "text": "我们要活下去。",
+      "en": "We must live.",
+      "character": "娜乌西卡",
+      "note": "风之谷的底色不是毁灭预言，是娜乌西卡反复选择「活」：对腐海、对人、对虫，都先放下剑。短句，重如整片生态伦理。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "生态",
+    "和平"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 190000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 86
+    }
+  },
+  "still_alt": "风之谷 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/186-kaze-no-tani-no-naushika.jpg）（影片页 https://www.themoviedb.org/movie/81）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5HRl5wUjzkv5WdiYkXIppSc41lu.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "jedi-i-am-a-jedi",
+  "group": "classics",
+  "film": {
+    "title": "星球大战：绝地归来",
+    "year": 1983,
+    "title_en": "Star Wars: Episode VI - Return of the Jedi",
+    "director": "理查德·马奎德"
+  },
+  "lines": [
+    {
+      "text": "像我父亲一样——我是绝地武士。",
+      "en": "I am a Jedi, like my father before me.",
+      "character": "Luke Skywalker",
+      "note": "卢克扔掉光剑：绝地归来把血统写成选择。通行定译。与《星球大战》《帝国反击战》同系列不同片。"
+    },
+    {
+      "text": "对我来说，已经太迟了，儿子。",
+      "character": "Darth Vader",
+      "en": "It is too late for me, son.",
+      "note": "维达的临终忏悔；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你已经救了我，卢克。",
+      "character": "Darth Vader",
+      "en": "You already have, Luke.",
+      "note": "同场的回应；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "救赎",
+    "传承"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 200000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 1100000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 82
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 58
+    }
+  },
+  "still_alt": "星球大战：绝地归来 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/star-wars-episode-vi-return-of-the-jedi-1983.jpg）（影片页 https://www.themoviedb.org/movie/1892）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u2Wm56EUgkHh3k2qmvvAtM99shw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

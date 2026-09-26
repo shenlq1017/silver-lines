@@ -1,0 +1,33 @@
+{
+  "id": "bad-education-fiction-memory",
+  "group": "classics",
+  "film": {
+    "title": "不良教育",
+    "year": 2004,
+    "title_en": "Bad Education",
+    "director": "佩德罗·阿尔莫多瓦"
+  },
+  "lines": [
+    {
+      "text": "故事一改，记忆也会跟着说谎。",
+      "en": "Change the story, and memory starts to lie with it.",
+      "character": "叙事主题 / Meta-narrative",
+      "note": "策展意译：概括阿尔莫多瓦《不良教育》中剧本、神父往事与身份伪造互相吞噬的结构；明确为主题压缩，不冒充唯一逐字。"
+    }
+  ],
+  "tags": [
+    "记忆",
+    "伪造",
+    "创伤"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 1097
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "不良教育 · TMDB 宣传静帧（2800×1575）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/bad-education-2004.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/140）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/enG31HSM8qyuUFtSLwpHqpnHz4I.jpg（2800×1575）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

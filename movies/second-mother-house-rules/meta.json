@@ -1,0 +1,33 @@
+{
+  "id": "second-mother-house-rules",
+  "group": "classics",
+  "film": {
+    "title": "第二个妈妈",
+    "year": 2015,
+    "title_en": "The Second Mother",
+    "director": "安娜·穆亚拉特"
+  },
+  "lines": [
+    {
+      "text": "在别人家里，爱也要先学会规矩。",
+      "en": "In someone else’s house, even love must first learn the rules.",
+      "character": "瓦伦 / Val",
+      "note": "策展意译：概括穆亚拉特《第二个妈妈》家政工人与雇主家庭的亲密与界限；明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "阶级",
+    "家政",
+    "母女"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 797
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "第二个妈妈 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-second-mother-2015.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/310569）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9h5BsxRmxLAvASADo2VcTlTUdb0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "love-actually-you-are-perfect",
+  "group": "top250",
+  "film": {
+    "title": "真爱至上",
+    "year": 2003,
+    "title_en": "Love Actually",
+    "director": "理查德·柯蒂斯"
+  },
+  "lines": [
+    {
+      "text": "对我来说，你是完美的。",
+      "en": "To me, you are perfect.",
+      "character": "Mark",
+      "note": "门廊提词板无声告白：真爱至上用一句白卡，把单恋写成全片最干净的峰值。通行定译。"
+    },
+    {
+      "text": "我们是小国——但也是伟大的国家。",
+      "character": "Prime Minister",
+      "en": "We may be a small country, but we're a great one too.",
+      "note": "首相的圣诞记者会演讲（节选）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "圣诞",
+    "告白"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 720000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 550000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 64
+    },
+    "metacritic": {
+      "score": 55
+    }
+  },
+  "still_alt": "真爱至上 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/236-love-actually.jpg）（影片页 https://www.themoviedb.org/movie/508）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4Sn0M0Dv0iL5Tkl2dWko9oilcFL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

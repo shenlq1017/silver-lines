@@ -1,0 +1,48 @@
+{
+  "id": "red-lantern-woman-fate",
+  "group": "top250",
+  "film": {
+    "title": "大红灯笼高高挂",
+    "year": 1991,
+    "title_en": "Raise the Red Lantern",
+    "director": "张艺谋"
+  },
+  "lines": [
+    {
+      "text": "灯一亮，女人的命就被拴在院子里。",
+      "en": "When the lantern is lit, a woman's fate is tied to the courtyard.",
+      "character": "题旨 / 颂莲",
+      "note": "点灯、灭灯、封灯即刑法：大红灯笼高高挂把宅院礼仪写成窒息装置。此为题旨凝练，非唯一精确台词汇总，边界已标。"
+    },
+    {
+      "text": "在这个院里，人算什么东西？像狗，像猫，像耗子——唯独就是不像人。",
+      "character": "颂莲",
+      "note": "颂莲酒后对雁儿说的凉话，全片「人如物件」的点题。"
+    }
+  ],
+  "tags": [
+    "封建",
+    "女性",
+    "权力"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 420000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 37000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 97
+    },
+    "metacritic": {
+      "score": 88
+    }
+  },
+  "still_alt": "大红灯笼高高挂 · 宣传静帧（2844×1600）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/214-raise-the-red-lantern.jpg）（影片页 https://www.themoviedb.org/movie/10404）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1WLxktm6tJ534gaD1duGN8Cp3F9.jpg（2844×1600）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

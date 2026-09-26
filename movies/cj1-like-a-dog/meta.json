@@ -1,0 +1,49 @@
+{
+  "id": "cj1-like-a-dog",
+  "group": "top250",
+  "film": {
+    "title": "大话西游之月光宝盒",
+    "year": 1995,
+    "title_en": "A Chinese Odyssey Part One: Pandora's Box",
+    "director": "刘镇伟"
+  },
+  "lines": [
+    {
+      "text": "你看，那个人好像一条狗啊。",
+      "en": "Look—that guy looks like a dog.",
+      "character": "至尊宝",
+      "note": "月光宝盒开场即封神的旁观句；与大圣娶亲「曾经」错开，本条专属月光宝盒。"
+    },
+    {
+      "text": "般若波罗蜜！",
+      "character": "至尊宝",
+      "note": "穿越时空的咒语，全片的开关；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "娘子，快跟牛魔王一起出来看上帝！",
+      "character": "至尊宝",
+      "note": "荒诞喜剧名场面；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "荒诞",
+    "轮回"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 1400000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 18000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "大话西游之月光宝盒 · 西游戏谑意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/049-rank-049.jpg）（影片页 https://www.themoviedb.org/movie/13345）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cvpq5L0LSrTvLBokQ0tsFdEysJ6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

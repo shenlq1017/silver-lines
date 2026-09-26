@@ -1,0 +1,39 @@
+{
+  "id": "safe-just-get-well",
+  "group": "classics",
+  "film": {
+    "title": "安全",
+    "year": 1995,
+    "title_en": "Safe",
+    "director": "托德·海因斯"
+  },
+  "lines": [
+    {
+      "text": "我只想好起来。",
+      "en": "I just want to get well.",
+      "character": "卡罗尔·怀特 / Carol White",
+      "note": "通行译法：卡罗尔在病痛与自我规训之间的直接诉求；不同字幕版本略有差异。"
+    },
+    {
+      "text": "我爱你。我爱你。我爱你。",
+      "character": "Carol White",
+      "en": "I love you. I love you. I really love you. I love you.",
+      "note": "卡罗琳对镜的自我催眠，全片最怪怖一幕；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "身体",
+    "恐惧",
+    "美国独立电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 24000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "安全 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/safe-1995.jpg）（影片页 https://www.themoviedb.org/movie/32646）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/p8O3WhMWumLrLp21BRW80kBND4d.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

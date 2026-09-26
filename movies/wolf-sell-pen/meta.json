@@ -1,0 +1,54 @@
+{
+  "id": "wolf-sell-pen",
+  "group": "classics",
+  "film": {
+    "title": "华尔街之狼",
+    "year": 2013,
+    "title_en": "The Wolf of Wall Street",
+    "director": "马丁·斯科塞斯"
+  },
+  "lines": [
+    {
+      "text": "把这支笔卖给我。",
+      "en": "Sell me this pen.",
+      "character": "乔丹·贝尔福特 / Jordan Belfort",
+      "note": "乔丹在宴会上考问销售员的对白；IMDb quotes／剧本可核；片中多次出现。"
+    },
+    {
+      "text": "听着——贫穷没有任何高贵可言。",
+      "character": "Jordan Belfort",
+      "en": "Let me tell you something. There's no nobility in poverty.",
+      "note": "乔丹的拜金布道；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "庞氏，庞氏……那是幻象，是仙尘。",
+      "character": "Mark Hanna",
+      "en": "Fugazi, fugazi... It's a wazi, it's a woozie. It's fairy dust.",
+      "note": "前辈对股市的打气式拆穿；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我要你用变富的方式来解决你的问题！",
+      "character": "Jordan Belfort",
+      "en": "I want you to deal with your problems by becoming rich!",
+      "note": "乔丹的销售动员；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "销售",
+    "欲望",
+    "华尔街",
+    "斯科塞斯"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 26575
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "华尔街之狼 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-wolf-of-wall-street-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/106646）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

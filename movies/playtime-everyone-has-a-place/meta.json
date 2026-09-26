@@ -1,0 +1,33 @@
+{
+  "id": "playtime-everyone-has-a-place",
+  "group": "classics",
+  "film": {
+    "title": "玩乐时间",
+    "year": 1967,
+    "title_en": "Playtime",
+    "director": "雅克·塔蒂"
+  },
+  "lines": [
+    {
+      "text": "每个人都在寻找自己的位置。",
+      "en": "Everyone is looking for their place.",
+      "character": "片中群像",
+      "note": "影片几乎不依靠金句对白；此句是对城市空间、错位与群像动作的策展压缩，已明确非逐字引文。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "现代城市",
+    "空间"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 45000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "玩乐时间 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/playtime-1967.jpg）（影片页 https://www.themoviedb.org/movie/10227）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/89I6uL28n0UKZEZ7FVV8aOrYlI2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

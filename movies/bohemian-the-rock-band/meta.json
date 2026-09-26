@@ -1,0 +1,50 @@
+{
+  "id": "bohemian-the-rock-band",
+  "group": "top250",
+  "film": {
+    "title": "波西米亚狂想曲",
+    "year": 2018,
+    "title_en": "Bohemian Rhapsody",
+    "director": "布莱恩·辛格"
+  },
+  "lines": [
+    {
+      "text": "我不想做一支摇滚乐队——我想做那支摇滚乐队。",
+      "en": "I don't want to be a rock band. I want to be THE rock band.",
+      "character": "Freddie Mercury",
+      "note": "水星用定冠词改命运：波西米亚狂想曲把成名欲写成语法玩笑。通行影院字幕口吻，略有版本差，已标。"
+    },
+    {
+      "text": "我才不要当摇滚明星——我要当传奇。",
+      "character": "Freddie Mercury",
+      "en": "I'm not going to be a rockstar. I'm going to be a legend!",
+      "note": "弗雷迪的少年宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "传记",
+    "音乐",
+    "自我"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 850000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 650000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 60
+    },
+    "metacritic": {
+      "score": 49
+    }
+  },
+  "still_alt": "波西米亚狂想曲 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/211-bohemian-rhapsody.jpg）（影片页 https://www.themoviedb.org/movie/424694）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dcvbs8z0GEXslC1kCT77x19XDeR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

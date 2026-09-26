@@ -1,0 +1,34 @@
+{
+  "id": "the-class-walls",
+  "group": "classics",
+  "film": {
+    "title": "课室",
+    "year": 2008,
+    "title_en": "The Class",
+    "director": "洛朗·康泰"
+  },
+  "lines": [
+    {
+      "text": "教室的墙很薄，外面的世界随时会闯进来。",
+      "en": "The classroom walls are thin — the outside world can break in at any moment.",
+      "character": "马兰老师／学生 / M. Marin / students",
+      "note": "主题性策展句：呼应康泰《课室》（Entre les murs）片名与多元教室里语言冲突、权力边界的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "教育",
+    "语言",
+    "权力",
+    "康泰"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 739
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "课室 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-class-2008.jpg，960×1440）（影片页 https://www.themoviedb.org/movie/8841）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1lx6TewxaaghQqWflW7pNDztiHs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

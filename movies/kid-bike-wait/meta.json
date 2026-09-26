@@ -1,0 +1,34 @@
+{
+  "id": "kid-bike-wait",
+  "group": "classics",
+  "film": {
+    "title": "单车少年",
+    "year": 2011,
+    "title_en": "The Kid with a Bike",
+    "director": "达尔登兄弟"
+  },
+  "lines": [
+    {
+      "text": "父亲不来，单车还在；有人愿意等你，路就还通。",
+      "en": "Father may not come — the bike remains; if someone will wait for you, the road stays open.",
+      "character": "西里尔／萨曼莎 / Cyril / Samantha",
+      "note": "主题性策展句：概括达尔登兄弟《单车少年》中被弃少年以单车与寄养母亲重建信任的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "弃养",
+    "单车",
+    "寄养",
+    "达尔登"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 469
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "单车少年 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-kid-with-a-bike-2011.jpg，1500×2250）（影片页 https://www.themoviedb.org/movie/63831）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/59NaUtfZuK2f0lQedSDQwVF7X9E.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

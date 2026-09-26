@@ -1,0 +1,33 @@
+{
+  "id": "alice-cities-childhood",
+  "group": "classics",
+  "film": {
+    "title": "爱丽丝漫游城市",
+    "year": 1974,
+    "title_en": "Alice in the Cities",
+    "director": "维姆·文德斯"
+  },
+  "lines": [
+    {
+      "text": "我想知道，做一个孩子是什么感觉。",
+      "en": "I want to know what it feels like to be a child.",
+      "character": "菲利普·温特 / Philip Winter",
+      "note": "策展意译：将菲利普面对爱丽丝与自身记忆的凝视压缩为主句，不冒充逐字字幕。"
+    }
+  ],
+  "tags": [
+    "公路电影",
+    "童年",
+    "记忆"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 15000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "爱丽丝漫游城市 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/alice-in-the-cities-1974.jpg）（影片页 https://www.themoviedb.org/movie/2204）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5yf7OaoaCd6n6MF72aipvXiS3OK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

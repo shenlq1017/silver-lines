@@ -1,0 +1,33 @@
+{
+  "id": "rublev-faith-not-miracles",
+  "group": "classics",
+  "film": {
+    "title": "安德烈·卢布廖夫",
+    "year": 1966,
+    "title_en": "Andrei Rublev",
+    "director": "安德烈·塔可夫斯基"
+  },
+  "lines": [
+    {
+      "text": "信仰不是靠奇迹活着的。",
+      "en": "Faith does not live by miracles.",
+      "character": "安德烈·鲁布廖夫 / Andrei Rublev",
+      "note": "策展意译：提炼鲁布廖夫在暴力与怀疑中对圣像与信仰的坚持；塔可夫斯基长片对白稀少，不冒充逐字字幕。"
+    }
+  ],
+  "tags": [
+    "信仰",
+    "艺术",
+    "塔可夫斯基"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 981
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "安德烈·卢布廖夫 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/andrei-rublev-1966.jpg）（影片页 https://www.themoviedb.org/movie/895）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jqha8JCXm0aJ5SJ03Jd0JmGgWRs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

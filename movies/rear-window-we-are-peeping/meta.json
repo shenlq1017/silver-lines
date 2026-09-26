@@ -1,0 +1,49 @@
+{
+  "id": "rear-window-we-are-peeping",
+  "group": "classics",
+  "film": {
+    "title": "后窗",
+    "year": 1954,
+    "title_en": "Rear Window",
+    "director": "阿尔弗雷德·希区柯克"
+  },
+  "lines": [
+    {
+      "text": "我们都成了偷窥的人。",
+      "en": "We've become a race of peeping Toms.",
+      "character": "Stella",
+      "note": "护士斯特拉一语道破观影契约：后窗把对面楼窗变成伦理装置。通行定译略有凝练，已标。"
+    },
+    {
+      "text": "人们该做的，是从自己家里走出来——反过来往里看看。",
+      "character": "Stella",
+      "en": "What people ought to do is get outside their own house and look in for a change.",
+      "note": "护工斯特拉的点破；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "偷窥",
+    "希区柯克"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 170000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 550000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 100
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "后窗 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rear-window-1954.jpg）（影片页 https://www.themoviedb.org/movie/567）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2lB06qzQytcUkEJ9p9B4dGwEfP3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

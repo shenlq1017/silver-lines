@@ -1,0 +1,50 @@
+{
+  "id": "monsters-scare-because-care",
+  "group": "top250",
+  "film": {
+    "title": "怪兽电力公司",
+    "year": 2001,
+    "title_en": "Monsters, Inc.",
+    "director": "彼特·道格特 / 大卫·西尔弗曼 / 李·昂克里奇"
+  },
+  "lines": [
+    {
+      "text": "我们吓人，是因为我们在乎。",
+      "en": "We scare because we care.",
+      "character": "公司箴言 / Sulley",
+      "note": "门上标语先是公司公关，后被笑能革命改写：吓人与在乎，原是同一枚硬币。"
+    },
+    {
+      "text": "为了不让这家公司倒闭，我可以绑架一千个孩子！",
+      "character": "Mr. Waternoose",
+      "en": "I'll kidnap a thousand children before I let this company die!",
+      "note": "瓦特诺斯的真面目；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "友情",
+    "温情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 1000000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 96
+    },
+    "metacritic": {
+      "score": 79
+    }
+  },
+  "still_alt": "怪兽电力公司 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/136-monsters-inc.jpg）（影片页 https://www.themoviedb.org/movie/585）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

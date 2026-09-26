@@ -1,0 +1,34 @@
+{
+  "id": "claire-knee",
+  "group": "classics",
+  "film": {
+    "title": "克莱尔的膝盖",
+    "year": 1970,
+    "title_en": "Claire's Knee",
+    "director": "埃里克·侯麦"
+  },
+  "lines": [
+    {
+      "text": "每个女人都有最脆弱的一点。有的是后颈，有的是腰，有的是手。对克莱尔来说，在那种姿势、那种光线下，就是她的膝盖。",
+      "en": "Every woman has her most vulnerable point. For some, it's the nape of the neck, the waist, the hands. For Claire, in that position, in that light, it was her knee.",
+      "character": "热罗姆 / Jérôme",
+      "note": "热罗姆向奥罗拉解释欲望对象时的对白；IMDb quotes 英文字幕通行译法＋华语影评通行汉译。"
+    }
+  ],
+  "tags": [
+    "欲望",
+    "夏天",
+    "道德故事",
+    "侯麦"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 303
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "克莱尔的膝盖 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/claire-s-knee-1970.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/2860）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ioyElNRYuddvq0xyRocN6DPBiTW.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

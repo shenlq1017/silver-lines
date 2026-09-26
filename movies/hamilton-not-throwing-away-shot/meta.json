@@ -1,0 +1,54 @@
+{
+  "id": "hamilton-not-throwing-away-shot",
+  "group": "classics",
+  "film": {
+    "title": "汉密尔顿",
+    "year": 2020,
+    "title_en": "Hamilton",
+    "director": "Thomas Kail"
+  },
+  "lines": [
+    {
+      "text": "我不会放弃我的机会。",
+      "en": "I'm not throwing away my shot.",
+      "character": "Alexander Hamilton",
+      "note": "歌曲《My Shot》的主句，中文采用通行译法。"
+    },
+    {
+      "text": "少说话，多微笑。",
+      "character": "Aaron Burr",
+      "en": "Talk less. Smile more.",
+      "note": "伯尔对汉密尔顿的第一课；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "移民。活儿都是我们干的。",
+      "character": "Lafayette / Hamilton",
+      "en": "Immigrants. We get the job done.",
+      "note": "说唱中突然面向观众的打破第四面墙名段；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "历史正注视着你。",
+      "character": "Washington（唱段）",
+      "en": "History has its eyes on you.",
+      "note": "华盛顿的警告唱段；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "音乐剧",
+    "梦想",
+    "选择"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.3,
+      "votes": 15700
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "汉密尔顿 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/hamilton-2020.jpg）（影片页 https://www.themoviedb.org/movie/556574）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5WPApUD0ttcu9fVeNIOPo9D3KqW.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

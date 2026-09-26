@@ -1,0 +1,39 @@
+{
+  "id": "lost-weekend-one-drink",
+  "group": "classics",
+  "film": {
+    "title": "失去的周末",
+    "year": 1945,
+    "title_en": "The Lost Weekend",
+    "director": "比利·怀尔德"
+  },
+  "lines": [
+    {
+      "text": "一杯太多，一百杯又不够。",
+      "en": "One drink is too many, and a hundred drinks are not enough.",
+      "character": "唐·伯纳姆",
+      "note": "关于酒精依赖的通行译法；以简短悖论呈现唐的失控循环。"
+    },
+    {
+      "text": "我不是在喝酒的人——我是酒鬼。",
+      "character": "Don Birnam",
+      "en": "I'm not a drinker. I'm a drunk.",
+      "note": "唐的清醒自白；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "成瘾",
+    "黑色电影",
+    "自白"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 44000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "失去的周末 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-lost-weekend-1945.jpg）（影片页 https://www.themoviedb.org/movie/28580）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

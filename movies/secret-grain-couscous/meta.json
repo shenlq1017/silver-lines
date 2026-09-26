@@ -1,0 +1,34 @@
+{
+  "id": "secret-grain-couscous",
+  "group": "classics",
+  "film": {
+    "title": "谷物的秘密",
+    "year": 2007,
+    "title_en": "The Secret of the Grain",
+    "director": "阿卜杜勒·拉蒂夫·凯什修"
+  },
+  "lines": [
+    {
+      "text": "一盘couscous里，藏着一家人不肯散的理由。",
+      "en": "In one plate of couscous lies a family's reason not to fall apart.",
+      "character": "斯利姆／族人 / Slimane et al.",
+      "note": "主题性策展句：概括凯什修《谷物的秘密》中退休船工以couscous餐厅凝聚北非移民家庭的执念，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "移民",
+    "家庭",
+    "食物",
+    "凯什修"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 253
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "谷物的秘密 · TMDB 宣传静帧（2536×1427）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-secret-of-the-grain-2007.jpg，1024×1536）（影片页 https://www.themoviedb.org/movie/8280）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uQkPQdbtkJYeRPdKUFjIPP8wUm7.jpg（2536×1427）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "weekend-not-a-novel",
+  "group": "classics",
+  "film": {
+    "title": "周末",
+    "year": 1967,
+    "title_en": "Weekend",
+    "director": "让-吕克·戈达尔"
+  },
+  "lines": [
+    {
+      "text": "这不是小说，这是电影。电影就是生活。",
+      "en": "This isn't a novel, it's a film. A film is life.",
+      "character": "科琳 / Corinne",
+      "note": "科琳片中元电影对白；影评引述／通行英文字幕可核（Cinema Fanatic／PopMatters 等引文一致）。"
+    }
+  ],
+  "tags": [
+    "元电影",
+    "新浪潮",
+    "戈达尔",
+    "周末"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 316
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "周末 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/weekend-1967.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/8075）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AoKOzArUqiCus25VQun9csjWOMB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

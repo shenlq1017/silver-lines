@@ -1,0 +1,33 @@
+{
+  "id": "fitzcarraldo-dream",
+  "group": "classics",
+  "film": {
+    "title": "陆上行舟",
+    "year": 1982,
+    "title_en": "Fitzcarraldo",
+    "director": "维尔纳·赫尔佐格"
+  },
+  "lines": [
+    {
+      "text": "一个人必须有梦想。",
+      "en": "A man must have a dream.",
+      "character": "布赖恩·斯威尼·菲茨杰拉德",
+      "note": "策展意译：概括菲茨卡拉尔多以不可能工程维持自我的执念，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "梦想",
+    "冒险",
+    "德国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 28000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "陆上行舟 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/fitzcarraldo-1982.jpg）（影片页 https://www.themoviedb.org/movie/9343）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fhv44soRW0zdMB1Km8fZDPAvUGB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

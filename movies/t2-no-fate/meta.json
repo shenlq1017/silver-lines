@@ -1,0 +1,56 @@
+{
+  "id": "t2-no-fate",
+  "group": "top250",
+  "film": {
+    "title": "终结者2：审判日",
+    "year": 1991,
+    "title_en": "Terminator 2: Judgment Day",
+    "director": "詹姆斯·卡梅隆"
+  },
+  "lines": [
+    {
+      "text": "未来没有定式。除了我们自己创造的，没有命运。",
+      "en": "The future is not set. There is no fate but what we make for ourselves.",
+      "character": "John Connor / 旁白题旨",
+      "note": "从「终结」翻成「可改写」：审判日用少年康纳的信条，把时间旅行从宿命论里救回自由意志。系列通行定译。"
+    },
+    {
+      "text": "我现在知道你为什么哭了。但那是我永远做不到的事。",
+      "character": "The Terminator",
+      "en": "I know now why you cry. But it's something I can never do.",
+      "note": "T-800 的临终领悟；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "如果一台机器都能学会人命的价值——也许我们也能。",
+      "character": "Sarah Connor",
+      "en": "If a machine, a Terminator, can learn the value of human life... maybe we can too.",
+      "note": "莎拉结尾的独白；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "命运",
+    "亲情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 470000
+    },
+    "imdb": {
+      "score": 8.6,
+      "votes": 1200000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 75
+    }
+  },
+  "still_alt": "终结者2：审判日 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/218-terminator-2-judgment-day.jpg）（影片页 https://www.themoviedb.org/movie/280）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

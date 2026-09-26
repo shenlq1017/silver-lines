@@ -1,0 +1,33 @@
+{
+  "id": "myriad-lights-hard-to-live",
+  "group": "classics",
+  "film": {
+    "title": "万家灯火",
+    "year": 1948,
+    "title_en": "Myriad of Lights",
+    "director": "沈浮"
+  },
+  "lines": [
+    {
+      "text": "日子难过啊。",
+      "en": "These days are hard to get through.",
+      "character": "胡智清一家 / The Hu household",
+      "note": "策展意译：概括沈浮《万家灯火》中上海小职员家庭被房租与人情压垮的日常叹息；影片金句分散，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "市民",
+    "生存",
+    "战后"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.4,
+      "votes": 7
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "万家灯火 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/myriad-of-lights-1948.jpg）（影片页 https://www.themoviedb.org/movie/95372）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fpUhGWN2xiAMB1dpu8Peed8QQzN.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

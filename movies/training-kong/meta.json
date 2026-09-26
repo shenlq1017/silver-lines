@@ -1,0 +1,48 @@
+{
+  "id": "training-kong",
+  "group": "classics",
+  "film": {
+    "title": "训练日",
+    "year": 2001,
+    "title_en": "Training Day",
+    "director": "安东尼·福奎阿"
+  },
+  "lines": [
+    {
+      "text": "金刚跟我比都算不了什么！",
+      "en": "King Kong ain't got shit on me!",
+      "character": "阿隆佐·哈里斯 / Alonzo Harris",
+      "note": "阿隆佐在街头被围时的咆哮对白；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "重要的不是你知道什么——而是你能证明什么。",
+      "character": "Alonzo Harris",
+      "en": "It's not what you know, it's what you can prove.",
+      "note": "阿洛佐的街头法律；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "这是下棋，不是跳棋。",
+      "character": "Alonzo Harris",
+      "en": "The shit is chess, it ain't checkers.",
+      "note": "阿洛佐的布局论（原文含粗口）；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "警察",
+    "堕落",
+    "咆哮",
+    "街头"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 6852
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "训练日 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/training-day-2001.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/2034）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/lVk1hdbmKxtft7iY4II2tYEWker.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "oldboy-live-even-if-pain",
+  "group": "classics",
+  "film": {
+    "title": "老男孩",
+    "year": 2003,
+    "title_en": "Oldboy",
+    "director": "朴赞郁"
+  },
+  "lines": [
+    {
+      "text": "就算哭得撕心裂肺——也请活下去。",
+      "en": "Even if you cry your heart out—please live on.",
+      "character": "题旨 / 吴大秀与美多",
+      "note": "复仇闭环后的生存伦理：老男孩中文圈通行金句口吻，偏题旨凝练而非唯一逐字对白，边界已标。film_title_en 取通行 Oldboy（原韩文片名 올드보이）。"
+    }
+  ],
+  "tags": [
+    "复仇",
+    "生存",
+    "韩影"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 420000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 680000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 81
+    },
+    "metacritic": {
+      "score": 77
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "老男孩 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/oldeuboi-2003.jpg）（影片页 https://www.themoviedb.org/movie/670）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rwf5SUTiEsmfkXAgy15R0UtJUtv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

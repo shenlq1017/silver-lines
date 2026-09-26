@@ -1,0 +1,34 @@
+{
+  "id": "passenger-who-are-you",
+  "group": "classics",
+  "film": {
+    "title": "过客",
+    "year": 1975,
+    "title_en": "The Passenger",
+    "director": "米开朗基罗·安东尼奥尼"
+  },
+  "lines": [
+    {
+      "text": "人每天都在消失；有时是自己把自己换掉。",
+      "en": "People disappear every day — sometimes by trading themselves away.",
+      "character": "洛克 / David Locke",
+      "note": "策展意译：对应安东尼奥尼《过客》中记者盗用死者身份的核心设定与片中「人会消失」对话气质，不冒充单一字幕逐字句。"
+    }
+  ],
+  "tags": [
+    "身份",
+    "沙漠",
+    "疏离",
+    "安东尼奥尼"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 563
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "过客 · TMDB 宣传静帧（3644×2050）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-passenger-1975.jpg，860×1289）（影片页 https://www.themoviedb.org/movie/9652）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/btD9ehx86BJ2zMASZCOyDU6f7oo.jpg（3644×2050）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

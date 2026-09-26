@@ -1,0 +1,34 @@
+{
+  "id": "gomorrah-system",
+  "group": "classics",
+  "film": {
+    "title": "格莫拉",
+    "year": 2008,
+    "title_en": "Gomorrah",
+    "director": "马泰奥·加洛内"
+  },
+  "lines": [
+    {
+      "text": "在这套体系里，你不是在犯罪，你是在上班。",
+      "en": "Inside this system, you are not committing crimes — you are going to work.",
+      "character": "群像 / ensemble",
+      "note": "主题性策展句：概括加洛内《格莫拉》中黑手党如产业般运转、人物被体系吞没的纪实题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "黑手党",
+    "体系",
+    "那不勒斯",
+    "加洛内"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 1332
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "格莫拉 · TMDB 宣传静帧（2000×1123）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/gomorrah-2008.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/8882）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hNJZrwAP2HneYoVDUrrxVXNFwJJ.jpg（2000×1123）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

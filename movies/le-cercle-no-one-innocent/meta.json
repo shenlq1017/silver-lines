@@ -1,0 +1,39 @@
+{
+  "id": "le-cercle-no-one-innocent",
+  "group": "classics",
+  "film": {
+    "title": "红圈",
+    "year": 1970,
+    "title_en": "Le Cercle Rouge",
+    "director": "让-皮埃尔·梅尔维尔"
+  },
+  "lines": [
+    {
+      "text": "没有人是无辜的。",
+      "en": "No one is innocent.",
+      "character": "片首题辞",
+      "note": "片首题辞的通行意译；为影片关于罪、命运与职业伦理的冷峻世界定调。"
+    },
+    {
+      "text": "佛祖在地上画了一个红圈，说：当素不相识的人在此相逢，红圈便告完成。",
+      "character": "片头题辞",
+      "en": "The Buddha drew a circle with a piece of red chalk and said: when men, even unknowingly, are to meet one day, they will inevitably come together to accomplish the great Circle of their destiny.",
+      "note": "片头引语，为三人组合的命运作注；Wikiquote 可查。"
+    }
+  ],
+  "tags": [
+    "黑色电影",
+    "宿命",
+    "犯罪"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 30000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "红圈 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/le-cercle-rouge-1970.jpg）（影片页 https://www.themoviedb.org/movie/11657）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hPgH8ADpJm0TPkwa4DKopeX5RHX.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "help-kind-smart",
+  "group": "classics",
+  "film": {
+    "title": "帮助",
+    "year": 2011,
+    "title_en": "The Help",
+    "director": "泰特·泰勒"
+  },
+  "lines": [
+    {
+      "text": "你善良。你聪明。你重要。",
+      "en": "You is kind. You is smart. You is important.",
+      "character": "艾比利恩·克拉克 / Aibileen Clark",
+      "note": "艾比利恩对梅·莫布利的叮嘱对白；IMDb quotes／电影剧本／字幕稿逐字可核（保留口语 You is 语感于英译）。"
+    },
+    {
+      "text": "上帝说要爱你的仇敌。这很难。但可以从说真话开始。",
+      "character": "Aibileen Clark",
+      "en": "God says we need to love our enemies. It hard to do. But it can start by telling the truth.",
+      "note": "艾比利恩的信仰告白；IMDb quotes 可查。",
+      "confidence": "medium"
+    },
+    {
+      "text": "吃。我的。屎。",
+      "character": "Minny Jackson",
+      "en": "Eat. My. Shit.",
+      "note": "巧克力「特制派」的报复宣言（原文含粗口）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "从没有人问过我，做我自己是什么滋味。把这个真相说出来之后，我自由了。",
+      "character": "Aibileen Clark",
+      "en": "No one had ever asked me what it feel like to be me. Once I told the truth about that, I felt free.",
+      "note": "被解雇后走在回家路上的收束独白；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "尊严",
+    "种族",
+    "养育",
+    "美国南方"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 9287
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "帮助 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-help-2011.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/50014）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yNDtUGvWVf6hAZeZowWOJTD65z4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

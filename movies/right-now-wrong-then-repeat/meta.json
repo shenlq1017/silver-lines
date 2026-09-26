@@ -1,0 +1,33 @@
+{
+  "id": "right-now-wrong-then-repeat",
+  "group": "classics",
+  "film": {
+    "title": "这时对，那时错",
+    "year": 2015,
+    "title_en": "Right Now, Wrong Then",
+    "director": "洪常秀"
+  },
+  "lines": [
+    {
+      "text": "这时对，那时错。",
+      "en": "Right now, wrong then.",
+      "character": "片名/结构 / Title structure",
+      "note": "通行题眼：洪常秀柏林银熊之作以双段重逢结构对照“对/错”；取中文通行译名作金句，点明形式即主题。"
+    }
+  ],
+  "tags": [
+    "重拍",
+    "自我",
+    "洪常秀"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 170
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "这时对，那时错 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/right-now-wrong-then-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/354275）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/llSsYA3SQMqrBOciq925J4R4rwe.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

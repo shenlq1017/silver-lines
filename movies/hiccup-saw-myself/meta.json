@@ -1,0 +1,50 @@
+{
+  "id": "hiccup-saw-myself",
+  "group": "top250",
+  "film": {
+    "title": "驯龙高手",
+    "year": 2010,
+    "title_en": "How to Train Your Dragon",
+    "director": "克里斯·桑德斯 / 迪恩·德布洛斯"
+  },
+  "lines": [
+    {
+      "text": "我不杀他，是因为他看起来和我一样害怕。我看着他，就像看着自己。",
+      "en": "I wouldn't kill him, because he looked as frightened as I was. I looked at him, and I saw myself.",
+      "character": "Hiccup",
+      "note": "小嗝嗝放下屠龙传统的瞬间：恐惧里照见的不是敌人，是自己。"
+    },
+    {
+      "text": "这里是博克岛。一年下九个月的雪，剩下三个月——下冰雹。",
+      "character": "Hiccup",
+      "en": "This is Berk. It snows nine months of the year, and hails the other three.",
+      "note": "开场独白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "友情",
+    "成长"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 850000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 800000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 99
+    },
+    "metacritic": {
+      "score": 75
+    }
+  },
+  "still_alt": "驯龙高手 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/127-how-to-train-your-dragon.jpg）（影片页 https://www.themoviedb.org/movie/10191）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

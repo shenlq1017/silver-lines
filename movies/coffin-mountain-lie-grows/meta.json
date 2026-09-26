@@ -1,0 +1,43 @@
+{
+  "id": "coffin-mountain-lie-grows",
+  "group": "top250",
+  "film": {
+    "title": "心迷宫",
+    "year": 2014,
+    "title_en": "The Coffin in the Mountain",
+    "director": "忻钰坤"
+  },
+  "lines": [
+    {
+      "text": "一个谎，要一百个谎去圆。",
+      "en": "One lie needs a hundred more to keep it standing.",
+      "character": "题旨 / 村民群像",
+      "note": "心迷宫的结构就是这句话：棺材、山沟与连环误会，把「圆谎」做成叙事引擎。通行概括句，非唯一精确对白，已标边界。"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "乡村",
+    "谎言"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 500000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 8000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 70
+    }
+  },
+  "still_alt": "心迷宫 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/184-the-coffin-in-the-mountain.jpg）（影片页 https://www.themoviedb.org/movie/292362）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/73GYdv0lC4I1Su0FpFroAwV0Q6H.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

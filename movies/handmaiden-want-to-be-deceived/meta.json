@@ -1,0 +1,43 @@
+{
+  "id": "handmaiden-want-to-be-deceived",
+  "group": "top250",
+  "film": {
+    "title": "小姐",
+    "year": 2016,
+    "title_en": "The Handmaiden",
+    "director": "朴赞郁"
+  },
+  "lines": [
+    {
+      "text": "我愿意被你骗一辈子。",
+      "en": "I want to be deceived by you for the rest of my life.",
+      "character": "秀美 / 秀雅",
+      "note": "小姐把双重骗局翻成彼此选中的谎：此为中文圈通行金句口吻（题旨/定译边界），film_title_en=The Handmaiden（非原韩文片名）。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "阴谋",
+    "韩国"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 580000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 190000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 84
+    }
+  },
+  "still_alt": "小姐 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/246-rank-246.jpg）（影片页 https://www.themoviedb.org/movie/290098）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3upEZ0ltY7WwOSFVXrtiP34D48p.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

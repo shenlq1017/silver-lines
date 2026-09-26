@@ -1,0 +1,37 @@
+{
+  "id": "miracle-room7-gift",
+  "group": "top250",
+  "film": {
+    "title": "7号房的礼物",
+    "year": 2013,
+    "title_en": "7번방의 선물",
+    "director": "李焕庆"
+  },
+  "lines": [
+    {
+      "text": "这是爸爸送给你的礼物。",
+      "en": "This is Daddy's present for you.",
+      "character": "龙俊浩 / Yong-gu",
+      "note": "对齐片名「礼物」与狱中父女羁绊的题旨收束；韩语对白中文定译取通行感人表述并标边界。"
+    }
+  ],
+  "tags": [
+    "亲情",
+    "冤案",
+    "父爱"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 650000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 50000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "7号房的礼物 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/110-7.jpg）（影片页 https://www.themoviedb.org/movie/158445）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pXKeJseekxTofz7yP4YzZvPwAud.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "titanic-jump",
+  "group": "top250",
+  "film": {
+    "title": "泰坦尼克号",
+    "year": 1997,
+    "title_en": "Titanic",
+    "director": "詹姆斯·卡梅隆"
+  },
+  "lines": [
+    {
+      "text": "你跳，我也跳。",
+      "en": "You jump, I jump.",
+      "character": "Jack Dawson",
+      "note": "最短誓言，最长久回响。"
+    },
+    {
+      "text": "你必须答应我——答应我你会活下去。",
+      "character": "Jack Dawson",
+      "en": "You must do me this honor. Promise me you'll survive.",
+      "note": "冰海中的托付（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "赢到那张船票，是我一生最幸运的事——它让我遇见了你。",
+      "character": "Jack Dawson",
+      "en": "Winning that ticket was the best thing that ever happened to me... it brought me to you.",
+      "note": "杰克最后的独白（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我永不放手，杰克。永不。",
+      "character": "Rose",
+      "en": "I'll never let go, Jack. I'll never let go.",
+      "note": "露丝的承诺；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "灾难",
+    "誓言"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.5,
+      "votes": 2400000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 1300000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 75
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "泰坦尼克号 · 船头 Jack 与 Rose 伸展双臂经典构图",
+  "license_note": "海报：TMDB 发行宣传物料 https://image.tmdb.org/t/p/original/5bTWA20cL9LCIGNpde4Epc2Ijzn.jpg（2000×3000）（影片页 https://www.themoviedb.org/movie/597-titanic）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sCzcYW9h55WcesOqA12cgEr9Exw.jpg（3840×2160）；场景匹配（船头伸展双臂经典构图）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

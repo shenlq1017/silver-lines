@@ -1,0 +1,34 @@
+{
+  "id": "silent-voice-want-friends",
+  "group": "classics",
+  "film": {
+    "title": "声之形",
+    "year": 2016,
+    "title_en": "A Silent Voice",
+    "director": "山田尚子"
+  },
+  "lines": [
+    {
+      "text": "我想交朋友。但首先，我得学会喜欢自己。",
+      "en": "I want friends. But first, I have to learn to like myself.",
+      "character": "石田将也 / Shoya Ishida",
+      "note": "策展意译：凝聚《声之形》将也从霸凌者走向自我接纳的主线，不冒充单一字幕逐字转译。"
+    }
+  ],
+  "tags": [
+    "校园",
+    "霸凌",
+    "赎罪",
+    "动画"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.4,
+      "votes": 4695
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "声之形 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-silent-voice-2016.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/378064）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

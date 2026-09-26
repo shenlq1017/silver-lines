@@ -1,0 +1,33 @@
+{
+  "id": "great-escape-three-hundred-men",
+  "group": "classics",
+  "film": {
+    "title": "大逃亡",
+    "year": 1963,
+    "title_en": "The Great Escape",
+    "director": "John Sturges"
+  },
+  "lines": [
+    {
+      "text": "三百人要越狱。",
+      "en": "Three hundred men are going to escape.",
+      "character": "维吉尔·希尔茨（Virgil Hilts）",
+      "note": "片中越狱计划相关对白的通行字幕意译。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "自由",
+    "勇气"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 294800
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "大逃亡 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-great-escape-1963.jpg）（影片页 https://www.themoviedb.org/movie/5925）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ahIQVSP2L2DZUCI562aXKPIazvv.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

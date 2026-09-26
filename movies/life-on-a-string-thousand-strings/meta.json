@@ -1,0 +1,33 @@
+{
+  "id": "life-on-a-string-thousand-strings",
+  "group": "classics",
+  "film": {
+    "title": "边走边唱",
+    "year": 1991,
+    "title_en": "Life on a String",
+    "director": "陈凯歌"
+  },
+  "lines": [
+    {
+      "text": "弹断一千根弦，就能看到这个世界。",
+      "en": "Break a thousand strings, and you will see the world.",
+      "character": "师父嘱托 / The master’s charge",
+      "note": "通行概括：陈凯歌《边走边唱》盲琴师“弹断千弦得天书”的核心设定/嘱托，各字幕版措辞不一，取通行传播形态。"
+    }
+  ],
+  "tags": [
+    "寓言",
+    "盲人",
+    "启示"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 15
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "边走边唱 · TMDB 宣传静帧（2000×1124）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/life-on-a-string-1991.jpg，1136×1599）（影片页 https://www.themoviedb.org/movie/41783）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gKnHvb8o9tPH5artoH5UzRJzxGP.jpg（2000×1124）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

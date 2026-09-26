@@ -1,0 +1,57 @@
+{
+  "id": "goblet-hearts-open",
+  "group": "top250",
+  "film": {
+    "title": "哈利·波特与火焰杯",
+    "year": 2005,
+    "title_en": "Harry Potter and the Goblet of Fire",
+    "director": "迈克·纽维尔"
+  },
+  "lines": [
+    {
+      "text": "若目标相同、心胸开阔，习惯与语言的差异便不足道。",
+      "en": "Differences of habit and language are nothing at all if our aims are identical and our hearts are open.",
+      "character": "Albus Dumbledore",
+      "note": "塞德里克葬后邓布利多对三所学校的演说：火焰杯的竞赛收成反沙文主义的公开课。"
+    },
+    {
+      "text": "黑暗而艰难的日子就要来了。很快，我们都要在「正确」与「容易」之间做选择。",
+      "character": "Dumbledore",
+      "en": "Dark and difficult times lie ahead. Soon we must all face the choice between what is right and what is easy.",
+      "note": "火焰杯结尾邓布利多的叮嘱；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "想知道一个人是什么样，就看他怎么对待比他低一等的人，而不是同侪。",
+      "character": "Sirius Black",
+      "en": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
+      "note": "小天狼星炉火中的告诫；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "团结",
+    "悼词"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 550000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 700000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 81
+    }
+  },
+  "still_alt": "哈利·波特与火焰杯 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/114-harry-potter-and-the-goblet-of-fire.jpg）（影片页 https://www.themoviedb.org/movie/674）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cClWTo3ftVXvV1sF8vlLuWfnlph.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

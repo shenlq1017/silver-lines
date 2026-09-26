@@ -1,0 +1,56 @@
+{
+  "id": "rocky-go-the-distance",
+  "group": "classics",
+  "film": {
+    "title": "洛奇",
+    "year": 1976,
+    "title_en": "Rocky",
+    "director": "约翰·G·阿维尔德森"
+  },
+  "lines": [
+    {
+      "text": "我不会输——因为我只想撑完全场。",
+      "en": "I can't lose... 'cause all I wanna do is go the distance.",
+      "character": "Rocky Balboa",
+      "note": "洛奇赛前对亚德里安的自我定义：洛奇把「不倒」写成底层史诗。通行意译。"
+    },
+    {
+      "text": "哟，艾德丽安！",
+      "character": "Rocky Balboa",
+      "en": "Yo Adrian!",
+      "note": "洛奇的标志性呼喊；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "放我出去打，米克。",
+      "character": "Rocky Balboa",
+      "en": "Cut me, Mick.",
+      "note": "赛前更衣室名句；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "励志",
+    "剧情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.2,
+      "votes": 220000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 650000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 70
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "洛奇 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rocky-1976.jpg）（影片页 https://www.themoviedb.org/movie/1366）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

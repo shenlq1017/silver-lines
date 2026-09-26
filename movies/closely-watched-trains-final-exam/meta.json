@@ -1,0 +1,33 @@
+{
+  "id": "closely-watched-trains-final-exam",
+  "group": "classics",
+  "film": {
+    "title": "严密监视的火车",
+    "year": 1966,
+    "title_en": "Closely Watched Trains",
+    "director": "伊日·门泽尔"
+  },
+  "lines": [
+    {
+      "text": "现在，我终于长大了。",
+      "en": "Now, I have finally grown up.",
+      "character": "米洛什·赫尔马",
+      "note": "米洛什在结尾行动后的策展意译；把青春、羞耻与占领现实的突变压缩呈现。"
+    }
+  ],
+  "tags": [
+    "成长",
+    "战争",
+    "捷克新浪潮"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 30000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "严密监视的火车 · TMDB 宣传静帧（3021×1699）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/closely-watched-trains-1966.jpg）（影片页 https://www.themoviedb.org/movie/789）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eD1ztHEgCsexPrdciDBhhvxHLQs.jpg（3021×1699）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fargo-beautiful-day",
+  "group": "classics",
+  "film": {
+    "title": "冰血暴",
+    "year": 1996,
+    "title_en": "Fargo",
+    "director": "乔尔·科恩"
+  },
+  "lines": [
+    {
+      "text": "生活不只是一点钱，你知道吗？你看你现在——多好的天气。我真是不懂。",
+      "en": "There's more to life than a little money, you know. Don'tcha know that? And here ya are, and it's a beautiful day. Well. I just don't understand it.",
+      "character": "Marge Gunderson",
+      "note": "玛吉对着落网杀手的明尼苏达式劝谕：冰血暴用温柔收束血腥。略压缩标点仍保留口语；通行意译。"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "剧情",
+    "惊悚"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.1,
+      "votes": 220000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 760000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 85
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "冰血暴 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/fargo-1996.jpg）（影片页 https://www.themoviedb.org/movie/275）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vLhRkMOjdRIA6tdcQrGr8jyvtkf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

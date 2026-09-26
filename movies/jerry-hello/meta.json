@@ -1,0 +1,41 @@
+{
+  "id": "jerry-hello",
+  "group": "classics",
+  "film": {
+    "title": "甜心先生",
+    "year": 1996,
+    "title_en": "Jerry Maguire",
+    "director": "卡梅伦·克罗"
+  },
+  "lines": [
+    {
+      "text": "你一说「你好」，我就已经心动了。",
+      "en": "You had me at \"hello.\"",
+      "character": "多萝西·博伊德 / Dorothy Boyd",
+      "note": "多萝西回应杰瑞长篇告白时的对白；AFI 百大电影台词第52；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "让我看到钱！",
+      "character": "Rod Tidwell",
+      "en": "Show me the money!",
+      "note": "罗德对杰里的吼叫，全片动力口号；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "告白",
+    "体育经纪",
+    "重逢"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 3891
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "甜心先生 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/jerry-maguire-1996.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/9390）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/a66PKC32YVZISoqZtRQyz8c9Vx6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

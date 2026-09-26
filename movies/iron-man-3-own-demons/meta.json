@@ -1,0 +1,33 @@
+{
+  "id": "iron-man-3-own-demons",
+  "group": "classics",
+  "film": {
+    "title": "钢铁侠3",
+    "year": 2013,
+    "title_en": "Iron Man 3",
+    "director": "沙恩·布莱克"
+  },
+  "lines": [
+    {
+      "text": "我们创造自己的恶魔。",
+      "en": "We create our own demons.",
+      "character": "托尼·斯塔克 / Tony Stark",
+      "note": "片头旁白通行金句；亦是整部「心魔/后遗症」主题的标题句。"
+    }
+  ],
+  "tags": [
+    "超级英雄",
+    "创伤",
+    "漫威"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 23906
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "钢铁侠3 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/iron-man-3-2013.jpg）（影片页 https://www.themoviedb.org/movie/68721）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/l8VlFqcxoxhLKmlGqvBr4prJX7t.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

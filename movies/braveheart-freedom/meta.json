@@ -1,0 +1,70 @@
+{
+  "id": "braveheart-freedom",
+  "group": "top250",
+  "film": {
+    "title": "勇敢的心",
+    "year": 1995,
+    "title_en": "Braveheart",
+    "director": "梅尔·吉布森"
+  },
+  "lines": [
+    {
+      "text": "他们也许能夺走我们的生命，但永远夺不走我们的自由！",
+      "en": "They may take our lives, but they'll never take our freedom!",
+      "character": "William Wallace",
+      "note": "斯特灵战前呐喊：好莱坞史诗里最被传颂的「自由」一声，中文定译取通行版。"
+    },
+    {
+      "text": "每个人都会死，但不是每个人都真正活过。",
+      "character": "William Wallace",
+      "en": "Every man dies, not every man really lives.",
+      "note": "全片被引用最广的一句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "自由！！",
+      "character": "William Wallace",
+      "en": "FREEDOM!",
+      "note": "刑场上咽气前的呐喊；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你的心是自由的。要有勇气，追随它。",
+      "character": "William Wallace",
+      "en": "Your heart is free. Have the courage to follow it.",
+      "note": "梦中亡父对少年华莱士说的话；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "英格兰的史学家会说我在撒谎，但历史本就是由绞死英雄的人书写的。",
+      "character": "Robert the Bruce（旁白）",
+      "en": "Historians from England will say I am a liar, but history is written by those who have hanged heroes.",
+      "note": "开场旁白；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "自由",
+    "战争",
+    "演说"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 1100000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 75
+    },
+    "metacritic": {
+      "score": 68
+    }
+  },
+  "still_alt": "勇敢的心 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/123-braveheart.jpg）（影片页 https://www.themoviedb.org/movie/197）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8U85ezt7remQlOXVssUO0BngURC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

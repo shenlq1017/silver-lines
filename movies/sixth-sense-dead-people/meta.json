@@ -1,0 +1,56 @@
+{
+  "id": "sixth-sense-dead-people",
+  "group": "top250",
+  "film": {
+    "title": "第六感",
+    "year": 1999,
+    "title_en": "The Sixth Sense",
+    "director": "M·奈特·沙马兰"
+  },
+  "lines": [
+    {
+      "text": "我看得见死人。",
+      "en": "I see dead people.",
+      "character": "Cole Sear",
+      "note": "科尔耳语四个英文词，改写千年「见鬼」叙事；中文定译取通行版。"
+    },
+    {
+      "text": "他们看不见彼此。他们只看见自己想看见的东西。他们不知道自己已经死了。",
+      "character": "Cole Sear",
+      "en": "They don't see each other. They only see what they want to see. They don't know they're dead.",
+      "note": "科尔对「规矩」的解释，全片解谜钥匙；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "外婆想让我告诉你，她看过你跳舞。她说你跳得像天使。",
+      "character": "Cole Sear",
+      "en": "She wanted me to tell you she saw you dance. She said you danced like an angel.",
+      "note": "车内科尔的传话，母亲的和解段；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "惊吓",
+    "童言"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 750000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 1100000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 86
+    },
+    "metacritic": {
+      "score": 64
+    }
+  },
+  "still_alt": "第六感 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/109-the-sixth-sense.jpg）（影片页 https://www.themoviedb.org/movie/745）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/grG6sAPaJXcm2bHOzzKAFt0xhUn.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

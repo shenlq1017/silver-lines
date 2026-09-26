@@ -1,0 +1,33 @@
+{
+  "id": "los-olvidados-bad-people",
+  "group": "classics",
+  "film": {
+    "title": "被遗忘的人们",
+    "year": 1950,
+    "title_en": "Los Olvidados",
+    "director": "路易斯·布努埃尔"
+  },
+  "lines": [
+    {
+      "text": "没有坏人，只有坏的环境。",
+      "en": "There are no bad people, only bad circumstances.",
+      "character": "片首旁白",
+      "note": "片首社会寓言的通行意译；影片随后用残酷现实反问这句乐观判断。"
+    }
+  ],
+  "tags": [
+    "社会",
+    "贫困",
+    "现实主义"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 29000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "被遗忘的人们 · TMDB 宣传静帧（2342×1317）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/los-olvidados-1950.jpg）（影片页 https://www.themoviedb.org/movie/800）；静帧：TMDB backdrop/宣传图 undefined（2342×1317）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "harold-live",
+  "group": "classics",
+  "film": {
+    "title": "哈罗德与莫德",
+    "year": 1971,
+    "title_en": "Harold and Maude",
+    "director": "哈尔·阿什比"
+  },
+  "lines": [
+    {
+      "text": "L-I-V-E。活着！不然更衣室里你就没什么好吹的。",
+      "en": "L-I-V-E. Live! Otherwise, you've got nothing to talk about in the locker room.",
+      "character": "莫德 / Maude",
+      "note": "莫德劝哈罗德抓住生命时的对白；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "很多人享受着「死了」的状态——但其实他们没死，只是在回避生活。伸出手去，试试看，哪怕受伤。",
+      "character": "Maude",
+      "en": "A lot of people enjoy being dead. But they are not dead, really. They're just backing away from life. Reach out. Take a chance. Get hurt even.",
+      "note": "莫德的生命观（节选）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "生命",
+    "黑色幽默",
+    "忘年",
+    "自由"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 1247
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "哈罗德与莫德 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/harold-and-maude-1971.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/343）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jKgfnnCATAg4fxMfS0LZThmqOZB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

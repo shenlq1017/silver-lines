@@ -1,0 +1,48 @@
+{
+  "id": "millennium-actress-always-chasing",
+  "group": "top250",
+  "film": {
+    "title": "千年女优",
+    "year": 2001,
+    "title_en": "Millennium Actress",
+    "director": "今敏"
+  },
+  "lines": [
+    {
+      "text": "我一直在追他——穿越每部戏、每个时代。",
+      "en": "I've always been chasing him—through every role, every era.",
+      "character": "藤原千代子",
+      "note": "千年女优把银幕人生叠进真实追寻：此为题旨通行凝练（追钥匙少年），略非唯一逐字，边界已标。"
+    },
+    {
+      "text": "这一次——这一次我觉得一定能见到他。",
+      "character": "藤原千代子",
+      "note": "千代子一生追逐的独白；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "记忆",
+    "追寻"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 280000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 25000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 70
+    }
+  },
+  "still_alt": "千年女优 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/240-millennium-actress.jpg）（影片页 https://www.themoviedb.org/movie/33320）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yZDdZalyrBTw1Kd841IWGZDVJPP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

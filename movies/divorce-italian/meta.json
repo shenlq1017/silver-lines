@@ -1,0 +1,34 @@
+{
+  "id": "divorce-italian",
+  "group": "classics",
+  "film": {
+    "title": "意大利式离婚",
+    "year": 1961,
+    "title_en": "Divorce Italian Style",
+    "director": "皮埃特罗·杰尔米"
+  },
+  "lines": [
+    {
+      "text": "在不许离婚的地方，谋杀成了手续。",
+      "en": "Where divorce is forbidden, murder becomes paperwork.",
+      "character": "费迪南多 / Ferdinando",
+      "note": "主题性策展句：概括杰尔米《意大利式离婚》中为另娶而策划杀妻的黑色喜剧法律讽刺，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "讽刺",
+    "婚姻",
+    "西西里",
+    "杰尔米"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 552
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "意大利式离婚 · TMDB 宣传静帧（3150×1770）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/divorce-italian-style-1961.jpg，1120×1600）（影片页 https://www.themoviedb.org/movie/20271）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nUaxF2BGPg0NIsEcToglpErurXu.jpg（3150×1770）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

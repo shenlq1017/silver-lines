@@ -1,0 +1,85 @@
+{
+  "id": "empire-i-am-your-father",
+  "group": "classics",
+  "film": {
+    "title": "星球大战：帝国反击战",
+    "year": 1980,
+    "title_en": "The Empire Strikes Back",
+    "director": "厄文·克什纳"
+  },
+  "lines": [
+    {
+      "text": "不——我才是你的父亲。",
+      "en": "No. I am your father.",
+      "character": "Darth Vader",
+      "note": "云城对决的终极反转：帝国反击战把「父亲」做成影史最响亮的一声。通行定译（常被误记为 Luke, I am your father）。与已上架《星球大战》（1977）同系列不同片。"
+    },
+    {
+      "text": "做，或者不做。没有「试试看」。",
+      "character": "Yoda",
+      "en": "Do. Or do not. There is no try.",
+      "note": "达戈巴训练卢克的名句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "战争并不能让人伟大。",
+      "character": "Yoda",
+      "en": "Wars not make one great.",
+      "note": "尤达对卢克的点拨；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "这笔买卖越来越不划算了。",
+      "character": "Lando Calrissian",
+      "en": "This deal is getting worse all the time.",
+      "note": "兰多在云城的抱怨口头禅；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我爱你。",
+      "character": "Leia Organa",
+      "en": "I love you.",
+      "note": "碳凝前的诀别上半句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我知道。",
+      "character": "Han Solo",
+      "en": "I know.",
+      "note": "同场诀别下半句，影史最著名回答；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "别跟我说什么概率！",
+      "character": "Han Solo",
+      "en": "Never tell me the odds!",
+      "note": "小行星带逃亡时对 C-3PO 的吼叫；IMDb quotes 可查（原 batch-0 误标为正传，本批归位）。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "亲情",
+    "反转"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 280000
+    },
+    "imdb": {
+      "score": 8.7,
+      "votes": 1400000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 82
+    }
+  },
+  "still_alt": "星球大战：帝国反击战 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-empire-strikes-back-1980.jpg）（影片页 https://www.themoviedb.org/movie/1891）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/azIbQpeKKNF9r85lBSRrNnMK0Si.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

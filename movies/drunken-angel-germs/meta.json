@@ -1,0 +1,33 @@
+{
+  "id": "drunken-angel-germs",
+  "group": "classics",
+  "film": {
+    "title": "醉天使",
+    "year": 1948,
+    "title_en": "Drunken Angel",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "流氓跟细菌是一样的。",
+      "en": "Yakuza are just like germs.",
+      "character": "卫生所医生 / Doctor Sanada",
+      "note": "通行译法：志村乔饰医生对三船敏郎饰混混的训诫；把黑道与结核并置，是影片核心隐喻。"
+    }
+  ],
+  "tags": [
+    "战后",
+    "黑道",
+    "疾病"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 322
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "醉天使 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/drunken-angel-1948.jpg）（影片页 https://www.themoviedb.org/movie/25858）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iyzPSaf6DYnaQj9n9h8m55JfZOz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

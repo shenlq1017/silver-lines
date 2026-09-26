@@ -1,0 +1,50 @@
+{
+  "id": "ben-hur-hate-keeps-alive",
+  "group": "classics",
+  "film": {
+    "title": "宾虚",
+    "year": 1959,
+    "title_en": "Ben-Hur",
+    "director": "威廉·惠勒"
+  },
+  "lines": [
+    {
+      "text": "你眼里满是仇恨，犹大。很好。仇恨能让人活下去——它给人力量。",
+      "en": "Your eyes are full of hate, Judah. That's good. Hate keeps a man alive. It gives him strength.",
+      "character": "Quintus Arrius",
+      "note": "夸图斯·阿利乌斯对犹大说：宾虚把仇恨写成暂时的燃料。通行意译。"
+    },
+    {
+      "text": "让你们活着，就是为了给这艘船划桨——好好划，好好活。",
+      "character": "Quintus Arrius",
+      "en": "We keep you alive to serve this ship. So row well, and live.",
+      "note": "战舰底舱对奴隶的喊话，随后引出主台词；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "史诗",
+    "复仇",
+    "信仰"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.3,
+      "votes": 70000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 250000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 86
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 90
+    }
+  },
+  "still_alt": "宾虚 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ben-hur-1959.jpg）（影片页 https://www.themoviedb.org/movie/665）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/87AEFDcH0VxNDxOQyUmG4gpoSeh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

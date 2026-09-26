@@ -1,0 +1,33 @@
+{
+  "id": "piano-speaking-voice",
+  "group": "classics",
+  "film": {
+    "title": "钢琴课",
+    "year": 1993,
+    "title_en": "The Piano",
+    "director": "简·坎皮恩"
+  },
+  "lines": [
+    {
+      "text": "你听见的不是我的说话声，而是我的心声。",
+      "en": "The voice you hear is not my speaking voice, but my mind’s voice.",
+      "character": "艾达",
+      "note": "开场旁白的通行译意；明确标注为画外音而非普通对白。"
+    }
+  ],
+  "tags": [
+    "女性",
+    "沉默",
+    "新西兰电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 100000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "钢琴课 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-piano-1993.jpg）（影片页 https://www.themoviedb.org/movie/713）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oNSTjU6R8fl9G7oXHa25HNVqohx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

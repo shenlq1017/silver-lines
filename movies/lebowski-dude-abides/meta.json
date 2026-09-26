@@ -1,0 +1,70 @@
+{
+  "id": "lebowski-dude-abides",
+  "group": "classics",
+  "film": {
+    "title": "谋杀绿脚趾",
+    "year": 1998,
+    "title_en": "The Big Lebowski",
+    "director": "乔尔·科恩、伊桑·科恩"
+  },
+  "lines": [
+    {
+      "text": "杜德自有道理。",
+      "en": "The Dude abides.",
+      "character": "The Dude",
+      "note": "片尾杜德的自我盖章：谋杀绿脚趾把「随遇」做成宗教级口头禅。Abides 通行译「自有道理／依然故我」；取更口语的前者。"
+    },
+    {
+      "text": "你跑题了，唐尼！",
+      "character": "Walter Sobchak",
+      "en": "You're out of your element, Donny!",
+      "note": "沃尔特的口头禅；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "那张地毯真是把整个房间串起来了。",
+      "character": "The Dude",
+      "en": "That rug really tied the room together.",
+      "note": "全片纠纷的起点名言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "那是你的看法而已，哥们。",
+      "character": "The Dude",
+      "en": "Yeah, well, that's just, like, your opinion, man.",
+      "note": "督爷的著名口头禅；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "斯莫基，这里不是越南，这是保龄球。这儿有规矩。",
+      "character": "Walter Sobchak",
+      "en": "Smokey, this is not Nam. This is bowling. There are rules.",
+      "note": "持枪过线的名场面；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "犯罪"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8,
+      "votes": 240000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 890000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 79
+    },
+    "metacritic": {
+      "score": 71
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "谋杀绿脚趾 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-big-lebowski-1998.jpg）（影片页 https://www.themoviedb.org/movie/115）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vlNcqfLpqHRq8kXcaB5VUHGX56X.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

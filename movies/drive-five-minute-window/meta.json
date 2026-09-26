@@ -1,0 +1,33 @@
+{
+  "id": "drive-five-minute-window",
+  "group": "classics",
+  "film": {
+    "title": "亡命驾驶",
+    "year": 2011,
+    "title_en": "Drive",
+    "director": "尼古拉斯·温丁·雷弗恩"
+  },
+  "lines": [
+    {
+      "text": "你给我时间和地点，我给你五分钟窗口。",
+      "en": "You give me a time and a place, I give you a five minute window.",
+      "character": "司机 / Driver",
+      "note": "司机自我介绍业务规则的通行名句；中文取常见译法。"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "霓虹",
+    "寡言"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 14026
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "亡命驾驶 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/drive-2011.jpg）（影片页 https://www.themoviedb.org/movie/64690）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

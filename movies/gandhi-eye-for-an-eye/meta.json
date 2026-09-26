@@ -1,0 +1,40 @@
+{
+  "id": "gandhi-eye-for-an-eye",
+  "group": "classics",
+  "film": {
+    "title": "甘地傳",
+    "year": 1983,
+    "title_en": "Gandhi",
+    "director": "Richard Attenborough"
+  },
+  "lines": [
+    {
+      "text": "以眼还眼，只会让全世界都盲目。",
+      "en": "An eye for an eye only ends up making the whole world blind.",
+      "character": "圣雄甘地（Mahatma Gandhi）",
+      "note": "影片中广泛传播的甘地箴言译法。"
+    },
+    {
+      "text": "我是穆斯林，是印度教徒，是基督徒，也是犹太人。",
+      "character": "Gandhi",
+      "en": "I am a Muslim and a Hindu and a Christian and a Jew.",
+      "note": "甘地的信仰宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "和平",
+    "非暴力",
+    "良知"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 257600
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "甘地傳 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/gandhi-1983.jpg）（影片页 https://www.themoviedb.org/movie/783）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/m0Xj01QPZ3ulBRUcusgfay6nwU5.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

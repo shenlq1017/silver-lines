@@ -1,0 +1,63 @@
+{
+  "id": "gattaca-swim-back",
+  "group": "top250",
+  "film": {
+    "title": "千钧一发",
+    "year": 1997,
+    "title_en": "Gattaca",
+    "director": "安德鲁·尼科尔"
+  },
+  "lines": [
+    {
+      "text": "游向大海时，我没有留力气游回来。",
+      "en": "I never saved anything for the swim back.",
+      "character": "Vincent Freeman",
+      "note": "不合格者赢过游泳竞赛的秘密：千钧一发用「不留归途」对抗基因决定论。与片中「人类精神无基因」双璧；本批取泳者句。"
+    },
+    {
+      "text": "人类的灵魂没有基因。",
+      "character": "Vincent Freeman",
+      "en": "There is no gene for the human spirit.",
+      "note": "文森特的信条；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "对一个本就不属于这个世界的人来说，离开它居然这么难。",
+      "character": "Vincent Freeman",
+      "en": "For someone who was never meant for this world, I must admit I am having a hard time leaving it.",
+      "note": "发射前独白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我属于一个新的底层……歧视不再看社会地位或肤色——我们把它做成了一门科学。",
+      "character": "Vincent Freeman",
+      "en": "I belonged to a new underclass... We now have discrimination down to a science.",
+      "note": "开场独白（节选）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "基因",
+    "意志"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 430000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 330000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 82
+    },
+    "metacritic": {
+      "score": 64
+    }
+  },
+  "still_alt": "千钧一发 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/224-gattaca.jpg）（影片页 https://www.themoviedb.org/movie/782）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8DBWJspdv2zOyJnTSdqzuQDmMew.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

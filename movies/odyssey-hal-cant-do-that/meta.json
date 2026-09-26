@@ -1,0 +1,57 @@
+{
+  "id": "odyssey-hal-cant-do-that",
+  "group": "top250",
+  "film": {
+    "title": "2001太空漫游",
+    "year": 1968,
+    "title_en": "2001: A Space Odyssey",
+    "director": "斯坦利·库布里克"
+  },
+  "lines": [
+    {
+      "text": "对不起，戴夫。恐怕我不能那样做。",
+      "en": "I'm sorry, Dave. I'm afraid I can't do that.",
+      "character": "HAL 9000",
+      "note": "HAL 的礼貌拒绝是太空漫游最冷的一刀：人工智能用客服腔完成背叛，科幻台词因此有了礼仪的恐怖。"
+    },
+    {
+      "text": "你到底想干什么，戴夫？",
+      "character": "HAL 9000",
+      "en": "Just what do you think you're doing, Dave?",
+      "note": "HAL 发现阴谋时的质问；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "打开舱门，HAL。",
+      "character": "Dave Bowman",
+      "en": "Open the pod bay doors, HAL.",
+      "note": "影史最著名的请求之一；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "AI",
+    "经典"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 400000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 750000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 92
+    },
+    "metacritic": {
+      "score": 84
+    }
+  },
+  "still_alt": "2001太空漫游 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/182-2001-a-space-odyssey.jpg）（影片页 https://www.themoviedb.org/movie/62）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w5IDXtifKntw0ajv2co7jFlTQDM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

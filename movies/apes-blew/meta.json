@@ -1,0 +1,47 @@
+{
+  "id": "apes-blew",
+  "group": "classics",
+  "film": {
+    "title": "人猿星球",
+    "year": 1968,
+    "title_en": "Planet of the Apes",
+    "director": "富兰克林·J·沙夫纳"
+  },
+  "lines": [
+    {
+      "text": "你们这些疯子！你们把它炸掉了！该死！你们都该死！",
+      "en": "You Maniacs! You blew it up! God damn you! God damn you all to hell!",
+      "character": "乔治·泰勒 / George Taylor",
+      "note": "泰勒跪在自由女神像残骸前的末句对白；AFI 百大电影台词第66；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "把你那臭烘烘的爪子从我身上拿开，你这该死的脏猩猩！",
+      "character": "George Taylor",
+      "en": "Get your stinking paws off me, you damned dirty ape!",
+      "note": "泰勒开口的第一句，影史名场面；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "人学人样。",
+      "character": "朱利叶斯 Julius",
+      "en": "Human see, human do.",
+      "note": "齐拉对人类的讽刺；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "反乌托邦",
+    "末日",
+    "自由女神",
+    "科幻"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 4122
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "人猿星球 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/planet-of-the-apes-1968.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/871）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

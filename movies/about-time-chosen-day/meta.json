@@ -1,0 +1,50 @@
+{
+  "id": "about-time-chosen-day",
+  "group": "top250",
+  "film": {
+    "title": "时空恋旅人",
+    "year": 2013,
+    "title_en": "About Time",
+    "director": "理查德·柯蒂斯"
+  },
+  "lines": [
+    {
+      "text": "我只是试着把每一天，都过成自己精心选择的日子。",
+      "en": "I just try to live every day as if I've deliberately chosen it as the day I wanted to live.",
+      "character": "Tim（旁白）/ Dad",
+      "note": "继承父亲的时间旅行遗产后，不再回跳改错，而是把「今天」过成自愿的选择。"
+    },
+    {
+      "text": "我们每天都在一起穿越时间。我们所能做的，就是尽力享受这段奇妙的旅程。",
+      "character": "Tim's father",
+      "en": "We're all traveling through time together, every day of our lives. All we can do is do our best to relish this remarkable ride.",
+      "note": "父亲最后一次时间旅行的教导；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "亲情",
+    "时间",
+    "珍惜"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 850000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 400000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 70
+    },
+    "metacritic": {
+      "score": 55
+    }
+  },
+  "still_alt": "时空恋旅人 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/124-about-time.jpg）（影片页 https://www.themoviedb.org/movie/122906）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fzZmcKQv7ZTGIiPvocPhNs3wUyK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

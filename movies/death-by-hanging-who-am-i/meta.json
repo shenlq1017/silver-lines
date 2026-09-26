@@ -1,0 +1,34 @@
+{
+  "id": "death-by-hanging-who-am-i",
+  "group": "classics",
+  "film": {
+    "title": "绞死刑",
+    "year": 1968,
+    "title_en": "Death by Hanging",
+    "director": "大岛渚"
+  },
+  "lines": [
+    {
+      "text": "如果连自己是谁都不知道，死刑又怎样执行？",
+      "en": "If a man no longer knows who he is, how can you hang him?",
+      "character": "R / R",
+      "note": "主题性策展句：概括大岛渚《绞死刑》中死刑犯失忆后当局无法执行的荒诞逻辑，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "死刑",
+    "身份",
+    "政治",
+    "大岛渚"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 120
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "绞死刑 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/death-by-hanging-1968.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/98193）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/AgIRKvX5azkrDQSEEWk7oDLZqub.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

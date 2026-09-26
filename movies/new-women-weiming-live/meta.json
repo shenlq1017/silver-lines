@@ -1,0 +1,33 @@
+{
+  "id": "new-women-weiming-live",
+  "group": "classics",
+  "film": {
+    "title": "新女性",
+    "year": 1935,
+    "title_en": "New Women",
+    "director": "蔡楚生"
+  },
+  "lines": [
+    {
+      "text": "我要活，我要活下去！",
+      "en": "I want to live — I want to go on living!",
+      "character": "韦明 / Wei Ming",
+      "note": "通行译法：阮玲玉饰韦明在绝境中的求生意念；不同修复/字幕版措辞略有出入，不冒充唯一逐字。"
+    }
+  ],
+  "tags": [
+    "女性",
+    "觉醒",
+    "左翼"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.7,
+      "votes": 16
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "新女性 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/new-women-1935.jpg）（影片页 https://www.themoviedb.org/movie/150314）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nJZYl3laBxlt1gt6VdkqIEohGbV.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

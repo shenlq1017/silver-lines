@@ -1,0 +1,54 @@
+{
+  "id": "echoes-rainbow-time-thief",
+  "group": "top250",
+  "film": {
+    "title": "岁月神偷",
+    "year": 2010,
+    "title_en": "Echoes of the Rainbow",
+    "director": "罗启锐"
+  },
+  "lines": [
+    {
+      "text": "岁月是贼——它偷走你的一切，却让你感谢它来过。",
+      "en": "Time is a thief—it steals everything, and somehow you still thank it for coming.",
+      "character": "题旨 / 罗带弟旁白语境",
+      "note": "岁月神偷片名即隐喻：六七十年代太子道鞋铺少年史，把「偷走」写成感恩与钝痛。题旨句，对应中英片名 Rainbow/岁月双重意象，非唯一精确对白。"
+    },
+    {
+      "text": "做人，最要紧是信。",
+      "character": "罗爸",
+      "note": "罗爸爸的口头禅，全片信念底色；通行引述可查。",
+      "confidence": "medium"
+    },
+    {
+      "text": "鞋字半边难，也有半边佳。难一步，佳一步。",
+      "character": "罗妈",
+      "note": "罗妈妈给鞋铺起名的双关；通行引述可查。"
+    }
+  ],
+  "tags": [
+    "成长",
+    "香港",
+    "怀旧"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 5000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 80
+    },
+    "metacritic": {
+      "score": 68
+    }
+  },
+  "still_alt": "岁月神偷 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/200-echoes-of-the-rainbow.jpg）（影片页 https://www.themoviedb.org/movie/39693）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vFL51NZL4CASHiYJSioG1cC5fXD.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

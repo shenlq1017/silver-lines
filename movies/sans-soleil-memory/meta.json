@@ -1,0 +1,33 @@
+{
+  "id": "sans-soleil-memory",
+  "group": "classics",
+  "film": {
+    "title": "太阳无赖",
+    "year": 1983,
+    "title_en": "Sans Soleil",
+    "director": "克里斯·马克"
+  },
+  "lines": [
+    {
+      "text": "记忆不是过去，而是现在的另一种形态。",
+      "en": "Memory is not the past, but another form of the present.",
+      "character": "旁白",
+      "note": "旁白的主题性策展译句；影片为书信式散文，非传统角色对白。"
+    }
+  ],
+  "tags": [
+    "纪录片",
+    "记忆",
+    "散文电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 18000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "太阳无赖 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sans-soleil-1983.jpg）（影片页 https://www.themoviedb.org/movie/1563）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cinXTU6APKiEpEKTLOw7bBLzqKs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

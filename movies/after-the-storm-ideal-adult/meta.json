@@ -1,0 +1,44 @@
+{
+  "id": "after-the-storm-ideal-adult",
+  "group": "classics",
+  "film": {
+    "title": "比海更深",
+    "year": 2016,
+    "title_en": "After the Storm",
+    "director": "是枝裕和"
+  },
+  "lines": [
+    {
+      "text": "不是每个人，都能成为自己理想中的大人。",
+      "en": "Not everyone gets to become the adult they imagined.",
+      "character": "良多母亲 / Ryota’s mother",
+      "note": "通行对白：是枝裕和《比海更深》中关于理想大人与现实落差的标识句；亦有版本作旁白/家人规劝语境。"
+    },
+    {
+      "text": "不必非得幸福。要是幸福以外的东西，也让你觉得幸福，就够了。",
+      "character": "良多母亲",
+      "note": "与姐姐们在阳台聊彩票与幸福的家宴名段；通行字幕译法。",
+      "confidence": "medium"
+    },
+    {
+      "text": "不中彩票，日子就过不下去啦。",
+      "character": "良多母亲",
+      "note": "同一场戏中的自嘲玩笑，确立全片庶民基调。"
+    }
+  ],
+  "tags": [
+    "父亲",
+    "失败",
+    "和解"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 409
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "比海更深 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/after-the-storm-2016.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/374671）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6v9G4Sc5ciRUoJ2wkutX3JBQj9K.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

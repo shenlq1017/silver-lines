@@ -1,0 +1,33 @@
+{
+  "id": "hen-wind-forgive-me",
+  "group": "classics",
+  "film": {
+    "title": "风中的母鸡",
+    "year": 1948,
+    "title_en": "A Hen in the Wind",
+    "director": "小津安二郎"
+  },
+  "lines": [
+    {
+      "text": "原谅我。",
+      "en": "Forgive me.",
+      "character": "德子 / Tokiko",
+      "note": "通行译法：妻子德子被迫卖身后对出狱丈夫的哀求；小津战后伦理片以极简对白承载羞耻与和解。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "战后",
+    "小津"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 65
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "风中的母鸡 · TMDB 宣传静帧（2456×1382）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-hen-in-the-wind-1948.jpg）（影片页 https://www.themoviedb.org/movie/126219）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w6a1Y4O2RN4Cu0MCO23LfJ3iXl7.jpg（2456×1382）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

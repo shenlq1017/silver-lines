@@ -1,0 +1,43 @@
+{
+  "id": "okuribito-send-off",
+  "group": "top250",
+  "film": {
+    "title": "入殓师",
+    "year": 2008,
+    "title_en": "おくりびと",
+    "director": "泷田洋二郎"
+  },
+  "lines": [
+    {
+      "text": "把逝者送上旅途，是为了让生者继续前行。",
+      "en": "We send the dead on their way so the living can go on.",
+      "character": "佐佐木 / 题旨",
+      "note": "对齐纳棺师职业伦理的中文策展概括；片中礼仪重于箴言，标题旨。"
+    }
+  ],
+  "tags": [
+    "生死",
+    "职业",
+    "尊严"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 750000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 60000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 68
+    }
+  },
+  "still_alt": "入殓师 · 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/120-rank-120.jpg）（影片页 https://www.themoviedb.org/movie/16804）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kYYpR0okoW7O1gwXwWMlRkgL2sa.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

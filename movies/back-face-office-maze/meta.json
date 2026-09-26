@@ -1,0 +1,43 @@
+{
+  "id": "back-face-office-maze",
+  "group": "top250",
+  "film": {
+    "title": "背靠背，脸对脸",
+    "year": 1994,
+    "title_en": "Back to Back, Face to Face",
+    "director": "黄建新"
+  },
+  "lines": [
+    {
+      "text": "背靠着权力，脸对着人情——两头都要活。",
+      "en": "Back against power, face to favor—you have to live on both sides.",
+      "character": "题旨 / 王双立",
+      "note": "片名即结构：九十年代机关寓言。此句为题旨化转述，非逐字对白，边界见此。静帧源站最大 1920（actual）。"
+    }
+  ],
+  "tags": [
+    "讽刺",
+    "官场",
+    "人情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.4,
+      "votes": 200000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 2000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 85
+    },
+    "metacritic": {
+      "score": 75
+    }
+  },
+  "still_alt": "背靠背，脸对脸 · 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/161-back-to-back-face-to-face.jpg）（影片页 https://www.themoviedb.org/movie/295279）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/k0EUdWfQRThcSon8KAw9Zk2YVEF.jpg（1920×1080）；静帧宽边 1920（源站最大，status=actual，≥1920 可上）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

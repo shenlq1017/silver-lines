@@ -1,0 +1,33 @@
+{
+  "id": "dersu-uzala-forest-man",
+  "group": "classics",
+  "film": {
+    "title": "德蘇烏扎拉",
+    "year": 1977,
+    "title_en": "Dersu Uzala",
+    "director": "Akira Kurosawa"
+  },
+  "lines": [
+    {
+      "text": "你们是城市人，我是森林人。",
+      "en": "You are city people. I am a forest man.",
+      "character": "德苏·乌扎拉（Dersu Uzala）",
+      "note": "通行字幕译法；德苏以此划出人与自然的不同生活尺度。"
+    }
+  ],
+  "tags": [
+    "自然",
+    "友谊",
+    "生存"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 65500
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "德蘇烏扎拉 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dersu-uzala-1977.jpg）（影片页 https://www.themoviedb.org/movie/9764）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hf1qqWdIBTsMKgI6VvFWLQRUllE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

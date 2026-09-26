@@ -1,0 +1,40 @@
+{
+  "id": "to-be-or-not-to-be-shakespeare-poland",
+  "group": "classics",
+  "film": {
+    "title": "生存还是毁灭",
+    "year": 1942,
+    "title_en": "To Be or Not to Be",
+    "director": "恩斯特·刘别谦"
+  },
+  "lines": [
+    {
+      "text": "他对莎士比亚做了什么，我们正在对波兰做什么。",
+      "en": "What he did to Shakespeare, we are now doing to Poland.",
+      "character": "Greenberg",
+      "note": "刘别谦把戏剧与现实并置，笑声背后是对纳粹暴力的尖锐反讽。通行译法。"
+    },
+    {
+      "text": "我们负责集中，波兰人负责营。",
+      "character": "Col. Ehrhardt",
+      "en": "We do the concentrating, and the Poles do the camping.",
+      "note": "盖世太保的黑色双关；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "反战",
+    "讽刺"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 45000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "生存还是毁灭 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/to-be-or-not-to-be-1942.jpg）（影片页 https://www.themoviedb.org/movie/198）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vQ2rRlTeZXTi1wZQurvBItNIg4W.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mamma-roma-my-son",
+  "group": "classics",
+  "film": {
+    "title": "罗马妈妈",
+    "year": 1962,
+    "title_en": "Mamma Roma",
+    "director": "皮埃尔·保罗·帕索里尼"
+  },
+  "lines": [
+    {
+      "text": "我要我的儿子出人头地。",
+      "en": "I want my son to become somebody.",
+      "character": "罗马妈妈 / Mamma Roma",
+      "note": "策展意译：概括安娜·马尼亚尼饰母亲欲令子脱离底层的强烈意志；非声称唯一逐字对白。"
+    }
+  ],
+  "tags": [
+    "母亲",
+    "阶级",
+    "意大利电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 446
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "罗马妈妈 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mamma-roma-1962.jpg）（影片页 https://www.themoviedb.org/movie/47796）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1fVQih8rDOUavyp5srTWEjY2Ozl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

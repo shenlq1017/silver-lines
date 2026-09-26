@@ -1,0 +1,57 @@
+{
+  "id": "star-wars-force-with-you",
+  "group": "classics",
+  "film": {
+    "title": "星球大战",
+    "year": 1977,
+    "title_en": "Star Wars",
+    "director": "乔治·卢卡斯"
+  },
+  "lines": [
+    {
+      "text": "愿原力与你同在。",
+      "en": "May the Force be with you.",
+      "character": "众角色 / 题旨祝福",
+      "note": "原力世界观的通行祝福语：星球大战（本库取「星球大战」，非「新希望」长标题）把它变成跨代问候。通行定译；与帝国反击战「我是你的父亲」不撞 id。"
+    },
+    {
+      "text": "你要找的机器人不是这几个。",
+      "character": "Obi-Wan Kenobi",
+      "en": "These aren't the droids you're looking for.",
+      "note": "绝地心灵控制的招牌名句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我感到原力起了一阵巨大的扰动，仿佛千百万个声音同时惊呼，又骤然沉寂。",
+      "character": "Obi-Wan Kenobi",
+      "en": "I felt a great disturbance in the Force, as if millions of voices suddenly cried out in terror and were suddenly silenced.",
+      "note": "奥德朗被毁时的感应独白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "冒险",
+    "希望"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 8.6,
+      "votes": 1500000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 90
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "星球大战 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/star-wars-1977.jpg）（影片页 https://www.themoviedb.org/movie/11）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

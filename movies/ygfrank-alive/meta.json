@@ -1,0 +1,48 @@
+{
+  "id": "ygfrank-alive",
+  "group": "classics",
+  "film": {
+    "title": "新科学怪人",
+    "year": 1974,
+    "title_en": "Young Frankenstein",
+    "director": "梅尔·布鲁克斯"
+  },
+  "lines": [
+    {
+      "text": "活了！它活了！它活了！",
+      "en": "Alive! It's alive! It's ALIVE!",
+      "character": "弗雷德里克·弗兰肯斯坦 / Dr. Frederick Frankenstein",
+      "note": "弗雷德里克造出怪物瞬间的对白（戏仿原作经典句）；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "本来会更糟——可能正在下雨呢。",
+      "character": "Dr. Frederick Frankenstein",
+      "en": "Could be worse. Could be raining.",
+      "note": "片尾对谈的最后一句，全片收束；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "像我这样走。",
+      "character": "Igor",
+      "en": "Walk this way.",
+      "note": "伊戈尔跛脚示范的双关梗（走路姿势/这边走）；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "科学怪人",
+    "狂欢",
+    "戏仿"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 3485
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "新科学怪人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/young-frankenstein-1974.jpg，1594×2391）（影片页 https://www.themoviedb.org/movie/3034）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6fjpr4C2JHqF2QlbNUEQKo930KY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

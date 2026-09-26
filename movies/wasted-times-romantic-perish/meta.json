@@ -1,0 +1,33 @@
+{
+  "id": "wasted-times-romantic-perish",
+  "group": "classics",
+  "film": {
+    "title": "罗曼蒂克消亡史",
+    "year": 2016,
+    "title_en": "The Wasted Times",
+    "director": "程耳"
+  },
+  "lines": [
+    {
+      "text": "罗曼蒂克，总要消亡。",
+      "en": "Romance, sooner or later, perishes.",
+      "character": "片名/旁白语境 / Title ethos",
+      "note": "策展意译：借片名点题程耳《罗曼蒂克消亡史》沪上黑帮的仪式感与必然崩解；风格化对白版本差异大，明确不冒充唯一逐字。"
+    }
+  ],
+  "tags": [
+    "黑帮",
+    "上海",
+    "章回"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 57
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "罗曼蒂克消亡史 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-wasted-times-2016.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/382572）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/boUOwjyBc2MBsQ74e4aq4SwlPqV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

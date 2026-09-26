@@ -1,0 +1,33 @@
+{
+  "id": "three-brothers-family-farce",
+  "group": "classics",
+  "film": {
+    "title": "横冲直撞三兄弟",
+    "year": 1995,
+    "title_en": "The Three Brothers",
+    "director": "贝尔纳·康潘 / 迪迪埃·布尔东"
+  },
+  "lines": [
+    {
+      "text": "兄弟可以一起闯祸，却很难一起长大。",
+      "en": "Brothers can get into trouble together — growing up together is harder.",
+      "character": "题眼 / Fraternal farce",
+      "note": "策展意译：概括法国国民喜剧《横冲直撞三兄弟》的手足闹剧与亲情；明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "兄弟",
+    "家庭",
+    "喜剧"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 828
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "横冲直撞三兄弟 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-three-brothers-1995.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/37653）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cW32yqxUEEOsCVhAn9AXg6NgKqJ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "wind-rises-must-live",
+  "group": "classics",
+  "film": {
+    "title": "起风了",
+    "year": 2013,
+    "title_en": "The Wind Rises",
+    "director": "宫崎骏"
+  },
+  "lines": [
+    {
+      "text": "风起了，唯有努力生存。",
+      "en": "The wind is rising! We must try to live.",
+      "character": "堀越二郎 / Jiro Horikoshi",
+      "note": "通行可核验：宫崎骏《起风了》引用堀辰雄／瓦莱里名句「Le vent se lève! Il faut tenter de vivre.」的通行中译。"
+    },
+    {
+      "text": "飞机，是美丽而被诅咒的梦。",
+      "character": "卡普罗尼",
+      "note": "卡普罗尼对梦想的定义，贯穿全片；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "飞行",
+    "战争",
+    "生存",
+    "动画"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 3490
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "起风了 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-wind-rises-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/149870）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oTzps90guRdPVkUw7CmErG4nLDX.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

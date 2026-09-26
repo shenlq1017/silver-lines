@@ -1,0 +1,39 @@
+{
+  "id": "casino-keep-them-playing",
+  "group": "classics",
+  "film": {
+    "title": "赌城风云",
+    "year": 1995,
+    "title_en": "Casino",
+    "director": "马丁·斯科塞斯"
+  },
+  "lines": [
+    {
+      "text": "赌场生意的首要规则，就是让他们继续玩，让他们不断回来。",
+      "en": "In the casino business, the cardinal rule is to keep them playing and to keep them coming back.",
+      "character": "Sam “Ace” Rothstein",
+      "note": "阿斯的旁白把赌场的诱惑机制说得像一条冷冰冰的商业定律。通行译法。"
+    },
+    {
+      "text": "爱一个人，就得信任他。没有别的办法。",
+      "character": "Sam 'Ace' Rothstein",
+      "en": "When you love someone, you've gotta trust them. There's no other way.",
+      "note": "萨姆的婚姻逻辑，随后被辜负；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "欲望",
+    "赌场"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 600000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "赌城风云 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/casino-1995.jpg）（影片页 https://www.themoviedb.org/movie/524）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

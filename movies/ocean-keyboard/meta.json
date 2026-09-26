@@ -1,0 +1,43 @@
+{
+  "id": "ocean-keyboard",
+  "group": "top250",
+  "film": {
+    "title": "海上钢琴师",
+    "year": 1998,
+    "title_en": "La leggenda del pianista sull'oceano",
+    "director": "朱塞佩·托纳多雷"
+  },
+  "lines": [
+    {
+      "text": "键盘有始有终，你却永远无法预知船外的世界有多大。",
+      "en": "The keyboard has a beginning and an end. You never know what's out there beyond the boat.",
+      "character": "1900",
+      "note": "拒绝上岸的传奇，一句道尽边界与自由。"
+    },
+    {
+      "text": "陆地对我来说，是一艘太大的船。",
+      "character": "1900",
+      "en": "La terra è una nave troppo grande per me.",
+      "note": "1900 解释不下船的名段；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "音乐",
+    "选择"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 1900000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 75000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "海上钢琴师 · 甲板与钢琴意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/013-la-leggenda-del-pianista-sull-oceano.jpg）（影片页 https://www.themoviedb.org/movie/10376）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

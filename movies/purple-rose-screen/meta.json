@@ -1,0 +1,34 @@
+{
+  "id": "purple-rose-screen",
+  "group": "classics",
+  "film": {
+    "title": "开罗紫玫瑰",
+    "year": 1985,
+    "title_en": "The Purple Rose of Cairo",
+    "director": "伍迪·艾伦"
+  },
+  "lines": [
+    {
+      "text": "银幕里的人走出来以后，现实反而更像一场假戏。",
+      "en": "Once the man on the screen steps out, reality feels more like a false play.",
+      "character": "塞西莉亚／汤姆 / Cecilia / Tom",
+      "note": "主题性策展句：概括伍迪·艾伦《开罗紫玫瑰》中影迷与银幕人物越界相遇的大萧条浪漫寓言，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "影迷",
+    "穿越",
+    "大萧条",
+    "艾伦"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 1178
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "开罗紫玫瑰 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-purple-rose-of-cairo-1985.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/10849）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/afbfZtBOZIfxlzzvHCOfauI6pna.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

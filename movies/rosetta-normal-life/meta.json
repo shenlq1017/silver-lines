@@ -1,0 +1,33 @@
+{
+  "id": "rosetta-normal-life",
+  "group": "classics",
+  "film": {
+    "title": "罗塞塔",
+    "year": 1999,
+    "title_en": "Rosetta",
+    "director": "让-皮埃尔·达尔丹 / 吕克·达尔丹"
+  },
+  "lines": [
+    {
+      "text": "你叫罗塞塔。我叫罗塞塔。你找到了工作。我找到了工作。你有正常的生活。我有正常的生活。",
+      "en": "Your name is Rosetta. My name is Rosetta. You found a job. I found a job. You have a normal life. I have a normal life.",
+      "character": "罗塞塔 / Rosetta",
+      "note": "罗塞塔入睡前对自己的咒语式对白，IMDb Quotes 与多篇影评可核验；略去后半「不会掉进坑里／晚安」以收束主句。"
+    }
+  ],
+  "tags": [
+    "工作",
+    "尊严",
+    "比利时"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 16000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "罗塞塔 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rosetta-1999.jpg）（影片页 https://www.themoviedb.org/movie/11489）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1ZBPashbl6CQ3IhfbM38A67tNnj.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

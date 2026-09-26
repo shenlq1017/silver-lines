@@ -1,0 +1,33 @@
+{
+  "id": "taste-cherry-worth-living",
+  "group": "classics",
+  "film": {
+    "title": "樱桃的滋味",
+    "year": 1997,
+    "title_en": "Taste of Cherry",
+    "director": "阿巴斯·基亚罗斯塔米"
+  },
+  "lines": [
+    {
+      "text": "樱桃的滋味，值得你活下去。",
+      "en": "The taste of a cherry is worth living for.",
+      "character": "巴迪 / Mr. Badii",
+      "note": "策展意译：提炼影片关于活着的辩论与结尾感官经验，不冒充逐字字幕。"
+    }
+  ],
+  "tags": [
+    "生死",
+    "选择",
+    "伊朗电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 35000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "樱桃的滋味 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/taste-of-cherry-1997.jpg）（影片页 https://www.themoviedb.org/movie/30020）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/44SNTCSZTdbF5bzgUy4IfPV3DUq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

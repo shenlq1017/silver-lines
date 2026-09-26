@@ -1,0 +1,34 @@
+{
+  "id": "rush-wise-enemies",
+  "group": "classics",
+  "film": {
+    "title": "极速风流",
+    "year": 2013,
+    "title_en": "Rush",
+    "director": "朗·霍华德"
+  },
+  "lines": [
+    {
+      "text": "智者从敌人那里学到的，比傻瓜从朋友那里学到的更多。",
+      "en": "A wise man can learn more from his enemies than a fool from his friends.",
+      "character": "尼基·劳达 / Niki Lauda",
+      "note": "劳达谈及与亨特竞争时的对白／旁白；IMDb quotes 可核。"
+    }
+  ],
+  "tags": [
+    "赛车",
+    "对手",
+    "智慧",
+    "劳达"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 8049
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "极速风流 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rush-2013.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/96721）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/caKZWDGmv5iW2U99skHs75MmOmU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

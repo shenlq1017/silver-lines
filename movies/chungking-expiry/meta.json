@@ -1,0 +1,49 @@
+{
+  "id": "chungking-expiry",
+  "group": "top250",
+  "film": {
+    "title": "重庆森林",
+    "year": 1994,
+    "title_en": "Chungking Express",
+    "director": "王家卫"
+  },
+  "lines": [
+    {
+      "text": "不知道从什么时候开始，在什么东西上面都有个日期……我开始怀疑，在这个世界上，还有什么东西是不会过期的？",
+      "en": "I don't know when it started… everything comes with an expiry date. I wonder if there's anything in this world that doesn't.",
+      "character": "何志武（223）",
+      "note": "金城武开场旁白：凤梨罐头与五月一日，把整座重庆大厦做成会过期的感情寓言。"
+    },
+    {
+      "text": "如果记忆也是一个罐头的话，我希望这一罐罐头不会过期。如果一定要加一个日子的话——我希望是一万年。",
+      "character": "663（警察）",
+      "note": "金发女郎留言的回声，王家卫最著名的段落；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "都市",
+    "过期"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 900000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 90000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 89
+    },
+    "metacritic": {
+      "score": 78
+    }
+  },
+  "still_alt": "重庆森林 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/117-chungking-express.jpg）（影片页 https://www.themoviedb.org/movie/11104）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hqyA3dCWdc0cCH2Ba8ZhZTjDA8y.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

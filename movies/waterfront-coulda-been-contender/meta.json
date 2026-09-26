@@ -1,0 +1,50 @@
+{
+  "id": "waterfront-coulda-been-contender",
+  "group": "classics",
+  "film": {
+    "title": "码头风云",
+    "year": 1954,
+    "title_en": "On the Waterfront",
+    "director": "埃利亚·卡赞"
+  },
+  "lines": [
+    {
+      "text": "我本可以是个竞争者——我本可以是个人物——而不是像现在这样，只是个废物。",
+      "en": "I coulda had class. I coulda been a contender. I coulda been somebody, instead of a bum, which is what I am.",
+      "character": "Terry Malloy",
+      "note": "后座上对哥哥的控诉：码头风云把错失的荣耀收成影史最著名的「本可以」。通行意译。"
+    },
+    {
+      "text": "你站在哪一边？",
+      "character": "Edie Doyle",
+      "en": "Which side are you on?",
+      "note": "伊迪在听证会后的追问；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "悔恨",
+    "码头"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 70000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 160000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 99
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 91
+    }
+  },
+  "still_alt": "码头风云 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/on-the-waterfront-1954.jpg）（影片页 https://www.themoviedb.org/movie/654）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6Thcrroze73TyEd7aFdN3gXIddY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

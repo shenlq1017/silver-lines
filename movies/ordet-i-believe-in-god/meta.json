@@ -1,0 +1,33 @@
+{
+  "id": "ordet-i-believe-in-god",
+  "group": "classics",
+  "film": {
+    "title": "词语",
+    "year": 1955,
+    "title_en": "Ordet",
+    "director": "卡尔·西奥多·德莱叶"
+  },
+  "lines": [
+    {
+      "text": "我相信上帝。",
+      "en": "I believe in God.",
+      "character": "约翰内斯·博尔根",
+      "note": "约翰内斯的信仰宣言；中文采用通行译法，保留其在家庭争论中的直截了当。"
+    }
+  ],
+  "tags": [
+    "信仰",
+    "奇迹",
+    "家庭"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 19000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "词语 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ordet-1955.jpg）（影片页 https://www.themoviedb.org/movie/48035）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

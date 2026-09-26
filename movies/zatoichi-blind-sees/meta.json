@@ -1,0 +1,33 @@
+{
+  "id": "zatoichi-blind-sees",
+  "group": "classics",
+  "film": {
+    "title": "座头市",
+    "year": 2003,
+    "title_en": "Zatoichi",
+    "director": "北野武"
+  },
+  "lines": [
+    {
+      "text": "就算眼睛睁得再大，我也看不见什么——可我听得见。",
+      "en": "Even with eyes wide open I see little — but I can hear.",
+      "character": "座头市 / Zatoichi",
+      "note": "策展压缩：北野武版座头市以听觉与刀法自处的通行自我陈述；不同字幕长短不一，不冒充唯一逐字。"
+    }
+  ],
+  "tags": [
+    "盲侠",
+    "赌局",
+    "正义"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 995
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "座头市 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/zatoichi-2003.jpg，1019×1528）（影片页 https://www.themoviedb.org/movie/246）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eRMs3DYsJKO9d6fhLceS1tvIP0y.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "breathless-run",
+  "group": "classics",
+  "film": {
+    "title": "精疲力尽",
+    "year": 1960,
+    "title_en": "Breathless",
+    "director": "让-吕克·戈达尔"
+  },
+  "lines": [
+    {
+      "text": "跑着的人最怕停下来——停下来就要承认自己在逃。",
+      "en": "Those who keep running fear stopping most — to stop is to admit they are fleeing.",
+      "character": "米歇尔／帕特里夏 / Michel / Patricia",
+      "note": "主题性策展句：概括戈达尔《精疲力尽》中浪荡逃亡与情感背叛交织的新浪潮旗帜题旨，非逐字引文。"
+    },
+    {
+      "text": "真让人恶心。",
+      "character": "Michel Poiccard",
+      "en": "C'est vraiment dégueulasse.",
+      "note": "米歇尔中弹后最后的台词；Wikiquote 可查。"
+    }
+  ],
+  "tags": [
+    "逃亡",
+    "新浪潮",
+    "跳接",
+    "戈达尔"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 2093
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "精疲力尽 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/breathless-1960.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/269）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4WGuyWf1f94CsEeVIIqDKGw5rmO.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

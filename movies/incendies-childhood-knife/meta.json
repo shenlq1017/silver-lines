@@ -1,0 +1,34 @@
+{
+  "id": "incendies-childhood-knife",
+  "group": "classics",
+  "film": {
+    "title": "烈火焚身",
+    "year": 2011,
+    "title_en": "Incendies",
+    "director": "丹尼斯·维伦纽瓦"
+  },
+  "lines": [
+    {
+      "text": "童年是卡在喉咙里的一把刀。不容易拔出来。",
+      "en": "Childhood is a knife stuck in your throat. It can't be easily removed.",
+      "character": "纳瓦尔·马万（遗嘱，由公证人宣读） / Nawal Marwan (will)",
+      "note": "纳瓦尔遗嘱开篇句，由公证人让·勒贝尔宣读；IMDb quotes 可核；说话归属为遗嘱作者纳瓦尔。"
+    }
+  ],
+  "tags": [
+    "记忆",
+    "承诺",
+    "战争",
+    "维伦纽瓦"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 3477
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "烈火焚身 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/incendies-2011.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/46738）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/u8wmr8QCowIYXUxVeZYSPWVbB9P.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

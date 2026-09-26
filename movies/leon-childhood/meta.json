@@ -1,0 +1,60 @@
+{
+  "id": "leon-childhood",
+  "group": "top250",
+  "film": {
+    "title": "这个杀手不太冷",
+    "year": 1994,
+    "title_en": "Léon: The Professional",
+    "director": "吕克·贝松"
+  },
+  "lines": [
+    {
+      "text": "人生总是这么痛苦吗？还是只有童年如此？",
+      "en": "Is life always this hard, or is it just when you're a kid?",
+      "character": "Mathilda",
+      "note": "童声一问，击中所有成年人。"
+    },
+    {
+      "text": "总是如此。",
+      "character": "Léon",
+      "en": "Always like this.",
+      "note": "回答玛蒂尔达那句「人生总是这么苦吗」——主台词的下半句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "不杀女人，不杀小孩。",
+      "character": "Léon",
+      "en": "No women, no kids.",
+      "note": "莱昂的职业底线；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "它是我最好的朋友。永远开心，不问问题。",
+      "character": "Léon",
+      "en": "It's my best friend. Always happy. No questions.",
+      "note": "莱昂谈自己的盆栽；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "成长",
+    "守护"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.4,
+      "votes": 2500000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 1300000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 74
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "这个杀手不太冷 · Mathilda 公寓窗边经典画面",
+  "license_note": "海报：TMDB 发行宣传物料 https://image.tmdb.org/t/p/original/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg（2000×3000）（影片页 https://www.themoviedb.org/movie/101-leon-the-professional）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bguFhzIGpQdGQ6uizm07oMKbgHi.jpg（3360×1890）；场景匹配（Mathilda 窗边持盆栽经典画面；原图最大即此像素）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

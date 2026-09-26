@@ -1,0 +1,33 @@
+{
+  "id": "delicatessen-meat-wait",
+  "group": "classics",
+  "film": {
+    "title": "黑店狂想曲",
+    "year": 1991,
+    "title_en": "Delicatessen",
+    "director": "让-皮埃尔·热内 / 马克·卡罗"
+  },
+  "lines": [
+    {
+      "text": "想吃肉，就得等。",
+      "en": "If you want meat, you have to wait.",
+      "character": "肉铺房东 / The butcher landlord",
+      "note": "策展意译：概括末世公寓以肉食稀缺驱动阴谋的荒诞规则；保留黑色喜剧口气，不冒充逐字。"
+    }
+  ],
+  "tags": [
+    "黑色幽默",
+    "末世",
+    "法国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 1695
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "黑店狂想曲 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/delicatessen-1991.jpg）（影片页 https://www.themoviedb.org/movie/892）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zMVwhccP78PLjYRoKikFiX7OdFc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

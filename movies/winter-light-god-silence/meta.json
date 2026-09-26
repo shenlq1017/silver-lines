@@ -1,0 +1,33 @@
+{
+  "id": "winter-light-god-silence",
+  "group": "classics",
+  "film": {
+    "title": "冬之光",
+    "year": 1963,
+    "title_en": "Winter Light",
+    "director": "英格玛·伯格曼"
+  },
+  "lines": [
+    {
+      "text": "上帝的沉默，比死亡更可怕。",
+      "en": "God’s silence is more frightening than death.",
+      "character": "托马斯牧师",
+      "note": "牧师信仰危机的策展意译；明确作为主题压缩句，而非伪造逐字引文。"
+    }
+  ],
+  "tags": [
+    "信仰",
+    "孤独",
+    "北欧电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 30000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "冬之光 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/winter-light-1963.jpg）（影片页 https://www.themoviedb.org/movie/29455）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xW9d3kvply0raS6cpltSjEYFZkq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

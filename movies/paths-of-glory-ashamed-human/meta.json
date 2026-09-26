@@ -1,0 +1,43 @@
+{
+  "id": "paths-of-glory-ashamed-human",
+  "group": "classics",
+  "film": {
+    "title": "光荣之路",
+    "year": 1957,
+    "title_en": "Paths of Glory",
+    "director": "斯坦利·库布里克"
+  },
+  "lines": [
+    {
+      "text": "先生们，有些时候我为自己身为人类而感到羞耻——此刻正是其一。",
+      "en": "Gentlemen of the court, there are times when I'm ashamed to be a member of the human race and this is one such occasion.",
+      "character": "Colonel Dax",
+      "note": "达克斯上校在军法审判席上的控诉：光荣之路把「服从」钉上反战十字架。通行定译意。"
+    }
+  ],
+  "tags": [
+    "正义",
+    "战争",
+    "剧情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 120000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 220000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 96
+    },
+    "metacritic": {
+      "score": 90
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "光荣之路 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/paths-of-glory-1957.jpg）（影片页 https://www.themoviedb.org/movie/975）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/k3uHoxEuHJwLmFd2ANBBCgcBoHi.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

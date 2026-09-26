@@ -1,0 +1,33 @@
+{
+  "id": "for-a-few-dollars-more-life-no-value",
+  "group": "classics",
+  "film": {
+    "title": "黄昏双镖客",
+    "year": 1967,
+    "title_en": "Per qualche dollaro in più",
+    "director": "Sergio Leone"
+  },
+  "lines": [
+    {
+      "text": "当生命没有价值时，死亡有时也会有它的价格。",
+      "en": "Where life has no value, death, sometimes, has its price.",
+      "character": "莫蒂默上校（Colonel Mortimer）",
+      "note": "经典英文台词的通行中译。"
+    }
+  ],
+  "tags": [
+    "西部",
+    "复仇",
+    "宿命"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 461600
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "黄昏双镖客 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/per-qualche-dollaro-in-pi-1967.jpg）（影片页 https://www.themoviedb.org/movie/938）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/x0bQvdpr88xVhMrVM93tEIKSM2q.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

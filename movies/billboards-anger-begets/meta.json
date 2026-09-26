@@ -1,0 +1,43 @@
+{
+  "id": "billboards-anger-begets",
+  "group": "top250",
+  "film": {
+    "title": "三块广告牌",
+    "year": 2017,
+    "title_en": "Three Billboards Outside Ebbing, Missouri",
+    "director": "马丁·麦克唐纳"
+  },
+  "lines": [
+    {
+      "text": "愤怒只会生出更多愤怒。",
+      "en": "Anger begets greater anger.",
+      "character": "神父 / Willoughby 遗书语境",
+      "note": "三块广告牌的伦理回声：米尔德丽德的怒火正义，也被这句话反照成循环。定译略有出入，已标。"
+    }
+  ],
+  "tags": [
+    "愤怒",
+    "正义",
+    "宽恕"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 750000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 600000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 88
+    }
+  },
+  "still_alt": "三块广告牌 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/174-three-billboards-outside-ebbing-missouri.jpg）（影片页 https://www.themoviedb.org/movie/359940）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

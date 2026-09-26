@@ -1,0 +1,49 @@
+{
+  "id": "all-about-eve-fasten-seatbelts",
+  "group": "classics",
+  "film": {
+    "title": "四面夏娃",
+    "year": 1950,
+    "title_en": "All About Eve",
+    "director": "约瑟夫·L·曼凯维奇"
+  },
+  "lines": [
+    {
+      "text": "系好安全带——前面要颠簸了。",
+      "en": "Fasten your seatbelts. It’s going to be a bumpy night.",
+      "character": "Margo Channing",
+      "note": "Margo 派对上的宣战：四面夏娃把百老汇的毒舌做成影史金句。通行定译。"
+    },
+    {
+      "text": "女人的行当，处处都是滑头生意。",
+      "character": "Margo Channing",
+      "en": "Funny business, a woman's life.",
+      "note": "玛戈的后台独白；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "戏剧",
+    "锋利"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 60000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 140000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 99
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 98
+    }
+  },
+  "still_alt": "四面夏娃 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/all-about-eve-1950.jpg）（影片页 https://www.themoviedb.org/movie/705）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mkFHr2hmPsb99Vczl8O9dhWvbBn.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

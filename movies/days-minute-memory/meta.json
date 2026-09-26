@@ -1,0 +1,39 @@
+{
+  "id": "days-minute-memory",
+  "group": "classics",
+  "film": {
+    "title": "阿飞正传",
+    "year": 1990,
+    "title_en": "Days of Being Wild",
+    "director": "王家卫"
+  },
+  "lines": [
+    {
+      "text": "那一分钟，我记得非常清楚。",
+      "en": "I remember that minute very clearly.",
+      "character": "旭仔 / 旁白",
+      "note": "旁白的通行节译；以一分钟意象保留影片对时间与无根感的凝视。"
+    },
+    {
+      "text": "我听别人说，这世界上有一种鸟是没有脚的。它只能一直地飞呀飞，飞累了就在风里睡觉。这种鸟一辈子只能下地一次——那一次，就是它死的时候。",
+      "character": "旭仔",
+      "note": "无脚鸟的独白，王家卫最著名的段落之一；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "时间",
+    "孤独",
+    "香港电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 28000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "阿飞正传 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/days-of-being-wild-1990.jpg）（影片页 https://www.themoviedb.org/movie/18311）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4TvipgMIlm0Pvk3mCICAodsKP6m.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

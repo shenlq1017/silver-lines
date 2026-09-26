@@ -1,0 +1,43 @@
+{
+  "id": "children-heaven-shoes",
+  "group": "top250",
+  "film": {
+    "title": "小鞋子",
+    "year": 1997,
+    "title_en": "بچه های آسمان",
+    "director": "马基德·马基迪"
+  },
+  "lines": [
+    {
+      "text": "姐姐，这双鞋给你。",
+      "en": "Sister, these shoes are for you.",
+      "character": "Ali / 题旨",
+      "note": "对齐片题旨与结尾赛跑动机：一双鞋写尽兄妹情与伊朗新浪潮的克制悲悯；非逐字核验原声，标为题旨句。"
+    }
+  ],
+  "tags": [
+    "亲情",
+    "童真",
+    "贫穷"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 550000
+    },
+    "imdb": {
+      "score": 8.2,
+      "votes": 90000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 83
+    },
+    "metacritic": {
+      "score": 77
+    }
+  },
+  "still_alt": "小鞋子 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/078-rank-078.jpg）（影片页 https://www.themoviedb.org/movie/21334）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6Jjuu1abyLFNgVKjOTt4vi8M6Jy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

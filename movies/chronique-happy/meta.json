@@ -1,0 +1,34 @@
+{
+  "id": "chronique-happy",
+  "group": "classics",
+  "film": {
+    "title": "夏日纪事",
+    "year": 1961,
+    "title_en": "Chronicle of a Summer",
+    "director": "让·鲁什／埃德加·莫兰"
+  },
+  "lines": [
+    {
+      "text": "你幸福吗？",
+      "en": "Are you happy? (Êtes-vous heureux?)",
+      "character": "玛塞琳·罗里达 / Marceline Loridan",
+      "note": "玛塞琳街头访问帕里人的核心提问；法语原声「Êtes-vous heureux?」；维基／法国电影资料馆说明可核对。"
+    }
+  ],
+  "tags": [
+    "真实电影",
+    "幸福",
+    "巴黎",
+    "鲁什"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 122
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "夏日纪事 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/chronicle-of-a-summer-1961.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/84972）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bolMHmAoPcY9CQ9IMpJPLSr4azQ.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

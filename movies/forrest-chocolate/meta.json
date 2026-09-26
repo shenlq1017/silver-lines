@@ -1,0 +1,71 @@
+{
+  "id": "forrest-chocolate",
+  "group": "top250",
+  "film": {
+    "title": "阿甘正传",
+    "year": 1994,
+    "title_en": "Forrest Gump",
+    "director": "罗伯特·泽米吉斯"
+  },
+  "lines": [
+    {
+      "text": "生活就像一盒巧克力，你永远不知道下一颗是什么味道。",
+      "en": "Life is like a box of chocolates. You never know what you're gonna get.",
+      "character": "Forrest Gump",
+      "note": "妈妈的比喻，成了人生入门课。"
+    },
+    {
+      "text": "做傻事的才是傻子。",
+      "character": "Forrest Gump",
+      "en": "Stupid is as stupid does.",
+      "note": "福雷斯特的口头禅；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "跑，福雷斯特，快跑！",
+      "character": "Jenny Curran",
+      "en": "Run, Forrest, run!",
+      "note": "童年逃亡与越南战场两次出现的呼喊；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我不聪明，但我知道什么是爱。",
+      "character": "Forrest Gump",
+      "en": "I'm not a smart man, but I know what love is.",
+      "note": "对珍妮的告白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "死亡只是生命的一部分。",
+      "character": "Mrs. Gump",
+      "en": "Death is just a part of life.",
+      "note": "母亲的临终教导；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "人生",
+    "温暖"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.5,
+      "votes": 2300000
+    },
+    "imdb": {
+      "score": 8.8,
+      "votes": 2300000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 71
+    },
+    "metacritic": {
+      "score": 82
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "阿甘正传 · 阿甘坐长椅、膝上巧克力盒宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料 https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg（2000×3000）（影片页 https://www.themoviedb.org/movie/13-forrest-gump）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8uWbSjUky6NiJnD3Typz6ZN0f9w.jpg（3840×2160）；场景匹配（长椅与巧克力盒宣传静帧）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dragon-inn-rivers-and-lakes",
+  "group": "classics",
+  "film": {
+    "title": "龙门客栈",
+    "year": 1967,
+    "title_en": "Dragon Inn",
+    "director": "胡金铨"
+  },
+  "lines": [
+    {
+      "text": "江湖险恶，人心更险。",
+      "en": "The martial world is dangerous; the human heart is more dangerous still.",
+      "character": "策展主句",
+      "note": "对影片江湖伦理与身份博弈的策展意译；并非声称为单一角色逐字台词。"
+    }
+  ],
+  "tags": [
+    "武侠",
+    "江湖",
+    "中国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 12000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "龙门客栈 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dragon-inn-1967.jpg）（影片页 https://www.themoviedb.org/movie/104237）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/jmVI3nO75BXtdqDyWYiMujh8XVa.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

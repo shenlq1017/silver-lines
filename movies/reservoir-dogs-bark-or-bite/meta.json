@@ -1,0 +1,49 @@
+{
+  "id": "reservoir-dogs-bark-or-bite",
+  "group": "classics",
+  "film": {
+    "title": "落水狗",
+    "year": 1992,
+    "title_en": "Reservoir Dogs",
+    "director": "昆汀·塔伦蒂诺"
+  },
+  "lines": [
+    {
+      "text": "你是打算汪汪叫一整天，小狗——还是要咬人？",
+      "en": "Are you gonna bark all day, little doggie, or are you gonna bite?",
+      "character": "Mr. Blonde",
+      "note": "金发型先生对着警官的挑衅：落水狗把仓库酷刑做成类型片开场白。通行意译。"
+    },
+    {
+      "text": "你敢开枪打他——下一个死的就是你。",
+      "character": "Mr. White",
+      "en": "If you shoot this man, you die next.",
+      "note": "仓库对峙的护短宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "惊悚"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.3,
+      "votes": 300000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 1100000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 81
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "落水狗 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/reservoir-dogs-1992.jpg）（影片页 https://www.themoviedb.org/movie/500）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ugrCnG4VDVDv91mvyP19Idgjnh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

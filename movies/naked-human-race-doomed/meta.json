@@ -1,0 +1,33 @@
+{
+  "id": "naked-human-race-doomed",
+  "group": "classics",
+  "film": {
+    "title": "赤裸",
+    "year": 1993,
+    "title_en": "Naked",
+    "director": "迈克·李"
+  },
+  "lines": [
+    {
+      "text": "人类注定要灭亡。",
+      "en": "The human race is doomed.",
+      "character": "约翰尼 / Johnny",
+      "note": "通行译法：约翰尼漫长辩论中的核心断言；不同字幕版本有轻微差异。"
+    }
+  ],
+  "tags": [
+    "城市",
+    "末世",
+    "英国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 33000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "赤裸 · TMDB 宣传静帧（2560×1440）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/naked-1993.jpg）（影片页 https://www.themoviedb.org/movie/21450）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ezHoUXvVFlgti7h47hLR4zDsaL3.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

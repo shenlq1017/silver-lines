@@ -1,0 +1,33 @@
+{
+  "id": "marnie-favorite-girl",
+  "group": "classics",
+  "film": {
+    "title": "记忆中的玛妮",
+    "year": 2014,
+    "title_en": "When Marnie Was There",
+    "director": "米林宏昌"
+  },
+  "lines": [
+    {
+      "text": "在我遇过的所有女孩里，我最喜欢你。",
+      "en": "Of all the girls I’ve ever met, I like you best.",
+      "character": "玛妮 / Marnie",
+      "note": "通行译法：玛妮对杏奈的告白式友谊句，是影片最广为引用的对白之一。"
+    }
+  ],
+  "tags": [
+    "孤独",
+    "友情",
+    "治愈"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 2022
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "记忆中的玛妮 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/when-marnie-was-there-2014.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/242828）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rVDOeOccg0K9tXuw6b9uOG6q4mf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gran-torino-get-off-my-lawn",
+  "group": "classics",
+  "film": {
+    "title": "驱·逐",
+    "year": 2009,
+    "title_en": "Gran Torino",
+    "director": "克林特·伊斯特伍德"
+  },
+  "lines": [
+    {
+      "text": "离我的草坪远点。",
+      "en": "Get off my lawn.",
+      "character": "Walt Kowalski",
+      "note": "粗粝的拒绝最终成为人物边界与孤独的缩写；通行译法。"
+    },
+    {
+      "text": "有没有发现，偶尔会撞见一个你不该惹的人？——那就是我。",
+      "character": "Walt Kowalski",
+      "en": "Ever notice how you come across somebody once in a while you shouldn't have fucked with? That's me.",
+      "note": "沃尔特的警告（原文含粗口）；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "告别",
+    "宽恕"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 850000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "驱·逐 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/gran-torino-2009.jpg）（影片页 https://www.themoviedb.org/movie/13223）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5w0EJM2XT6w0aZtNR3ga6W9IDva.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

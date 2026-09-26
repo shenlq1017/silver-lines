@@ -1,0 +1,34 @@
+{
+  "id": "butterfly-tongue",
+  "group": "classics",
+  "film": {
+    "title": "蝴蝶的舌头",
+    "year": 1999,
+    "title_en": "Butterfly’s Tongue",
+    "director": "何塞·路易斯·库埃达"
+  },
+  "lines": [
+    {
+      "text": "童年开始学的单词，有一天会被战争改写发音。",
+      "en": "The words a child first learns may one day have their pronunciation rewritten by war.",
+      "character": "莫尼乔／老师 / Moncho / Don Gregorio",
+      "note": "主题性策展句：概括库埃达《蝴蝶的舌头》中内战前夜乡村教师与孩童告别童真的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "童真",
+    "内战",
+    "教师",
+    "西班牙"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 250
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "蝴蝶的舌头 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/butterflys-tongue-1999.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/31023）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rO9glrSlacyRY6ZePVeA2fogqCk.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

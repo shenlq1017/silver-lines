@@ -1,0 +1,33 @@
+{
+  "id": "ash-jianghu-people",
+  "group": "classics",
+  "film": {
+    "title": "江湖儿女",
+    "year": 2018,
+    "title_en": "Ash Is Purest White",
+    "director": "贾樟柯"
+  },
+  "lines": [
+    {
+      "text": "咱们是哪种人？咱们是江湖上的人。",
+      "en": "What kind of people are we? People of the jianghu.",
+      "character": "斌哥 / Bin",
+      "note": "通行对白：开篇对江湖身份的自我命名；后文“火山灰/烟灰最干净”亦为名句，本条取身份宣言。"
+    }
+  ],
+  "tags": [
+    "江湖",
+    "义气",
+    "身份"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 369
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "江湖儿女 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/ash-is-purest-white-2018.jpg，1500×2095）（影片页 https://www.themoviedb.org/movie/441393）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eLqkx8A6NoYfVf9EKHEOJf5ljxk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

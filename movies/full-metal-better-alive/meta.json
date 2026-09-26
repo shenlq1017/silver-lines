@@ -1,0 +1,70 @@
+{
+  "id": "full-metal-better-alive",
+  "group": "classics",
+  "film": {
+    "title": "全金属外壳",
+    "year": 1987,
+    "title_en": "Full Metal Jacket",
+    "director": "斯坦利·库布里克"
+  },
+  "lines": [
+    {
+      "text": "死人只知道一件事：活着更好。",
+      "en": "The dead know only one thing: it is better to be alive.",
+      "character": "Private Joker",
+      "note": "小丑旁白冷锋：全金属外壳前后半部用同一嗓音把新兵营与顺化街垒缝在一起。通行定译。"
+    },
+    {
+      "text": "这是我的步枪。类似的还有很多，但这把是我的。",
+      "character": "Gunnery Sgt. Hartman",
+      "en": "This is my rifle. There are many like it, but this one is mine.",
+      "note": "新兵夜诵《步枪手信条》；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "世界上最致命的武器，是一个海军陆战队员和他的步枪。",
+      "character": "Gunnery Sgt. Hartman",
+      "en": "The deadliest weapon in the world is a Marine and his rifle.",
+      "note": "同段训话的收束；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "7.62 毫米，全金属被甲弹。",
+      "character": "Private Gomer Pyle",
+      "en": "7.62 millimeter. Full metal jacket.",
+      "note": "厕所夜场的点题自语；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "是你吗，约翰·韦恩？这是在拍我吗？",
+      "character": "Private Joker",
+      "en": "Is that you, John Wayne? Is this me?",
+      "note": "新兵营夜谈；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "战争",
+    "剧情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 280000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 810000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 76
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "全金属外壳 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/full-metal-jacket-1987.jpg）（影片页 https://www.themoviedb.org/movie/600）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

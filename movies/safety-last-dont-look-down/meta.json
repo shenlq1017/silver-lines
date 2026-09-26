@@ -1,0 +1,33 @@
+{
+  "id": "safety-last-dont-look-down",
+  "group": "classics",
+  "film": {
+    "title": "安全末班车",
+    "year": 1923,
+    "title_en": "Safety Last!",
+    "director": "弗雷德·纽迈耶 / 山姆·泰勒"
+  },
+  "lines": [
+    {
+      "text": "别往下看！",
+      "en": "Don't look down!",
+      "character": "哈罗德",
+      "note": "钟楼攀爬段的默片字幕/名场面意译；以片中字幕而非伪造有声对白呈现。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "默片",
+    "勇气"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 22000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "安全末班车 · TMDB 宣传静帧（3490×1964）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/safety-last-1923.jpg）（影片页 https://www.themoviedb.org/movie/22596）；静帧：TMDB backdrop/宣传图 undefined（3490×1964）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

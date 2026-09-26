@@ -1,0 +1,57 @@
+{
+  "id": "sunset-ready-for-closeup",
+  "group": "classics",
+  "film": {
+    "title": "日落大道",
+    "year": 1950,
+    "title_en": "Sunset Blvd.",
+    "director": "比利·怀尔德"
+  },
+  "lines": [
+    {
+      "text": "好了，科长——我准备好拍特写了。",
+      "en": "All right, Mr. DeMille, I'm ready for my close-up.",
+      "character": "Norma Desmond",
+      "note": "Norma 走下楼梯的终句：日落大道把明星的自欺做成影史特写。通行定译。"
+    },
+    {
+      "text": "我没有变小——是电影变小了。",
+      "character": "Norma Desmond",
+      "en": "I am big. It's the pictures that got small.",
+      "note": "诺玛对乔的怒吼；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我们那时不需要台词——我们有脸。",
+      "character": "Norma Desmond",
+      "en": "We didn't need dialogue. We had faces.",
+      "note": "诺玛的默片挽歌；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "黑色电影",
+    "幻灭",
+    "好莱坞"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 100000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 240000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 94
+    }
+  },
+  "still_alt": "日落大道 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sunset-blvd-1950.jpg）（影片页 https://www.themoviedb.org/movie/599）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ulQs23w1DTpCbDWMUKCNiTpVIVE.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

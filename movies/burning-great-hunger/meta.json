@@ -1,0 +1,38 @@
+{
+  "id": "burning-great-hunger",
+  "group": "classics",
+  "film": {
+    "title": "燃烧",
+    "year": 2018,
+    "title_en": "Burning",
+    "director": "李沧东"
+  },
+  "lines": [
+    {
+      "text": "有一种饥饿，再怎么吃也填不满。",
+      "en": "There is a hunger that no amount of eating can fill.",
+      "character": "本 / Ben",
+      "note": "通行译法：本关于“极大的饥饿”的著名对白；中文按常见字幕译法，略有版本差异。"
+    },
+    {
+      "text": "我烧塑料大棚……那是我的爱好。",
+      "character": "本",
+      "note": "温室夜谈中本吐露的癖好，全片谜底所在。"
+    }
+  ],
+  "tags": [
+    "阶级",
+    "隐喻",
+    "李沧东"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 1901
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "燃烧 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/burning-2018.jpg）（影片页 https://www.themoviedb.org/movie/491584）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qQEt2FqF8McryFBNX30dyDJKiEK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

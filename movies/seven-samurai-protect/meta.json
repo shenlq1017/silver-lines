@@ -1,0 +1,54 @@
+{
+  "id": "seven-samurai-protect",
+  "group": "top250",
+  "film": {
+    "title": "七武士",
+    "year": 1954,
+    "title_en": "Seven Samurai",
+    "director": "黑泽明"
+  },
+  "lines": [
+    {
+      "text": "保护别人，才能保护自己。",
+      "en": "By protecting others, you save yourselves.",
+      "character": "岛田勘兵卫",
+      "note": "勘兵卫组队时的生存哲学：七人与村民的契约，不只是剑，是彼此成为盾。"
+    },
+    {
+      "text": "你这样——还配当武士吗！",
+      "character": "菊千代",
+      "note": "菊千代撕开武士与农民的伪善；通行字幕译法。",
+      "confidence": "medium"
+    },
+    {
+      "text": "又是我们输了。赢的，是农民。",
+      "character": "岛田勘兵卫",
+      "note": "结尾勘兵卫的总结，黑泽明的落点；通行字幕译法。"
+    }
+  ],
+  "tags": [
+    "武士",
+    "集体",
+    "经典"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 250000
+    },
+    "imdb": {
+      "score": 8.6,
+      "votes": 370000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 100
+    },
+    "metacritic": {
+      "score": 98
+    }
+  },
+  "still_alt": "七武士 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/154-rank-154.jpg）（影片页 https://www.themoviedb.org/movie/346）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/m0GkHBGFsfhxwooex1j4qdotmUl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

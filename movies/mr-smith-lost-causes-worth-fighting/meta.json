@@ -1,0 +1,39 @@
+{
+  "id": "mr-smith-lost-causes-worth-fighting",
+  "group": "classics",
+  "film": {
+    "title": "史密斯先生到华盛顿",
+    "year": 1939,
+    "title_en": "Mr. Smith Goes to Washington",
+    "director": "Frank Capra"
+  },
+  "lines": [
+    {
+      "text": "有些失败的事业，才是唯一值得为之奋斗的事业。",
+      "en": "Sometimes lost causes are the only causes worth fighting for.",
+      "character": "杰弗森·史密斯（Jefferson Smith）",
+      "note": "结尾演讲中的经典译法。"
+    },
+    {
+      "text": "自由太珍贵了，不能只埋在书里……人应该每天把它举到眼前，对自己说：我有自由去思考、去说话。",
+      "character": "Jefferson Smith",
+      "en": "Liberty's too precious a thing to be buried in books... Men should hold it up in front of them every single day of their lives and say: I'm free to think and to speak.",
+      "note": "史诗 filibuster 独白（节选）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "政治",
+    "理想",
+    "民主"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 123400
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "史密斯先生到华盛顿 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mr-smith-goes-to-washington-1939.jpg）（影片页 https://www.themoviedb.org/movie/3083）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4HagjGPF6dMGYlmx7mEfjLV2kQ0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

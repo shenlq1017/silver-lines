@@ -1,0 +1,50 @@
+{
+  "id": "raging-bull-never-got-me-down",
+  "group": "classics",
+  "film": {
+    "title": "愤怒的公牛",
+    "year": 1980,
+    "title_en": "Raging Bull",
+    "director": "马丁·斯科塞斯"
+  },
+  "lines": [
+    {
+      "text": "你没把我打倒，雷。——你从没打倒过我。",
+      "en": "You never got me down, Ray. You never got me down.",
+      "character": "Jake LaMotta",
+      "note": "拉莫塔对着镜子/回忆中的对手自语：愤怒的公牛把「没倒」做成悲剧骄傲。通行译法。"
+    },
+    {
+      "text": "你睡了我老婆？",
+      "character": "Jake LaMotta",
+      "en": "You fuck my wife?",
+      "note": "镜子前的咆哮（原文含粗口）；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "传记",
+    "剧情",
+    "历史"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 200000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 390000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 92
+    },
+    "metacritic": {
+      "score": 89
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "愤怒的公牛 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/raging-bull-1980.jpg）（影片页 https://www.themoviedb.org/movie/1578）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wgq2oA1aJiawBlRDIU8agXk7DQQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

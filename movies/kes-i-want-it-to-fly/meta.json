@@ -1,0 +1,33 @@
+{
+  "id": "kes-i-want-it-to-fly",
+  "group": "classics",
+  "film": {
+    "title": "小孩与鹰",
+    "year": 1969,
+    "title_en": "Kes",
+    "director": "肯·洛奇"
+  },
+  "lines": [
+    {
+      "text": "我想让它飞。",
+      "en": "I want to let it fly.",
+      "character": "比利·卡斯珀",
+      "note": "策展意译：以比利训练红隼的愿望概括其在阶级限制中的短暂自由，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "现实主义",
+    "成长",
+    "英国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 25000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "小孩与鹰 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kes-1969.jpg）（影片页 https://www.themoviedb.org/movie/13384）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qi2R3gknwNe63lLM8OmYe3kTKfl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "roma-women-alone",
+  "group": "classics",
+  "film": {
+    "title": "罗马",
+    "year": 2018,
+    "title_en": "Roma",
+    "director": "阿方索·卡隆"
+  },
+  "lines": [
+    {
+      "text": "我们女人总是独自一人。",
+      "en": "We women are always alone.",
+      "character": "索菲亚 / Sofía",
+      "note": "通行译法：雇主索菲亚对克莱奥说的话；影片关于女性劳动与被遗弃的核心句，不同字幕略有差异。"
+    },
+    {
+      "text": "不管他们怎么跟你说——我们女人，总是独自一人。",
+      "character": "Sofía",
+      "en": "No matter what they tell you, we women are always alone.",
+      "note": "索菲亚对克莉奥的点破，主台词的完整版；IMDb quotes 可查。"
+    },
+    {
+      "text": "我不想要她。",
+      "character": "Cleo",
+      "en": "No la quería.",
+      "note": "产房里克莉奥抱着死胎的告白，全片最重的一句；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "女性",
+    "家务",
+    "墨西哥电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 4192
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "罗马 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/roma-2018.jpg）（影片页 https://www.themoviedb.org/movie/426426）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

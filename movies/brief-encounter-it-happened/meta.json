@@ -1,0 +1,33 @@
+{
+  "id": "brief-encounter-it-happened",
+  "group": "classics",
+  "film": {
+    "title": "相见恨晚",
+    "year": 1945,
+    "title_en": "Brief Encounter",
+    "director": "大卫·里恩"
+  },
+  "lines": [
+    {
+      "text": "我爱上了你。我并不想这样，但它发生了。",
+      "en": "I have fallen in love with you. I didn’t mean to, but it happened.",
+      "character": "劳拉·杰索普",
+      "note": "劳拉旁白的通行意译；把相见恨晚的失控感压缩成一句自白。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "告别",
+    "旁白"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 48000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "相见恨晚 · TMDB 宣传静帧（3500×1969）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/brief-encounter-1945.jpg）（影片页 https://www.themoviedb.org/movie/851）；静帧：TMDB backdrop/宣传图 undefined（3500×1969）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

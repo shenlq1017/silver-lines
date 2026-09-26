@@ -1,0 +1,43 @@
+{
+  "id": "little-forest-summer-own-food",
+  "group": "top250",
+  "film": {
+    "title": "小森林 夏秋篇",
+    "year": 2014,
+    "title_en": "Little Forest: Summer/Autumn",
+    "director": "森淳一"
+  },
+  "lines": [
+    {
+      "text": "自己做的饭，吃着最踏实。",
+      "en": "Food you cook yourself always sits the steadiest.",
+      "character": "市子",
+      "note": "夏秋篇题旨：回乡不是逃避，是用双手把日子重新种出来。对白为策展凝练。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "治愈",
+    "乡村"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 5000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 78
+    }
+  },
+  "still_alt": "小森林 夏秋篇 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/139-little-forest-summer-autumn.jpg）（影片页 https://www.themoviedb.org/movie/294682）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1bAE9YexmEfAanXKaO1d9Ms4qKm.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

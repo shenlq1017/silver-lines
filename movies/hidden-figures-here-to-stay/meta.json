@@ -1,0 +1,57 @@
+{
+  "id": "hidden-figures-here-to-stay",
+  "group": "top250",
+  "film": {
+    "title": "隐藏人物",
+    "year": 2016,
+    "title_en": "Hidden Figures",
+    "director": "西奥多·梅尔菲"
+  },
+  "lines": [
+    {
+      "text": "我不是来做客的——我是来留下的。",
+      "en": "I'm not here to sit out. I'm here to stay.",
+      "character": "Dorothy Vaughan / 题旨",
+      "note": "隐藏人物把 IBM 机房与民权叠在同一条走廊：此句为策展通行口吻凝练（职业尊严），略有字幕差，已标边界。"
+    },
+    {
+      "text": "NASA 确实让女人做一些事，约翰逊先生——不是因为我们穿裙子，是因为我们戴眼镜。",
+      "character": "Katherine Johnson",
+      "en": "Yes, they let women do some things at NASA, Mr. Johnson. And it's not because we wear skirts. It's because we wear glasses.",
+      "note": "凯瑟琳的会议回击；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "在 NASA——我们尿的颜色都一样。",
+      "character": "Al Harrison",
+      "en": "Here at NASA, we all pee the same color.",
+      "note": "哈里森砸掉「有色人种厕所」牌子时的话；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "历史",
+    "女性",
+    "种族"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 420000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 270000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 74
+    }
+  },
+  "still_alt": "隐藏人物 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/248-hidden-figures.jpg）（影片页 https://www.themoviedb.org/movie/381284）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6nYCOqapMPHWzsS77EsOSqXYiNq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cove-if-you-knew",
+  "group": "top250",
+  "film": {
+    "title": "海豚湾",
+    "year": 2009,
+    "title_en": "The Cove",
+    "director": "路易·西霍尤斯"
+  },
+  "lines": [
+    {
+      "text": "如果你知道他们在做什么，你还会保持沉默吗？",
+      "en": "If you knew what they were doing, would you still stay silent?",
+      "character": "题旨 / 纪录片控诉",
+      "note": "对齐影片环保控诉主旨的中文策展概括句；纪录片少金句对白，标题旨。"
+    },
+    {
+      "text": "我用了十年建成海豚产业，又用了三十五年想把它拆掉。",
+      "character": "Richard O'Barry",
+      "en": "I spent ten years building the dolphin industry, and the past thirty-five trying to tear it down.",
+      "note": "奥巴里自述；影片访谈常被引用。",
+      "confidence": "medium"
+    },
+    {
+      "text": "海豚的微笑，是自然界最大的错觉。",
+      "character": "Richard O'Barry",
+      "en": "The dolphin's smile is nature's greatest illusion.",
+      "note": "解释海豚「微笑」并非情绪表达的核心论点；影评常引。"
+    }
+  ],
+  "tags": [
+    "纪录片",
+    "海洋",
+    "良知"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 60000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 95
+    },
+    "metacritic": {
+      "score": 82
+    }
+  },
+  "still_alt": "海豚湾 · 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/096-the-cove.jpg）（影片页 https://www.themoviedb.org/movie/23128）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pWXaHX2CdAebf2f4JyVewnIzl7.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

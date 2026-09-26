@@ -1,0 +1,63 @@
+{
+  "id": "interstellar-love",
+  "group": "top250",
+  "film": {
+    "title": "星际穿越",
+    "year": 2014,
+    "title_en": "Interstellar",
+    "director": "克里斯托弗·诺兰"
+  },
+  "lines": [
+    {
+      "text": "爱是唯一能超越时间与空间的力量。",
+      "en": "Love is the one thing we're capable of perceiving that transcends dimensions of time and space.",
+      "character": "Brand",
+      "note": "科幻外壳下最柔软的一句。"
+    },
+    {
+      "text": "不要温和地走进那个良夜。",
+      "character": "Professor Brand",
+      "en": "Do not go gentle into that good night.",
+      "note": "反复诵读的狄兰·托马斯诗行；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我们曾仰望星空，思考自己在群星中的位置；如今我们只会低头，担心自己在泥土里的位置。",
+      "character": "Cooper",
+      "en": "We used to look up at the sky and wonder at our place in the stars. Now we just look down and worry about our place in the dirt.",
+      "note": "库珀的地球独白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我的机器人殖民地添了好多奴隶。",
+      "character": "TARS",
+      "en": "Plenty of slaves for my robot colony.",
+      "note": "TARS 的冷笑话设定，幽默值梗；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "亲情",
+    "时空"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.4,
+      "votes": 1900000
+    },
+    "imdb": {
+      "score": 8.7,
+      "votes": 2200000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 73
+    },
+    "metacritic": {
+      "score": 74
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "星际穿越 · Cooper 于五维书架/Tesseract 空间",
+  "license_note": "海报：TMDB 发行宣传物料 https://image.tmdb.org/t/p/original/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg（2000×3000）（影片页 https://www.themoviedb.org/movie/157336-interstellar）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bqhhMHhLMbij6qQOw9KbN0qFNRb.jpg（3840×2160）；高清宣传静帧（Cooper 与幼年 Murph；TMDB 无更高清 Tesseract backdrop，优先清晰度）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

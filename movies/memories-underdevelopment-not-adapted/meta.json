@@ -1,0 +1,33 @@
+{
+  "id": "memories-underdevelopment-not-adapted",
+  "group": "classics",
+  "film": {
+    "title": "不发达的回忆",
+    "year": 1968,
+    "title_en": "Memories of Underdevelopment",
+    "director": "托马斯·古铁雷斯·阿莱亚"
+  },
+  "lines": [
+    {
+      "text": "我还没有学会适应这场革命。",
+      "en": "I still haven’t learned how to adapt to this revolution.",
+      "character": "塞尔希奥",
+      "note": "策展意译：概括塞尔希奥在革命社会中的自我观察与疏离感，非逐字对白。"
+    }
+  ],
+  "tags": [
+    "革命",
+    "疏离",
+    "古巴电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 7000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "不发达的回忆 · TMDB 宣传静帧（2160×1216）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/memories-of-underdevelopment-1968.jpg）（影片页 https://www.themoviedb.org/movie/47576）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cIm21q38szgMQ691raU8NRwdk9S.jpg（2160×1216）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

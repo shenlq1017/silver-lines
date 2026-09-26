@@ -1,0 +1,43 @@
+{
+  "id": "spiderverse-anyone-mask",
+  "group": "top250",
+  "film": {
+    "title": "蜘蛛侠：平行宇宙",
+    "year": 2018,
+    "title_en": "Spider-Man: Into the Spider-Verse",
+    "director": "鲍勃·佩西凯蒂 / 彼得·拉姆齐 / 罗德尼·罗斯曼"
+  },
+  "lines": [
+    {
+      "text": "谁都可以戴上面具。你也可以。",
+      "en": "Anyone can wear the mask. You can wear the mask.",
+      "character": "Spider-Man / Miles Morales",
+      "note": "平行宇宙把蛛网递给布鲁克林少年：一句「谁都可以」把超级英雄从血统改成邀请。通行定译。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "英雄",
+    "成长"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 850000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 650000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 97
+    },
+    "metacritic": {
+      "score": 87
+    }
+  },
+  "still_alt": "蜘蛛侠：平行宇宙 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/239-spider-man-into-the-spider-verse.jpg）（影片页 https://www.themoviedb.org/movie/324857）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qGQf2OHIkoh89K8XeKQzhxczf96.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "youth-recognize-kindness",
+  "group": "classics",
+  "film": {
+    "title": "芳华",
+    "year": 2017,
+    "title_en": "Youth",
+    "director": "冯小刚"
+  },
+  "lines": [
+    {
+      "text": "一个始终不被善待的人，最能识别善良，也最珍惜善良。",
+      "en": "Someone never treated kindly recognizes kindness best — and treasures it most.",
+      "character": "叙事旁白/人物语境 / Narration & character ethos",
+      "note": "通行摘录：冯小刚《芳华》中关于刘峰式善良的传播句（严歌苓原著/改编语境）；不同整理来源措辞略异，标通行传播。"
+    }
+  ],
+  "tags": [
+    "青春",
+    "文工团",
+    "善良"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 117
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "芳华 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/youth-2017.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/457251）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rD7bWxONbHwQQqvkfNk9vJkO4n1.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

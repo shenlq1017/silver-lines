@@ -1,0 +1,49 @@
+{
+  "id": "hibiscus-live-on",
+  "group": "top250",
+  "film": {
+    "title": "芙蓉镇",
+    "year": 1987,
+    "title_en": "Hibiscus Town",
+    "director": "谢晋"
+  },
+  "lines": [
+    {
+      "text": "活下去——像牲口一样活下去。",
+      "en": "Live on—live on like beasts if you must.",
+      "character": "秦书田 / 胡玉音语境",
+      "note": "芙蓉镇最疼也最硬的一句：政治风雨里把「活着」压到动物性，却仍是人的尊严底线。通行定译口吻，略有版本差，已标。"
+    },
+    {
+      "text": "运动了——！",
+      "character": "王秋赦",
+      "note": "疯了的王秋赦敲锣喊出的结尾，全片最冷一击；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "历史",
+    "苦难",
+    "尊严"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 200000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 2500
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 90
+    },
+    "metacritic": {
+      "score": 78
+    }
+  },
+  "still_alt": "芙蓉镇 · 宣传静帧（3770×2120）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/192-hibiscus-town.jpg）（影片页 https://www.themoviedb.org/movie/122973）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/z9EtVguD5WZRupYMD9TSwdthVjk.jpg（3770×2120）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

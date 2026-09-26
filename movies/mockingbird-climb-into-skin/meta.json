@@ -1,0 +1,63 @@
+{
+  "id": "mockingbird-climb-into-skin",
+  "group": "classics",
+  "film": {
+    "title": "杀死一只知更鸟",
+    "year": 1963,
+    "title_en": "To Kill a Mockingbird",
+    "director": "罗伯特·穆里根"
+  },
+  "lines": [
+    {
+      "text": "你永远无法真正理解一个人——除非你钻进他的皮肤里走上一圈。",
+      "en": "You never really understand a person until you consider things from his point of view... until you climb into his skin and walk around in it.",
+      "character": "Atticus Finch",
+      "note": "阿迪克斯对斯库特的教诲：杀死一只知更鸟把同理心写成法治入门。通行定译。"
+    },
+    {
+      "text": "世上唯一不服从多数表决的东西，是一个人的良心。",
+      "character": "Atticus Finch",
+      "en": "The one thing that doesn't abide by majority rule is a person's conscience.",
+      "note": "给斯库特讲良心的名句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "真正的勇气是：明知一开始就输定了，还是照样开始，并且坚持到底。",
+      "character": "Atticus Finch",
+      "en": "Real courage is when you know you're licked before you begin, but you begin anyway and you see it through no matter what.",
+      "note": "为杜博斯太太的坚忍作注；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "斯库特，大多数人都是这样的——等你真正了解他们的时候。",
+      "character": "Atticus Finch",
+      "en": "Most people are, Scout, when you finally see them.",
+      "note": "结尾回应「他其实人很好」；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "正义",
+    "剧情"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 150000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 350000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 88
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "杀死一只知更鸟 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/to-kill-a-mockingbird-1963.jpg）（影片页 https://www.themoviedb.org/movie/595）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zP6pqpSRRiOCjjC5oWKZKkHqoSB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

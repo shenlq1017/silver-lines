@@ -1,0 +1,62 @@
+{
+  "id": "lalaland-ones-who-dream",
+  "group": "top250",
+  "film": {
+    "title": "爱乐之城",
+    "year": 2016,
+    "title_en": "La La Land",
+    "director": "达米恩·查泽雷"
+  },
+  "lines": [
+    {
+      "text": "敬那些做梦的人——哪怕看起来愚蠢。",
+      "en": "Here's to the ones who dream, foolish as they may seem.",
+      "character": "Mia Dolan",
+      "note": "试镜歌把整座星城举起：爱乐之城用一句祝酒，把失败次数写成入场券。歌词通行摘录。"
+    },
+    {
+      "text": "人们爱的，正是别人身上那份热爱。",
+      "character": "Mia Dolan",
+      "en": "People love what other people are passionate about.",
+      "note": "争吵之夜的点破；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你这么守旧，还谈什么当革命者？",
+      "character": "Sebastian",
+      "en": "How are you gonna be a revolutionary if you're such a traditionalist?",
+      "note": "同场争吵的反问；IMDb quotes 可查。"
+    },
+    {
+      "text": "我会一直爱你。",
+      "character": "Mia Dolan",
+      "en": "I'm always gonna love you.",
+      "note": "天文台告别时的许诺；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "歌舞",
+    "梦想",
+    "洛杉矶"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 1100000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 900000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 91
+    },
+    "metacritic": {
+      "score": 94
+    }
+  },
+  "still_alt": "爱乐之城 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/205-la-la-land.jpg）（影片页 https://www.themoviedb.org/movie/313369）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

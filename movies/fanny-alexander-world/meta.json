@@ -1,0 +1,33 @@
+{
+  "id": "fanny-alexander-world",
+  "group": "classics",
+  "film": {
+    "title": "芬妮与亚历山大",
+    "year": 1982,
+    "title_en": "Fanny and Alexander",
+    "director": "英格玛·伯格曼"
+  },
+  "lines": [
+    {
+      "text": "我们必须在这个世界上幸福。",
+      "en": "We must be happy in this world.",
+      "character": "海伦娜 / 亚历山大",
+      "note": "策展意译：对应影片结尾关于想象、家庭与活下去的温柔信念，非逐字字幕。"
+    }
+  ],
+  "tags": [
+    "童年",
+    "家庭",
+    "瑞典电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 70000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "芬妮与亚历山大 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/fanny-and-alexander-1982.jpg）（影片页 https://www.themoviedb.org/movie/5961）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8reX3CMog1QHqGoym2Esvuk5MnK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

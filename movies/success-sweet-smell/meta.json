@@ -1,0 +1,48 @@
+{
+  "id": "success-sweet-smell",
+  "group": "classics",
+  "film": {
+    "title": "成功的滋味",
+    "year": 1957,
+    "title_en": "Sweet Smell of Success",
+    "director": "亚历山大·麦肯德里克"
+  },
+  "lines": [
+    {
+      "text": "成功的气味并不甜，它闻起来像别人的恐惧。",
+      "en": "The smell of success is not sweet — it smells like someone else's fear.",
+      "character": "J.J.／西德尼 / J.J. Hunsecker / Sidney",
+      "note": "主题性策展句：概括麦肯德里克《成功的甜味》中专栏暴政与公关附庸的报界黑色讽刺，非逐字引文。"
+    },
+    {
+      "text": "猫在袋子里，袋子在河里。",
+      "character": "J.J. Hunsecker",
+      "en": "The cat's in the bag, and the bag's in the river.",
+      "note": "JJ 结束交易时的黑话；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你就是一块灌满砒霜的饼干。",
+      "character": "J.J. Hunsecker",
+      "en": "You're a cookie full of arsenic.",
+      "note": "JJ 对专栏同行的著名毒舌；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "权力",
+    "媒体",
+    "纽约",
+    "麦肯德里克"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 605
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "成功的滋味 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sweet-smell-of-success-1957.jpg，800×1200）（影片页 https://www.themoviedb.org/movie/976）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kjiX0g78phAza04H7jNe0AIV3Jj.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

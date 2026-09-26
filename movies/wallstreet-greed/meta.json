@@ -1,0 +1,48 @@
+{
+  "id": "wallstreet-greed",
+  "group": "classics",
+  "film": {
+    "title": "华尔街",
+    "year": 1987,
+    "title_en": "Wall Street",
+    "director": "奥利弗·斯通"
+  },
+  "lines": [
+    {
+      "text": "贪婪——找不到更好的词——是好的。",
+      "en": "Greed, for lack of a better word, is good.",
+      "character": "戈登·盖柯 / Gordon Gekko",
+      "note": "盖柯在特尔达纸业股东大会演讲中的对白；AFI 百大电影台词第57；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "午餐是给懦夫准备的。",
+      "character": "Gordon Gekko",
+      "en": "Lunch is for wimps.",
+      "note": "盖柯的职场格言；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你不在里面，就在外面！",
+      "character": "Gordon Gekko",
+      "en": "If you're not inside, you're outside!",
+      "note": "盖柯的丛林法则；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "金融",
+    "贪婪",
+    "演讲",
+    "八〇年代"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 2326
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "华尔街 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/wall-street-1987.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/10673）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

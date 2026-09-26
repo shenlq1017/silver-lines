@@ -1,0 +1,34 @@
+{
+  "id": "runner-gulf",
+  "group": "classics",
+  "film": {
+    "title": "奔跑者",
+    "year": 1984,
+    "title_en": "The Runner",
+    "director": "阿米尔·纳德里"
+  },
+  "lines": [
+    {
+      "text": "沿着海湾跑，不是为了赢，是为了不被原油废景吞掉。",
+      "en": "Running along the gulf is not to win — it is not to be swallowed by the oil-stained waste.",
+      "character": "阿米罗 / Amiro",
+      "note": "主题性策展句：概括纳德里《奔跑者》中伊朗海湾儿童以奔跑对抗贫困与废景的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "儿童",
+    "奔跑",
+    "伊朗",
+    "纳德里"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 40
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "奔跑者 · TMDB 宣传静帧（2560×1440）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-runner-1984.jpg，1179×1768）（影片页 https://www.themoviedb.org/movie/213938）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3wD4VskKlCxn5jpwNEjOdR3PgSY.jpg（2560×1440）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

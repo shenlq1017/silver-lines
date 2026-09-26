@@ -1,0 +1,43 @@
+{
+  "id": "city-lights-i-can-see",
+  "group": "top250",
+  "film": {
+    "title": "城市之光",
+    "year": 1931,
+    "title_en": "City Lights",
+    "director": "查理·卓别林"
+  },
+  "lines": [
+    {
+      "text": "是你？……是的，我看得见了。",
+      "en": "You? … Yes, I can see now.",
+      "character": "卖花女 / 流浪汉",
+      "note": "电影史最轻的高潮几乎无声：城市之光结尾用复明与相认，完成整部片子的慈悲。字幕卡通行转写，非有声对白录音。"
+    }
+  ],
+  "tags": [
+    "默片",
+    "爱情",
+    "经典"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 160000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 210000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 99
+    }
+  },
+  "still_alt": "城市之光 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/213-city-lights.jpg）（影片页 https://www.themoviedb.org/movie/901）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1jsCNTF7T38UGLwTbREyVwppBCq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

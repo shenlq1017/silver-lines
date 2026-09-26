@@ -1,0 +1,33 @@
+{
+  "id": "fishermen-tax-and-poverty",
+  "group": "classics",
+  "film": {
+    "title": "渔光曲",
+    "year": 1934,
+    "title_en": "Song of the Fishermen",
+    "director": "蔡楚生"
+  },
+  "lines": [
+    {
+      "text": "鱼儿难捕租税重，捕鱼人儿世世穷。",
+      "en": "Fish are hard to catch and the tax is heavy — fisherfolk stay poor generation after generation.",
+      "character": "主题歌 / Theme song 《渔光曲》",
+      "note": "通行歌词：安娥词、任光曲、王人美唱；《渔光曲》主题歌中点题的阶级句，不同印刷版“租税/船租”略有出入，取常见通行文本。"
+    }
+  ],
+  "tags": [
+    "渔民",
+    "左翼",
+    "主题歌"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 5.7,
+      "votes": 9
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "渔光曲 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/song-of-the-fishermen-1934.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/183704）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5r6t5hLSNP0PrLbsX4hTxTgX28s.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

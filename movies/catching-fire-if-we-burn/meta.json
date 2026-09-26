@@ -1,0 +1,40 @@
+{
+  "id": "catching-fire-if-we-burn",
+  "group": "classics",
+  "film": {
+    "title": "饥饿游戏2：星火燎原",
+    "year": 2013,
+    "title_en": "The Hunger Games: Catching Fire",
+    "director": "弗朗西斯·劳伦斯"
+  },
+  "lines": [
+    {
+      "text": "如果我们燃烧，你们也要一起烧！",
+      "en": "If we burn, you burn with us!",
+      "character": "凯特尼斯·伊夫狄恩 / Katniss Everdeen",
+      "note": "District 12 暴动段落通行口号句；中文取常见字幕译法。"
+    },
+    {
+      "text": "真希望把此刻定格，就永远活在这里面。",
+      "character": "Finnick Odair",
+      "en": "I wish I could freeze this moment, right here, right now, and live in it forever.",
+      "note": "手镯与糖块闲谈时的温存句；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "反乌托邦",
+    "革命",
+    "反抗"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 18801
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "饥饿游戏2：星火燎原 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-hunger-games-catching-fire-2013.jpg）（影片页 https://www.themoviedb.org/movie/101299）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

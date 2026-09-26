@@ -1,0 +1,34 @@
+{
+  "id": "postino-poetry-belongs",
+  "group": "classics",
+  "film": {
+    "title": "邮差",
+    "year": 1994,
+    "title_en": "Il Postino",
+    "director": "迈克尔·拉德福德"
+  },
+  "lines": [
+    {
+      "text": "诗不属于写它的人，而属于需要它的人。",
+      "en": "Poetry doesn't belong to those who write it, but to those who need it.",
+      "character": "巴勃罗·聂鲁达 / Pablo Neruda",
+      "note": "通行可核验：拉德福德《邮差》中聂鲁达对马里奥说的名句，多语种字幕与影评广泛引用。"
+    }
+  ],
+  "tags": [
+    "诗歌",
+    "邮差",
+    "智利",
+    "意大利"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 1250
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "邮差 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/il-postino-1994.jpg，1200×1800）（影片页 https://www.themoviedb.org/movie/11010）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/rNqt77rD3Ge3xkp4PX7iN18Iiqo.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

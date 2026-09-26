@@ -1,0 +1,33 @@
+{
+  "id": "picnic-time-and-place",
+  "group": "classics",
+  "film": {
+    "title": "悬崖上的野餐",
+    "year": 1975,
+    "title_en": "Picnic at Hanging Rock",
+    "director": "彼得·威尔"
+  },
+  "lines": [
+    {
+      "text": "一切都在恰好的时间与地点开始，也结束。",
+      "en": "Everything begins and ends at exactly the right time and place.",
+      "character": "阿波利斯小姐 / Miss Appleyard",
+      "note": "通行英文字幕句的中译；影片关于时间、地点与失踪的核心命题，保留其格言式语气。"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "青春",
+    "不可知"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 44000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "悬崖上的野餐 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/picnic-at-hanging-rock-1975.jpg）（影片页 https://www.themoviedb.org/movie/11020）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/sogEXuabmoOhPZLnbxFgl3WHbAK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "elementary-school-father-teacher",
+  "group": "classics",
+  "film": {
+    "title": "青青校树",
+    "year": 1991,
+    "title_en": "The Elementary School",
+    "director": "扬·斯维拉克"
+  },
+  "lines": [
+    {
+      "text": "战后的小学，教的不只是书，还有怎样把人当人。",
+      "en": "In a postwar elementary school, they teach not only books — but how to treat a person as a person.",
+      "character": "题眼 / Postwar school",
+      "note": "策展意译：概括斯维拉克《青青校树》战后小学里父亲般的教师与孩子；明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "战后",
+    "小学",
+    "温情"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 67
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "青青校树 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-elementary-school-1991.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/18141）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dU2gpTdeKQr8uMOUH2W4lRFxCrj.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "justice-league-not-alone",
+  "group": "classics",
+  "film": {
+    "title": "正义联盟",
+    "year": 2017,
+    "title_en": "Justice League",
+    "director": "扎克·施奈德 / 乔斯·韦登"
+  },
+  "lines": [
+    {
+      "text": "我没有垮掉。而且，我并不孤单。",
+      "en": "I'm not broken. And I'm not alone.",
+      "character": "维克多·斯通 / Cyborg",
+      "note": "钢骨自我接纳段落的通行短句；中文取常见字幕译法（broken≈垮掉/破碎）。"
+    }
+  ],
+  "tags": [
+    "超级英雄",
+    "DC",
+    "归属"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.1,
+      "votes": 13954
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "正义联盟 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/justice-league-2017.jpg）（影片页 https://www.themoviedb.org/movie/141052）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

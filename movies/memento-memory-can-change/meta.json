@@ -1,0 +1,57 @@
+{
+  "id": "memento-memory-can-change",
+  "group": "top250",
+  "film": {
+    "title": "记忆碎片",
+    "year": 2000,
+    "title_en": "Memento",
+    "director": "克里斯托弗·诺兰"
+  },
+  "lines": [
+    {
+      "text": "记忆会改变房间的形状，也会改变车的颜色。记忆可以被扭曲——它们只是一种解释，不是记录。",
+      "en": "Memory can change the shape of a room; it can change the color of a car. And memories can be distorted. They're just an interpretation, they're not a record.",
+      "character": "Leonard Shelby",
+      "note": "倒叙复仇的认识论炸弹：记忆碎片把「可信记录」拆成纹身与宝丽来。中文取题旨压缩；英文为片中经典记忆独白通行摘录。"
+    },
+    {
+      "text": "我必须相信我头脑之外还有一个世界。我必须相信我的行为仍有意义——哪怕我记不住它们。",
+      "character": "Leonard Shelby",
+      "en": "I have to believe in a world outside my own mind. I have to believe that my actions still have meaning, even if I can't remember them.",
+      "note": "莱纳德的生存哲学；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "为了快乐，我会骗自己吗？就你而言，泰迪——会的。",
+      "character": "Leonard Shelby",
+      "en": "Do I lie to myself to be happy? In your case, Teddy, yes I will.",
+      "note": "结尾的决断；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "记忆",
+    "叙事"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 650000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 1300000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 80
+    }
+  },
+  "still_alt": "记忆碎片 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/187-memento.jpg）（影片页 https://www.themoviedb.org/movie/77）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8pwCb7amg8Tvr9FZZJGt7J4OwLV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

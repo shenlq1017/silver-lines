@@ -1,0 +1,33 @@
+{
+  "id": "king-comedy-better-king",
+  "group": "classics",
+  "film": {
+    "title": "喜剧之王",
+    "year": 1982,
+    "title_en": "The King of Comedy",
+    "director": "马丁·斯科塞斯"
+  },
+  "lines": [
+    {
+      "text": "当一晚的国王，也不要一辈子做个笨蛋。",
+      "en": "Better to be king for a night than schmuck for a lifetime.",
+      "character": "鲁珀特·普 Pupkin",
+      "note": "鲁珀特自我神话的通行英译中；字幕措辞可能略有差异。"
+    }
+  ],
+  "tags": [
+    "黑色喜剧",
+    "成名",
+    "美国电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 110000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "喜剧之王 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-king-of-comedy-1982.jpg）（影片页 https://www.themoviedb.org/movie/262）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

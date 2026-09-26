@@ -1,0 +1,33 @@
+{
+  "id": "babam-ve-oglum-come-back",
+  "group": "classics",
+  "film": {
+    "title": "我的父亲我的儿子",
+    "year": 2005,
+    "title_en": "My Father and My Son",
+    "director": "恰安·伊尔马克"
+  },
+  "lines": [
+    {
+      "text": "儿子，有些错，一辈子也还不完。",
+      "en": "Some mistakes, my son, can never be repaid.",
+      "character": "侯赛因（祖父）/ Hüseyin（策展概括）",
+      "note": "策展意译：压缩祖父一代政治创伤与父子隔阂的伦理重量；非声称逐字土耳其语台词唯一译本。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "土耳其",
+    "和解"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 402
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "我的父亲我的儿子 · TMDB 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/babam-ve-oglum-2005.jpg）（影片页 https://www.themoviedb.org/movie/13393）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

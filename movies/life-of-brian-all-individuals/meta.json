@@ -1,0 +1,54 @@
+{
+  "id": "life-of-brian-all-individuals",
+  "group": "classics",
+  "film": {
+    "title": "蒙提·派森之布莱恩的一生",
+    "year": 1979,
+    "title_en": "Life of Brian",
+    "director": "特里·琼斯"
+  },
+  "lines": [
+    {
+      "text": "你们每个人都是独立的个体。",
+      "en": "You’re all individuals.",
+      "character": "Brian",
+      "note": "群众高喊一致时，布莱恩坚持每个人都是个体；蒙提·派森式政治讽刺。通行译法。"
+    },
+    {
+      "text": "罗马人到底为我们做过什么？",
+      "character": "Reg",
+      "en": "What have the Romans ever done for us?",
+      "note": "人民阵线会议的著名反转长段；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "他不是弥赛亚——他只是个很淘气的男孩。",
+      "character": "Mandy",
+      "en": "He was not the Messiah. He was a very naughty boy.",
+      "note": "片尾坠落后曼迪的收束；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "永远看到生活的光明面。",
+      "character": "Eric Idle（歌声）",
+      "en": "Always look on the bright side of life.",
+      "note": "片尾十字架上的合唱，派森标志曲目。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "讽刺",
+    "自由"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 420000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "蒙提·派森之布莱恩的一生 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/life-of-brian-1979.jpg）（影片页 https://www.themoviedb.org/movie/583）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/spG1CLArnPHPocVWS47k9GZUDzm.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

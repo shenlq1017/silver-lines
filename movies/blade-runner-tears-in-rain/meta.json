@@ -1,0 +1,56 @@
+{
+  "id": "blade-runner-tears-in-rain",
+  "group": "classics",
+  "film": {
+    "title": "银翼杀手",
+    "year": 1982,
+    "title_en": "Blade Runner",
+    "director": "雷德利·斯科特"
+  },
+  "lines": [
+    {
+      "text": "这些瞬间都会消逝在时间里，如同眼泪消失在雨中。",
+      "en": "All those moments will be lost in time, like tears in rain.",
+      "character": "Roy Batty",
+      "note": "复制人临终独白压过追杀：银翼杀手「雨中泪」是类型片里最温柔的末日。通行定译；完整独白前半「我看见了……」常一并引用，本批取压轴喻体。"
+    },
+    {
+      "text": "烧得两倍亮的灯——只能烧一半的时间。",
+      "character": "Eldon Tyrell",
+      "en": "The light that burns twice as bright burns half as long.",
+      "note": "泰瑞尔对罗伊的警告；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你完成了一个男子汉的活儿，长官。",
+      "character": "Gaff",
+      "en": "You've done a man's job, sir.",
+      "note": "加夫对德卡德的评语；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "人性",
+    "死亡"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 850000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 89
+    },
+    "metacritic": {
+      "score": 84
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "银翼杀手 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/blade-runner-1982.jpg）（影片页 https://www.themoviedb.org/movie/78）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

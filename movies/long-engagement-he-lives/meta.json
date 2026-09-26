@@ -1,0 +1,34 @@
+{
+  "id": "long-engagement-he-lives",
+  "group": "classics",
+  "film": {
+    "title": "漫长的婚约",
+    "year": 2004,
+    "title_en": "A Very Long Engagement",
+    "director": "让-皮埃尔·热内"
+  },
+  "lines": [
+    {
+      "text": "只要我还相信他活着，战争就还没真正结束。",
+      "en": "As long as I believe he lives, the war is not truly over for me.",
+      "character": "玛蒂尔德 / Mathilde",
+      "note": "策展意译：对应热内《漫长的婚约》玛蒂尔德拒不接受未婚夫阵亡的执念主线，不冒充单一字幕句。"
+    }
+  ],
+  "tags": [
+    "一战",
+    "信念",
+    "寻人",
+    "热内"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 1371
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "漫长的婚约 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-very-long-engagement-2004.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/2841）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vOpm4wQk5qIl8UepoKrpaloqaPC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

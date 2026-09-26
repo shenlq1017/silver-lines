@@ -1,0 +1,40 @@
+{
+  "id": "et-phonehome",
+  "group": "classics",
+  "film": {
+    "title": "E.T.外星人",
+    "year": 1982,
+    "title_en": "E.T. the Extra-Terrestrial",
+    "director": "史蒂文·斯皮尔伯格"
+  },
+  "lines": [
+    {
+      "text": "E.T.打电话回家。",
+      "en": "E.T. phone home.",
+      "character": "E.T.",
+      "note": "E.T.学会说话后反复说出的对白；AFI 百大电影台词第15；Wikiquote／IMDb quotes／通行华语字幕「E.T.打电话回家」可核。"
+    },
+    {
+      "text": "我会一辈子相信你——每一天。",
+      "character": "Elliott",
+      "en": "I'll believe in you all my life, every day.",
+      "note": "埃利奥特对 E.T. 的承诺；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "童年",
+    "回家",
+    "沟通"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 12274
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "E.T.外星人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/e-t-the-extra-terrestrial-1982.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/601）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nxjkgFpYaT8PtySODYGxcOFa6pS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

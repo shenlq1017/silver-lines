@@ -1,0 +1,34 @@
+{
+  "id": "kuroneko-revenge",
+  "group": "classics",
+  "film": {
+    "title": "黑猫",
+    "year": 1968,
+    "title_en": "Kuroneko",
+    "director": "新藤兼人"
+  },
+  "lines": [
+    {
+      "text": "被蹂躏的人若化作猫，复仇便不再讲人间道理。",
+      "en": "When the violated return as cats, revenge no longer answers to human reason.",
+      "character": "母女亡灵 / the ghost mother and daughter",
+      "note": "主题性策展句：概括新藤兼人《黑猫》中母女化为猫妖向武士复仇的寓言逻辑，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "复仇",
+    "鬼怪",
+    "武士",
+    "新藤兼人"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 240
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "黑猫 · TMDB 宣传静帧（2607×1465）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kuroneko-1968.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/40149）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/j84jz9MfBpgH8QXhzXG6ZS19zGI.jpg（2607×1465）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

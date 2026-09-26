@@ -1,0 +1,33 @@
+{
+  "id": "seppuku-honor-not-words",
+  "group": "classics",
+  "film": {
+    "title": "切腹",
+    "year": 1964,
+    "title_en": "Seppuku",
+    "director": "Masaki Kobayashi"
+  },
+  "lines": [
+    {
+      "text": "荣誉不是挂在嘴上的东西。",
+      "en": "Honor is not something you wear on your lips.",
+      "character": "津云半四郎（Hanshiro Tsugumo）",
+      "note": "通行字幕意译；影片将“荣誉”还原为制度与人的选择。"
+    }
+  ],
+  "tags": [
+    "武士",
+    "荣誉",
+    "反战"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.6,
+      "votes": 128500
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "切腹 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/seppuku-1964.jpg）（影片页 https://www.themoviedb.org/movie/14537）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6MOj7tvNOAteeWPI2atEqIlFnC2.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

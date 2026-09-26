@@ -1,0 +1,34 @@
+{
+  "id": "youth-silence",
+  "group": "classics",
+  "film": {
+    "title": "青年",
+    "year": 2015,
+    "title_en": "Youth",
+    "director": "保罗·索伦蒂诺"
+  },
+  "lines": [
+    {
+      "text": "最难的不是老去，是学会对过去的旋律保持沉默。",
+      "en": "The hardest part is not growing old — it is learning to stay silent before the melodies of the past.",
+      "character": "弗雷德 / Fred Ballinger",
+      "note": "主题性策展句：概括索伦蒂诺《青年》中退休作曲家拒绝重奏旧作、面对衰老与记忆的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "衰老",
+    "音乐",
+    "记忆",
+    "索伦蒂诺"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 2270
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "青年 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/youth-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/310593）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7nFfW8RM50PANBIdfI9Ut3FdoSB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

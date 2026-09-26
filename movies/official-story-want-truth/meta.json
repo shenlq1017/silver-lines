@@ -1,0 +1,33 @@
+{
+  "id": "official-story-want-truth",
+  "group": "classics",
+  "film": {
+    "title": "官方说法",
+    "year": 1985,
+    "title_en": "The Official Story",
+    "director": "路易斯·普恩佐"
+  },
+  "lines": [
+    {
+      "text": "我想知道真相。",
+      "en": "I want to know the truth.",
+      "character": "艾丽西亚 / Alicia",
+      "note": "策展译法：概括艾丽西亚从自我保护走向追问的核心诉求；不冒充唯一逐字版本。"
+    }
+  ],
+  "tags": [
+    "历史创伤",
+    "家庭",
+    "真相"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 12000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "官方说法 · TMDB 宣传静帧（1945×1094）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-official-story-1985.jpg）（影片页 https://www.themoviedb.org/movie/29263）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gCqWZ8T6Vf2geiDPVWAtOYrpuq.jpg（1945×1094）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

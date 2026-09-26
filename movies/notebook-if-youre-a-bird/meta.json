@@ -1,0 +1,56 @@
+{
+  "id": "notebook-if-youre-a-bird",
+  "group": "top250",
+  "film": {
+    "title": "恋恋笔记本",
+    "year": 2004,
+    "title_en": "The Notebook",
+    "director": "尼克·卡萨维茨"
+  },
+  "lines": [
+    {
+      "text": "如果你是鸟，那我也是鸟。",
+      "en": "If you're a bird, I'm a bird.",
+      "character": "Noah Calhoun / Allie Hamilton",
+      "note": "雨中与湖边的儿戏誓言：恋恋笔记本用一句对称告白，把一生折叠成鸟的翅膀。通行定译。"
+    },
+    {
+      "text": "我是个普通人，想法普通，过得平凡。但有一件事我做到了极致：我全心全意爱过一个人。对我而言，这就足够了。",
+      "character": "Noah（老年独白）",
+      "en": "I am nothing special, of this I am sure... But in one respect I have succeeded as gloriously as anyone who's ever lived: I've loved another with all my heart and soul, and for me, that has always been enough.",
+      "note": "写给艾莉的读信独白（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "这不容易，会非常难。我们得每天面对彼此。但我想要这样——因为我想要你。我要全部的你，永远，每一天。",
+      "character": "Noah Calhoun",
+      "en": "So it's not gonna be easy. It's gonna be really hard... But I wanna do that, because I want you. I want all of you, forever, every day.",
+      "note": "雨中争吵后的挽留名段；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "记忆",
+    "承诺"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 650000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 650000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 53
+    },
+    "metacritic": {
+      "score": 53
+    }
+  },
+  "still_alt": "恋恋笔记本 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/234-the-notebook.jpg）（影片页 https://www.themoviedb.org/movie/11036）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/kMXamIoNIY7wfBpKavorz7ZHjn0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

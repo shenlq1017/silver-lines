@@ -1,0 +1,33 @@
+{
+  "id": "circle-women-loop",
+  "group": "classics",
+  "film": {
+    "title": "圆圈",
+    "year": 2000,
+    "title_en": "The Circle",
+    "director": "贾法尔·帕纳希"
+  },
+  "lines": [
+    {
+      "text": "女人的路，走来走去还是一个圆。",
+      "en": "A woman’s road, walked again and again, is still a circle.",
+      "character": "题眼 / Title metaphor",
+      "note": "策展意译：借片名《圆圈》概括帕纳希威尼斯金狮之作中伊朗女性角色的循环困境；群像对白分散，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "女性",
+    "伊朗",
+    "循环"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 106
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "圆圈 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-circle-2000.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/13898）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/guzBItSjW1nPktU9LB8SAARGEzA.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

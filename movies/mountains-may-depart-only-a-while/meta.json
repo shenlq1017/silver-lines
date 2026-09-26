@@ -1,0 +1,33 @@
+{
+  "id": "mountains-may-depart-only-a-while",
+  "group": "classics",
+  "film": {
+    "title": "山河故人",
+    "year": 2015,
+    "title_en": "Mountains May Depart",
+    "director": "贾樟柯"
+  },
+  "lines": [
+    {
+      "text": "每个人都只能陪你走一段路，迟早是要分开的。",
+      "en": "Everyone can only walk with you for a stretch — sooner or later, you part.",
+      "character": "沈涛 / Shen Tao",
+      "note": "通行对白：赵涛饰沈涛的标识性独白，亦见于宣发；字幕版“一段路/一段时间”略有出入，取最广传播形态。"
+    }
+  ],
+  "tags": [
+    "离别",
+    "时代",
+    "乡愁"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7,
+      "votes": 263
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "山河故人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/mountains-may-depart-2015.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/314388）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gAJgUS1DfkamTfvwehp0enR8dJ3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

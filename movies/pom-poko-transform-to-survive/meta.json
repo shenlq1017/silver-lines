@@ -1,0 +1,33 @@
+{
+  "id": "pom-poko-transform-to-survive",
+  "group": "classics",
+  "film": {
+    "title": "平成狸合战",
+    "year": 1994,
+    "title_en": "Pom Poko",
+    "director": "高畑勋"
+  },
+  "lines": [
+    {
+      "text": "不变成人类，我们就活不下去了。",
+      "en": "If we don’t turn into humans, we won’t survive.",
+      "character": "狸猫族群 / The tanuki community",
+      "note": "策展意译：概括高畑勋《平成狸合战》中狸猫为求存被迫同化/变人的主题抉择；不同字幕措辞不一，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "环保",
+    "变身",
+    "现代化"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 1237
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "平成狸合战 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pom-poko-1994.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/15283）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2uv0VEoyWxb3KgsiF5FInWP18wQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

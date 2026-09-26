@@ -1,0 +1,33 @@
+{
+  "id": "woman-stairs-own-bar",
+  "group": "classics",
+  "film": {
+    "title": "女人走上楼梯时",
+    "year": 1960,
+    "title_en": "A Woman Ascends the Stairs",
+    "director": "成濑巳喜男"
+  },
+  "lines": [
+    {
+      "text": "我想有一间自己的店。",
+      "en": "I want a place of my own.",
+      "character": "桂子 / Keiko",
+      "note": "通行译法：银座女主人桂子反复说出的自立愿望；影片以此对抗被男性经济关系吞没的命运。"
+    }
+  ],
+  "tags": [
+    "女性",
+    "自立",
+    "成濑"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 131
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "女人走上楼梯时 · TMDB 宣传静帧（2000×1125）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-woman-ascends-the-stairs-1960.jpg）（影片页 https://www.themoviedb.org/movie/36872）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fmH4wQPqRZVNRKbSE1KP4AZTKwh.jpg（2000×1125）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

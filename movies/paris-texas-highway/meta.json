@@ -1,0 +1,41 @@
+{
+  "id": "paris-texas-highway",
+  "group": "classics",
+  "film": {
+    "title": "巴黎，德克萨斯",
+    "year": 1984,
+    "title_en": "Paris, Texas",
+    "director": "维姆·文德斯"
+  },
+  "lines": [
+    {
+      "text": "公路尽头不是家，是一张还没说完的口信。",
+      "en": "At the end of the highway is not home — it is a message still unfinished.",
+      "character": "特拉维斯 / Travis",
+      "note": "主题性策展句：概括文德斯《巴黎，德克萨斯》中荒漠归来与隔窗告白的亲情修复题旨，非逐字引文。"
+    },
+    {
+      "text": "我认识两个人。这两个人——曾经相爱。",
+      "character": "Travis Henderson",
+      "en": "I knew these people. These two people. They were in love with each other.",
+      "note": "全片开场独白的第一句；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "公路",
+    "家庭",
+    "疏离",
+    "文德斯"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 2323
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "巴黎，德克萨斯 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/paris-texas-1984.jpg，1455×2048）（影片页 https://www.themoviedb.org/movie/655）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

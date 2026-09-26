@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>金句详情 · 银幕金句</title>
-  <meta name="description" content="银幕金句详情：静帧叠字与评分徽章">
+  <title>台词详情 · 片语 Silver Lines</title>
+  <meta name="description" content="片语详情：全屏静帧叠一句台词，出处与评分为策展快照">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet">
@@ -13,12 +13,12 @@
 <body class="page-detail" data-base="../../">
   <header class="site-header">
     <div class="site-header__inner">
-      <a class="logo" href="../../">银幕金句 <span>Silver Lines</span></a>
+      <a class="logo" href="../../">片语 <span>Silver Lines</span></a>
       <nav>
         <ul class="nav">
-          <li><a class="back-link" href="../">← 返回金句墙</a></li>
+          <li><a class="back-link" href="../">← 返回片语集</a></li>
           <li><a href="../../">首页</a></li>
-          <li><a href="../" aria-current="page">金句</a></li>
+          <li><a href="../" aria-current="page">片语</a></li>
           <li><a href="../../about/">关于</a></li>
         </ul>
       </nav>
@@ -52,7 +52,7 @@
           });
           if (!q) {
             root.innerHTML =
-              '<p class="error-msg" style="margin:2rem">未找到金句「' +
+              '<p class="error-msg" style="margin:2rem">未找到台词「' +
               SilverSite.escapeHtml(id) +
               '」。<a href="../">返回列表</a></p>';
             return;

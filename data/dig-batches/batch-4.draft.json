@@ -1,0 +1,1111 @@
+{
+ "batch": 4,
+ "generated": "2026-09-26",
+ "items": [
+  {
+   "id": "about-time-chosen-day",
+   "lines": [
+    {
+     "text": "我们每天都在一起穿越时间。我们所能做的，就是尽力享受这段奇妙的旅程。",
+     "en": "We're all traveling through time together, every day of our lives. All we can do is do our best to relish this remarkable ride.",
+     "character": "Tim's father",
+     "note": "父亲最后一次时间旅行的教导；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "aladdin-cosmic-powers",
+   "lines": [
+    {
+     "text": "规矩一：我不能杀人，所以别问。规矩二：我不能让人爱上别人。",
+     "en": "Rule number one: I can't kill anybody. So don't ask. Rule two: I can't make anyone fall in love with anybody else.",
+     "character": "Genie",
+     "note": "精灵的三条规矩（节选）；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "你相信我吗？",
+     "en": "Do you trust me?",
+     "character": "Aladdin",
+     "note": "阳台与飞毯两次伸手的著名台词；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "arrival-language-first-weapon",
+   "lines": [
+    {
+     "text": "如果能从头到尾看见你的一生，你还会改变它吗？",
+     "en": "If you could see your whole life from start to finish, would you change things?",
+     "character": "Louise Banks",
+     "note": "路易斯的核心之问；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "即使知道旅程和它的终点，我也拥抱它，迎接它的每一个瞬间。",
+     "en": "Despite knowing the journey and where it leads, I embrace it, and welcome every moment of it.",
+     "character": "Louise Banks",
+     "note": "结尾独白；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "batman-returns-lifes-a-bitch",
+   "lines": [
+    {
+     "text": "你只是嫉妒——我是天生的怪物，你却得靠面具！",
+     "en": "You're just jealous because I'm a genuine freak and you have to wear a mask!",
+     "character": "The Penguin",
+     "note": "企鹅人的挑衅；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "before-sunrise-dream-me",
+   "lines": [
+    {
+     "text": "世上若真有魔法，一定藏在试图理解一个人、分享一些什么的过程里。",
+     "en": "If there's any kind of magic in this world, it must be in the attempt of understanding someone, sharing something.",
+     "character": "Celine",
+     "note": "赛琳娜在唱片试音间的独白；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我们做的一切，不都是想多被爱一点点吗？",
+     "en": "Isn't everything we do in life a way to be loved a little more?",
+     "character": "Jesse",
+     "note": "杰西的告白；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "black-panther-wakanda-forever",
+   "lines": [
+    {
+     "text": "危机之中，智者修桥，愚者筑墙。",
+     "en": "In times of crisis, the wise build bridges while the foolish build barriers.",
+     "character": "T'Challa",
+     "note": "特查拉在联合国的发言；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "把我葬进海里，和那些跳船的祖先在一起——他们知道，死亡好过枷锁。",
+     "en": "Bury me in the ocean, with my ancestors that jumped from the ships, because they knew death was better than bondage.",
+     "character": "Killmonger",
+     "note": "齐尔蒙格的临终请求，全片最重一击；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我们要学会彼此照看——像同一个部族。",
+     "en": "We must find a way to look after one another, as if we were one single tribe.",
+     "character": "T'Challa",
+     "note": "特查拉的结语；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "blue-velvet-strange-world",
+   "lines": [
+    {
+     "text": "别看我！",
+     "en": "Don't look at me!",
+     "character": "Frank Booth",
+     "note": "弗兰克失控的吼叫；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我不知道你到底是侦探还是变态。",
+     "en": "I don't know if you're a detective or a pervert.",
+     "character": "Sandy",
+     "note": "桑迪对杰弗里的定性；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "bride-inigo",
+   "lines": [
+    {
+     "text": "你一直在用那个词——我不认为它是什么意思你就是什么意思。",
+     "en": "You keep using that word. I do not think it means what you think it means.",
+     "character": "Inigo Montoya",
+     "note": "伊尼戈怼「不可思议」的名句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "如你所愿。",
+     "en": "As you wish.",
+     "character": "Westley",
+     "note": "农场boy的暗语情话；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "不可思议！",
+     "en": "Inconceivable!",
+     "character": "Vizzini",
+     "note": "维兹尼的口头禅；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "casino-keep-them-playing",
+   "lines": [
+    {
+     "text": "爱一个人，就得信任他。没有别的办法。",
+     "en": "When you love someone, you've gotta trust them. There's no other way.",
+     "character": "Sam 'Ace' Rothstein",
+     "note": "萨姆的婚姻逻辑，随后被辜负；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "cmbyn-call-me",
+   "lines": [
+    {
+     "text": "可为了不去感受，就让自己什么都感觉不到——多可惜啊！",
+     "en": "But to make yourself feel nothing so as not to feel anything — what a waste!",
+     "character": "Mr. Perlman",
+     "note": "父亲的著名训导（节选）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "此刻有悲伤，有痛苦。别杀掉它——连同你感受过的快乐一起。",
+     "en": "Right now, there's sorrow, pain. Don't kill it, and with it the joy you've felt.",
+     "character": "Mr. Perlman",
+     "note": "同段训导的下半句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "comrades-found-you",
+   "lines": [
+    {
+     "text": "黎小军同志，我来香港的目的不是你，你来香港的目的也不是我。",
+     "character": "李翘",
+     "note": "李翘的清醒切割，全片最痛的台词；通行引述可查。",
+     "confidence": "high",
+     "source_hint": "wikiquote"
+    },
+    {
+     "text": "傻女，听我说，现在立刻回家，洗个热水澡——明天起来，满街都是男人，个个都比豹哥好。",
+     "character": "豹哥",
+     "note": "豹哥亡命前的告别；通行引述可查。",
+     "confidence": "medium",
+     "source_hint": "memory"
+    }
+   ]
+  },
+  {
+   "id": "days-minute-memory",
+   "lines": [
+    {
+     "text": "我听别人说，这世界上有一种鸟是没有脚的。它只能一直地飞呀飞，飞累了就在风里睡觉。这种鸟一辈子只能下地一次——那一次，就是它死的时候。",
+     "character": "旭仔",
+     "note": "无脚鸟的独白，王家卫最著名的段落之一；通行引述可查。",
+     "confidence": "high",
+     "source_hint": "wikiquote"
+    }
+   ]
+  },
+  {
+   "id": "detachment-pleasant-lies",
+   "lines": [
+    {
+     "text": "我从未同时感到如此与自己疏离——又如此真切地存在于世界。",
+     "en": "And never have I felt so deeply at one and the same time so detached from myself and so present in the world.",
+     "character": "片头引语（加缪）",
+     "note": "片头引用加缪《堕落》；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "dkr-hero-anyone",
+   "lines": [
+    {
+     "text": "你只是适应了黑暗。我在黑暗里出生——被它塑造。",
+     "en": "You merely adopted the dark. I was born in it, moulded by it.",
+     "character": "Bane",
+     "note": "贝恩对蝙蝠侠的名言；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "胜利打败了你。",
+     "en": "Victory has defeated you.",
+     "character": "Bane",
+     "note": "贝恩的点破；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "endgame-love-you-three-thousand",
+   "lines": [
+    {
+     "text": "旅程的一部分，就是终点。",
+     "en": "Part of the journey is the end.",
+     "character": "Tony Stark",
+     "note": "托尼留下的全息留言；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我就是钢铁侠。",
+     "en": "I am Iron Man.",
+     "character": "Tony Stark",
+     "note": "打响指前的宣告，全系列闭环；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "复仇者——集合。",
+     "en": "Avengers... assemble.",
+     "character": "Steve Rogers",
+     "note": "终局决战的集结令；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "godfather3-pull-me-back",
+   "lines": [
+    {
+     "text": "永远不要恨你的敌人——这会影响你的判断。",
+     "en": "Never hate your enemies. It affects your judgment.",
+     "character": "Michael Corleone",
+     "note": "迈克尔晚年的领悟；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "goodfellas-always-gangster",
+   "lines": [
+    {
+     "text": "哪里好笑？我是小丑吗？我逗你笑了？",
+     "en": "Funny how? I mean, funny like I'm a clown? I amuse you?",
+     "character": "Tommy DeVito",
+     "note": "汤米逼问的餐桌名场面；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "永远不咬朋友——永远闭嘴。",
+     "en": "Never rat on your friends and always keep your mouth shut.",
+     "character": "Jimmy Conway",
+     "note": "吉米的两条铁律；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "groundhog-what-if-stuck",
+   "lines": [
+    {
+     "text": "我是神明。不是那个上帝。",
+     "en": "I'm a god. I'm not the God.",
+     "character": "Phil Connors",
+     "note": "菲尔的狂妄与较真；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "hibiscus-live-on",
+   "lines": [
+    {
+     "text": "运动了——！",
+     "character": "王秋赦",
+     "note": "疯了的王秋赦敲锣喊出的结尾，全片最冷一击；通行引述可查。",
+     "confidence": "high",
+     "source_hint": "memory"
+    }
+   ]
+  },
+  {
+   "id": "hunting-not-your-fault",
+   "lines": [
+    {
+     "text": "你会有糟心的日子，但那总会提醒你——注意那些你一直忽略的东西。",
+     "en": "You'll have bad times, but it'll always wake you up to the things you weren't paying attention to.",
+     "character": "Sean Maguire",
+     "note": "尚恩的人生注解；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "如果我问你战争，你会甩出莎士比亚给我……可你说不出它闻起来是什么味道。",
+     "en": "If I asked you about war, you'd probably throw Shakespeare at me... but you can't tell me what it smells like.",
+     "character": "Sean Maguire",
+     "note": "公园长椅名段（节选）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我得去看看一个姑娘。",
+     "en": "I gotta go see about a girl.",
+     "character": "Chuckie Sullivan",
+     "note": "查克上车前的告别，模仿《毕业生》；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "incredibles-everyone-super",
+   "lines": [
+    {
+     "text": "我从不回头看，亲爱的——那会分散对「当下」的注意力。",
+     "en": "I never look back, dahling. It distracts from the now.",
+     "character": "Edna Mode",
+     "note": "衣夫人的金句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "不许披风！",
+     "en": "NO CAPES!",
+     "character": "Edna Mode",
+     "note": "衣夫人的著名禁令；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我的战衣呢？",
+     "en": "Where is my super suit?",
+     "character": "Frozone",
+     "note": "酷冰侠与妻子的名场面；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "last-emperor-lonely",
+   "lines": [
+    {
+     "text": "开门！",
+     "en": "Open the door!",
+     "character": "溥仪",
+     "note": "溥仪一生被关在门外的呐喊，全片题眼；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "leopard-change",
+   "lines": [
+    {
+     "text": "我们是豹，是狮。取代我们的将是豺狼与绵羊——而我们这些豹、豺、绵羊，还会照样自以为是社会中坚。",
+     "en": "We were the leopards, the lions. Those who take our place will be jackals and sheep. And the whole lot of us — leopards, jackals and sheep — will keep thinking ourselves the salt of the earth.",
+     "character": "Prince Fabrizio",
+     "note": "亲王关于变革的著名独白；IMDb/Wikiquote 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "lighthouse-spill-yer-beans",
+   "lines": [
+    {
+     "text": "你就喜欢我的龙虾。说！",
+     "en": "Yer fond of me lobster. Say it!",
+     "character": "Thomas Wake",
+     "note": "老头逼问的荒诞名段；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "该死的！让尼普顿劈死你吧，温斯洛！",
+     "en": "DAMN ye! Let Neptune strike ye dead, Winslow!",
+     "character": "Thomas Wake",
+     "note": "老头的诅咒独白开头（节选）；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "lock-stock-knives-pro",
+   "lines": [
+    {
+     "text": "你知道「报应」是什么意思吗？",
+     "en": "Do you know what 'nemesis' means?",
+     "character": "Brick Top",
+     "note": "砖头叔喂猪论的开场；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "这买卖简直是抢——世纪大甩卖。",
+     "en": "It's a deal, it's a steal... Sale of the fuckin' century.",
+     "character": "Harry",
+     "note": "哈利买枪的得意（原文含粗口）；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "lost-in-translation-for-now",
+   "lines": [
+    {
+     "text": "你越清楚自己是谁、想要什么，就越不容易被事情搅扰。",
+     "en": "The more you know who you are and what you want, the less you let things upset you.",
+     "character": "Bob Harris",
+     "note": "鲍勃对夏洛特的人生建议；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "人生最吓人的一天，是第一个孩子出生的那天。",
+     "en": "The most terrifying day of your life is the day the first one is born.",
+     "character": "Bob Harris",
+     "note": "鲍勃谈育儿；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "matrix2-already-made-choice",
+   "lines": [
+    {
+     "text": "希望——这是人类最典型的妄想。它既是人类最强大的力量，也是最大的弱点。",
+     "en": "Hope. It is the quintessential human delusion... the source of your enduring strength and weakness.",
+     "character": "The Architect",
+     "note": "建筑师的终极论断；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "选择是幻觉——由有权者与无权者共同制造的幻觉。",
+     "en": "Choice is an illusion, created between those with power and those without.",
+     "character": "The Merovingian",
+     "note": "梅罗文嘉的选择论；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "nwh-great-power",
+   "lines": [
+    {
+     "text": "当你能帮一个人——就去帮。",
+     "en": "When you can help someone, you help them.",
+     "character": "May Parker",
+     "note": "梅姨对「能力越大责任越大」的朴素版本；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "old-beijing-flowers-fell",
+   "lines": [
+    {
+     "text": "长亭外，古道边，芳草碧连天。",
+     "character": "英子（唱）",
+     "note": "毕业典礼上唱起《送别》，与父亲离世互文；通行引述可查。",
+     "confidence": "medium",
+     "source_hint": "memory"
+    }
+   ]
+  },
+  {
+   "id": "paris-texas-highway",
+   "lines": [
+    {
+     "text": "我认识两个人。这两个人——曾经相爱。",
+     "en": "I knew these people. These two people. They were in love with each other.",
+     "character": "Travis Henderson",
+     "note": "全片开场独白的第一句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "prestige-watching-closely",
+   "lines": [
+    {
+     "text": "秘密本身不会打动任何人——你用它变出的戏法才是一切。",
+     "en": "The secret impresses no one. The trick you use it for is everything.",
+     "character": "Alfred Borden",
+     "note": "伯登的魔术哲学；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "阿布拉卡达布拉。",
+     "en": "Abracadabra.",
+     "character": "Alfred Borden",
+     "note": "掉包台上的最后一词，全片闭环；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "rebecca-last-night-dreamed",
+   "lines": [
+    {
+     "text": "我们再也不能回曼德利了。",
+     "en": "We can never go back to Manderley again.",
+     "character": "Maxim de Winter",
+     "note": "迈克西姆的收束；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "requiem-somebody-now",
+   "lines": [
+    {
+     "text": "我要上电视了。",
+     "en": "I'm going to be on television.",
+     "character": "Sara Goldfarb",
+     "note": "萨拉的执念，全片悲剧的引擎；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "seven-samurai-protect",
+   "lines": [
+    {
+     "text": "你这样——还配当武士吗！",
+     "character": "菊千代",
+     "note": "菊千代撕开武士与农民的伪善；通行字幕译法。",
+     "confidence": "medium",
+     "source_hint": "subtitle"
+    },
+    {
+     "text": "又是我们输了。赢的，是农民。",
+     "character": "岛田勘兵卫",
+     "note": "结尾勘兵卫的总结，黑泽明的落点；通行字幕译法。",
+     "confidence": "medium",
+     "source_hint": "subtitle"
+    }
+   ]
+  },
+  {
+   "id": "slumdog-it-is-written",
+   "lines": [
+    {
+     "text": "这是我们的命运。",
+     "en": "This is our destiny.",
+     "character": "Jamal Malik",
+     "note": "站台重逢时对拉媞卡的话；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "soul-spark-not-purpose",
+   "lines": [
+    {
+     "text": "小鱼说：我想知道水是什么。大鱼说：这就是水。",
+     "en": "This little fish says, 'I want to know what water is.' The older fish says, 'This is water.'",
+     "character": "Dorothea Williams",
+     "note": "「水是什么」的寓言；IMDb quotes 可查。",
+     "confidence": "medium",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我要珍惜活着的每一分钟。",
+     "en": "I'm going to live every minute of it.",
+     "character": "Joe Gardner",
+     "note": "乔的结尾领悟；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "thing-nobody-trusts-anybody",
+   "lines": [
+    {
+     "text": "我知道我是人。如果你们中间谁已经是那东西——你现在就该扑上来。所以，你们中间还有人。",
+     "en": "I know I'm human. And if you were all these things, then you'd just attack me right now. So some of you are still human.",
+     "character": "R.J. MacReady",
+     "note": "验血试验的名段（节选）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "titanic-jump",
+   "lines": [
+    {
+     "text": "你必须答应我——答应我你会活下去。",
+     "en": "You must do me this honor. Promise me you'll survive.",
+     "character": "Jack Dawson",
+     "note": "冰海中的托付（节选）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "赢到那张船票，是我一生最幸运的事——它让我遇见了你。",
+     "en": "Winning that ticket was the best thing that ever happened to me... it brought me to you.",
+     "character": "Jack Dawson",
+     "note": "杰克最后的独白（节选）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "我永不放手，杰克。永不。",
+     "en": "I'll never let go, Jack. I'll never let go.",
+     "character": "Rose",
+     "note": "露丝的承诺；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "training-kong",
+   "lines": [
+    {
+     "text": "重要的不是你知道什么——而是你能证明什么。",
+     "en": "It's not what you know, it's what you can prove.",
+     "character": "Alonzo Harris",
+     "note": "阿洛佐的街头法律；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "这是下棋，不是跳棋。",
+     "en": "The shit is chess, it ain't checkers.",
+     "character": "Alonzo Harris",
+     "note": "阿洛佐的布局论（原文含粗口）；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "usual-suspects-devils-trick",
+   "lines": [
+    {
+     "text": "就这样……他消失了。",
+     "en": "And like that... he's gone.",
+     "character": "Verbal Kint",
+     "note": "全片的收束一句；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "wallstreet-greed",
+   "lines": [
+    {
+     "text": "午餐是给懦夫准备的。",
+     "en": "Lunch is for wimps.",
+     "character": "Gordon Gekko",
+     "note": "盖柯的职场格言；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "你不在里面，就在外面！",
+     "en": "If you're not inside, you're outside!",
+     "character": "Gordon Gekko",
+     "note": "盖柯的丛林法则；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  },
+  {
+   "id": "zootopia-anyone",
+   "lines": [
+    {
+     "text": "永远别让他们看到——他们伤到了你。",
+     "en": "Never let them see that they get to you.",
+     "character": "Nick Wilde",
+     "note": "尼克教朱迪的生存术；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "你知道你爱我。",
+     "en": "You know you love me.",
+     "character": "Judy Hopps",
+     "note": "结尾朱迪的调侃；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    },
+    {
+     "text": "知道吗？——知道。",
+     "en": "Do I know that? Yes. Yes, I do.",
+     "character": "Nick Wilde",
+     "note": "同场尼克的回答；IMDb quotes 可查。",
+     "confidence": "high",
+     "source_hint": "imdb"
+    }
+   ]
+  }
+ ],
+ "skipped": [
+  {
+   "id": "5cm-cherry-blossom-speed",
+   "reason": "动画配音措辞无把握（主台词外）"
+  },
+  {
+   "id": "alphaville-je-vous-aime",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "amour-apres-midi",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "aparajito-i-want-to-go-calcutta",
+   "reason": "孟加拉语原句无把握"
+  },
+  {
+   "id": "autumn-afternoon-living-alone",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "baby-driver-anywhere",
+   "reason": "节奏对白琐碎，逐字无把握"
+  },
+  {
+   "id": "bicycle-thieves-dignity",
+   "reason": "意大利语原句无把握"
+  },
+  {
+   "id": "black-narcissus-all-in-your-mind",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "blue-choker-visible-wound",
+   "reason": "资料太少，逐字无把握"
+  },
+  {
+   "id": "bourne3-what-they-make-you-give",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "budapest-glimmers",
+   "reason": "主台词即核心段，其余逐字无把握"
+  },
+  {
+   "id": "butterfly-change-everything",
+   "reason": "台词琐碎，逐字无把握"
+  },
+  {
+   "id": "charulata-lonely",
+   "reason": "孟加拉语原句无把握"
+  },
+  {
+   "id": "christmas-tale-family",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "city-of-sadness-cannot-hear",
+   "reason": "台语原句无把握"
+  },
+  {
+   "id": "croods-new-is-always-better",
+   "reason": "动画配音措辞无把握"
+  },
+  {
+   "id": "damned-dynasty",
+   "reason": "德语原句无把握"
+  },
+  {
+   "id": "dolls-red-cord",
+   "reason": "几近无对白"
+  },
+  {
+   "id": "dreams-van-gogh",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "duzhan-chain",
+   "reason": "粤语原句无把握"
+  },
+  {
+   "id": "eight-half-director",
+   "reason": "意大利语原句无把握"
+  },
+  {
+   "id": "face-another-mask",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "festen-i-have-a-speech",
+   "reason": "丹麦语原句无把握"
+  },
+  {
+   "id": "flight-white-army-run",
+   "reason": "俄语原句无把握"
+  },
+  {
+   "id": "four-hundred-blows-lie-to-breathe",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "furnaces-hour-colonized",
+   "reason": "西语纪录片旁白，逐字无把握"
+  },
+  {
+   "id": "germany-zero-ruins",
+   "reason": "德语原句无把握"
+  },
+  {
+   "id": "great-buddha-hollow",
+   "reason": "台语原句无把握"
+  },
+  {
+   "id": "hana-bi-paint-the-flower",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "heading-south-buy",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "hole-leak",
+   "reason": "台语原句无把握"
+  },
+  {
+   "id": "horse-thief-god-sees",
+   "reason": "藏语原句无把握"
+  },
+  {
+   "id": "identity-who-are-you",
+   "reason": "台词琐碎，逐字无把握"
+  },
+  {
+   "id": "invisible-guest-what-you-think",
+   "reason": "西语原句无把握"
+  },
+  {
+   "id": "jeanne-dielman-routine",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "journey-italy-dead-already",
+   "reason": "英意混合，逐字无把握"
+  },
+  {
+   "id": "kaguya-born-to-live",
+   "reason": "动画配音措辞无把握"
+  },
+  {
+   "id": "kikujiro-im-here",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "klaus-selfless",
+   "reason": "主台词即核心，其余逐字无把握"
+  },
+  {
+   "id": "la-confidential-off-record",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "madadayo-not-yet",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "maria-braun-war-not-over",
+   "reason": "德语原句无把握"
+  },
+  {
+   "id": "medea-nothing-possible",
+   "reason": "意大利语原句无把握"
+  },
+  {
+   "id": "mirror-not-yet-past",
+   "reason": "俄语原句无把握"
+  },
+  {
+   "id": "monster-who-is-monster",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "my20th-twin-century",
+   "reason": "匈牙利语原句无把握"
+  },
+  {
+   "id": "nashville-it-dont-worry-me",
+   "reason": "群像片，逐字无把握"
+  },
+  {
+   "id": "nobody-knows-never-tell",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "ordet-i-believe-in-god",
+   "reason": "丹麦语原句无把握"
+  },
+  {
+   "id": "pakeezah-pure-name",
+   "reason": "印地/乌尔都语原句无把握"
+  },
+  {
+   "id": "perfect-blue-who-am-i",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "piano-speaking-voice",
+   "reason": "哑女主角，台词极少"
+  },
+  {
+   "id": "pitfall-neither-dream-nor-reality",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "pont-neuf-fireworks",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "purple-rose-screen",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "ran-in-a-mad-world",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "rocco-brothers-milan",
+   "reason": "意大利语原句无把握"
+  },
+  {
+   "id": "rosetta-normal-life",
+   "reason": "主台词即全部 mantra，其余法语逐字无把握"
+  },
+  {
+   "id": "runner-gulf",
+   "reason": "波斯语原句无把握"
+  },
+  {
+   "id": "samurai-cooking-board",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "scene-at-sea-waves",
+   "reason": "几乎无对白"
+  },
+  {
+   "id": "second-mother-house-rules",
+   "reason": "葡萄牙语原句无把握"
+  },
+  {
+   "id": "shoah-you-cannot-imagine",
+   "reason": "法语纪录片，逐字无把握"
+  },
+  {
+   "id": "shutter-monster-or-man",
+   "reason": "主台词即核心，其余逐字无把握"
+  },
+  {
+   "id": "spring-in-a-small-town-i-shouldnt-have-returned",
+   "reason": "旁白逐字无把握"
+  },
+  {
+   "id": "stop-making-sense-how-here",
+   "reason": "演唱会电影，主台词即歌词"
+  },
+  {
+   "id": "sullivan-travels-laugh",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "sword-of-doom-kill",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "terminal-i-wait",
+   "reason": "除主台词外逐字无把握"
+  },
+  {
+   "id": "the-kid-smile-and-tear",
+   "reason": "默片字幕卡，无逐字对白"
+  },
+  {
+   "id": "throne-of-blood-spiders-web",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "tomboy-summer-name",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "two-days-vote",
+   "reason": "法语原句无把握"
+  },
+  {
+   "id": "veronique-double",
+   "reason": "法语/波兰语原句无把握"
+  },
+  {
+   "id": "werckmeister-you-are-the-sun",
+   "reason": "匈牙利语原句无把握"
+  },
+  {
+   "id": "wings-no-angel-knows",
+   "reason": "德语原句无把握"
+  },
+  {
+   "id": "woman-stairs-own-bar",
+   "reason": "日语原句无把握"
+  },
+  {
+   "id": "xiangnu-xiaoxiao-fate",
+   "reason": "方言老片，逐字无把握"
+  },
+  {
+   "id": "young-ahmed-path",
+   "reason": "法语原句无把握"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "after-life-one-memory",
+  "group": "classics",
+  "film": {
+    "title": "我永存的一天",
+    "year": 1998,
+    "title_en": "After Life",
+    "director": "是枝裕和"
+  },
+  "lines": [
+    {
+      "text": "请从一生中选出一段最宝贵的回忆——你将只带着它前往天国。",
+      "en": "Choose one most precious memory from your life; you will take only that into eternity.",
+      "character": "望月 / Takashi Mochizuki",
+      "note": "通行意译：工作人员向新来逝者说明中转站规则的核心句；中文通行译名亦作《下一站，天国》，本批沿用 batch 片名《我永存的一天》。"
+    }
+  ],
+  "tags": [
+    "记忆",
+    "死亡",
+    "日本"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 16000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "我永存的一天 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/after-life-1998.jpg）（影片页 https://www.themoviedb.org/movie/17962）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pXOsdvH4xuprxGmZMiCJsRAowi7.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

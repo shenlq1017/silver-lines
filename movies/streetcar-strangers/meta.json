@@ -1,0 +1,55 @@
+{
+  "id": "streetcar-strangers",
+  "group": "classics",
+  "film": {
+    "title": "欲望号街车",
+    "year": 1951,
+    "title_en": "A Streetcar Named Desire",
+    "director": "伊利亚·卡赞"
+  },
+  "lines": [
+    {
+      "text": "不管你是谁——我一向仰赖陌生人的善意。",
+      "en": "Whoever you are—I have always depended on the kindness of strangers.",
+      "character": "布兰奇·杜波依斯 / Blanche DuBois",
+      "note": "布兰奇被送走前对医生说出的对白（田纳西·威廉斯原剧句入片）；AFI 百大电影台词第75；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "斯特拉——！",
+      "character": "Stanley Kowalski",
+      "en": "STELLA!",
+      "note": "雨夜楼梯间的著名呐喊；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我不要什么真实，我要的是魔法！",
+      "character": "Blanche DuBois",
+      "en": "I don't want realism. I want magic!",
+      "note": "对米奇的自白；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "有些事是不可原谅的——故意的残忍，不可原谅。",
+      "character": "Blanche DuBois",
+      "en": "But some things are not forgivable. Deliberate cruelty is not forgivable.",
+      "note": "生日夜谈中的判决；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "戏剧",
+    "南方",
+    "幻觉",
+    "悲剧"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 1527
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "欲望号街车 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-streetcar-named-desire-1951.jpg，1180×1770）（影片页 https://www.themoviedb.org/movie/702）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nupLvXUu7ImxB2pKdS3jnpeEOVY.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "secrets-lies-where-from",
+  "group": "classics",
+  "film": {
+    "title": "秘密与谎言",
+    "year": 1996,
+    "title_en": "Secrets & Lies",
+    "director": "迈克·李"
+  },
+  "lines": [
+    {
+      "text": "我想知道我来自哪里。",
+      "en": "I want to know where I come from.",
+      "character": "霍滕西 / Hortense",
+      "note": "通行译法：霍滕西追问身世的核心台词，中文保持其平静而坚定的语气。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "身份",
+    "和解"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 46000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "秘密与谎言 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/secrets-lies-1996.jpg）（影片页 https://www.themoviedb.org/movie/11159）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6Q3Ui5pNykSEHOiAdHGZtfNoJ4y.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

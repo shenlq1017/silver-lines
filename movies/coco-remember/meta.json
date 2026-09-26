@@ -1,0 +1,49 @@
+{
+  "id": "coco-remember",
+  "group": "top250",
+  "film": {
+    "title": "寻梦环游记",
+    "year": 2017,
+    "title_en": "Coco",
+    "director": "李·昂克里奇"
+  },
+  "lines": [
+    {
+      "text": "请记住我。",
+      "en": "Remember me.",
+      "character": "Héctor / Ernesto",
+      "note": "主题曲《请记住我》（Remember Me）的核心句；亡灵节上最温柔的恳求。"
+    },
+    {
+      "text": "当活着的世界再没有一个人记得你，你就会从这个世界消失——我们管那叫「终极死亡」。",
+      "character": "Héctor",
+      "en": "When there's no one left in the living world who remembers you, you disappear from this world. We call it the Final Death.",
+      "note": "埃克托解释终极死亡；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "亲情",
+    "记忆"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 2000000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 650000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 97
+    },
+    "metacritic": {
+      "score": 81
+    }
+  },
+  "still_alt": "寻梦环游记 · 亡灵之城灯海宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/020-coco.jpg）（影片页 https://www.themoviedb.org/movie/354912）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bnkf3C2ZMF6i7MLOemWqEHDMqfh.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

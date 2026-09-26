@@ -1,0 +1,52 @@
+{
+  "id": "barbie-impossible-woman",
+  "group": "classics",
+  "film": {
+    "title": "芭比",
+    "year": 2023,
+    "title_en": "Barbie",
+    "director": "格蕾塔·葛韦格"
+  },
+  "lines": [
+    {
+      "text": "做女人几乎是不可能的。你这么美、这么聪明，可你仍觉得自己不够好——这快把我逼疯了。",
+      "en": "It is literally impossible to be a woman. You are so beautiful, and so smart, and it kills me that you don't think you're good enough.",
+      "character": "格洛丽亚 / Gloria",
+      "note": "格洛丽亚长独白开头的通行译法（略压缩）；完整独白更长，此处取公众最常引用的起句。"
+    },
+    {
+      "text": "人类只有一个结局，而理念可以永远活下去。",
+      "character": "Ruth Handler",
+      "en": "Humans only have one ending. Ideas live forever.",
+      "note": "露丝在 «Barbie» 创始处的点拨；IMDb quotes 可查。"
+    },
+    {
+      "text": "而且——我也已经足够了。",
+      "character": "Ken",
+      "en": "And I'm enough!",
+      "note": "结尾肯的自我和解；IMDb quotes 可查。"
+    },
+    {
+      "text": "你真美。",
+      "character": "Barbie",
+      "en": "You're so beautiful.",
+      "note": "长椅上对陌生老妇的由衷一赞，全片转折点；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "性别",
+    "文化现象",
+    "独白"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 11603
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "芭比 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/barbie-2023.jpg）（影片页 https://www.themoviedb.org/movie/346698）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

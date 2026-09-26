@@ -1,0 +1,33 @@
+{
+  "id": "best-years-no-place-like-home",
+  "group": "classics",
+  "film": {
+    "title": "黄金时代",
+    "year": 1947,
+    "title_en": "The Best Years of Our Lives",
+    "director": "William Wyler"
+  },
+  "lines": [
+    {
+      "text": "没有什么地方比得上家。",
+      "en": "There’s no place like home.",
+      "character": "霍默·帕里什（Homer Parrish）",
+      "note": "战后归来叙事中的通行表达；中文采用经典译法。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "归来",
+    "家庭"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 76700
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似）"
+  },
+  "still_alt": "黄金时代 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-best-years-of-our-lives-1947.jpg）（影片页 https://www.themoviedb.org/movie/887）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5BOhRRy4BkvEfMRA4FHbEc6UHdc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "portrait-lovers-inventing",
+  "group": "classics",
+  "film": {
+    "title": "燃烧女子的肖像",
+    "year": 2019,
+    "title_en": "Portrait of a Lady on Fire",
+    "director": "塞莉娜·席安玛"
+  },
+  "lines": [
+    {
+      "text": "是不是所有恋人，都觉得自己在发明什么？",
+      "en": "Do all lovers feel they're inventing something?",
+      "character": "海伦 / Héloïse",
+      "note": "通行可核验：席安玛《燃烧女子的肖像》中海伦关于恋人与发明的对白，英法字幕广泛引用。"
+    }
+  ],
+  "tags": [
+    "凝视",
+    "绘画",
+    "女性",
+    "爱情"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 3052
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "燃烧女子的肖像 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/portrait-of-a-lady-on-fire-2019.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/531428）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ivJ5UzT6IzucLVfbZwCCwiJJoBz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

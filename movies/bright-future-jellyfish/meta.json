@@ -1,0 +1,34 @@
+{
+  "id": "bright-future-jellyfish",
+  "group": "classics",
+  "film": {
+    "title": "光明的未来",
+    "year": 2003,
+    "title_en": "Bright Future",
+    "director": "黑泽清"
+  },
+  "lines": [
+    {
+      "text": "水母在毒药里也能发光，人却未必。",
+      "en": "A jellyfish can glow even in poison — a person may not.",
+      "character": "宁／真知 / Nimura / Mamoru",
+      "note": "主题性策展句：呼应黑泽清《光明的未来》片名反讽与水母意象并置的疏离寓言，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "水母",
+    "疏离",
+    "青年",
+    "黑泽清"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 56
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "光明的未来 · TMDB 宣传静帧（3740×2105）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/bright-future-2003.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/26886）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eVsHFtqpy5DvTXLtRO56XAztsIs.jpg（3740×2105）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

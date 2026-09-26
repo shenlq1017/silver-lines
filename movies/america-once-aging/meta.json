@@ -1,0 +1,55 @@
+{
+  "id": "america-once-aging",
+  "group": "top250",
+  "film": {
+    "title": "美国往事",
+    "year": 1984,
+    "title_en": "Once Upon a Time in America",
+    "director": "赛尔乔·莱昂内"
+  },
+  "lines": [
+    {
+      "text": "老了以后，你会发现，即使是你最在意的往事，有时也会想不起来。",
+      "en": "All I see is a boy, with a curious look…",
+      "character": "Noodles（老化旁白意境）",
+      "note": "对齐华语影迷圈流传的「往事」题旨表述；原片多意式旁白与闪回，中文取可上墙衰老回望句并标边界。"
+    },
+    {
+      "text": "我喜欢街上的气味，闻着让我踏实。",
+      "character": "少年面条",
+      "en": "I like the stink of the streets. They make me feel good.",
+      "note": "少年时代街头戏；IMDb quotes 可查。"
+    },
+    {
+      "text": "被朋友出卖的时候，就得还手。",
+      "character": "Max",
+      "en": "When you've been betrayed by a friend, you hit back.",
+      "note": "合伙时代的处世宣言；Wikiquote 可查（说话人如核证为面条则修正）。"
+    }
+  ],
+  "tags": [
+    "黑帮",
+    "时光",
+    "悔恨"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 500000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 380000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 87
+    },
+    "metacritic": {
+      "score": 75
+    }
+  },
+  "still_alt": "美国往事 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/097-once-upon-a-time-in-america.jpg）（影片页 https://www.themoviedb.org/movie/311）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "raiders-snakes-why-snakes",
+  "group": "classics",
+  "film": {
+    "title": "夺宝奇兵",
+    "year": 1981,
+    "title_en": "Raiders of the Lost Ark",
+    "director": "史蒂文·斯皮尔伯格"
+  },
+  "lines": [
+    {
+      "text": "蛇。为什么偏偏是蛇？",
+      "en": "Snakes. Why did it have to be snakes?",
+      "character": "Indiana Jones",
+      "note": "井底一幕：夺宝奇兵用一句怕蛇的吐槽，把硬汉冒险家写成人。通行定译。"
+    },
+    {
+      "text": "亲爱的，问题不在年头，在里程。",
+      "character": "Indiana Jones",
+      "en": "It's not the years, honey, it's the mileage.",
+      "note": "脱险后对玛丽昂的自嘲；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我也不知道，我都是走一步编一步。",
+      "character": "Indiana Jones",
+      "en": "I don't know, I'm making this up as I go.",
+      "note": "被追问脱困计划时的名回答；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你我很像：考古学就是我们的宗教。只是我们都已背离了更纯粹的信仰。",
+      "character": "Belloq",
+      "en": "You and I are very much alike. Archaeology is our religion, yet we have both fallen from the purer faith.",
+      "note": "贝洛克对印第安纳的点破；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "冒险",
+    "幽默",
+    "考古"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 220000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 1000000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 85
+    }
+  },
+  "still_alt": "夺宝奇兵 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/raiders-of-the-lost-ark-1981.jpg）（影片页 https://www.themoviedb.org/movie/85）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ueDw7djPgKPZfph0vC43aD2EMyF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

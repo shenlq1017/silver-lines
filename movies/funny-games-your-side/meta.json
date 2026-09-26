@@ -1,0 +1,34 @@
+{
+  "id": "funny-games-your-side",
+  "group": "classics",
+  "film": {
+    "title": "欢乐游戏",
+    "year": 1997,
+    "title_en": "Funny Games",
+    "director": "迈克尔·哈内克"
+  },
+  "lines": [
+    {
+      "text": "你站在他们那边，对不对？",
+      "en": "You're on their side, aren't you?",
+      "character": "保罗 / Paul",
+      "note": "通行可核验意译：哈内克《欢乐游戏》中施暴者打破第四墙质问观众站队的名场面，多语种讨论常见；字幕措辞或略有出入。"
+    }
+  ],
+  "tags": [
+    "元电影",
+    "暴力",
+    "观众",
+    "哈内克"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 2175
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "欢乐游戏 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/funny-games-1997.jpg，1216×1824）（影片页 https://www.themoviedb.org/movie/10234）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/79SBe1bU30Dy6QPwJ2KQ3LTr1lr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "man-with-movie-camera-no-intertitles",
+  "group": "classics",
+  "film": {
+    "title": "持摄影机的人",
+    "year": 1929,
+    "title_en": "Man with a Movie Camera",
+    "director": "吉加·维尔托夫"
+  },
+  "lines": [
+    {
+      "text": "这是一部关于电影语言的实验：不用剧本、不用布景、不用演员，也不借助字幕。",
+      "en": "This film is an experiment in cinematic communication of real events without the help of intertitles, without the help of a scenario, without the help of theatre.",
+      "character": "片首字幕",
+      "note": "片首宣言字幕的节译；这句直接说明影片的形式实验。"
+    }
+  ],
+  "tags": [
+    "纪录片",
+    "默片",
+    "电影宣言"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.3,
+      "votes": 32000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "持摄影机的人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/man-with-a-movie-camera-1929.jpg）（影片页 https://www.themoviedb.org/movie/26317）；静帧：TMDB backdrop/宣传图 undefined（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

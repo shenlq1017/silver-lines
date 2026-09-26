@@ -1,0 +1,33 @@
+{
+  "id": "magnolia-past-not-through",
+  "group": "classics",
+  "film": {
+    "title": "木兰花",
+    "year": 1999,
+    "title_en": "Magnolia",
+    "director": "保罗·托马斯·安德森"
+  },
+  "lines": [
+    {
+      "text": "我们也许会从过去中走出来，但过去不会放过我们。",
+      "en": "We may be through with the past, but the past is not through with us.",
+      "character": "旁白 / Narrator",
+      "note": "通行译法：开场旁白的核心句，影片关于巧合与创伤的主题句。"
+    }
+  ],
+  "tags": [
+    "群像",
+    "偶然",
+    "和解"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 4164
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "木兰花 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/magnolia-1999.jpg）（影片页 https://www.themoviedb.org/movie/334）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mFfyE5DPFDqoes4HIcElHc2a15y.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "quiet-place-protect-them",
+  "group": "classics",
+  "film": {
+    "title": "寂静之地",
+    "year": 2018,
+    "title_en": "A Quiet Place",
+    "director": "约翰·卡拉辛斯基"
+  },
+  "lines": [
+    {
+      "text": "如果我们不能保护他们，我们还算什么？",
+      "en": "Who are we if we can't protect them?",
+      "character": "伊芙琳·艾博特 / Evelyn Abbott",
+      "note": "伊芙琳对李说出的伦理核心句（IMDb 可核验）；后半「We have to protect them」略去以取短金句。"
+    },
+    {
+      "text": "我一直都爱你们。",
+      "character": "Lee Abbott",
+      "en": "I have always loved you.",
+      "note": "李用手语向女儿说的最后的话；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "恐怖",
+    "亲情",
+    "生存"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 15737
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "寂静之地 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-quiet-place-2018.jpg）（影片页 https://www.themoviedb.org/movie/447332）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

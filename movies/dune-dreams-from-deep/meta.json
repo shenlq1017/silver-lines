@@ -1,0 +1,47 @@
+{
+  "id": "dune-dreams-from-deep",
+  "group": "classics",
+  "film": {
+    "title": "沙丘",
+    "year": 2021,
+    "title_en": "Dune",
+    "director": "丹尼斯·维伦纽瓦"
+  },
+  "lines": [
+    {
+      "text": "梦，是从深处传来的讯息。",
+      "en": "Dreams are messages from the deep.",
+      "character": "开场旁白 / Opening",
+      "note": "2021 版开场旁白通行译法；维伦纽瓦以梦境锚定保罗的先知线。"
+    },
+    {
+      "text": "我绝不能恐惧。恐惧是思维的杀手，是带来彻底毁灭的小小死亡。",
+      "character": "Paul Atreides",
+      "en": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration.",
+      "note": "恐惧祷词（贝尼·杰瑟里特《立则》）；IMDb/Wikiquote 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "能摧毁一样东西的人，就能控制它。",
+      "character": "Paul Atreides",
+      "en": "He who can destroy a thing, controls a thing.",
+      "note": "劫水前保罗的点题；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "预言",
+    "史诗"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 15579
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "沙丘 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dune-2021.jpg）（影片页 https://www.themoviedb.org/movie/438631）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/h61Kc0NC7d90jNwXfBx5js7DnSQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

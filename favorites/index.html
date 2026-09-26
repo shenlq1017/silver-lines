@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>我的收藏 · 片语 Silver Lines</title>
+  <meta name="description" content="我的收藏 · 心动过的台词都住在这里。仅保存在本地浏览器。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body data-base="../">
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="logo" href="../">片语 <span>Silver Lines</span></a>
+      <nav>
+        <ul class="nav">
+          <li><a href="../">首页</a></li>
+          <li><a href="../quotes/">片语</a></li>
+          <li><a href="../about/">关于</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <div class="page-head">
+        <h1>我的收藏</h1>
+        <p>点亮 ♥ 的台词都住在这里。收藏仅保存在当前浏览器，不联网、不上传。</p>
+      </div>
+
+      <div class="fav-toolbar">
+        <div class="list-search-wrap">
+          <span class="list-search-wrap__icon" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M15.8 15.8L20.5 20.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+          </span>
+          <label class="visually-hidden" for="fav-search">搜索收藏</label>
+          <input id="fav-search" class="list-search" type="search" placeholder="在收藏中搜索影片 / 台词…" autocomplete="off">
+        </div>
+        <div class="fav-toolbar__row">
+          <label class="visually-hidden" for="fav-sort">排序</label>
+          <select id="fav-sort" class="list-sort"></select>
+        </div>
+      </div>
+
+      <div id="fav-empty" class="fav-empty" hidden>
+        <p class="fav-empty__title">还没有收藏的台词</p>
+        <p class="fav-empty__sub">在片语卡片或详情页点亮 ♥，它们就会住进这里。</p>
+        <a class="hero__cta" href="../quotes/">去片语集逛逛
+          <svg width="15" height="15" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12h13M13 6.5L18.5 12 13 17.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+      </div>
+
+      <div id="fav-grid" class="quote-grid" aria-live="polite"></div>
+      <p class="placeholder-note" id="fav-note"></p>
+    </div>
+
+    <section class="container history-section" id="history-section" hidden>
+      <h2 class="section-title">最近浏览</h2>
+      <div id="history-grid" class="quote-grid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p>片语 / Silver Lines · 电影只是出处，句子本身才是主角</p>
+    </div>
+  </footer>
+
+  <script src="../assets/js/ratings.js"></script>
+  <script src="../assets/js/site.js"></script>
+  <script>
+    (function () {
+      const grid = document.getElementById("fav-grid");
+      const note = document.getElementById("fav-note");
+      const emptyEl = document.getElementById("fav-empty");
+      const input = document.getElementById("fav-search");
+      const sortSel = document.getElementById("fav-sort");
+      let quotes = [];
+      let timer = null;
+
+      /* 排序下拉与片语集一致 */
+      sortSel.innerHTML = SilverSite.SORT_OPTIONS.map(function (o) {
+        return '<option value="' + o.value + '">' + o.label + "</option>";
+      }).join("");
+
+      function currentList() {
+        const byId = {};
+        quotes.forEach(function (q) { byId[String(q.id)] = q; });
+        /* 按收藏时间倒序（favRead 新收藏在前） */
+        let list = SilverSite.favRead().map(function (id) { return byId[id]; }).filter(Boolean);
+        const needle = (input.value || "").trim().toLowerCase();
+        if (needle) {
+          list = list.filter(function (q) {
+            const title = (SilverSite.filmTitleOf(q) || "").toLowerCase();
+            const line = (SilverSite.lineOf(q) || "").toLowerCase();
+            return title.indexOf(needle) !== -1 || line.indexOf(needle) !== -1;
+          });
+        }
+        return SilverSite.sortQuotes(list, sortSel.value);
+      }
+
+      function render() {
+        const total = SilverSite.favRead().length;
+        if (!total) {
+          emptyEl.hidden = false;
+          grid.innerHTML = "";
+          note.textContent = "";
+          return;
+        }
+        emptyEl.hidden = true;
+        const list = currentList();
+        if (!list.length) {
+          grid.innerHTML = '<p class="list-empty">没有匹配的收藏，换个关键词试试。</p>';
+        } else {
+          grid.innerHTML = list.map(SilverSite.cardHtml).join("");
+        }
+        note.textContent = "收藏 " + total + " 条 · 当前显示 " + list.length + " 条";
+      }
+
+      input.addEventListener("input", function () {
+        if (timer) clearTimeout(timer);
+        timer = setTimeout(render, 200);
+      });
+      sortSel.addEventListener("change", render);
+      /* 在收藏页取消收藏后即时移出列表 */
+      document.addEventListener("silver:favs-change", render);
+
+      SilverSite.loadQuotes()
+        .then(function (data) {
+          quotes = SilverSite.publishedQuotes(data);
+          render();
+          renderHistory();
+        })
+        .catch(function (e) {
+          grid.innerHTML = '<p class="error-msg">无法加载数据。请从站点根启动 python3 -m http.server。</p>';
+          console.error(e);
+        });
+
+      /* 最近浏览：最多展示 8 条 */
+      function renderHistory() {
+        const ids = SilverSite.historyRead().slice(0, 8);
+        if (!ids.length) return;
+        const byId = {};
+        quotes.forEach(function (q) { byId[String(q.id)] = q; });
+        const list = ids.map(function (id) { return byId[id]; }).filter(Boolean);
+        if (!list.length) return;
+        document.getElementById("history-section").hidden = false;
+        document.getElementById("history-grid").innerHTML = list.map(SilverSite.cardHtml).join("");
+      }
+    })();
+  </script>
+</body>
+</html>

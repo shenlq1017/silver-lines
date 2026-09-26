@@ -1,0 +1,34 @@
+{
+  "id": "tokyo-sonata-keep-going",
+  "group": "classics",
+  "film": {
+    "title": "东京奏鸣曲",
+    "year": 2008,
+    "title_en": "Tokyo Sonata",
+    "director": "黑泽清"
+  },
+  "lines": [
+    {
+      "text": "外面的世界塌了，家里的琴声还得继续。",
+      "en": "When the outside world collapses, the piano at home still has to go on.",
+      "character": "佐佐木家 / the Sasaki family",
+      "note": "主题性策展句：对应黑泽清《东京奏鸣曲》失业中产家庭在崩解中借钢琴重建秩序的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "失业",
+    "家庭",
+    "钢琴",
+    "黑泽清"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 294
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "东京奏鸣曲 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/tokyo-sonata-2008.jpg，1727×2591）（影片页 https://www.themoviedb.org/movie/8937）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/1BV2KqW1LHRZpa8QhXOzpooOR57.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

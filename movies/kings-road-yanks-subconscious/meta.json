@@ -1,0 +1,33 @@
+{
+  "id": "kings-road-yanks-subconscious",
+  "group": "classics",
+  "film": {
+    "title": "公路之王",
+    "year": 1976,
+    "title_en": "Kings of the Road",
+    "director": "维姆·文德斯"
+  },
+  "lines": [
+    {
+      "text": "美国佬殖民了我们的潜意识。",
+      "en": "The Yankees have colonized our subconscious.",
+      "character": "罗伯特 / Robert Lander",
+      "note": "通行译法：据维姆·文德斯基金会记述，罗伯特在废弃美军岗亭对布鲁诺说出此句；Janus 等材料偶作 Bruno 说出，此处从基金会。"
+    }
+  ],
+  "tags": [
+    "公路电影",
+    "战后德国",
+    "友谊"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 9000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "公路之王 · TMDB 宣传静帧（2000×1125）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/kings-of-the-road-1976.jpg）（影片页 https://www.themoviedb.org/movie/10834）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hqSNaXa2dxbBrI2mVDhvvNp9ECL.jpg（2000×1125）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "soft-skin-affair",
+  "group": "classics",
+  "film": {
+    "title": "柔软的皮肤",
+    "year": 1964,
+    "title_en": "The Soft Skin",
+    "director": "弗朗索瓦·特吕弗"
+  },
+  "lines": [
+    {
+      "text": "皮肤很软，可秘密一旦戳破就再也收不回。",
+      "en": "The skin is soft — but once a secret is pierced, it cannot be taken back.",
+      "character": "皮埃尔 / Pierre Lachenay",
+      "note": "主题性策展句：呼应特吕弗《柔软的皮肤》片名与婚外情终至崩解的叙事弧，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "出轨",
+    "欲望",
+    "坠落",
+    "特吕弗"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 224
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "柔软的皮肤 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-soft-skin-1964.jpg，1066×1600）（影片页 https://www.themoviedb.org/movie/1719）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9yPgh3v4itb0ah4XWgGM4BdAtNa.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

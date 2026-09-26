@@ -1,0 +1,63 @@
+{
+  "id": "green-mile-like-to-go-home",
+  "group": "top250",
+  "film": {
+    "title": "绿里奇迹",
+    "year": 1999,
+    "title_en": "The Green Mile",
+    "director": "弗兰克·达拉邦特"
+  },
+  "lines": [
+    {
+      "text": "我累了，老板。我好想回家。",
+      "en": "I'm tired, boss. … I want to go home.",
+      "character": "John Coffey",
+      "note": "Coffey 临刑前恳求是绿里奇迹的情感核：超能力者求的不是活命，是离开人间的残酷。中文取通行压缩定译；英文为长独白的策展摘录（省略号标省略）。"
+    },
+    {
+      "text": "你告诉天父：你们做了一件善事。",
+      "character": "John Coffey",
+      "en": "You tell God the Father it was a kindness you done.",
+      "note": "行刑前对保罗的告别；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我厌倦了人与人之间的丑恶。就像脑袋里扎满了碎玻璃。",
+      "character": "John Coffey",
+      "en": "I'm tired of people bein' ugly to each other. It's like pieces of glass in my head.",
+      "note": "解释自己的感应能力；IMDb quotes 可查。",
+      "confidence": "medium"
+    },
+    {
+      "text": "我们都欠一次死，谁也不能例外——这我知道。可有时候……哦上帝，绿里这条路真长。",
+      "character": "Paul Edgecomb（旁白）",
+      "en": "We each owe a death, there are no exceptions, I know that, but sometimes, oh God, the Green Mile is so long.",
+      "note": "老年保罗的收束旁白；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "死刑",
+    "悲悯"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 550000
+    },
+    "imdb": {
+      "score": 8.6,
+      "votes": 1400000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 79
+    },
+    "metacritic": {
+      "score": 61
+    }
+  },
+  "still_alt": "绿里奇迹 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/179-the-green-mile.jpg）（影片页 https://www.themoviedb.org/movie/497）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/amZavErrjrdgDwhsIdpWxHNenIx.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

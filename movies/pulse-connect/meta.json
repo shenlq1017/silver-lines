@@ -1,0 +1,34 @@
+{
+  "id": "pulse-connect",
+  "group": "classics",
+  "film": {
+    "title": "回路",
+    "year": 2001,
+    "title_en": "Pulse",
+    "director": "黑泽清"
+  },
+  "lines": [
+    {
+      "text": "连上网络的那一刻，幽灵也找到了入口。",
+      "en": "The moment you connect, the ghosts find their doorway too.",
+      "character": "川岛／阳子等 / Kawashima / Yoko et al.",
+      "note": "主题性策展句：概括黑泽清《回路》中网络连接与幽灵感染交织的世纪末都市恐怖寓言，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "网络",
+    "幽灵",
+    "恐惧",
+    "黑泽清"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.7,
+      "votes": 724
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "回路 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pulse-2001.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/27324）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/l0Jctg1xdWQVws2evcrKS8hEOsV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

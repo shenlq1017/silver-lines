@@ -1,0 +1,62 @@
+{
+  "id": "happyness-never-let",
+  "group": "top250",
+  "film": {
+    "title": "当幸福来敲门",
+    "year": 2006,
+    "title_en": "The Pursuit of Happyness",
+    "director": "加布里尔·穆奇诺"
+  },
+  "lines": [
+    {
+      "text": "别让别人告诉你，你成不了才。即使是我，也不行。",
+      "featured": true,
+      "en": "Don't ever let somebody tell you you can't do something. Not even me.",
+      "character": "Chris Gardner",
+      "note": "街头夜宿之后的父训，励志片里少有的硬核温柔。"
+    },
+    {
+      "text": "如果你有梦想的话，就要去捍卫它。那些一事无成的人想告诉你，你也成不了大器。如果你有理想的话，就要去努力实现。就这样。",
+      "en": "You got a dream, you gotta protect it. People can't do something themselves, they wanna tell you you can't do it. If you want something, go get it. Period.",
+      "character": "Chris Gardner",
+      "note": "篮球场训子的下半段，紧接主台词；通行译法。"
+    },
+    {
+      "text": "我人生中的这个阶段，这一小段，叫做幸福。",
+      "en": "This part of my life, this little part, is called happiness.",
+      "character": "Chris Gardner",
+      "note": "片尾画外音，与片名呼应。"
+    },
+    {
+      "text": "也许幸福是我们只能追求、却永远无法真正拥有的东西。",
+      "en": "Maybe happiness is something that we can only pursue, and maybe we can actually never have it.",
+      "character": "Chris Gardner",
+      "note": "托儿所门口谈《独立宣言》的「追求幸福」。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "励志",
+    "父爱"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 1700000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 580000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 67
+    },
+    "metacritic": {
+      "score": 64
+    }
+  },
+  "still_alt": "当幸福来敲门 · 父子同行宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/027-the-pursuit-of-happyness.jpg）（影片页 https://www.themoviedb.org/movie/1402）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

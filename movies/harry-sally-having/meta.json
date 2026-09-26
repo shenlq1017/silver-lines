@@ -1,0 +1,48 @@
+{
+  "id": "harry-sally-having",
+  "group": "classics",
+  "film": {
+    "title": "当哈利遇上莎莉",
+    "year": 1989,
+    "title_en": "When Harry Met Sally...",
+    "director": "罗伯·莱纳"
+  },
+  "lines": [
+    {
+      "text": "她点的，我也要一份。",
+      "en": "I'll have what she's having.",
+      "character": "邻桌老妇人 / Older Woman Customer",
+      "note": "凯茨杀青餐厅戏中邻桌老妇人对服务员的对白（饰演者为导演母亲埃丝特尔·莱纳）；AFI 百大电影台词第33；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "男人和女人做不成朋友——因为「性」那部分总会来捣乱。",
+      "character": "Harry Burns",
+      "en": "Men and women can't be friends because the sex part always gets in the way.",
+      "note": "哈利的著名论断；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我今晚来这儿，是因为当你意识到想和谁共度余生时，就会希望余生尽快开始。",
+      "character": "Harry Burns",
+      "en": "I came here tonight because when you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.",
+      "note": "新年夜跑来的告白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "浪漫喜剧",
+    "餐厅",
+    "高潮",
+    "纽约"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 4748
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "当哈利遇上莎莉 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/when-harry-met-sally-1989.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/639）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dbdegCWeD4iK5LXxSBjGdIRsVXS.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

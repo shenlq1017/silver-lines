@@ -1,0 +1,43 @@
+{
+  "id": "nezha-one-deed-alone",
+  "group": "top250",
+  "film": {
+    "title": "哪吒闹海",
+    "year": 1979,
+    "title_en": "Prince Nezha's Triumph Against Dragon King",
+    "director": "王树忱 / 严定宪 / 徐景达"
+  },
+  "lines": [
+    {
+      "text": "我一人做事一人当，不许你们祸害别人！",
+      "en": "I alone did the deed—I alone will bear it. You will not harm anyone else!",
+      "character": "哪吒",
+      "note": "自刎前对龙王的名句，上海美影 1979 版传世对白（勿与 2019《哪吒之魔童降世》「我命由我不由天」混淆）；对齐通行全台词整理本。tmdb_id=74037。"
+    },
+    {
+      "text": "爹爹！你的骨肉我还给你，我不连累你！",
+      "character": "哪吒",
+      "note": "自刎前的决绝，1979 版最痛一幕；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "动画",
+    "神话",
+    "牺牲"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 190000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 1600
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "哪吒闹海 · 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/142-prince-nezha-s-triumph-against-dragon-king.jpg）（影片页 https://www.themoviedb.org/movie/74037）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/t1RtHKe6LLuXEslrZqO2F1rG00t.jpg（1920×1080，源站最大 original）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为再压，保留 TMDB original 可得最大像素。"
+}

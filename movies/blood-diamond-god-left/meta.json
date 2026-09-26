@@ -1,0 +1,57 @@
+{
+  "id": "blood-diamond-god-left",
+  "group": "top250",
+  "film": {
+    "title": "血钻",
+    "year": 2006,
+    "title_en": "Blood Diamond",
+    "director": "爱德华·兹威克"
+  },
+  "lines": [
+    {
+      "text": "有时我想，上帝会不会原谅我们对彼此做过的事？然后我环顾四周——才明白上帝早就离开了这地方。",
+      "en": "Sometimes I wonder: will God ever forgive us for what we've done to each other? Then I look around and I realize—God left this place a long time ago.",
+      "character": "Danny Archer",
+      "note": "雇佣兵的深夜独白：血钻把「血色钻石」从商品翻成神义论。通行定译。"
+    },
+    {
+      "text": "T-I-A。这就是非洲。",
+      "character": "Danny Archer",
+      "en": "TIA. This is Africa.",
+      "note": "全片反复出现的口头禅；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我现在待的地方，就是我该待的地方。",
+      "character": "Danny Archer",
+      "en": "I'm exactly where I'm supposed to be.",
+      "note": "结尾中弹后坐在山丘上的告别；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "战争",
+    "非洲",
+    "良心"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 600000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 63
+    },
+    "metacritic": {
+      "score": 64
+    }
+  },
+  "still_alt": "血钻 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/245-blood-diamond.jpg）（影片页 https://www.themoviedb.org/movie/1372）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/vffPZUYScdWtGU0UrccFIRX4LbV.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

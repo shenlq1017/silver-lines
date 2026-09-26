@@ -1,0 +1,41 @@
+{
+  "id": "leopard-change",
+  "group": "classics",
+  "film": {
+    "title": "豹",
+    "year": 1963,
+    "title_en": "The Leopard",
+    "director": "卢奇诺·维斯康蒂"
+  },
+  "lines": [
+    {
+      "text": "若要一切如故，就必须让一切改变。",
+      "en": "If we want things to stay as they are, everything will have to change.",
+      "character": "萨利纳亲王 / Don Fabrizio",
+      "note": "通行金句意译：维斯康蒂《豹》据兰佩杜萨原著名句「Se vogliamo che tutto rimanga com'è, bisogna che tutto cambi」之中译策展版；非逐场对白核对。"
+    },
+    {
+      "text": "我们是豹，是狮。取代我们的将是豺狼与绵羊——而我们这些豹、豺、绵羊，还会照样自以为是社会中坚。",
+      "character": "Prince Fabrizio",
+      "en": "We were the leopards, the lions. Those who take our place will be jackals and sheep. And the whole lot of us — leopards, jackals and sheep — will keep thinking ourselves the salt of the earth.",
+      "note": "亲王关于变革的著名独白；IMDb/Wikiquote 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "贵族",
+    "革命",
+    "西西里",
+    "维斯康蒂"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 981
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "豹 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-leopard-1963.jpg，1600×2400）（影片页 https://www.themoviedb.org/movie/1040）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tRuX08mBBmbnovd41tR7d4qUnFc.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

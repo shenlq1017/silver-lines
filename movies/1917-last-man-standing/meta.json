@@ -1,0 +1,33 @@
+{
+  "id": "1917-last-man-standing",
+  "group": "classics",
+  "film": {
+    "title": "1917",
+    "year": 2020,
+    "title_en": "1917",
+    "director": "萨姆·门德斯"
+  },
+  "lines": [
+    {
+      "text": "这场战争只有一种结束方式：谁活到最后，谁赢。",
+      "en": "There's only one way this war ends. Last man standing.",
+      "character": "斯科菲尔德 / Schofield",
+      "note": "斯科菲尔德的通行战争观短句；中文取常见译法。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "一战",
+    "兄弟"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 13926
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "1917 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/1917-2020.jpg）（影片页 https://www.themoviedb.org/movie/530915）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tJgmraUAmVlJPlq72yC76tKDyC4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

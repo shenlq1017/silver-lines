@@ -1,0 +1,34 @@
+{
+  "id": "tzp-every-child",
+  "group": "classics",
+  "film": {
+    "title": "地球上的星星",
+    "year": 2007,
+    "title_en": "Taare Zameen Par",
+    "director": "阿米尔·汗"
+  },
+  "lines": [
+    {
+      "text": "每个孩子都有自己的长处，有自己的能力，有自己的渴望。",
+      "en": "Har bachche ki apni khoobi hoti hai, apni kaabiliyat hoti hai, apni chahat hoti hai.",
+      "character": "拉姆·尚卡尔·尼昆布 / Ram Shankar Nikumbh",
+      "note": "尼昆布老师在家长会上的对白；印地语原声；华语／英语通行字幕与台词辑可核。"
+    }
+  ],
+  "tags": [
+    "教育",
+    "孩子",
+    "特殊才能",
+    "印度"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 1413
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "地球上的星星 · TMDB 宣传静帧（2048×1152）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/taare-zameen-par-2007.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/7508）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/owqarJSDllJGoEW8EMz8q6cvKDD.jpg（2048×1152）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

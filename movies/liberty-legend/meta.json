@@ -1,0 +1,34 @@
+{
+  "id": "liberty-legend",
+  "group": "classics",
+  "film": {
+    "title": "双虎屠龙",
+    "year": 1962,
+    "title_en": "The Man Who Shot Liberty Valance",
+    "director": "约翰·福特"
+  },
+  "lines": [
+    {
+      "text": "先生，这就是西部。当传说变成事实，就刊登传说。",
+      "en": "This is the West, sir. When the legend becomes fact, print the legend.",
+      "character": "麦克斯韦·斯科特 / Maxwell Scott",
+      "note": "报馆主编斯科特对伦索姆·斯托达德说出的对白；Wikiquote／IMDb quotes／AFI 常引；片中字幕可核。"
+    }
+  ],
+  "tags": [
+    "西部",
+    "传说",
+    "新闻",
+    "真相"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 1339
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "双虎屠龙 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-man-who-shot-liberty-valance-1962.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/11697）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/n0KKdHQdGvRPbpLsT7UQ61W5YD4.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

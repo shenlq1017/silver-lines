@@ -1,0 +1,34 @@
+{
+  "id": "maud-night-chance",
+  "group": "classics",
+  "film": {
+    "title": "我的夜在莫德家",
+    "year": 1969,
+    "title_en": "My Night at Maud's",
+    "director": "埃里克·侯麦"
+  },
+  "lines": [
+    {
+      "text": "信念若怕偶然，也就怕了整个夜晚。",
+      "en": "If faith fears chance, it also fears the whole night.",
+      "character": "让－路易／莫德 / Jean-Louis / Maud",
+      "note": "主题性策展句：概括侯麦《我在莫德家的一晚》中天主教理性与情欲偶然性交锋的道德故事题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "信仰",
+    "偶然",
+    "对话",
+    "侯麦"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 369
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "我的夜在莫德家 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/my-night-at-maud-s-1969.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/48831）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9qRp6mYwyDBVzxNJN4xvpSxFvyR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

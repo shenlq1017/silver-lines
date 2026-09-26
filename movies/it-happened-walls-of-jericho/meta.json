@@ -1,0 +1,48 @@
+{
+  "id": "it-happened-walls-of-jericho",
+  "group": "classics",
+  "film": {
+    "title": "一夜风流",
+    "year": 1934,
+    "title_en": "It Happened One Night",
+    "director": "弗兰克·卡普拉"
+  },
+  "lines": [
+    {
+      "text": "耶利哥的墙——塌了。",
+      "en": "The walls of Jericho are toppling!",
+      "character": "Peter Warne",
+      "note": "毯子「耶利哥墙」终于倒塌的暗示收束：一夜风流用一道布帘完成古典喜剧闭环。通行意译。"
+    },
+    {
+      "text": "我证明了一件事：胳膊，到底比大拇指强。",
+      "character": "Ellie Andrews",
+      "en": "I proved once and for all that the limb is mightier than the thumb.",
+      "note": "拦顺风车的划拳式比试，艾莉的得意结论；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "喜剧"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 90000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 120000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 87
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "一夜风流 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/it-happened-one-night-1934.jpg）（影片页 https://www.themoviedb.org/movie/3078）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/d0TMHWQxsqczrQ7CKyCVqfEbNRd.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

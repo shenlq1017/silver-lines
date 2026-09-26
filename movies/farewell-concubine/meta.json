@@ -1,0 +1,53 @@
+{
+  "id": "farewell-concubine",
+  "group": "top250",
+  "film": {
+    "title": "霸王别姬",
+    "year": 1993,
+    "title_en": "Farewell My Concubine",
+    "director": "陈凯歌"
+  },
+  "lines": [
+    {
+      "text": "不疯魔，不成活。",
+      "featured": true,
+      "en": "Without obsession, there is no art.",
+      "character": "段小楼",
+      "note": "戏比天大，一句疯魔道尽半生。"
+    },
+    {
+      "text": "说的是一辈子！差一年，一个月，一天，一个时辰，都不算一辈子！",
+      "character": "程蝶衣",
+      "note": "得知小楼定亲后，蝶衣在后台的质问。"
+    },
+    {
+      "text": "我本是男儿郎，又不是女娇娥。",
+      "character": "程蝶衣",
+      "note": "《思凡》错口，贯穿学戏之苦与终场之悟。"
+    },
+    {
+      "text": "人，得自个儿成全自个儿。",
+      "character": "关师傅",
+      "note": "师傅训戏之语，通行影评常引。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "历史",
+    "艺术"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.6,
+      "votes": 2300000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 34000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "霸王别姬 · 舞台上霸王与虞姬京剧扮相",
+  "license_note": "海报：TMDB 发行宣传物料 https://image.tmdb.org/t/p/original/iJ99VEPZ8aZTGm18DN6RfZCxYwk.jpg（2000×3000）（影片页 https://www.themoviedb.org/movie/10997）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/tpNl1ArEMvU5SLHeYACXqCkSVrT.jpg（3840×2160）；高清宣传静帧（京剧妆容特写，优先清晰度）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

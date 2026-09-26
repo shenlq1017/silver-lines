@@ -1,0 +1,34 @@
+{
+  "id": "nagareru-flow",
+  "group": "classics",
+  "film": {
+    "title": "流浪记",
+    "year": 1956,
+    "title_en": "Flowing",
+    "director": "成濑巳喜男"
+  },
+  "lines": [
+    {
+      "text": "艺伎馆的水一直在流，人走了，规矩还在。",
+      "en": "Water keeps flowing through the geisha house — people leave, the rules remain.",
+      "character": "津山家女众 / the women of the house",
+      "note": "主题性策展句：概括成濑巳喜男《流浪记》中艺伎馆女性群像如流水般代谢的题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "艺伎",
+    "女性",
+    "流水",
+    "成濑"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 34
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "流浪记 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nagareru-1956.jpg，1920×2880）（影片页 https://www.themoviedb.org/movie/46493）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aQxAwhRaf9v7Xs4HA6Uj5dN0gHp.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

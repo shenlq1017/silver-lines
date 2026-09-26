@@ -1,0 +1,43 @@
+{
+  "id": "croods-new-is-always-better",
+  "group": "top250",
+  "film": {
+    "title": "疯狂原始人",
+    "year": 2013,
+    "title_en": "The Croods",
+    "director": "柯克·德·米科 / 克里斯·桑德斯"
+  },
+  "lines": [
+    {
+      "text": "新鲜的，永远更好。",
+      "en": "New is always better.",
+      "character": "盖 / Guy",
+      "note": "洞穴家庭学会走出黑暗的信条：疯狂原始人把「怕新」翻成「向新」，一句口号撑起整段迁徙。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "冒险",
+    "改变"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 900000
+    },
+    "imdb": {
+      "score": 7.2,
+      "votes": 230000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 71
+    },
+    "metacritic": {
+      "score": 55
+    }
+  },
+  "still_alt": "疯狂原始人 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/177-the-croods.jpg）（影片页 https://www.themoviedb.org/movie/49519）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wFN8llYh215M8i2fqWAcPV8CSyL.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

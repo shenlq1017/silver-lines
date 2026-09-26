@@ -1,0 +1,33 @@
+{
+  "id": "branded-to-kill-only-killer",
+  "group": "classics",
+  "film": {
+    "title": "杀人狂",
+    "year": 1967,
+    "title_en": "Branded to Kill",
+    "director": "铃木清顺"
+  },
+  "lines": [
+    {
+      "text": "我是杀手，除此之外一无所有。",
+      "en": "I am a killer; I have nothing else.",
+      "character": "花田五郎",
+      "note": "策展意译：将花田的职业身份与空洞欲望压缩为冷峻主句，非逐字台词。"
+    }
+  ],
+  "tags": [
+    "黑色电影",
+    "杀手",
+    "实验电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 9000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "杀人狂 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/branded-to-kill-1967.jpg）（影片页 https://www.themoviedb.org/movie/17905）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dDYLG7J4UsTCO5m45vl9gngt4ju.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "baimao-debt",
+  "group": "classics",
+  "film": {
+    "title": "白毛女",
+    "year": 1951,
+    "title_en": "The White-Haired Girl",
+    "director": "王滨／水华"
+  },
+  "lines": [
+    {
+      "text": "我不死，我要活！我要报仇，我要活！",
+      "en": "I will not die—I will live! I will take revenge—I will live!",
+      "character": "喜儿 / Xi'er",
+      "note": "喜儿逃出黄家后的唱段／对白（歌剧电影）；语文教材与剧本选场通行引文（非「旧社会把人变成鬼」主题概括句）。"
+    }
+  ],
+  "tags": [
+    "压迫",
+    "解放",
+    "歌剧",
+    "王苹"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.1,
+      "votes": 7
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "白毛女 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-white-haired-girl-1951.jpg，853×1279）（影片页 https://www.themoviedb.org/movie/201563）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zbFb6h1IA5lmGfGdPBi8qmRUQB8.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

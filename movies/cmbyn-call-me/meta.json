@@ -1,0 +1,57 @@
+{
+  "id": "cmbyn-call-me",
+  "group": "top250",
+  "film": {
+    "title": "请以你的名字呼唤我",
+    "year": 2017,
+    "title_en": "Call Me by Your Name",
+    "director": "卢卡·瓜达尼诺"
+  },
+  "lines": [
+    {
+      "text": "请以你的名字呼唤我，我便以我的名字回应你。",
+      "en": "Call me by your name and I'll call you by mine.",
+      "character": "Oliver / Elio",
+      "note": "片名即咒语：把名字交给对方，是意大利夏日里最彻底的亲密。"
+    },
+    {
+      "text": "可为了不去感受，就让自己什么都感觉不到——多可惜啊！",
+      "character": "Mr. Perlman",
+      "en": "But to make yourself feel nothing so as not to feel anything — what a waste!",
+      "note": "父亲的著名训导（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "此刻有悲伤，有痛苦。别杀掉它——连同你感受过的快乐一起。",
+      "character": "Mr. Perlman",
+      "en": "Right now, there's sorrow, pain. Don't kill it, and with it the joy you've felt.",
+      "note": "同段训导的下半句；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "青春",
+    "同性"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 7.8,
+      "votes": 300000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 94
+    },
+    "metacritic": {
+      "score": 93
+    }
+  },
+  "still_alt": "请以你的名字呼唤我 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/146-call-me-by-your-name.jpg）（影片页 https://www.themoviedb.org/movie/398818）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4Xh2a1WeTp6b8Ksvug0pAMbX3dT.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "veronique-double",
+  "group": "classics",
+  "film": {
+    "title": "两生花",
+    "year": 1991,
+    "title_en": "The Double Life of Veronique",
+    "director": "克日什托夫·基耶斯洛夫斯基"
+  },
+  "lines": [
+    {
+      "text": "两个生命共用一串音符时，谁先停下来，谁就成了回声。",
+      "en": "When two lives share one melody, whoever stops first becomes the echo.",
+      "character": "韦罗妮卡／维罗妮卡 / Weronika / Véronique",
+      "note": "主题性策展句：概括基耶斯洛夫斯基《维罗妮卡的双重生活》中平行生命与感应命运的诗性题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "双重",
+    "命运",
+    "音乐",
+    "基耶斯洛夫斯基"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 920
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "两生花 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-double-life-of-veronique-1991.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/1600）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hABqLfQuE9wGN4ma3CnjOIIjtsl.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

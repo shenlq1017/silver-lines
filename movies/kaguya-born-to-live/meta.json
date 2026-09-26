@@ -1,0 +1,33 @@
+{
+  "id": "kaguya-born-to-live",
+  "group": "classics",
+  "film": {
+    "title": "辉夜姬物语",
+    "year": 2013,
+    "title_en": "The Tale of the Princess Kaguya",
+    "director": "高畑勋"
+  },
+  "lines": [
+    {
+      "text": "我生下来就是为了活着啊！",
+      "en": "I was born to live!",
+      "character": "辉夜姬 / Princess Kaguya",
+      "note": "通行译法：辉夜姬反抗被安排的“幸福”、渴望如鸟兽般活着的著名哭喊；中文取常见字幕表述。"
+    }
+  ],
+  "tags": [
+    "自由",
+    "自然",
+    "高畑勋"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 2050
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "辉夜姬物语 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-tale-of-the-princess-kaguya-2013.jpg）（影片页 https://www.themoviedb.org/movie/149871）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/w5TxOZpPahv3fAhN49mVFSrKUXs.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

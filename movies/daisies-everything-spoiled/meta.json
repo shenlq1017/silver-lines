@@ -1,0 +1,33 @@
+{
+  "id": "daisies-everything-spoiled",
+  "group": "classics",
+  "film": {
+    "title": "雏菊",
+    "year": 1966,
+    "title_en": "Daisies",
+    "director": "薇拉·希蒂洛娃"
+  },
+  "lines": [
+    {
+      "text": "既然一切都坏了，那就让一切都坏掉吧。",
+      "en": "Since everything is spoiled, let everything be spoiled.",
+      "character": "玛丽一号 / 玛丽二号",
+      "note": "两位玛丽的反叛宣言式意译；对应影片对消费、秩序与叙事因果的故意破坏。"
+    }
+  ],
+  "tags": [
+    "新浪潮",
+    "反叛",
+    "女性"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 16000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "雏菊 · TMDB 宣传静帧（3840×2159）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/daisies-1966.jpg）（影片页 https://www.themoviedb.org/movie/46919）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4KeiLRIS0z96ebXSmsWbz4QrvEw.jpg（3840×2159）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

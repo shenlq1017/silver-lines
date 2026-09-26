@@ -1,0 +1,56 @@
+{
+  "id": "despicable-best-dad",
+  "group": "top250",
+  "film": {
+    "title": "神偷奶爸",
+    "year": 2010,
+    "title_en": "Despicable Me",
+    "director": "皮埃尔·柯芬 / 克里斯·雷纳德"
+  },
+  "lines": [
+    {
+      "text": "我曾经想做最坏的人。现在只想做最好的爸爸。",
+      "en": "I used to want to be the greatest villain. Now I just want to be the best dad.",
+      "character": "Gru",
+      "note": "格鲁弧光的题旨化一句：从偷月亮到被三个女儿偷走心。非逐字对白，边界已标。"
+    },
+    {
+      "text": "它毛绒绒的，我要死了！",
+      "character": "Agnes",
+      "en": "It's so fluffy I'm gonna die!",
+      "note": "艾格尼丝抱独角兽的尖叫名段；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "电灯泡。",
+      "character": "Gru",
+      "en": "Light bulb.",
+      "note": "格鲁的「认错」口头禅；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "动画",
+    "亲情",
+    "喜剧"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.7,
+      "votes": 800000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 600000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 81
+    },
+    "metacritic": {
+      "score": 72
+    }
+  },
+  "still_alt": "神偷奶爸 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/148-despicable-me.jpg）（影片页 https://www.themoviedb.org/movie/20352）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

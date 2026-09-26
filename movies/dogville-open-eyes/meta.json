@@ -1,0 +1,39 @@
+{
+  "id": "dogville-open-eyes",
+  "group": "classics",
+  "film": {
+    "title": "狗镇",
+    "year": 2003,
+    "title_en": "Dogville",
+    "director": "拉斯·冯·提尔"
+  },
+  "lines": [
+    {
+      "text": "有些人，不配被宽恕。",
+      "en": "Some people do not deserve to be forgiven.",
+      "character": "格蕾丝 / Grace",
+      "note": "策展意译：提炼格蕾丝最终审判镇民时的伦理翻转；旁白与对白版本复杂，明确为主题压缩而非逐字引文。"
+    },
+    {
+      "text": "有些事，必须亲自动手。",
+      "character": "Grace",
+      "en": "Some things you have to do yourself.",
+      "note": "格蕾丝决定清账时的独白；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "道德",
+    "权力",
+    "冯·提尔"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 2780
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "狗镇 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/dogville-2003.jpg）（影片页 https://www.themoviedb.org/movie/553）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/aUAsmVUQLKkUxpUNfBDvj228cgJ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

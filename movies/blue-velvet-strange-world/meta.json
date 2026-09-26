@@ -1,0 +1,47 @@
+{
+  "id": "blue-velvet-strange-world",
+  "group": "classics",
+  "film": {
+    "title": "蓝丝绒",
+    "year": 1986,
+    "title_en": "Blue Velvet",
+    "director": "大卫·林奇"
+  },
+  "lines": [
+    {
+      "text": "这是一个奇怪的世界。",
+      "en": "It’s a strange world.",
+      "character": "杰弗里·博蒙特",
+      "note": "影片反复出现的核心语气；按通行字幕译写，短句出处清晰。"
+    },
+    {
+      "text": "别看我！",
+      "character": "Frank Booth",
+      "en": "Don't look at me!",
+      "note": "弗兰克失控的吼叫；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我不知道你到底是侦探还是变态。",
+      "character": "Sandy",
+      "en": "I don't know if you're a detective or a pervert.",
+      "note": "桑迪对杰弗里的定性；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "黑色电影",
+    "美国",
+    "欲望"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 220000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "蓝丝绒 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/blue-velvet-1986.jpg）（影片页 https://www.themoviedb.org/movie/793）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/s1CBwblInR0ZBIv59CSko2QdLD3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

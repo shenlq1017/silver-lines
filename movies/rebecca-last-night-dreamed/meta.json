@@ -1,0 +1,49 @@
+{
+  "id": "rebecca-last-night-dreamed",
+  "group": "classics",
+  "film": {
+    "title": "蝴蝶梦",
+    "year": 1940,
+    "title_en": "Rebecca",
+    "director": "阿尔弗雷德·希区柯克"
+  },
+  "lines": [
+    {
+      "text": "昨夜，我又梦见了曼德利。",
+      "en": "Last night I dreamt I went to Manderley again.",
+      "character": "Mrs. de Winter",
+      "note": "开场第一句：蝴蝶梦把曼德利做成幽灵般的专有名词。通行定译。"
+    },
+    {
+      "text": "我们再也不能回曼德利了。",
+      "character": "Maxim de Winter",
+      "en": "We can never go back to Manderley again.",
+      "note": "迈克西姆的收束；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "悬疑",
+    "哥特",
+    "记忆"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.4,
+      "votes": 120000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 150000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 86
+    }
+  },
+  "still_alt": "蝴蝶梦 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/rebecca-1940.jpg）（影片页 https://www.themoviedb.org/movie/223）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/7O86fM7nqbpy5ZLBNlUKlUl3UWK.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

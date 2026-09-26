@@ -1,0 +1,56 @@
+{
+  "id": "rpo-stay-for-what-you-can-be",
+  "group": "top250",
+  "film": {
+    "title": "头号玩家",
+    "year": 2018,
+    "title_en": "Ready Player One",
+    "director": "史蒂文·斯皮尔伯格"
+  },
+  "lines": [
+    {
+      "text": "人们来绿洲，是为了能做的事；留下，是为了能成为的人。",
+      "en": "People come to the OASIS for all the things they can do, but they stay for all the things they can be.",
+      "character": "James Halliday（旁白/档案）",
+      "note": "哈里迪的绿洲宣言：逃进虚拟世界的理由，最后仍落回「成为谁」。"
+    },
+    {
+      "text": "谢谢你玩我的游戏。",
+      "character": "James Halliday",
+      "en": "Thank you for playing my game.",
+      "note": "结尾哈利迪的道别，全片收束；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "同为粉丝的人，一眼就能认出黑子。",
+      "character": "James Halliday",
+      "en": "A fanboy knows a hater.",
+      "note": "哈利迪录像里的机锋；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "游戏",
+    "成长"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 1200000
+    },
+    "imdb": {
+      "score": 7.4,
+      "votes": 500000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 72
+    },
+    "metacritic": {
+      "score": 64
+    }
+  },
+  "still_alt": "头号玩家 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/155-ready-player-one.jpg）（影片页 https://www.themoviedb.org/movie/333339）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "old-well-keep-digging",
+  "group": "classics",
+  "film": {
+    "title": "老井",
+    "year": 1987,
+    "title_en": "Old Well",
+    "director": "吴天明"
+  },
+  "lines": [
+    {
+      "text": "井，一定要打出来。",
+      "en": "The well must be dug — no matter what.",
+      "character": "孙旺泉 / Sun Wangquan",
+      "note": "策展意译：提炼太行缺水村落数代打井的生存意志；影片以劳动场面胜于格言对白，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "生存",
+    "土地",
+    "集体"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.1,
+      "votes": 17
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "老井 · TMDB 宣传静帧（3840×2159）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/old-well-1987.jpg）（影片页 https://www.themoviedb.org/movie/127200）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/yzoE4YA5ba9A8LZ9W2LNtJzGLKi.jpg（3840×2159）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

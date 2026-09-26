@@ -1,0 +1,33 @@
+{
+  "id": "sound-mountain-hears",
+  "group": "classics",
+  "film": {
+    "title": "山之音",
+    "year": 1954,
+    "title_en": "Sound of the Mountain",
+    "director": "成濑巳喜男"
+  },
+  "lines": [
+    {
+      "text": "我听见了山的声音。",
+      "en": "I heard the sound of the mountain.",
+      "character": "尾形信吾 / Shingo Ogata",
+      "note": "通行译法：据川端原著与成濑改编中翁对“山之音”的著名感知；暗示死亡逼近与家庭伦理危机，字幕版措辞略有差异。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "衰老",
+    "成濑"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 71
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "山之音 · TMDB 宣传静帧（2000×1125）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/sound-of-the-mountain-1954.jpg）（影片页 https://www.themoviedb.org/movie/46492）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uxjflMr0CCwmtwxvPRfwgObIYoR.jpg（2000×1125）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

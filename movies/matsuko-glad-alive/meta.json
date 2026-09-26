@@ -1,0 +1,37 @@
+{
+  "id": "matsuko-glad-alive",
+  "group": "top250",
+  "film": {
+    "title": "被嫌弃的松子的一生",
+    "year": 2006,
+    "title_en": "嫌われ松子の一生",
+    "director": "中岛哲也"
+  },
+  "lines": [
+    {
+      "text": "能活着，真好。",
+      "en": "I'm glad I was alive.",
+      "character": "川尻葵（旁白意境）/ 松子",
+      "note": "对齐片末侄子回望松子一生的题旨余味；歌舞残酷童话少金句对白，标旁白意境边界。"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "女性",
+    "悲悯"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 7.9,
+      "votes": 15000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "被嫌弃的松子的一生 · 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/116-rank-116.jpg）（影片页 https://www.themoviedb.org/movie/31512）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/4stepMoz737edm7Tb5Y9C5o8cJs.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

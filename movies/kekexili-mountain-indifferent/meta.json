@@ -1,0 +1,49 @@
+{
+  "id": "kekexili-mountain-indifferent",
+  "group": "top250",
+  "film": {
+    "title": "可可西里",
+    "year": 2004,
+    "title_en": "Kekexili: Mountain Patrol",
+    "director": "陆川"
+  },
+  "lines": [
+    {
+      "text": "可可西里太大了——添一条命或少一条命，它都不在乎。",
+      "en": "Kekexili is too vast—one life more or less means nothing to it.",
+      "character": "题旨 / 巡山队",
+      "note": "巡山队与盗猎者共死于无人区：可可西里用高原的冷漠尺度，把「人的意义」压成风声。题旨凝练，略有通行改写，已标。"
+    },
+    {
+      "text": "你见过磕长头的人吗？他们的脸和手都很脏——可他们的心，特别干净。",
+      "character": "日泰",
+      "note": "日泰巡山途中的话；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "环保",
+    "牺牲",
+    "高原"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 460000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 8000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 92
+    },
+    "metacritic": {
+      "score": 78
+    }
+  },
+  "still_alt": "可可西里 · 宣传静帧（3008×1692）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/209-kekexili-mountain-patrol.jpg）（影片页 https://www.themoviedb.org/movie/16074）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/eOuZCdQozxNo7TGMM0Zgz2JNIjD.jpg（3008×1692）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

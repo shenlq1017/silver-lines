@@ -1,0 +1,50 @@
+{
+  "id": "chamber-our-choices",
+  "group": "top250",
+  "film": {
+    "title": "哈利·波特与密室",
+    "year": 2002,
+    "title_en": "Harry Potter and the Chamber of Secrets",
+    "director": "克里斯·哥伦布"
+  },
+  "lines": [
+    {
+      "text": "决定我们成为什么人的，不是我们的能力，而是我们的选择。",
+      "en": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+      "character": "Albus Dumbledore",
+      "note": "邓布利多对哈利说的选择论，系列伦理核心；密室篇写进银幕。"
+    },
+    {
+      "text": "多比没有主人。多比是个自由的小精灵！",
+      "character": "Dobby",
+      "en": "Dobby has no master. Dobby is a free elf!",
+      "note": "多比获得自由袜子的宣言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "选择",
+    "成长"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 7.4,
+      "votes": 700000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 82
+    },
+    "metacritic": {
+      "score": 63
+    }
+  },
+  "still_alt": "哈利·波特与密室 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/087-harry-potter-and-the-chamber-of-secrets.jpg）（影片页 https://www.themoviedb.org/movie/672）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/bvRnPaai6JL7XHF4K6414DdSHro.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

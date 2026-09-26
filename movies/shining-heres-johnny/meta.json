@@ -1,0 +1,57 @@
+{
+  "id": "shining-heres-johnny",
+  "group": "classics",
+  "film": {
+    "title": "闪灵",
+    "year": 1980,
+    "title_en": "The Shining",
+    "director": "斯坦利·库布里克"
+  },
+  "lines": [
+    {
+      "text": "嗨——约翰尼！",
+      "en": "Here's Johnny!",
+      "character": "Jack Torrance",
+      "note": "斧破门的电视串词式狞笑：闪灵把娱乐节目开场白改写成家暴恐怖图标。通行定译。"
+    },
+    {
+      "text": "只工作不玩耍，聪明的杰克也变傻。",
+      "character": "Jack Torrance",
+      "en": "All work and no play makes Jack a dull boy.",
+      "note": "打了一整章的同一句话，影史最恐怖一页；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我不会伤害你的——我只是要把你的脑袋砸烂。",
+      "character": "Jack Torrance",
+      "en": "I'm not gonna hurt you. I'm just going to bash your brains in.",
+      "note": "斧劈门前的「保证」；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "恐怖",
+    "疯狂",
+    "旅馆"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.2,
+      "votes": 420000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 1200000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 84
+    },
+    "metacritic": {
+      "score": 66
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "闪灵 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-shining-1980.jpg）（影片页 https://www.themoviedb.org/movie/694）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

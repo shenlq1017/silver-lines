@@ -1,0 +1,49 @@
+{
+  "id": "new-world-door-opens",
+  "group": "top250",
+  "film": {
+    "title": "新世界",
+    "year": 2013,
+    "title_en": "New World",
+    "director": "朴勋政"
+  },
+  "lines": [
+    {
+      "text": "新世界的门一旦打开，就再也关不上了。",
+      "en": "Once the door to the new world opens, it never closes again.",
+      "character": "题旨 / 丁青·李子成",
+      "note": "题旨句：卧底与黑帮换位之后，「新世界」不是口号，是回不了头的门。对白定译边界已标。"
+    },
+    {
+      "text": "老幺，一定要守住咱们的人。",
+      "character": "丁青",
+      "note": "丁青临终对李子成的托付，黑帮片的「家」命题。",
+      "confidence": "medium"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "黑帮",
+    "背叛"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 550000
+    },
+    "imdb": {
+      "score": 7.5,
+      "votes": 25000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 71
+    },
+    "metacritic": {
+      "score": 58
+    }
+  },
+  "still_alt": "新世界 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/129-new-world.jpg）（影片页 https://www.themoviedb.org/movie/165213）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/qmzy86jfupeSVnJJ2NqVR14XtDN.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

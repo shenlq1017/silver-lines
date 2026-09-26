@@ -1,0 +1,49 @@
+{
+  "id": "waterloo-bridge-good-luck-charm",
+  "group": "top250",
+  "film": {
+    "title": "魂断蓝桥",
+    "year": 1940,
+    "title_en": "Waterloo Bridge",
+    "director": "茂文·勒鲁瓦"
+  },
+  "lines": [
+    {
+      "text": "把这好运符带着——等战争结束，再还给我。",
+      "en": "Keep this good-luck charm—and give it back to me when the war is over.",
+      "character": "Myra Lester / Roy Cronin",
+      "note": "滑铁卢桥上的水晶符：魂断蓝桥用「战后归还」写下最狠的未兑现承诺。通行定译口吻。"
+    },
+    {
+      "text": "我爱过你，除了你，我谁也没爱过。",
+      "character": "Myra Lester",
+      "en": "I loved you, I've never loved anyone else. I never shall.",
+      "note": "最后一面时的诀别。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "战争",
+    "悲剧"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 480000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 12000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    },
+    "metacritic": {
+      "score": 70
+    }
+  },
+  "still_alt": "魂断蓝桥 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/249-waterloo-bridge.jpg）（影片页 https://www.themoviedb.org/movie/43824）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/neYZdMJ6Od6o4nHNrrwucsiIJ9L.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

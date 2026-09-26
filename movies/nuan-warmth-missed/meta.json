@@ -1,0 +1,33 @@
+{
+  "id": "nuan-warmth-missed",
+  "group": "classics",
+  "film": {
+    "title": "暖",
+    "year": 2003,
+    "title_en": "Nuan",
+    "director": "霍建起"
+  },
+  "lines": [
+    {
+      "text": "最暖的，常常是错过的。",
+      "en": "What feels warmest is often what we missed.",
+      "character": "主题概括 / Theme",
+      "note": "策展意译：概括霍建起《暖》中返乡者面对旧爱与乡村 ethnos 的悔与温；影片金句分散，明确为主题压缩。"
+    }
+  ],
+  "tags": [
+    "乡土",
+    "错过",
+    "归来"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7,
+      "votes": 7
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "暖 · TMDB 宣传静帧（2388×1344）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/nuan-2003.jpg，924×1328）（影片页 https://www.themoviedb.org/movie/255963）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/8CVWhLiOOEAQsasMohvuKAZqwj4.jpg（2388×1344）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "thin-blue-line-didnt-kill",
+  "group": "classics",
+  "film": {
+    "title": "细细的蓝线",
+    "year": 1988,
+    "title_en": "The Thin Blue Line",
+    "director": "埃罗尔·莫里斯"
+  },
+  "lines": [
+    {
+      "text": "我没有杀人。",
+      "en": "I did not kill anybody.",
+      "character": "兰道尔·亚当斯 / Randall Adams",
+      "note": "证词中的直接否认；中文按语境作简洁译法，保留纪录片中“谁在讲述真相”的张力。"
+    }
+  ],
+  "tags": [
+    "纪录片",
+    "司法",
+    "证词"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8,
+      "votes": 15000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "细细的蓝线 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-thin-blue-line-1988.jpg）（影片页 https://www.themoviedb.org/movie/14285）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/9ndhlUu1VQ44pX5dVFo5Y19KqAl.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

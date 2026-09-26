@@ -1,0 +1,55 @@
+{
+  "id": "dahua-once-love",
+  "group": "top250",
+  "film": {
+    "title": "大话西游之大圣娶亲",
+    "year": 1995,
+    "title_en": "西遊記大結局之仙履奇緣",
+    "director": "刘镇伟"
+  },
+  "lines": [
+    {
+      "text": "曾经有一份真诚的爱情放在我面前，我没有珍惜……",
+      "en": "There was once a sincere love placed before me, and I did not cherish it…",
+      "character": "至尊宝",
+      "note": "华语影史被背诵最多的深情长独白开篇。"
+    },
+    {
+      "text": "我的意中人是个盖世英雄，有一天他会踩着七色云彩来娶我。",
+      "character": "紫霞仙子",
+      "note": "紫霞对爱情的独白；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我猜中了前头，可是我猜不着这结局。",
+      "character": "紫霞仙子",
+      "note": "同一段独白的下半句，全片最痛的一句；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你看那个人，好奇怪哟，像一条狗。",
+      "character": "夕阳武士",
+      "note": "片尾点题收束；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "爱情",
+    "经典"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.2,
+      "votes": 1700000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 18000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "大话西游之大圣娶亲 · 月光与至尊宝宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/021-rank-021.jpg）（影片页 https://www.themoviedb.org/movie/21835）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hbZT53Kng9UXWAq2oHaPPbp4B83.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "comrades-found-you",
+  "group": "top250",
+  "film": {
+    "title": "甜蜜蜜",
+    "year": 1996,
+    "title_en": "Comrades: Almost a Love Story",
+    "director": "陈可辛"
+  },
+  "lines": [
+    {
+      "text": "原来你也在这里。",
+      "en": "So you were here too.",
+      "character": "黎小军 / 李翘",
+      "note": "纽约街头《甜蜜蜜》响起的重逢：半生错过收成六个字；对齐片末题旨，略作口语定型。"
+    },
+    {
+      "text": "黎小军同志，我来香港的目的不是你，你来香港的目的也不是我。",
+      "character": "李翘",
+      "note": "李翘的清醒切割，全片最痛的台词；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "傻女，听我说，现在立刻回家，洗个热水澡——明天起来，满街都是男人，个个都比豹哥好。",
+      "character": "豹哥",
+      "note": "豹哥亡命前的告别；通行引述可查。"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "移民",
+    "重逢"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 700000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 10000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 88
+    }
+  },
+  "still_alt": "甜蜜蜜 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/104-comrades-almost-a-love-story.jpg）（影片页 https://www.themoviedb.org/movie/37185）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ytIUBlSJ92M8x1RyJFUkAFDe7s9.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

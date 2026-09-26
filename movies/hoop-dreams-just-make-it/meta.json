@@ -1,0 +1,33 @@
+{
+  "id": "hoop-dreams-just-make-it",
+  "group": "classics",
+  "film": {
+    "title": "篮球梦",
+    "year": 1994,
+    "title_en": "Hoop Dreams",
+    "director": "史蒂夫·詹姆斯"
+  },
+  "lines": [
+    {
+      "text": "我只想闯出一条路。",
+      "en": "I just want to make it.",
+      "character": "阿瑟·阿吉 / Arthur Agee",
+      "note": "策展译法：概括阿瑟关于篮球、教育与出路的真实发言，不冒充单一场景逐字字幕。"
+    }
+  ],
+  "tags": [
+    "纪录片",
+    "梦想",
+    "阶级"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.3,
+      "votes": 27000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "篮球梦 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/hoop-dreams-1994.jpg）（影片页 https://www.themoviedb.org/movie/14275）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/pYeiEm55NySzK9ksKlQGlFQNapz.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

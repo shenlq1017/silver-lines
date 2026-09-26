@@ -1,0 +1,50 @@
+{
+  "id": "roman-holiday-goodbye",
+  "group": "top250",
+  "film": {
+    "title": "罗马假日",
+    "year": 1953,
+    "title_en": "Roman Holiday",
+    "director": "威廉·惠勒"
+  },
+  "lines": [
+    {
+      "text": "我不知道该怎么说再见。我想不出任何话来。",
+      "en": "I don't know how to say goodbye. I can't think of any words.",
+      "character": "Princess Ann",
+      "note": "安妮公主告别乔的失语，比任何情话都更像罗马假日。"
+    },
+    {
+      "text": "罗马。当然是罗马。我会把这段记忆珍藏一辈子。",
+      "character": "Princess Ann",
+      "en": "Rome. By all means, Rome. I will cherish my visit here in memory as long as I live.",
+      "note": "记者会上安妮的回答；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "爱情",
+    "经典",
+    "告别"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 1100000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 150000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 96
+    },
+    "metacritic": {
+      "score": 86
+    }
+  },
+  "still_alt": "罗马假日 · 罗马街景与假日意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/056-roman-holiday.jpg）（影片页 https://www.themoviedb.org/movie/804）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/gzRISGjiDMj4xqYE9ES2KNIXxpo.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

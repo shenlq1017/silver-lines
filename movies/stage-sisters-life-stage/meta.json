@@ -1,0 +1,38 @@
+{
+  "id": "stage-sisters-life-stage",
+  "group": "classics",
+  "film": {
+    "title": "舞台姐妹",
+    "year": 1964,
+    "title_en": "Two Stage Sisters",
+    "director": "谢晋"
+  },
+  "lines": [
+    {
+      "text": "唱戏是一辈子的事。",
+      "en": "Acting is a lifelong commitment.",
+      "character": "竺春花 / Zhu Chunhua",
+      "note": "策展意译：将舞台姐妹关于艺术与人生纠缠的伦理压缩为主句，明确不是逐字引文。"
+    },
+    {
+      "text": "认认真真唱戏，清清白白做人。",
+      "character": "竺春花",
+      "note": "越剧姐妹的师训，全片题旨；通行引述可查。"
+    }
+  ],
+  "tags": [
+    "戏曲",
+    "姐妹",
+    "谢晋"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.2,
+      "votes": 18
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "舞台姐妹 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/two-stage-sisters-1964.jpg）（影片页 https://www.themoviedb.org/movie/154633）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/3vQ6lTEMQgPiR8NCAcMfSzZ95UC.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

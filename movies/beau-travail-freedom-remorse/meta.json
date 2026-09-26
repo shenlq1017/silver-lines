@@ -1,0 +1,40 @@
+{
+  "id": "beau-travail-freedom-remorse",
+  "group": "classics",
+  "film": {
+    "title": "美丽工作",
+    "year": 1999,
+    "title_en": "Beau Travail",
+    "director": "克莱尔·德尼"
+  },
+  "lines": [
+    {
+      "text": "或许，自由始于悔恨。",
+      "en": "Maybe freedom begins with remorse.",
+      "character": "加卢 / Galoup",
+      "note": "加卢日记旁白的通行译法；片中重复「Maybe freedom begins with remorse. I heard that somewhere.」。"
+    },
+    {
+      "text": "我不知道这一切会如何收场。我想我会等着。等什么？我不知道。",
+      "character": "加卢",
+      "en": "I don't know how it will end. I think I'll wait. Wait for what? I don't know.",
+      "note": "紧接「自由始于悔恨」的片尾迪斯科独白下半段；Wikiquote 可查。",
+      "confidence": "medium"
+    }
+  ],
+  "tags": [
+    "军团",
+    "身体",
+    "悔恨"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 16000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "美丽工作 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/beau-travail-1999.jpg）（影片页 https://www.themoviedb.org/movie/14626）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6YA06RBOXtHU3VDsnpy2WX11fIQ.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

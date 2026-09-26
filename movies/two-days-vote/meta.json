@@ -1,0 +1,34 @@
+{
+  "id": "two-days-vote",
+  "group": "classics",
+  "film": {
+    "title": "两天一夜",
+    "year": 2014,
+    "title_en": "Two Days, One Night",
+    "director": "让-皮埃尔·达尔登"
+  },
+  "lines": [
+    {
+      "text": "请不要为了我丢掉自己的奖金——可我还是想求你投我一票。",
+      "en": "Please don't lose your bonus for me — and still, I ask you to vote for me.",
+      "character": "桑德拉 / Sandra",
+      "note": "主题性策展句：概括达尔登兄弟《两天一夜》中女工为保住工作逐一恳求同事投票的尊严张力，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "工作",
+    "尊严",
+    "投票",
+    "达尔登"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "votes": 1034
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "两天一夜 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/two-days-one-night-2014.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/221902）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/PS5u6V1ZWzkZYFHYUCCStz1Yhu.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

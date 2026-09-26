@@ -1,0 +1,33 @@
+{
+  "id": "stalker-softness-is-great",
+  "group": "classics",
+  "film": {
+    "title": "潜行者",
+    "year": 1979,
+    "title_en": "Stalker",
+    "director": "安德烈·塔可夫斯基"
+  },
+  "lines": [
+    {
+      "text": "柔软是伟大的，强硬一无是处。",
+      "en": "Softness is great and strength is worthless.",
+      "character": "潜行者 / Stalker",
+      "note": "通行译法：潜行者关于柔弱与强硬的独白节选（化用道德经意象）；完整段落更长，此处取核心对比句。"
+    }
+  ],
+  "tags": [
+    "寓言",
+    "信仰",
+    "区"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "votes": 2614
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "潜行者 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/stalker-1979.jpg）（影片页 https://www.themoviedb.org/movie/1398）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mCilWem3lYS16WcE5Idje5Q4lIM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

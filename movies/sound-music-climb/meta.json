@@ -1,0 +1,50 @@
+{
+  "id": "sound-music-climb",
+  "group": "top250",
+  "film": {
+    "title": "音乐之声",
+    "year": 1965,
+    "title_en": "The Sound of Music",
+    "director": "罗伯特·怀斯"
+  },
+  "lines": [
+    {
+      "text": "爬过每一座高山，涉过每一条溪流。",
+      "en": "Climb every mountain, ford every stream.",
+      "character": "Mother Abbess",
+      "note": "《Climb Every Mountain》唱词核心，音乐之声最传世的鼓舞句（歌曲金句，非对白）。"
+    },
+    {
+      "text": "当主关上一扇门，祂一定会在某处打开一扇窗。",
+      "character": "Maria",
+      "en": "When the Lord closes a door, somewhere He opens a window.",
+      "note": "玛丽亚的信仰箴言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "歌舞",
+    "希望",
+    "追寻"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 690000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 270000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 83
+    },
+    "metacritic": {
+      "score": 63
+    }
+  },
+  "still_alt": "音乐之声 · 阿尔卑斯与歌唱意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/070-the-sound-of-music.jpg）（影片页 https://www.themoviedb.org/movie/15121）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

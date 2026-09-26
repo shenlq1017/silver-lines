@@ -1,0 +1,34 @@
+{
+  "id": "titane-metal",
+  "group": "classics",
+  "film": {
+    "title": "钛",
+    "year": 2021,
+    "title_en": "Titane",
+    "director": "朱莉娅·杜科纳"
+  },
+  "lines": [
+    {
+      "text": "身体可以长出金属，爱却还得用人的样子去求。",
+      "en": "The body can grow metal — love still has to beg in a human shape.",
+      "character": "阿莱克西娅／樊尚 / Alexia / Vincent",
+      "note": "主题性策展句：概括杜科纳《钛》中身体变异、性别扮演与暴力之后仍求亲密的金属寓言，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "身体",
+    "金属",
+    "性别",
+    "杜科纳"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 6.3,
+      "votes": 1748
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "钛 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/titane-2021.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/630240）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zEddiBK6yZNUGVnmBJzmnYcEWiR.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

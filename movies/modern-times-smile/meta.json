@@ -1,0 +1,49 @@
+{
+  "id": "modern-times-smile",
+  "group": "top250",
+  "film": {
+    "title": "摩登时代",
+    "year": 1936,
+    "title_en": "Modern Times",
+    "director": "查理·卓别林"
+  },
+  "lines": [
+    {
+      "text": "微笑吧。",
+      "en": "Smile.",
+      "character": "题旨 / 主题曲",
+      "note": "默片少对白，取后补主题曲《Smile》题旨与片尾相拥上路的乐观；标歌曲/题旨边界。"
+    },
+    {
+      "text": "咱们能挺过去的。",
+      "character": "The Gamine",
+      "en": "We'll get along!",
+      "note": "片尾公路上的收束；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "默片",
+    "工业",
+    "希望"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 450000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 270000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 96
+    }
+  },
+  "still_alt": "摩登时代 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/093-modern-times.jpg）（影片页 https://www.themoviedb.org/movie/3082）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/t3vImPBh5aV9rU94hw4oT7m4nvk.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

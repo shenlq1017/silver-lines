@@ -1,0 +1,34 @@
+{
+  "id": "algiers-battle",
+  "group": "classics",
+  "film": {
+    "title": "阿尔及尔之战",
+    "year": 1966,
+    "title_en": "The Battle of Algiers",
+    "director": "吉洛·蓬泰科尔沃"
+  },
+  "lines": [
+    {
+      "text": "巷战教给你的，不是胜利，是谁先学会害怕。",
+      "en": "Street war teaches you not victory — but who learns to fear first.",
+      "character": "阿里／马蒂厄上校等 / Ali / Col. Mathieu et al.",
+      "note": "主题性策展句：概括蓬泰科尔沃《阿尔及尔之战》中反殖民巷战双方手段镜像的纪实题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "殖民",
+    "游击",
+    "阿尔及尔",
+    "蓬泰科尔沃"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 931
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "阿尔及尔之战 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-battle-of-algiers-1966.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/17295）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uEYLgHivDknXHVOpNjcCfeG8VcM.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

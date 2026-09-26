@@ -1,0 +1,64 @@
+{
+  "id": "wizard-of-oz-no-place-like-home",
+  "group": "classics",
+  "film": {
+    "title": "绿野仙踪",
+    "year": 1939,
+    "title_en": "The Wizard of Oz",
+    "director": "维克多·弗莱明"
+  },
+  "lines": [
+    {
+      "text": "没有什么地方比得上家。",
+      "en": "There's no place like home.",
+      "character": "Dorothy Gale",
+      "note": "多萝西磕红鞋回家咒：绿野仙踪把奥兹奇观折回堪萨斯。通行定译。"
+    },
+    {
+      "text": "亲爱的，力量一直在你身上——从来都在。",
+      "character": "Glinda",
+      "en": "You've always had the power, my dear. You've had it all along.",
+      "note": "格琳达的点破；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "有些没有脑子的人，话可真多，对吧？",
+      "character": "Scarecrow",
+      "en": "Some people without brains do an awful lot of talking, don't they?",
+      "note": "稻草人的反讽；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我现在知道我有心了——因为它正在碎。",
+      "character": "Tin Man",
+      "en": "Now I know I've got a heart, because it's breaking.",
+      "note": "铁皮人的名言；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "冒险",
+    "家庭"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.2,
+      "votes": 180000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 450000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 92
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "绿野仙踪 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-wizard-of-oz-1939.jpg）（影片页 https://www.themoviedb.org/movie/630）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "departed-product-of-environment",
+  "group": "classics",
+  "film": {
+    "title": "无间道风云",
+    "year": 2006,
+    "title_en": "The Departed",
+    "director": "马丁·斯科塞斯"
+  },
+  "lines": [
+    {
+      "text": "我不想成为环境的产物——我要让环境成为我的产物。",
+      "en": "I don't want to be a product of my environment. I want my environment to be a product of me.",
+      "character": "Frank Costello",
+      "note": "Costello 开场旁白：无间道风云把环境决定论翻了个面。通行意译。"
+    },
+    {
+      "text": "我年轻时，人们说我们可以当警察或当罪犯。今天我要告诉你的是：当你面对一把上膛的枪，这两者有什么区别？",
+      "character": "Frank Costello",
+      "en": "When I was your age, they would say we can become cops or criminals... Today, what I'm saying to you is this: when you're facing a loaded gun, what's the difference?",
+      "note": "开场对少年科斯特罗的训话（节选）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "没人会给你，你得自己去拿。",
+      "character": "Frank Costello",
+      "en": "No one gives it to you. You have to take it.",
+      "note": "同段训话的收束；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "也许有。也许没有。也许你该去问问你自己。",
+      "character": "Sgt. Dignam",
+      "en": "Maybe. Maybe not. Maybe go fuck yourself.",
+      "note": "迪格纳姆的招牌嘴炮（原文含粗口）；IMDb quotes 可查。",
+      "confidence": "medium"
+    },
+    {
+      "text": "我就是爱尔兰人。这辈子有点不对劲，我也能扛。",
+      "character": "Billy Costigan",
+      "en": "I'm fucking Irish. I'll deal with something being wrong for the rest of my life.",
+      "note": "科斯蒂根的黑色自嘲（原文含粗口）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "身份",
+    "波士顿"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.2,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 8.5,
+      "votes": 1400000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 91
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 85
+    }
+  },
+  "still_alt": "无间道风云 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-departed-2006.jpg）（影片页 https://www.themoviedb.org/movie/1422）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/6WRrGYalXXveItfpnipYdayFkQB.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

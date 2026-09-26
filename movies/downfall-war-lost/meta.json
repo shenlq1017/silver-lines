@@ -1,0 +1,40 @@
+{
+  "id": "downfall-war-lost",
+  "group": "classics",
+  "film": {
+    "title": "帝国的毁灭",
+    "year": 2005,
+    "title_en": "Downfall",
+    "director": "奥利弗·希施比格尔"
+  },
+  "lines": [
+    {
+      "text": "如果战争败了，德意志民族是否灭亡也就无关紧要了。",
+      "en": "If the war is lost, it is of no concern to me if the people perish.",
+      "character": "阿道夫·希特勒 / Adolf Hitler",
+      "note": "据影片对历史记述的戏剧化呈现之通行译法；内容残暴，策展仅作历史警示引用。"
+    },
+    {
+      "text": "施泰纳的进攻，是一个命令！",
+      "character": "阿道夫·希特勒",
+      "en": "Steiner's attack was an order!",
+      "note": "地堡发怒名场面，紧接主台词；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "历史",
+    "战争",
+    "传记"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9,
+      "votes": 4465
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "帝国的毁灭 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/der-untergang-2005.jpg）（影片页 https://www.themoviedb.org/movie/613）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cT80aGpjWZLn8rd7cLtsbktFMhf.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

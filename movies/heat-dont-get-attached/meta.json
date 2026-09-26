@@ -1,0 +1,57 @@
+{
+  "id": "heat-dont-get-attached",
+  "group": "classics",
+  "film": {
+    "title": "盗火线",
+    "year": 1995,
+    "title_en": "Heat",
+    "director": "迈克尔·曼"
+  },
+  "lines": [
+    {
+      "text": "别让自己对任何你无法在三十秒内转身走开的东西产生感情——如果感觉到热度，就这么办。",
+      "en": "Don't let yourself get attached to anything you are not willing to walk out on in thirty seconds flat if you feel the heat around the corner.",
+      "character": "Neil McCauley",
+      "note": "Neil 的生存戒律：盗火线把职业劫匪的冷峻写成一句三十秒法则。通行意译。"
+    },
+    {
+      "text": "她有一个很棒的屁股！",
+      "character": "Vincent Hanna",
+      "en": "Cause she's got a GREAT ASS!",
+      "note": "Hanna 与尼尔咖啡馆对谈的突兀一吼（原文含粗口）；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我做我最擅长的事——抢钱。你做你最擅长的——拦住我这样的人。",
+      "character": "Neil McCauley",
+      "en": "I do what I do best, I take scores. You do what you do best, try to stop guys like me.",
+      "note": "咖啡馆对谈的核心；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "纪律",
+    "孤独"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.5,
+      "votes": 280000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 700000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 83
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "metacritic": {
+      "score": 76
+    }
+  },
+  "still_alt": "盗火线 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/heat-1995.jpg）（影片页 https://www.themoviedb.org/movie/949）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

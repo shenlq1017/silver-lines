@@ -1,0 +1,43 @@
+{
+  "id": "our-little-sister-four-seasons",
+  "group": "top250",
+  "film": {
+    "title": "海街日记",
+    "year": 2015,
+    "title_en": "Our Little Sister",
+    "director": "是枝裕和"
+  },
+  "lines": [
+    {
+      "text": "四季会来，人也会来——有些人会留下来。",
+      "en": "Seasons come, people come—and some of them stay.",
+      "character": "题旨 / 幸、佳乃、千夏、铃",
+      "note": "海街日记几乎没有金句爆破点；此为镰仓四季与四姐妹收容关系的题旨凝练，非逐字台词，边界已标。film_title_en 取通行英译 Our Little Sister（非 Kamakura Diary）。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "日常",
+    "姐妹"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 350000
+    },
+    "imdb": {
+      "score": 7.6,
+      "votes": 15000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 93
+    },
+    "metacritic": {
+      "score": 75
+    }
+  },
+  "still_alt": "海街日记 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/183-diary.jpg）（影片页 https://www.themoviedb.org/movie/315846）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/ae08YRDvPW50LjnKhiX7QfaQw9q.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

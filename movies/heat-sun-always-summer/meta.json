@@ -1,0 +1,43 @@
+{
+  "id": "heat-sun-always-summer",
+  "group": "top250",
+  "film": {
+    "title": "阳光灿烂的日子",
+    "year": 1994,
+    "title_en": "In the Heat of the Sun",
+    "director": "姜文"
+  },
+  "lines": [
+    {
+      "text": "那时候好像永远是夏天，阳光充足，太亮，使得眼前一阵阵发黑。",
+      "en": "Back then it seemed always summer—the sun so bright it blacked out your eyes.",
+      "character": "成年马小军（旁白）",
+      "note": "开场旁白通行节选（成年马小军／姜文声口）：过曝的夏天记忆是本片最常被引用的题眼；对齐华语引句流通文本（如句子控等通行摘录），非逐帧字幕校对。tmdb_id=161285。"
+    },
+    {
+      "text": "我的故事总是发生在夏天。炎热的气候使人们裸露得更多——也更难以掩饰心中的欲望。",
+      "character": "马小军",
+      "note": "开场旁白（节选）；通行引述可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "青春",
+    "记忆"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 720000
+    },
+    "imdb": {
+      "score": 8,
+      "votes": 6200
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "阳光灿烂的日子 · 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/141-in-the-heat-of-the-sun.jpg）（影片页 https://www.themoviedb.org/movie/161285）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/xEURgJFFdOBkHUlM5xr3krbB6uD.jpg（1920×1080，源站最大 original）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为再压，保留 TMDB original 可得最大像素。"
+}

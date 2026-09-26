@@ -1,0 +1,40 @@
+{
+  "id": "birdman-stage",
+  "group": "classics",
+  "film": {
+    "title": "鸟人",
+    "year": 2014,
+    "title_en": "Birdman",
+    "director": "亚历杭德罗·冈萨雷斯·伊纳里图"
+  },
+  "lines": [
+    {
+      "text": "舞台上的飞，往往是为了不看见台下的坠落。",
+      "en": "Flying on stage is often a way not to see the fall below.",
+      "character": "里根 / Riggan Thomson",
+      "note": "主题性策展句：概括伊纳里图《鸟人》中百老汇自我神话与幻觉飞翔的当代寓言，非逐字引文。"
+    },
+    {
+      "text": "人气，是声望那个浪荡的表妹。",
+      "character": "Mike Shiner",
+      "en": "Popularity is the slutty little cousin of prestige.",
+      "note": "评论家对雷根的毒舌；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "舞台",
+    "自我",
+    "幻术",
+    "伊纳里图"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.4,
+      "votes": 13851
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "鸟人 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/birdman-2014.jpg，1720×2424）（影片页 https://www.themoviedb.org/movie/194662）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5tDErYQ8Ne1N6dNAlxg8yYNUwRA.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

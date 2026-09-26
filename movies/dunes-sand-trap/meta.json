@@ -1,0 +1,34 @@
+{
+  "id": "dunes-sand-trap",
+  "group": "classics",
+  "film": {
+    "title": "砂之女",
+    "year": 1964,
+    "title_en": "Woman in the Dunes",
+    "director": "勅使河原宏"
+  },
+  "lines": [
+    {
+      "text": "沙子会把一切填平——逃出去的路，也会被重新埋上。",
+      "en": "Sand levels everything — even the path you dug out will be buried again.",
+      "character": "鸟饲／女 / Niki / Woman",
+      "note": "主题性策展句：概括勅使河原宏／安部公房《砂之女》中沙穴劳作与逃脱循环的存在主义题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "沙子",
+    "囚禁",
+    "存在",
+    "勅使河原"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 545
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "砂之女 · TMDB 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/woman-in-the-dunes-1964.jpg，1915×2872）（影片页 https://www.themoviedb.org/movie/16672）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/dib5FpHm0gtLyIkPFoCgqbPYtsF.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

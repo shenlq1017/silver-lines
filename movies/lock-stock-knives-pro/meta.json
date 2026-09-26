@@ -1,0 +1,56 @@
+{
+  "id": "lock-stock-knives-pro",
+  "group": "top250",
+  "film": {
+    "title": "两杆大烟枪",
+    "year": 1998,
+    "title_en": "Lock, Stock and Two Smoking Barrels",
+    "director": "盖·里奇"
+  },
+  "lines": [
+    {
+      "text": "枪是唬人的，刀子才是专业的。",
+      "en": "Guns for show, knives for a pro.",
+      "character": "Barry the Baptist",
+      "note": "盖·里奇黑帮喜剧的冷硬口头禅，两杆大烟枪风格标签。"
+    },
+    {
+      "text": "你知道「报应」是什么意思吗？",
+      "character": "Brick Top",
+      "en": "Do you know what 'nemesis' means?",
+      "note": "砖头叔喂猪论的开场；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "这买卖简直是抢——世纪大甩卖。",
+      "character": "Harry",
+      "en": "It's a deal, it's a steal, it's the sale of the fuckin' century.",
+      "note": "哈利买枪的得意（原文含粗口）；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "犯罪",
+    "黑色幽默",
+    "警句"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.1,
+      "votes": 690000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 630000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 75
+    },
+    "metacritic": {
+      "score": 66
+    }
+  },
+  "still_alt": "两杆大烟枪 · 伦敦黑帮与枪支意象宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/068-lock-stock-and-two-smoking-barrels.jpg）（影片页 https://www.themoviedb.org/movie/100）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg（2800×1575）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

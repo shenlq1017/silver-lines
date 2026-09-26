@@ -1,0 +1,34 @@
+{
+  "id": "bourgeoisie-dinner",
+  "group": "classics",
+  "film": {
+    "title": "资产阶级的审慎魅力",
+    "year": 1972,
+    "title_en": "The Discreet Charm of the Bourgeoisie",
+    "director": "路易斯·布努埃尔"
+  },
+  "lines": [
+    {
+      "text": "晚宴永远开不了席——礼仪比饥饿更不肯让步。",
+      "en": "Dinner never quite begins — etiquette yields less readily than hunger.",
+      "character": "六名食客 / the six guests",
+      "note": "主题性策展句：概括布努埃尔《资产阶级的审慎魅力》中反复被打断的宴会与礼仪虚伪的超现实讽刺，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "宴会",
+    "荒诞",
+    "礼仪",
+    "布努埃尔"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "votes": 945
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "资产阶级的审慎魅力 · TMDB 宣传静帧（2879×1619）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/the-discreet-charm-of-the-bourgeoisie-1972.jpg，2000×3000）（影片页 https://www.themoviedb.org/movie/4593）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/mKC5CLuSMDyMyZ6G0wlrtzHCES0.jpg（2879×1619）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

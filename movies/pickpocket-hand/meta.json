@@ -1,0 +1,34 @@
+{
+  "id": "pickpocket-hand",
+  "group": "classics",
+  "film": {
+    "title": "扒手",
+    "year": 1959,
+    "title_en": "Pickpocket",
+    "director": "罗贝尔·布列松"
+  },
+  "lines": [
+    {
+      "text": "哦，让娜，为了走到你身边，我竟走了怎样一条奇怪的路。",
+      "en": "Oh Jeanne, to reach you at last, what a strange path I had to take.",
+      "character": "米歇尔 / Michel",
+      "note": "片末米歇尔画外音；法语原句「Ô Jeanne, pour aller jusqu'à toi, quel drôle de chemin il m'a fallu prendre!」；Wikipedia／IMDb quotes 通行译法。"
+    }
+  ],
+  "tags": [
+    "盗窃",
+    "灵魂",
+    "巴黎",
+    "布列松"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 590
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "扒手 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/pickpocket-1959.jpg，832×1248）（影片页 https://www.themoviedb.org/movie/690）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/5ApVROxPul7vu9NiB2DJWqlA3kE.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

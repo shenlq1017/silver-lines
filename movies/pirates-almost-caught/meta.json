@@ -1,0 +1,63 @@
+{
+  "id": "pirates-almost-caught",
+  "group": "top250",
+  "film": {
+    "title": "加勒比海盗",
+    "year": 2003,
+    "title_en": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "director": "戈尔·维宾斯基"
+  },
+  "lines": [
+    {
+      "text": "今天，将是你永远记得的日子——差点抓住杰克·斯派洛船长的日子！",
+      "en": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow!",
+      "character": "Captain Jack Sparrow",
+      "note": "开场逃港名句：把失败说成传奇，杰克人设一次成型。"
+    },
+    {
+      "text": "朗姆酒怎么总是没了？",
+      "character": "Jack Sparrow",
+      "en": "Why is the rum always gone?",
+      "note": "杰克的著名质问；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你最好开始相信鬼故事，特纳小姐——你现在就在一个里面！",
+      "character": "Barbossa",
+      "en": "You best start believing in ghost stories, Miss Turner... you're in one!",
+      "note": "月下变骷髅前的宣告；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你已经开到地图之外了，伙计。这里有怪物。",
+      "character": "Barbossa",
+      "en": "You're off the edge of the map, mate. Here there be monsters.",
+      "note": "巴博萨谈世界尽头；IMDb quotes 可查。"
+    }
+  ],
+  "tags": [
+    "冒险",
+    "海盗",
+    "机锋"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.9,
+      "votes": 1000000
+    },
+    "imdb": {
+      "score": 8.1,
+      "votes": 1200000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 79
+    },
+    "metacritic": {
+      "score": 63
+    }
+  },
+  "still_alt": "加勒比海盗 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/094-pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg）（影片页 https://www.themoviedb.org/movie/22）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

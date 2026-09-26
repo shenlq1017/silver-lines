@@ -1,0 +1,34 @@
+{
+  "id": "daybreak-attic",
+  "group": "classics",
+  "film": {
+    "title": "天色破晓",
+    "year": 1939,
+    "title_en": "Daybreak",
+    "director": "马塞尔·卡尔内"
+  },
+  "lines": [
+    {
+      "text": "天亮以前，阁楼里只剩一个人，和还没讲完的理由。",
+      "en": "Before daybreak, only one man remains in the attic — and a reason still unfinished.",
+      "character": "弗朗索瓦 / François",
+      "note": "主题性策展句：概括卡尔内《天亮时分》中加邦困守阁楼等待黎明的诗意现实主义宿命，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "宿命",
+    "阁楼",
+    "诗意",
+    "卡尔内"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "votes": 257
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "天色破晓 · TMDB 宣传静帧（3829×2154）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/daybreak-1939.jpg，1400×2100）（影片页 https://www.themoviedb.org/movie/27053）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fJ7dLAA1GbZbmTkl3VcMnmeZ308.jpg（3829×2154）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

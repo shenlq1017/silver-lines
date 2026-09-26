@@ -1,0 +1,34 @@
+{
+  "id": "summer-tale-hesitation",
+  "group": "classics",
+  "film": {
+    "title": "夏天的故事",
+    "year": 1996,
+    "title_en": "A Summer’s Tale",
+    "director": "埃里克·侯麦"
+  },
+  "lines": [
+    {
+      "text": "夏天海滨的犹豫，比告白本身更漫长。",
+      "en": "On a summer shore, hesitation lasts longer than the confession itself.",
+      "character": "加斯帕尔 / Gaspard",
+      "note": "主题性策展句：概括侯麦《夏天的故事》中海滨青年三角情感与犹豫不决的喜剧题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "夏天",
+    "犹豫",
+    "海滨",
+    "侯麦"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "votes": 279
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "夏天的故事 · TMDB 宣传静帧（3224×1816）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/a-summers-tale-1996.jpg，1240×1754）（影片页 https://www.themoviedb.org/movie/37563）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/wjeyu0xJagU41gUtArjGxyW7IlJ.jpg（3224×1816）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

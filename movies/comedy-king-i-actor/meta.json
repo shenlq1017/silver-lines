@@ -1,0 +1,57 @@
+{
+  "id": "comedy-king-i-actor",
+  "group": "top250",
+  "film": {
+    "title": "喜剧之王",
+    "year": 1999,
+    "title_en": "King of Comedy",
+    "director": "周星驰 / 李力持"
+  },
+  "lines": [
+    {
+      "text": "其实，我是一个演员。",
+      "en": "Actually, I'm an actor.",
+      "character": "尹天仇",
+      "note": "天仇名片式开场：把「演员」说成信仰，荒诞里最真的一句。"
+    },
+    {
+      "text": "努力！奋斗！",
+      "character": "尹天仇",
+      "note": "尹天仇的每日口号；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我养你啊！",
+      "character": "尹天仇",
+      "note": "对柳飘飘笨拙的告白，周星驰式浪漫名场面；通行引述可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "你先照顾好自己吧，傻瓜。",
+      "character": "柳飘飘",
+      "note": "飘飘上车后的回应；通行引述可查。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "梦想",
+    "自嘲"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.8,
+      "votes": 1400000
+    },
+    "imdb": {
+      "score": 7.3,
+      "votes": 20000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 80
+    }
+  },
+  "still_alt": "喜剧之王 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/090-king-of-comedy.jpg）（影片页 https://www.themoviedb.org/movie/53168）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/fGzO3qGIaBlLlW53fsaRSUPEjw0.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

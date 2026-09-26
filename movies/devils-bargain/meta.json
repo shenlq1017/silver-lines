@@ -1,0 +1,37 @@
+{
+  "id": "devils-bargain",
+  "group": "top250",
+  "film": {
+    "title": "鬼子来了",
+    "year": 2000,
+    "title_en": "Devils on the Doorstep",
+    "director": "姜文"
+  },
+  "lines": [
+    {
+      "text": "有便宜不沾，王八蛋。",
+      "en": "Only a bastard passes up a bargain.",
+      "character": "马大三／村民口头禅",
+      "note": "鬼子来了的民间哲学开场白，笑里藏刀的国民性解剖。"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "战争",
+    "荒诞"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 9.3,
+      "votes": 730000
+    },
+    "imdb": {
+      "score": 8.3,
+      "votes": 12000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "鬼子来了 · 村落与乱世宣传静帧",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/043-devils-on-the-doorstep.jpg）（影片页 https://www.themoviedb.org/movie/25838）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/epM1QllyysdMLI1G6BLP3Se80jC.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

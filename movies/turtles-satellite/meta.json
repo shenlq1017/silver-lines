@@ -1,0 +1,34 @@
+{
+  "id": "turtles-satellite",
+  "group": "classics",
+  "film": {
+    "title": "乌龟也会飞",
+    "year": 2004,
+    "title_en": "Turtles Can Fly",
+    "director": "巴赫曼·戈巴迪"
+  },
+  "lines": [
+    {
+      "text": "地雷区的孩子仰望卫星天线，像在等一个不会落地的消息。",
+      "en": "Children in a minefield look up at a satellite dish, waiting for news that will never land.",
+      "character": "卫星／阿格里等 / Satellite / Agrin et al.",
+      "note": "主题性策展句：概括戈巴迪《乌龟也会飞》中伊拉克边境儿童与战争废墟并置的寓言题旨，非逐字引文。"
+    }
+  ],
+  "tags": [
+    "战争",
+    "儿童",
+    "边境",
+    "戈巴迪"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.8,
+      "votes": 247
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（评分取自 TMDB vote_average 近似，非 IMDb 实时抓取）"
+  },
+  "still_alt": "乌龟也会飞 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/turtles-can-fly-2004.jpg，1000×1500）（影片页 https://www.themoviedb.org/movie/8340）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/iHtydgatlWw0G4IvGbYAkmJRNnN.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

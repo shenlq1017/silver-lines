@@ -1,0 +1,33 @@
+{
+  "id": "early-summer-no-marriage",
+  "group": "classics",
+  "film": {
+    "title": "麦秋",
+    "year": 1951,
+    "title_en": "Early Summer",
+    "director": "小津安二郎"
+  },
+  "lines": [
+    {
+      "text": "我还没有结婚的打算。",
+      "en": "I have no intention of getting married yet.",
+      "character": "纪子",
+      "note": "策展意译：把纪子面对婚姻安排的克制拒绝压缩为一句，不冒充逐字字幕。"
+    }
+  ],
+  "tags": [
+    "家庭",
+    "婚姻",
+    "日本电影"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "votes": 25000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照（IMDb 近似，非实时抓取）"
+  },
+  "still_alt": "麦秋 · TMDB 宣传静帧（1920×1080）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/early-summer-1951.jpg）（影片页 https://www.themoviedb.org/movie/50247）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/hyocLKjsYNUtb9zj25g4NKnL6QK.jpg（1920×1080）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

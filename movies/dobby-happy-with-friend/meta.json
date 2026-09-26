@@ -1,0 +1,50 @@
+{
+  "id": "dobby-happy-with-friend",
+  "group": "top250",
+  "film": {
+    "title": "哈利·波特与死亡圣器(上)",
+    "year": 2010,
+    "title_en": "Harry Potter and the Deathly Hallows: Part 1",
+    "director": "大卫·叶茨"
+  },
+  "lines": [
+    {
+      "text": "有朋友在的地方，就是好地方。多比很高兴能和朋友在一起……哈利·波特。",
+      "en": "Such a beautiful place, to be with friends. Dobby is happy to be with his friend, Harry Potter.",
+      "character": "Dobby",
+      "note": "多比临终把海滩变成家：死亡圣器(上)用家养小精灵的自由句，把系列友情推到最疼。与已刊魔法石/密室/阿兹卡班/火焰杯/死圣(下)不撞 id。"
+    },
+    {
+      "text": "这里长眠着多比——一个自由的小精灵。",
+      "character": "Harry Potter",
+      "en": "Here lies Dobby, a free elf.",
+      "note": "哈利为多比手刻的墓志铭；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "奇幻",
+    "友情",
+    "牺牲"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.6,
+      "votes": 480000
+    },
+    "imdb": {
+      "score": 7.7,
+      "votes": 650000
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照",
+    "rotten_tomatoes": {
+      "tomatometer": 77
+    },
+    "metacritic": {
+      "score": 65
+    }
+  },
+  "still_alt": "哈利·波特与死亡圣器(上) · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/top250/215-harry-potter-and-the-deathly-hallows-part-1.jpg）（影片页 https://www.themoviedb.org/movie/12444）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/slW0M2G9txC0aUbftCTm1nYX1K8.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "aliens-get-away-from-her",
+  "group": "classics",
+  "film": {
+    "title": "异形2",
+    "year": 1986,
+    "title_en": "Aliens",
+    "director": "詹姆斯·卡梅隆"
+  },
+  "lines": [
+    {
+      "text": "离她远点，你这该死的东西！",
+      "en": "Get away from her, you bitch!",
+      "character": "Ellen Ripley",
+      "note": "动力装甲对峙异形后裔：异形2把母性怒火喊成类型片名场面。通行字幕略有差（bitch 译法不一），已标。"
+    },
+    {
+      "text": "结束了，伙计们！全完了！",
+      "character": "Hudson",
+      "en": "Game over, man! Game over!",
+      "note": "任务失联后哈德森的崩溃名段；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "我的意见是：直接撤走，然后从轨道上把整个地方核平。这是唯一稳妥的办法。",
+      "character": "Hicks",
+      "en": "I say we take off and nuke the entire site from orbit. It's the only way to be sure.",
+      "note": "希克斯的处理方案，全片最著名建议；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "它们通常在夜里来。通常。",
+      "character": "Ripley",
+      "en": "They mostly come at night. Mostly.",
+      "note": "安抚纽特时说出的名句；IMDb quotes 可查。",
+      "confidence": "high"
+    },
+    {
+      "text": "妈妈总说世上没有怪物，没有真的怪物。可是有。",
+      "character": "Newt",
+      "en": "My mommy always said there were no monsters — no real ones — but there are.",
+      "note": "纽特对雷普利的告白；IMDb quotes 可查。",
+      "confidence": "high"
+    }
+  ],
+  "tags": [
+    "科幻",
+    "母性",
+    "动作"
+  ],
+  "ratings": {
+    "douban": {
+      "score": 8.3,
+      "votes": 280000
+    },
+    "imdb": {
+      "score": 8.4,
+      "votes": 800000
+    },
+    "rotten_tomatoes": {
+      "tomatometer": 98
+    },
+    "metacritic": {
+      "score": 84
+    },
+    "as_of": "2026-09-25",
+    "source_note": "策展快照"
+  },
+  "still_alt": "异形2 · 宣传静帧（3840×2160）",
+  "license_note": "海报：TMDB 发行宣传物料（本地缓存 assets/posters/classics/aliens-1986.jpg）（影片页 https://www.themoviedb.org/movie/679）；静帧：TMDB backdrop/宣传图 https://image.tmdb.org/t/p/original/zFKPAMN9kWr1hJF4owR83DrwjK6.jpg（3840×2160）；版权归制片方/发行方，经 TMDB 可标注取用（本站仅本地缓存策展展示，非商业盗链）；取用日约 2026-09-25；本站缓存未人为压至 1080p，保留 TMDB original 可得最大像素。"
+}
