@@ -1,0 +1,18 @@
+{
+  "id": "new-world-door-opens",
+  "film_title": "新世界",
+  "count": 2,
+  "lines": [
+    {
+      "text": "新世界的门一旦打开，就再也关不上了。",
+      "en": "Once the door to the new world opens, it never closes again.",
+      "character": "题旨 / 丁青·李子成",
+      "note": "题旨句：卧底与黑帮换位之后，「新世界」不是口号，是回不了头的门。对白定译边界已标。"
+    },
+    {
+      "text": "老幺，一定要守住咱们的人。",
+      "character": "丁青",
+      "note": "丁青临终对李子成的托付，黑帮片的「家」命题。"
+    }
+  ]
+}

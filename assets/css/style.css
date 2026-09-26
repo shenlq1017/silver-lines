@@ -1513,3 +1513,125 @@ body.page-detail .back-link:hover {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+
+/* —— 多台词（方案 A）：卡片徽标 + 详情页台词区块 —— */
+.quote-card__more {
+  color: var(--ink-dim);
+  font-weight: 400;
+}
+
+.detail-lines {
+  background: var(--paper);
+  border-top: 1px solid var(--line);
+  padding: 3rem 1.25rem 4rem;
+}
+
+.detail-lines__inner {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.detail-lines__title {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: 0.02em;
+  margin-bottom: 1.5rem;
+}
+
+.detail-lines__loading,
+.detail-lines__empty {
+  color: var(--ink-dim);
+  font-size: 0.92rem;
+}
+
+.detail-line {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.detail-line:last-child {
+  border-bottom: none;
+}
+
+.detail-line__main {
+  flex: 1;
+  min-width: 0;
+}
+
+.detail-line__text {
+  font-family: var(--font-serif);
+  font-size: 1.02rem;
+  line-height: 1.85;
+  color: var(--ink);
+}
+
+.detail-line__en {
+  margin-top: 0.3rem;
+  font-size: 0.88rem;
+  line-height: 1.7;
+  color: var(--ink-soft);
+}
+
+.detail-line__note {
+  margin-top: 0.45rem;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--ink-dim);
+}
+
+.detail-line__side {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.5rem;
+  padding-top: 0.2rem;
+}
+
+.detail-line__character {
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  text-align: right;
+  max-width: 11em;
+}
+
+.detail-line__copy {
+  appearance: none;
+  border: 1px solid var(--line-strong);
+  background: var(--paper-card);
+  color: var(--ink-soft);
+  border-radius: var(--radius);
+  width: 2rem;
+  height: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.detail-line__copy:hover {
+  color: var(--gold-strong);
+  border-color: var(--gold-ring);
+}
+
+/* 有台词区块的详情页：解锁页面滚动；页脚注记钉在静帧（第一屏）底部 */
+body.page-detail--has-lines,
+body.page-detail--has-lines main {
+  height: auto;
+  min-height: 100vh;
+  overflow: visible;
+}
+
+body.page-detail--has-lines .site-footer,
+body.page-detail--has-lines .site-footer--slim {
+  position: absolute;
+  top: calc(100vh - 26px);
+  bottom: auto;
+}

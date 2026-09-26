@@ -1,0 +1,31 @@
+{
+  "id": "green-mile-like-to-go-home",
+  "film_title": "绿里奇迹",
+  "count": 4,
+  "lines": [
+    {
+      "text": "我累了，老板。我好想回家。",
+      "en": "I'm tired, boss. … I want to go home.",
+      "character": "John Coffey",
+      "note": "Coffey 临刑前恳求是绿里奇迹的情感核：超能力者求的不是活命，是离开人间的残酷。中文取通行压缩定译；英文为长独白的策展摘录（省略号标省略）。"
+    },
+    {
+      "text": "你告诉天父：你们做了一件善事。",
+      "en": "You tell God the Father it was a kindness you done.",
+      "character": "John Coffey",
+      "note": "行刑前对保罗的告别；IMDb quotes 可查。"
+    },
+    {
+      "text": "我厌倦了人与人之间的丑恶。就像脑袋里扎满了碎玻璃。",
+      "en": "I'm tired of people bein' ugly to each other. It's like pieces of glass in my head.",
+      "character": "John Coffey",
+      "note": "解释自己的感应能力；IMDb quotes 可查。"
+    },
+    {
+      "text": "我们都欠一次死，谁也不能例外——这我知道。可有时候……哦上帝，绿里这条路真长。",
+      "en": "We each owe a death, there are no exceptions, I know that, but sometimes, oh God, the Green Mile is so long.",
+      "character": "Paul Edgecomb（旁白）",
+      "note": "老年保罗的收束旁白；IMDb quotes 可查。"
+    }
+  ]
+}

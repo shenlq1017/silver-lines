@@ -1,0 +1,31 @@
+{
+  "id": "strangelove-war-room",
+  "film_title": "奇爱博士",
+  "count": 4,
+  "lines": [
+    {
+      "text": "先生们，不能在这儿打架！这儿是作战室！",
+      "en": "Gentlemen, you can't fight in here! This is the War Room!",
+      "character": "President Merkin Muffley",
+      "note": "总统劝架的一本正经：奇爱博士把核战指挥部变成马戏团。通行定译。"
+    },
+    {
+      "text": "一种外来物质，混入了我们珍贵的体液……",
+      "en": "A foreign substance is introduced into our precious bodily fluids...",
+      "character": "Gen. Jack D. Ripper",
+      "note": "瑞普尔的「体液保卫战」；IMDb quotes 可查。"
+    },
+    {
+      "text": "我的元首！我能走路了！",
+      "en": "Mein Führer! I can walk!",
+      "character": "Dr. Strangelove",
+      "note": "影片的最后一句；IMDb quotes 可查。"
+    },
+    {
+      "text": "我再也不能坐视共产主义对我们珍珠般的体液的渗透……",
+      "en": "I can no longer sit back and allow Communist infiltration... to sap and impurify all of our precious bodily fluids.",
+      "character": "Gen. Jack D. Ripper",
+      "note": "瑞普尔的开场独白（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

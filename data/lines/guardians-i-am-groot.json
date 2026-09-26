@@ -1,0 +1,25 @@
+{
+  "id": "guardians-i-am-groot",
+  "film_title": "银河护卫队",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我是格鲁特。",
+      "en": "I am Groot.",
+      "character": "格鲁特 / Groot",
+      "note": "格鲁特唯一（亦是全部）通行对白；中文音译取「格鲁特」。"
+    },
+    {
+      "text": "除了我，没有东西像我！",
+      "en": "Ain't no thing like me except me!",
+      "character": "Rocket",
+      "note": "火箭的自况；IMDb quotes 可查。"
+    },
+    {
+      "text": "我们是格鲁特。",
+      "en": "We are Groot.",
+      "character": "Groot",
+      "note": "飞船坠毁前的转变，全片泪点；IMDb quotes 可查。"
+    }
+  ]
+}

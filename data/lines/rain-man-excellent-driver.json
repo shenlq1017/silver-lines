@@ -1,0 +1,25 @@
+{
+  "id": "rain-man-excellent-driver",
+  "film_title": "雨人",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我是个出色的司机。",
+      "en": "I'm an excellent driver.",
+      "character": "Raymond Babbitt",
+      "note": "雨人一句自我鉴定，既是笑点也是尊严：重复的短句撑起整段公路。通行定译。"
+    },
+    {
+      "text": "哦不——还有十五分钟到《人民法庭》。",
+      "en": "Uh-oh. Fifteen minutes to Wapner.",
+      "character": "Raymond Babbitt",
+      "note": "雷蒙的节目强迫症名句；IMDb quotes 可查。"
+    },
+    {
+      "text": "凯马特糟透了。",
+      "en": "K-Mart sucks.",
+      "character": "Raymond Babbitt",
+      "note": "雷蒙的购物哲学，影史名梗；IMDb quotes 可查。"
+    }
+  ]
+}

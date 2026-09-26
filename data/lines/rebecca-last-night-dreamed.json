@@ -1,0 +1,19 @@
+{
+  "id": "rebecca-last-night-dreamed",
+  "film_title": "蝴蝶梦",
+  "count": 2,
+  "lines": [
+    {
+      "text": "昨夜，我又梦见了曼德利。",
+      "en": "Last night I dreamt I went to Manderley again.",
+      "character": "Mrs. de Winter",
+      "note": "开场第一句：蝴蝶梦把曼德利做成幽灵般的专有名词。通行定译。"
+    },
+    {
+      "text": "我们再也不能回曼德利了。",
+      "en": "We can never go back to Manderley again.",
+      "character": "Maxim de Winter",
+      "note": "迈克西姆的收束；IMDb quotes 可查。"
+    }
+  ]
+}

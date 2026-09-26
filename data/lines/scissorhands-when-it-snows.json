@@ -1,0 +1,31 @@
+{
+  "id": "scissorhands-when-it-snows",
+  "film_title": "剪刀手爱德华",
+  "count": 4,
+  "lines": [
+    {
+      "text": "每到下雪，我就会想起他。",
+      "en": "You can still see him when it snows.",
+      "character": "Kim（旁白）",
+      "note": "金的老年旁白：剪刀手在山上继续雕刻，雪花即他未完成的温柔。"
+    },
+    {
+      "text": "你看，他下来之前，这里从不下雪。他来了之后，就下了。",
+      "en": "You see, before he came down here, it never snowed. And afterwards, it did.",
+      "character": "Kim（老年）",
+      "note": "片尾关于雪的解释，全片收束；IMDb quotes 可查。"
+    },
+    {
+      "text": "抱住我。",
+      "en": "Hold me.",
+      "character": "Kim",
+      "note": "冰雕棚里的诀别上半句；IMDb quotes 可查。"
+    },
+    {
+      "text": "我不能。",
+      "en": "I can't.",
+      "character": "Edward",
+      "note": "同场诀别下半句（剪刀会伤人）；IMDb quotes 可查。"
+    }
+  ]
+}

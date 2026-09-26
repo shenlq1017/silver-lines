@@ -1,0 +1,25 @@
+{
+  "id": "potter-wizard",
+  "film_title": "哈利·波特与魔法石",
+  "count": 3,
+  "lines": [
+    {
+      "text": "哈利——你是个巫师。",
+      "en": "Harry — yer a wizard.",
+      "character": "Rubeus Hagrid",
+      "note": "魔法世界的入场券，一句唤醒整个系列。"
+    },
+    {
+      "text": "对抗敌人需要巨大的勇气，对抗朋友同样如此。",
+      "en": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "character": "Dumbledore",
+      "note": "开学宴邓布利多的教诲；IMDb quotes 可查。"
+    },
+    {
+      "text": "你们俩若不介意，我要去睡了——免得你们又想出什么让我们送命的鬼主意，或者更糟：被开除。",
+      "en": "Now if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed — or worse, expelled.",
+      "character": "Hermione Granger",
+      "note": "赫敏的名台词，接罗恩「她该排一下优先级」；IMDb quotes 可查。"
+    }
+  ]
+}

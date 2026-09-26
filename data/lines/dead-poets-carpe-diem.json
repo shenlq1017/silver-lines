@@ -1,0 +1,31 @@
+{
+  "id": "dead-poets-carpe-diem",
+  "film_title": "死亡诗社",
+  "count": 4,
+  "lines": [
+    {
+      "text": "及时行乐。孩子们，让你们的生命变得非凡。",
+      "en": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+      "character": "John Keating",
+      "note": "死亡诗社的灵魂召唤，拉丁文借口下的生命动员令。"
+    },
+    {
+      "text": "哦，船长，我的船长！",
+      "en": "O Captain! My Captain!",
+      "character": "Todd Anderson",
+      "note": "片终课桌上的第一声呐喊，出自惠特曼诗。"
+    },
+    {
+      "text": "我们读诗、写诗，并非因为它好玩。我们读诗、写诗，因为我们是人类的一员，而人类充满了激情。医药、法律、商业、工程，这些崇高的追求足以支撑人的一生。但诗歌、美、浪漫、爱，这些才是我们活着的意义。",
+      "en": "We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. Medicine, law, business, engineering: these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love: these are what we stay alive for.",
+      "character": "John Keating",
+      "note": "基廷课堂名段；通行译法。"
+    },
+    {
+      "text": "我步入丛林，因为我希望活得有意义。我希望活得深刻，汲取生命中所有的精华，以免当我生命终结时，发现自己从来没有活过。",
+      "en": "I went to the woods because I wanted to live deliberately. I wanted to live deep and suck out all the marrow of life. To put to rout all that was not life, and not, when I had come to die, discover that I had not lived.",
+      "character": "John Keating",
+      "note": "基廷课堂诵读梭罗《瓦尔登湖》。"
+    }
+  ]
+}

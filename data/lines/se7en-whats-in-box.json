@@ -1,0 +1,25 @@
+{
+  "id": "se7en-whats-in-box",
+  "film_title": "七宗罪",
+  "count": 3,
+  "lines": [
+    {
+      "text": "盒子里是什么？",
+      "en": "What's in the box?",
+      "character": "Detective David Mills",
+      "note": "荒原交货的三字质问：七宗罪收束成一个看不见的翻盖，文化模因级。"
+    },
+    {
+      "text": "海明威写过：世界是个好地方，值得为之奋斗。我同意后半句。",
+      "en": "Ernest Hemingway once wrote, 'The world is a fine place and worth fighting for.' I agree with the second part.",
+      "character": "Detective Somerset",
+      "note": "萨默塞特的开场独白；IMDb quotes 可查。"
+    },
+    {
+      "text": "真希望我这一生，能活得稍微不同一点。",
+      "en": "I wish I could have lived my life a little differently.",
+      "character": "John Doe",
+      "note": "杜克的最后自白；IMDb quotes 可查。"
+    }
+  ]
+}

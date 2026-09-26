@@ -1,0 +1,25 @@
+{
+  "id": "dkr-hero-anyone",
+  "film_title": "蝙蝠侠：黑暗骑士崛起",
+  "count": 3,
+  "lines": [
+    {
+      "text": "英雄可以是任何人。",
+      "en": "A hero can be anyone.",
+      "character": "Jim Gordon / Bruce Wayne",
+      "note": "戈登对孤儿讲披风的意义：把蝙蝠侠从符号交还给普通人的肩膀。"
+    },
+    {
+      "text": "你只是适应了黑暗。我在黑暗里出生——被它塑造。",
+      "en": "You merely adopted the dark. I was born in it, moulded by it.",
+      "character": "Bane",
+      "note": "贝恩对蝙蝠侠的名言；IMDb quotes 可查。"
+    },
+    {
+      "text": "胜利打败了你。",
+      "en": "Victory has defeated you.",
+      "character": "Bane",
+      "note": "贝恩的点破；IMDb quotes 可查。"
+    }
+  ]
+}

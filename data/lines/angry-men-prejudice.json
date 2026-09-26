@@ -1,0 +1,25 @@
+{
+  "id": "angry-men-prejudice",
+  "film_title": "十二怒汉",
+  "count": 3,
+  "lines": [
+    {
+      "text": "偏见，总会模糊真相。",
+      "en": "Prejudice always obscures the truth.",
+      "character": "8号陪审员",
+      "note": "十二人密闭房间里的启蒙句，短而锋利。"
+    },
+    {
+      "text": "不经讨论就举手把一个孩子送上电椅，没那么容易。",
+      "en": "It's not easy to raise my hand and send a boy off to die without talking about it first.",
+      "character": "Juror 8",
+      "note": "8 号陪审员的开场立场；IMDb quotes 可查。"
+    },
+    {
+      "text": "你不会真的想杀了我吧？",
+      "en": "You don't really mean you'll kill me, do you?",
+      "character": "Juror 8",
+      "note": "3 号怒吼「我要杀了你」后的致命一问，全片转折；IMDb quotes 可查。"
+    }
+  ]
+}

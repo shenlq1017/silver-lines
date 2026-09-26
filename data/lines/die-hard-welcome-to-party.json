@@ -1,0 +1,31 @@
+{
+  "id": "die-hard-welcome-to-party",
+  "film_title": "虎胆龙威",
+  "count": 4,
+  "lines": [
+    {
+      "text": "欢迎来参加派对，伙计。",
+      "en": "Welcome to the party, pal.",
+      "character": "John McClane",
+      "note": "麦克莱恩撂倒恐怖分子后的冷幽默：虎胆龙威把「圣诞办公室劫案」做成动作范式。取此句而非更粗口的招牌句，便于策展；通行译法。"
+    },
+    {
+      "text": "呀哈——去你的，混蛋。",
+      "en": "Yippee-ki-yay, motherfucker.",
+      "character": "John McClane",
+      "note": "对讲机里对格鲁伯的招牌挑衅；IMDb quotes 可查。"
+    },
+    {
+      "text": "来西海岸吧，我们聚一聚，乐一乐。",
+      "en": "Come out to the coast, we'll get together, have a few laughs.",
+      "character": "John McClane",
+      "note": "楼顶上用嘲讽复述妻子的邀请；IMDb quotes 可查。"
+    },
+    {
+      "text": "偷走六亿美金，他们一定会找你——除非他们认为你已经死了。",
+      "en": "When you steal six hundred million, they will find you, unless they think you're already dead.",
+      "character": "Hans Gruber",
+      "note": "向同伙解释假死计划；IMDb quotes 可查。"
+    }
+  ]
+}

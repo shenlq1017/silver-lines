@@ -63,6 +63,9 @@ function cardHtml(q) {
     '<p class="quote-card__quote">' + escapeHtml(line) + "</p>" +
     '<p class="quote-card__meta"><strong>' + escapeHtml(title) + "</strong> · " +
     q.year +
+    (q.extra_count
+      ? ' · <span class="quote-card__more">本片还有 ' + q.extra_count + " 句</span>"
+      : "") +
     "</p>" +
     (badges ? '<div class="quote-card__badges">' + badges + "</div>" : "") +
     "</div>" +
@@ -384,6 +387,7 @@ function renderDetail(q) {
   }
 
   document.title = title + " · 片语";
+  document.body.classList.toggle("page-detail--has-lines", !!q.extra_count);
 
   return (
     '<section class="detail-stage">' +
@@ -440,7 +444,67 @@ function renderDetail(q) {
     "</div>" +
     "</div>" +
     "</div>" +
-    "</section>"
+    "</section>" +
+    (q.extra_count
+      ? '<section class="detail-lines" aria-label="本片台词">' +
+        '<div class="detail-lines__inner">' +
+        '<h2 class="detail-lines__title">本片台词 · 共 ' + (q.extra_count + 1) + " 句</h2>" +
+        '<div class="detail-lines__list" id="detail-lines-list">' +
+        '<p class="detail-lines__loading">加载中…</p>' +
+        "</div></div></section>"
+      : "")
+  );
+}
+
+/** 方案 A：详情页按需拉取 data/lines/{id}.json，渲染主台词之外的储备句 */
+function loadExtraLines(q) {
+  var box = document.getElementById("detail-lines-list");
+  if (!box) return;
+  fetch(asset("data/lines/" + q.id + ".json"))
+    .then(function (res) {
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      return res.json();
+    })
+    .then(function (data) {
+      var rows = (data.lines || [])
+        .slice(1)
+        .map(detailLineRowHtml)
+        .join("");
+      box.innerHTML = rows || '<p class="detail-lines__empty">暂无更多台词</p>';
+      var btns = box.querySelectorAll(".detail-line__copy");
+      Array.prototype.forEach.call(btns, function (btn) {
+        btn.addEventListener("click", function () {
+          var row = btn.closest(".detail-line");
+          var text = row ? row.dataset.copyText : "";
+          copyTextToClipboard(text, btn);
+        });
+      });
+    })
+    .catch(function () {
+      box.innerHTML = '<p class="detail-lines__empty">台词加载失败</p>';
+    });
+}
+
+function detailLineRowHtml(l) {
+  var copyText = "「" + (l.text || "") + "」";
+  if (l.en) copyText += "\n" + l.en;
+  var side =
+    '<div class="detail-line__side">' +
+    (l.character
+      ? '<p class="detail-line__character">' + escapeHtml(l.character) + "</p>"
+      : "") +
+    '<button type="button" class="detail-line__copy" aria-label="复制这句台词" title="复制这句台词">' +
+    COPY_ICON_SVG +
+    "</button></div>";
+  return (
+    '<div class="detail-line" data-copy-text="' + escapeAttr(copyText) + '">' +
+    '<div class="detail-line__main">' +
+    '<p class="detail-line__text">' + escapeHtml(l.text || "") + "</p>" +
+    (l.en ? '<p class="detail-line__en">' + escapeHtml(l.en) + "</p>" : "") +
+    (l.note ? '<p class="detail-line__note">' + escapeHtml(l.note) + "</p>" : "") +
+    "</div>" +
+    side +
+    "</div>"
   );
 }
 
@@ -740,6 +804,7 @@ function bindDetailActions(root) {
   }
   bindDetailKeys(q);
   renderRelated(q);
+  if (q.extra_count) loadExtraLines(q);
 }
 
 function bindDetailInfoPanel(container) {

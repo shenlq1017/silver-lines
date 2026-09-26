@@ -1,0 +1,19 @@
+{
+  "id": "pianist-i-am",
+  "film_title": "钢琴家",
+  "count": 2,
+  "lines": [
+    {
+      "text": "我是钢琴家。",
+      "en": "I am a pianist.",
+      "character": "Władysław Szpilman",
+      "note": "片中鲜少箴言对白；以身份自陈作次选——音乐成为活下去的最后名片。"
+    },
+    {
+      "text": "谢谢上帝，别谢我。是祂想让我们活下去。",
+      "en": "Thank God, not me. He wants us to survive.",
+      "character": "Wilm Hosenfeld",
+      "note": "德军军官放过席皮尔曼后的回答；IMDb quotes 可查。"
+    }
+  ]
+}

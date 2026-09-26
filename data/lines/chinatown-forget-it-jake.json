@@ -1,0 +1,25 @@
+{
+  "id": "chinatown-forget-it-jake",
+  "film_title": "唐人街",
+  "count": 3,
+  "lines": [
+    {
+      "text": "算了吧，杰克。这儿是唐人街。",
+      "en": "Forget it, Jake. It's Chinatown.",
+      "character": "Walsh",
+      "note": "全片最后的安慰即放弃：唐人街用地名收束对体制的无力感。通行定译。"
+    },
+    {
+      "text": "大多数人从不必面对一个事实：在对的时间、对的地点，他们什么都干得出来。",
+      "en": "Most men never have to face the fact that at the right time and the right place, they're capable of anything.",
+      "character": "Noah Cross",
+      "note": "克罗斯的邪恶哲学；IMDb quotes 可查。"
+    },
+    {
+      "text": "你真是只多管闲事的小猫。",
+      "en": "You're a very nosy fellow, kitty cat.",
+      "character": "Jake Gittes",
+      "note": "吉特斯被割破鼻子前的调侃；IMDb quotes 可查。"
+    }
+  ]
+}

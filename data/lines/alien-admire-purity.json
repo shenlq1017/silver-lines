@@ -1,0 +1,31 @@
+{
+  "id": "alien-admire-purity",
+  "film_title": "异形",
+  "count": 4,
+  "lines": [
+    {
+      "text": "我欣赏它的纯粹。一个幸存者——不被良心、悔恨或道德幻觉所遮蔽。",
+      "en": "I admire its purity. A survivor... unclouded by conscience, remorse, or delusions of morality.",
+      "character": "Ash",
+      "note": "合成人阿什对异形的礼赞：异形把公司逻辑说成物种赞美。与 C1《异形2》不同片；片名用简体「异形」（batch 繁体「異形」已统一）。"
+    },
+    {
+      "text": "你还是不明白自己在对付什么，对吧？完美的有机体。它结构之完美，只有它的敌意能与之相称。",
+      "en": "You still don't understand what you're dealing with, do you? A perfect organism. Its structural perfection is matched only by its hostility.",
+      "character": "Ash",
+      "note": "机械臂失控前对雷普利的自白；IMDb quotes 可查。"
+    },
+    {
+      "text": "关于你们的胜算，我无法对你撒谎。不过——我深表同情。",
+      "en": "I can't lie to you about your chances, but... you have my sympathies.",
+      "character": "Ash",
+      "note": "被断头后对船员的著名告别；IMDb quotes 可查。"
+    },
+    {
+      "text": "这里是雷普利，诺斯托罗莫号最后的幸存者，结束记录。",
+      "en": "This is Ripley, last survivor of the Nostromo, signing off.",
+      "character": "Ripley",
+      "note": "片尾救生舱录音独白；IMDb quotes 可查。"
+    }
+  ]
+}

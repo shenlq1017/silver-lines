@@ -1,0 +1,23 @@
+{
+  "id": "daisan-truth",
+  "film_title": "第三度嫌疑人",
+  "count": 3,
+  "lines": [
+    {
+      "text": "辩护未必需要真相。",
+      "en": "A defense doesn't necessarily need the truth.",
+      "character": "重盛 / Shigemori",
+      "note": "律师重盛原句「弁護に必ずしも真実は必要ない」；日语原声＋通行汉译（日语影评／作品论常引）。"
+    },
+    {
+      "text": "果然，人是你杀的吧。",
+      "character": "重盛朋章",
+      "note": "结尾律师对三隅的最终追问，全片真相谜底；通行字幕译法。"
+    },
+    {
+      "text": "你也是共犯。",
+      "character": "三隅高司",
+      "note": "三隅对律师的反诘，点破全片命题；通行字幕译法。"
+    }
+  ]
+}

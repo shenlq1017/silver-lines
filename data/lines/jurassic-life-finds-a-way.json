@@ -1,0 +1,31 @@
+{
+  "id": "jurassic-life-finds-a-way",
+  "film_title": "侏罗纪公园",
+  "count": 4,
+  "lines": [
+    {
+      "text": "生命自会找到出路。",
+      "en": "Life finds a way.",
+      "character": "Ian Malcolm",
+      "note": "Malcolm 对「控制」的嘲讽：侏罗纪公园把混沌理论收成一句流行箴言。通行定译。"
+    },
+    {
+      "text": "你们的科学家满脑子都是「能不能做到」，却从没停下来想想「该不该做」。",
+      "en": "Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should.",
+      "character": "Ian Malcolm",
+      "note": "马尔科姆的著名质疑；IMDb quotes 可查。"
+    },
+    {
+      "text": "我讨厌自己总是对的。",
+      "en": "I hate being right all the time.",
+      "character": "Ian Malcolm",
+      "note": "灾难后的黑色总结；IMDb quotes 可查。"
+    },
+    {
+      "text": "它们真的成群活动。",
+      "en": "They do move in herds.",
+      "character": "Alan Grant",
+      "note": "恐龙群出现的震撼一幕；IMDb quotes 可查。"
+    }
+  ]
+}

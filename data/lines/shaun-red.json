@@ -1,0 +1,25 @@
+{
+  "id": "shaun-red",
+  "film_title": "丧尸肖恩",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你身上有红的。",
+      "en": "You've got red on you.",
+      "character": "电视主播／众人（反复） / TV anchors / recurring",
+      "note": "片中反复出现的标志性对白（电视新闻主播等多次说出，后亦成角色间玩笑）；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "去温切斯特酒馆，来杯冰啤酒，等这一切自己过去。",
+      "en": "Let's go down the Winchester, have a nice cold pint, and wait for all this to blow over.",
+      "character": "Ed",
+      "note": "丧尸围城时艾德提出的完美方案，全片题眼；IMDb quotes 可查。"
+    },
+    {
+      "text": "这份炸金片怎么样？",
+      "en": "How's that for a slice of fried gold?",
+      "character": "Shaun",
+      "note": "肖恩的口头禅；IMDb quotes 可查。"
+    }
+  ]
+}

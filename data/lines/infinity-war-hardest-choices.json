@@ -1,0 +1,31 @@
+{
+  "id": "infinity-war-hardest-choices",
+  "film_title": "复仇者联盟3：无限战争",
+  "count": 4,
+  "lines": [
+    {
+      "text": "最艰难的选择，需要最坚强的意志。",
+      "en": "The hardest choices require the strongest wills.",
+      "character": "Thanos",
+      "note": "灭霸把牺牲说成哲学命题；正因其冷酷，才成为这部反英雄史诗的钥匙。通行译法。"
+    },
+    {
+      "text": "我是必然。",
+      "en": "I am inevitable.",
+      "character": "Thanos",
+      "note": "灭霸打响指前的宣告；IMDb quotes 可查。"
+    },
+    {
+      "text": "你应该瞄着头打。",
+      "en": "You should have gone for the head.",
+      "character": "Thanos",
+      "note": "雷神斧劈后的嘲讽，全片最痛转折；IMDb quotes 可查。"
+    },
+    {
+      "text": "如果我告诉你未来——未来就不会发生。",
+      "en": "If I tell you what happens, it won't happen.",
+      "character": "Doctor Strange",
+      "note": "奇异博士关于 1400 万种未来的回答；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chimes-midnight-know-thee-not",
+  "film_title": "午夜钟声",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我不认识你，老头。",
+      "en": "I know thee not, old man.",
+      "character": "哈尔王子",
+      "note": "哈尔拒绝福斯塔夫时的莎士比亚台词通行译法；影片最冷酷的友情告别之一。"
+    },
+    {
+      "text": "放逐了胖子杰克，就是放逐了整个世界。",
+      "en": "Banish plump Jack, and banish all the world.",
+      "character": "Falstaff",
+      "note": "莎剧原文入片；Wikiquote 可查。"
+    },
+    {
+      "text": "荣誉是什么？一句话而已。",
+      "en": "What is honour? A word.",
+      "character": "Falstaff",
+      "note": "荣誉独白（节选），本片最著名段落之一；Wikiquote 可查。"
+    }
+  ]
+}

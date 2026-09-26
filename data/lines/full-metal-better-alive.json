@@ -1,0 +1,37 @@
+{
+  "id": "full-metal-better-alive",
+  "film_title": "全金属外壳",
+  "count": 5,
+  "lines": [
+    {
+      "text": "死人只知道一件事：活着更好。",
+      "en": "The dead know only one thing: it is better to be alive.",
+      "character": "Private Joker",
+      "note": "小丑旁白冷锋：全金属外壳前后半部用同一嗓音把新兵营与顺化街垒缝在一起。通行定译。"
+    },
+    {
+      "text": "这是我的步枪。类似的还有很多，但这把是我的。",
+      "en": "This is my rifle. There are many like it, but this one is mine.",
+      "character": "Gunnery Sgt. Hartman",
+      "note": "新兵夜诵《步枪手信条》；IMDb quotes 可查。"
+    },
+    {
+      "text": "世界上最致命的武器，是一个海军陆战队员和他的步枪。",
+      "en": "The deadliest weapon in the world is a Marine and his rifle.",
+      "character": "Gunnery Sgt. Hartman",
+      "note": "同段训话的收束；IMDb quotes 可查。"
+    },
+    {
+      "text": "7.62 毫米，全金属被甲弹。",
+      "en": "7.62 millimeter. Full metal jacket.",
+      "character": "Private Gomer Pyle",
+      "note": "厕所夜场的点题自语；IMDb quotes 可查。"
+    },
+    {
+      "text": "是你吗，约翰·韦恩？这是在拍我吗？",
+      "en": "Is that you, John Wayne? Is this me?",
+      "character": "Private Joker",
+      "note": "新兵营夜谈；IMDb quotes 可查。"
+    }
+  ]
+}

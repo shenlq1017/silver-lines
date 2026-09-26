@@ -1,0 +1,25 @@
+{
+  "id": "aladdin-cosmic-powers",
+  "film_title": "阿拉丁",
+  "count": 3,
+  "lines": [
+    {
+      "text": "整个神灯差事的一部分：惊天动地的宇宙神力！巴掌大的住的地方！",
+      "en": "Phenomenal cosmic powers! Itty-bitty living space!",
+      "character": "精灵 / Genie",
+      "note": "精灵自我介绍对白；Wikiquote／IMDb quotes／迪士尼官方引文可核。"
+    },
+    {
+      "text": "规矩一：我不能杀人，所以别问。规矩二：我不能让人爱上别人。",
+      "en": "Rule number one: I can't kill anybody. So don't ask. Rule two: I can't make anyone fall in love with anybody else.",
+      "character": "Genie",
+      "note": "精灵的三条规矩（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "你相信我吗？",
+      "en": "Do you trust me?",
+      "character": "Aladdin",
+      "note": "阳台与飞毯两次伸手的著名台词；IMDb quotes 可查。"
+    }
+  ]
+}

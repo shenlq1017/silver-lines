@@ -1,0 +1,25 @@
+{
+  "id": "america-once-aging",
+  "film_title": "美国往事",
+  "count": 3,
+  "lines": [
+    {
+      "text": "老了以后，你会发现，即使是你最在意的往事，有时也会想不起来。",
+      "en": "All I see is a boy, with a curious look…",
+      "character": "Noodles（老化旁白意境）",
+      "note": "对齐华语影迷圈流传的「往事」题旨表述；原片多意式旁白与闪回，中文取可上墙衰老回望句并标边界。"
+    },
+    {
+      "text": "我喜欢街上的气味，闻着让我踏实。",
+      "en": "I like the stink of the streets. They make me feel good.",
+      "character": "少年面条",
+      "note": "少年时代街头戏；IMDb quotes 可查。"
+    },
+    {
+      "text": "被朋友出卖的时候，就得还手。",
+      "en": "When you've been betrayed by a friend, you hit back.",
+      "character": "Max",
+      "note": "合伙时代的处世宣言；Wikiquote 可查（说话人如核证为面条则修正）。"
+    }
+  ]
+}

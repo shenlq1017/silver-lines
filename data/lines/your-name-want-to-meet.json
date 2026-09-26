@@ -1,0 +1,23 @@
+{
+  "id": "your-name-want-to-meet",
+  "film_title": "你的名字。",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我想要见你。不管你在哪里，我都会去见你。",
+      "en": "I want to see you. Wherever you are, I'll go to see you.",
+      "character": "泷 / 三叶",
+      "note": "彗星夜之前的誓言：换身记忆模糊，想见的冲动却清晰如灾前预警。"
+    },
+    {
+      "text": "重要的人。不能忘记的人。不想忘记的人。是谁？是谁？是谁？",
+      "character": "立花泷",
+      "note": "写下的名字逐渐消失时的独白；通行字幕译法。"
+    },
+    {
+      "text": "只要相见——一定立刻就会明白。",
+      "character": "宫水三叶",
+      "note": "三叶的信念；通行字幕译法。"
+    }
+  ]
+}

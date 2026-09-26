@@ -1,0 +1,31 @@
+{
+  "id": "scarface-say-hello",
+  "film_title": "疤面煞星",
+  "count": 4,
+  "lines": [
+    {
+      "text": "你们这帮龟孙子想要打仗——是吗？来啊！……跟我的小朋友问个好！",
+      "en": "Say hello to my little friend!",
+      "character": "Tony Montana",
+      "note": "终局扫射的咆哮：疤面煞星把过度自信写成流行文化口头禅。通行定译。"
+    },
+    {
+      "text": "先搞到钱，然后有权，然后有女人。",
+      "en": "First you get the money, then you get the power, then you get the women.",
+      "character": "Tony Montana",
+      "note": "托尼的丛林信条；IMDb quotes 可查。"
+    },
+    {
+      "text": "这世上我只有两样东西：我的胆量和我的信用——我谁都不背叛。",
+      "en": "All I have in this world is my balls and my word, and I don't break them for no one.",
+      "character": "Tony Montana",
+      "note": "托尼的底线宣言（原文含粗口）；IMDb quotes 可查。"
+    },
+    {
+      "text": "眼睛，奇科。眼睛从不撒谎。",
+      "en": "The eyes, Chico. They never lie.",
+      "character": "Tony Montana",
+      "note": "托尼的识人术；IMDb quotes 可查。"
+    }
+  ]
+}

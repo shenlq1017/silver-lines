@@ -1,0 +1,25 @@
+{
+  "id": "mulholland-no-band",
+  "film_title": "穆赫兰道",
+  "count": 3,
+  "lines": [
+    {
+      "text": "没有乐队。",
+      "en": "There is no band.",
+      "character": "蓝发女人",
+      "note": "Club Silencio 场景的通行字幕；短句为片中明确台词。"
+    },
+    {
+      "text": "就是这个女孩。",
+      "en": "This is the girl.",
+      "character": "导演 Adam（被指定）",
+      "note": "选角片场反复出现的台词，全片梦魇枢纽；IMDb quotes 可查。"
+    },
+    {
+      "text": "这家店后面坐着一个人。我做的噩梦，都是因为他。",
+      "en": "There's a man in the back of this place. He's the reason I'm having nightmares.",
+      "character": "Dan",
+      "note": "温基餐厅两场恐惧戏；IMDb quotes 可查。"
+    }
+  ]
+}

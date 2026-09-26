@@ -1,0 +1,25 @@
+{
+  "id": "wallstreet-greed",
+  "film_title": "华尔街",
+  "count": 3,
+  "lines": [
+    {
+      "text": "贪婪——找不到更好的词——是好的。",
+      "en": "Greed, for lack of a better word, is good.",
+      "character": "戈登·盖柯 / Gordon Gekko",
+      "note": "盖柯在特尔达纸业股东大会演讲中的对白；AFI 百大电影台词第57；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "午餐是给懦夫准备的。",
+      "en": "Lunch is for wimps.",
+      "character": "Gordon Gekko",
+      "note": "盖柯的职场格言；IMDb quotes 可查。"
+    },
+    {
+      "text": "你不在里面，就在外面！",
+      "en": "If you're not inside, you're outside!",
+      "character": "Gordon Gekko",
+      "note": "盖柯的丛林法则；IMDb quotes 可查。"
+    }
+  ]
+}

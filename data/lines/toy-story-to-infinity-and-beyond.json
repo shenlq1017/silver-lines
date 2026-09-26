@@ -1,0 +1,37 @@
+{
+  "id": "toy-story-to-infinity-and-beyond",
+  "film_title": "玩具总动员",
+  "count": 5,
+  "lines": [
+    {
+      "text": "飞向宇宙，浩瀚无垠！",
+      "en": "To infinity and beyond!",
+      "character": "巴斯光年（Buzz Lightyear）",
+      "note": "经典中文配音译法。"
+    },
+    {
+      "text": "把手举向天空！",
+      "en": "Reach for the sky!",
+      "character": "Woody",
+      "note": "胡迪的招牌台词；IMDb quotes 可查。"
+    },
+    {
+      "text": "我靴子里有蛇！",
+      "en": "There's a snake in my boot!",
+      "character": "Woody",
+      "note": "胡迪拉绳名句；IMDb quotes 可查。"
+    },
+    {
+      "text": "这不是飞——这是有风格的坠落。",
+      "en": "This isn't flying. This is falling with style.",
+      "character": "Buzz Lightyear",
+      "note": "巴斯滑翔后的名答；IMDb quotes 可查。"
+    },
+    {
+      "text": "你是个又可悲又古怪的小人儿，我为你感到遗憾。",
+      "en": "You are a sad, strange little man, and you have my pity.",
+      "character": "Woody",
+      "note": "胡迪怼巴斯的名句；IMDb quotes 可查。"
+    }
+  ]
+}

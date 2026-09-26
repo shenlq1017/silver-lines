@@ -1,0 +1,18 @@
+{
+  "id": "ponyo-loves-sosuke",
+  "film_title": "崖上的波妞",
+  "count": 2,
+  "lines": [
+    {
+      "text": "波妞喜欢宗介！",
+      "en": "Ponyo loves Sosuke!",
+      "character": "波妞",
+      "note": "半鱼女孩扑向人类男孩：崖上的波妞把告白压成五个字加感叹号。通行定译；film_title_en=Ponyo（非原日文片名）。"
+    },
+    {
+      "text": "我会保护你的。",
+      "character": "宗介",
+      "note": "宗介对波妞的承诺；通行字幕译法。"
+    }
+  ]
+}

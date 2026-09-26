@@ -1,0 +1,18 @@
+{
+  "id": "weathering-it-will-clear",
+  "film_title": "天气之子",
+  "count": 2,
+  "lines": [
+    {
+      "text": "没事的，会放晴的。",
+      "en": "It's okay — it'll clear up.",
+      "character": "阳菜 / Hina Amano",
+      "note": "通行可核验：新海诚《天气之子》阳菜安慰性口头禅「大丈夫、晴れるよ」的通行中译。"
+    },
+    {
+      "text": "天气什么的，就这样乱下去好了！",
+      "character": "森岛帆高",
+      "note": "帆高拒绝「牺牲阳菜换晴天」的呐喊；通行字幕译法。"
+    }
+  ]
+}

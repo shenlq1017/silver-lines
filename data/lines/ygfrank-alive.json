@@ -1,0 +1,25 @@
+{
+  "id": "ygfrank-alive",
+  "film_title": "新科学怪人",
+  "count": 3,
+  "lines": [
+    {
+      "text": "活了！它活了！它活了！",
+      "en": "Alive! It's alive! It's ALIVE!",
+      "character": "弗雷德里克·弗兰肯斯坦 / Dr. Frederick Frankenstein",
+      "note": "弗雷德里克造出怪物瞬间的对白（戏仿原作经典句）；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "本来会更糟——可能正在下雨呢。",
+      "en": "Could be worse. Could be raining.",
+      "character": "Dr. Frederick Frankenstein",
+      "note": "片尾对谈的最后一句，全片收束；IMDb quotes 可查。"
+    },
+    {
+      "text": "像我这样走。",
+      "en": "Walk this way.",
+      "character": "Igor",
+      "note": "伊戈尔跛脚示范的双关梗（走路姿势/这边走）；IMDb quotes 可查。"
+    }
+  ]
+}

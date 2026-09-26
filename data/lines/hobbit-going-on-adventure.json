@@ -1,0 +1,19 @@
+{
+  "id": "hobbit-going-on-adventure",
+  "film_title": "霍比特人1：意外之旅",
+  "count": 2,
+  "lines": [
+    {
+      "text": "我要去冒险了！",
+      "en": "I'm going on an adventure!",
+      "character": "比尔博·巴金斯 / Bilbo Baggins",
+      "note": "比尔博冲出袋底洞时的通行短句；与甘道夫邀约「分享一场冒险」呼应。"
+    },
+    {
+      "text": "是普通人日常的小事——小小的善意与爱——挡住了黑暗。",
+      "en": "It is the small things, everyday deeds of ordinary folk, that keeps the darkness at bay. Small acts of kindness and love.",
+      "character": "Gandalf",
+      "note": "甘道夫对霍比特人生活的小结；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "totoro-laugh",
+  "film_title": "龙猫",
+  "count": 3,
+  "lines": [
+    {
+      "text": "来，大家笑一个。一笑，什么可怕的事都会过去。",
+      "en": "Everybody, try laughing. Then whatever scares you will go away!",
+      "character": "草壁靖子（母亲）",
+      "note": "龙猫少箴言金句；取母亲病床边的暖心次选，胜于网络伪宫崎骏语录。"
+    },
+    {
+      "text": "我看到龙猫了！",
+      "character": "小梅",
+      "note": "小梅向爸爸和姐姐报喜；通行配音译法。"
+    },
+    {
+      "text": "能见到龙猫，小梅真是个幸运的孩子。",
+      "character": "草壁达郎（父亲）",
+      "note": "樟树下父亲的温言；通行译法。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "gwtw-tomorrow",
+  "film_title": "乱世佳人",
+  "count": 4,
+  "lines": [
+    {
+      "text": "明天又是新的一天。",
+      "en": "Tomorrow is another day.",
+      "character": "Scarlett O'Hara",
+      "note": "乱世收束的自我打气，短到可以刻进座右铭。"
+    },
+    {
+      "text": "坦白说，亲爱的，我一点也不在乎。",
+      "en": "Frankly, my dear, I don't give a damn.",
+      "character": "Rhett Butler",
+      "note": "瑞德离场名句，影史引用之最。"
+    },
+    {
+      "text": "上帝为我作证，我再也不要挨饿了。",
+      "en": "As God is my witness, I'll never be hungry again.",
+      "character": "Scarlett O'Hara",
+      "note": "塔拉庄园红土里的起誓。"
+    },
+    {
+      "text": "我现在无法去想这些，再想下去我会发疯的。我明天再想。",
+      "en": "I can't think about that right now. If I do, I'll go crazy. I'll think about that tomorrow.",
+      "character": "Scarlett O'Hara",
+      "note": "与主台词同源的「明天」哲学。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "clockwork-whats-it-gonna-be",
+  "film_title": "发条橙",
+  "count": 4,
+  "lines": [
+    {
+      "text": "那么——接下来会是什么？",
+      "en": "What's it going to be then, eh?",
+      "character": "Alexander DeLarge",
+      "note": "亚历克斯旁白开场也是全书卷首：发条橙用一句挑衅式提问，把自由意志扔给观众。通行定译略有字幕差，已标。"
+    },
+    {
+      "text": "我被治好了，千真万确。",
+      "en": "I was cured, all right.",
+      "character": "Alex",
+      "note": "结尾自嘲的最后一行；IMDb quotes 可查。"
+    },
+    {
+      "text": "善是被选择出来的。当一个人不能选择，他就不再是人。",
+      "en": "Goodness is chosen. When a man cannot choose, he ceases to be a man.",
+      "character": "监狱牧师",
+      "note": "牧师反对行为矫正的辩词；IMDb quotes 可查。"
+    },
+    {
+      "text": "我做我做的一切，就因为我乐意。",
+      "en": "I do what I do because I like to do it.",
+      "character": "Alex",
+      "note": "亚历克斯对自由意志的直白；IMDb quotes 可查。"
+    }
+  ]
+}

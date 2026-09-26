@@ -1,0 +1,31 @@
+{
+  "id": "godfather2-enemies-closer",
+  "film_title": "教父2",
+  "count": 4,
+  "lines": [
+    {
+      "text": "亲近你的朋友，更要亲近你的敌人。",
+      "en": "Keep your friends close, but your enemies closer.",
+      "character": "Michael Corleone",
+      "note": "教父2写出的权谋谚语，已溢出银幕成为英语世界通用句。"
+    },
+    {
+      "text": "如果历史教会了我们什么，那就是：任何人都可以被杀掉。",
+      "en": "If history has taught us anything, it's that you can kill anyone.",
+      "character": "Michael Corleone",
+      "note": "迈克尔对汤姆的黑化宣言；IMDb quotes 可查。"
+    },
+    {
+      "text": "我聪明！不像他们说的那样蠢……我聪明，我要的是尊重！",
+      "en": "I'm smart! Not like everybody says... I'm smart and I want respect!",
+      "character": "Fredo Corleone",
+      "note": "弗雷多在哈瓦那的爆发，全片最心碎一幕；IMDb quotes 可查。"
+    },
+    {
+      "text": "我不觉得得把所有人都灭掉，汤姆——只要灭掉我的敌人。",
+      "en": "I don't feel I have to wipe everybody out, Tom. Just my enemies.",
+      "character": "Michael Corleone",
+      "note": "迈克尔的清算边界；IMDb quotes 可查。"
+    }
+  ]
+}

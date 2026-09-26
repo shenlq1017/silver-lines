@@ -1,0 +1,19 @@
+{
+  "id": "walle-live",
+  "film_title": "机器人总动员",
+  "count": 2,
+  "lines": [
+    {
+      "text": "我不想只是活着，我想要生活。",
+      "en": "I don't want to survive. I want to live.",
+      "character": "Captain",
+      "note": "少言机器人电影里，人类舰长的一声醒转。"
+    },
+    {
+      "text": "伊——娃！",
+      "en": "Ee-vah!",
+      "character": "WALL-E",
+      "note": "瓦力呼唤伊娃的标志性发音；IMDb quotes 可查。"
+    }
+  ]
+}

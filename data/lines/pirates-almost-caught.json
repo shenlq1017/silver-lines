@@ -1,0 +1,31 @@
+{
+  "id": "pirates-almost-caught",
+  "film_title": "加勒比海盗",
+  "count": 4,
+  "lines": [
+    {
+      "text": "今天，将是你永远记得的日子——差点抓住杰克·斯派洛船长的日子！",
+      "en": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow!",
+      "character": "Captain Jack Sparrow",
+      "note": "开场逃港名句：把失败说成传奇，杰克人设一次成型。"
+    },
+    {
+      "text": "朗姆酒怎么总是没了？",
+      "en": "Why is the rum always gone?",
+      "character": "Jack Sparrow",
+      "note": "杰克的著名质问；IMDb quotes 可查。"
+    },
+    {
+      "text": "你最好开始相信鬼故事，特纳小姐——你现在就在一个里面！",
+      "en": "You best start believing in ghost stories, Miss Turner... you're in one!",
+      "character": "Barbossa",
+      "note": "月下变骷髅前的宣告；IMDb quotes 可查。"
+    },
+    {
+      "text": "你已经开到地图之外了，伙计。这里有怪物。",
+      "en": "You're off the edge of the map, mate. Here there be monsters.",
+      "character": "Barbossa",
+      "note": "巴博萨谈世界尽头；IMDb quotes 可查。"
+    }
+  ]
+}

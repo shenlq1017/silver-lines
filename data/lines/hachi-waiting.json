@@ -1,0 +1,19 @@
+{
+  "id": "hachi-waiting",
+  "film_title": "忠犬八公的故事",
+  "count": 2,
+  "lines": [
+    {
+      "text": "它只是你的一条狗，但你却是它的一生。",
+      "en": "It's your dog, but you are its whole life.",
+      "character": "旁白意蕴",
+      "note": "华语流传最广的转述金句（常见转述，非逐字原声核验）。车站与等待的忠诚注脚。"
+    },
+    {
+      "text": "八公是我的英雄。我没有见过外公——但他们教会了我忠诚的含义。",
+      "en": "Hachiko was my hero. I never met my grandfather... They taught me the meaning of loyalty...",
+      "character": "Ronnie（旁白）",
+      "note": "小罗尼课堂作文的开头；IMDb quotes 可查。"
+    }
+  ]
+}

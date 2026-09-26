@@ -1,0 +1,25 @@
+{
+  "id": "kill-bill-revenge-cold",
+  "film_title": "杀死比尔",
+  "count": 3,
+  "lines": [
+    {
+      "text": "复仇是一道凉菜——冷着吃最好。",
+      "en": "Revenge is a dish best served cold.",
+      "character": "The Bride (title card / Bill)",
+      "note": "片头题记（片名卡引用的老谚语，亦是比尔世界观）：杀死比尔把复仇美学写成菜单。通行定译；本条对应 Vol.1。"
+    },
+    {
+      "text": "复仇从来不是一条直线。",
+      "en": "Revenge is never a straight line.",
+      "character": "Hattori Hanzo",
+      "note": "服部半藏的告诫；IMDb quotes 可查。"
+    },
+    {
+      "text": "砰。",
+      "en": "Bang.",
+      "character": "Beatrix Kiddo",
+      "note": "五步心法后的最后一声；IMDb quotes 可查。"
+    }
+  ]
+}

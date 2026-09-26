@@ -1,0 +1,37 @@
+{
+  "id": "braveheart-freedom",
+  "film_title": "勇敢的心",
+  "count": 5,
+  "lines": [
+    {
+      "text": "他们也许能夺走我们的生命，但永远夺不走我们的自由！",
+      "en": "They may take our lives, but they'll never take our freedom!",
+      "character": "William Wallace",
+      "note": "斯特灵战前呐喊：好莱坞史诗里最被传颂的「自由」一声，中文定译取通行版。"
+    },
+    {
+      "text": "每个人都会死，但不是每个人都真正活过。",
+      "en": "Every man dies, not every man really lives.",
+      "character": "William Wallace",
+      "note": "全片被引用最广的一句；IMDb quotes 可查。"
+    },
+    {
+      "text": "自由！！",
+      "en": "FREEDOM!",
+      "character": "William Wallace",
+      "note": "刑场上咽气前的呐喊；IMDb quotes 可查。"
+    },
+    {
+      "text": "你的心是自由的。要有勇气，追随它。",
+      "en": "Your heart is free. Have the courage to follow it.",
+      "character": "William Wallace",
+      "note": "梦中亡父对少年华莱士说的话；IMDb quotes 可查。"
+    },
+    {
+      "text": "英格兰的史学家会说我在撒谎，但历史本就是由绞死英雄的人书写的。",
+      "en": "Historians from England will say I am a liar, but history is written by those who have hanged heroes.",
+      "character": "Robert the Bruce（旁白）",
+      "note": "开场旁白；IMDb quotes 可查。"
+    }
+  ]
+}

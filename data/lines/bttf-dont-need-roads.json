@@ -1,0 +1,31 @@
+{
+  "id": "bttf-dont-need-roads",
+  "film_title": "回到未来",
+  "count": 4,
+  "lines": [
+    {
+      "text": "我们要去的地方，不需要路。",
+      "en": "Roads? Where we're going, we don't need roads.",
+      "character": "Dr. Emmett Brown",
+      "note": "布朗博士起飞前的台词收束三部曲序章：回到未来把时间旅行说成不必落地的承诺。通行定译。"
+    },
+    {
+      "text": "如果我的计算没错，这辆车开到时速八十八英里的时候——你们就要见到不得了的场面了。",
+      "en": "If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.",
+      "character": "Doc Brown",
+      "note": "布朗博士的名言；IMDb quotes 可查。"
+    },
+    {
+      "text": "谁也别叫我胆小鬼。",
+      "en": "Nobody calls me chicken.",
+      "character": "Marty McFly",
+      "note": "马蒂的软肋口头禅；IMDb quotes 可查。"
+    },
+    {
+      "text": "喂喂喂，有人在家吗？动动脑子，麦克弗莱！",
+      "en": "Hello? Hello? Anybody home? Think, McFly! Think!",
+      "character": "Biff Tannen",
+      "note": "比夫敲马蒂脑门的名梗；IMDb quotes 可查。"
+    }
+  ]
+}

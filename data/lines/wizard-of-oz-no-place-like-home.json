@@ -1,0 +1,31 @@
+{
+  "id": "wizard-of-oz-no-place-like-home",
+  "film_title": "绿野仙踪",
+  "count": 4,
+  "lines": [
+    {
+      "text": "没有什么地方比得上家。",
+      "en": "There's no place like home.",
+      "character": "Dorothy Gale",
+      "note": "多萝西磕红鞋回家咒：绿野仙踪把奥兹奇观折回堪萨斯。通行定译。"
+    },
+    {
+      "text": "亲爱的，力量一直在你身上——从来都在。",
+      "en": "You've always had the power, my dear. You've had it all along.",
+      "character": "Glinda",
+      "note": "格琳达的点破；IMDb quotes 可查。"
+    },
+    {
+      "text": "有些没有脑子的人，话可真多，对吧？",
+      "en": "Some people without brains do an awful lot of talking, don't they?",
+      "character": "Scarecrow",
+      "note": "稻草人的反讽；IMDb quotes 可查。"
+    },
+    {
+      "text": "我现在知道我有心了——因为它正在碎。",
+      "en": "Now I know I've got a heart, because it's breaking.",
+      "character": "Tin Man",
+      "note": "铁皮人的名言；IMDb quotes 可查。"
+    }
+  ]
+}

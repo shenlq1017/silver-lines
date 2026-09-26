@@ -1,0 +1,25 @@
+{
+  "id": "matrix3-choose-to",
+  "film_title": "黑客帝国3：矩阵革命",
+  "count": 3,
+  "lines": [
+    {
+      "text": "因为我选择如此。",
+      "en": "Because I choose to.",
+      "character": "Neo",
+      "note": "面对史密斯「为何坚持」：矩阵三部曲把自由收束成四个词——因为我选择。"
+    },
+    {
+      "text": "这是必然。",
+      "en": "It is inevitable.",
+      "character": "Agent Smith",
+      "note": "史密斯的口头禅；IMDb quotes 可查。"
+    },
+    {
+      "text": "有开始的东西，就有结束，尼奥。",
+      "en": "Everything that has a beginning has an end, Neo.",
+      "character": "The Oracle",
+      "note": "先知的点题；IMDb quotes 可查。"
+    }
+  ]
+}

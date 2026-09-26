@@ -1,0 +1,25 @@
+{
+  "id": "sunset-ready-for-closeup",
+  "film_title": "日落大道",
+  "count": 3,
+  "lines": [
+    {
+      "text": "好了，科长——我准备好拍特写了。",
+      "en": "All right, Mr. DeMille, I'm ready for my close-up.",
+      "character": "Norma Desmond",
+      "note": "Norma 走下楼梯的终句：日落大道把明星的自欺做成影史特写。通行定译。"
+    },
+    {
+      "text": "我没有变小——是电影变小了。",
+      "en": "I am big. It's the pictures that got small.",
+      "character": "Norma Desmond",
+      "note": "诺玛对乔的怒吼；IMDb quotes 可查。"
+    },
+    {
+      "text": "我们那时不需要台词——我们有脸。",
+      "en": "We didn't need dialogue. We had faces.",
+      "character": "Norma Desmond",
+      "note": "诺玛的默片挽歌；IMDb quotes 可查。"
+    }
+  ]
+}

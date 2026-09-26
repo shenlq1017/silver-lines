@@ -1,0 +1,25 @@
+{
+  "id": "apartment-shut-up-deal",
+  "film_title": "公寓春光",
+  "count": 3,
+  "lines": [
+    {
+      "text": "闭嘴，发牌。",
+      "en": "Shut up and deal.",
+      "character": "Fran Kubelik",
+      "note": "弗兰打断告白、重新开牌：公寓春光（亦通译「桃色公寓」）用五个字收束办公室悲剧为轻声承诺。通行定译。"
+    },
+    {
+      "text": "跟已婚男人谈恋爱，就不该化睫毛膏。",
+      "en": "When you're in love with a married man, you shouldn't wear mascara.",
+      "character": "Fran Kubelik",
+      "note": "弗兰的率真注解；IMDb quotes 可查。"
+    },
+    {
+      "text": "饼干就是这样碎的。",
+      "en": "That's the way it crumbles... cookie-wise.",
+      "character": "Baxter",
+      "note": "巴克斯的口头禅，结尾升华；IMDb quotes 可查。"
+    }
+  ]
+}

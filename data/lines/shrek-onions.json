@@ -1,0 +1,25 @@
+{
+  "id": "shrek-onions",
+  "film_title": "怪物史莱克",
+  "count": 3,
+  "lines": [
+    {
+      "text": "怪物就像洋葱。",
+      "en": "Ogres are like onions.",
+      "character": "史莱克 / Shrek",
+      "note": "史莱克对驴子解释「怪物有层次」时的对白；Wikiquote／IMDb quotes／通行华语配音／字幕可核（后接「洋葱有一层一层」）。"
+    },
+    {
+      "text": "憋着不如放出来——我一向这么说。",
+      "en": "Better out than in, I always say.",
+      "character": "Shrek",
+      "note": "史莱克的放屁哲学；IMDb quotes 可查。"
+    },
+    {
+      "text": "你认识松饼人吗？",
+      "en": "Do you know the Muffin Man?",
+      "character": "Lord Farquaad",
+      "note": "法夸德审讯姜饼人的荒诞名段；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "13-assassins-no-happiness",
+  "film_title": "十三刺客",
+  "count": 3,
+  "lines": [
+    {
+      "text": "此世并无幸福可言。",
+      "en": "There is no happiness in this world.",
+      "character": "岛田新左卫门 / Shinzaemon Shimada",
+      "note": "通行可核验意译：三池崇史《十三刺客》中岛田新左卫门名句「この世に幸せなどない」的通行中译，影评与字幕常见。"
+    },
+    {
+      "text": "只要主公一声令下，无论是讨伐他国大名，还是诛杀落魄浪人，理由根本无关紧要——这就是武士。",
+      "en": "If our lord so orders, we cut down other lords' men or masterless samurai alike. The reason does not matter. That is what it means to be a samurai.",
+      "character": "岛田新左卫门",
+      "note": "开篇与侄子新左卫门正关于武士职责的对话；IMDb quotes 可查。"
+    },
+    {
+      "text": "十三人对两百人——五五开吧。",
+      "character": "岛田新左卫门",
+      "note": "受命后估算刺杀任务的胜算。"
+    }
+  ]
+}

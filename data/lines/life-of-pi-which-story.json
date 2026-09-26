@@ -1,0 +1,25 @@
+{
+  "id": "life-of-pi-which-story",
+  "film_title": "少年派的奇幻漂流",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你更喜欢哪一个故事？",
+      "en": "Which story do you prefer?",
+      "character": "Pi Patel",
+      "note": "整部电影的钥匙句：故事选择即信仰选择。"
+    },
+    {
+      "text": "信仰是一座有许多房间的房子。",
+      "en": "Faith is a house with many rooms.",
+      "character": "Pi",
+      "note": "派对谈信仰（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "人生就是不断放手，最难受的，是没能好好道别。",
+      "en": "All of life is an act of letting go, but what hurts the most is not taking a moment to say goodbye.",
+      "character": "Pi",
+      "note": "派的总结独白；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "eternal-sunshine-montauk",
+  "film_title": "美丽心灵的永恒阳光",
+  "count": 5,
+  "lines": [
+    {
+      "text": "蒙托克见。",
+      "en": "Meet me in Montauk.",
+      "character": "Joel Barish / Clementine Kruczynski",
+      "note": "删除记忆后仍被写下的约会坐标：美丽心灵的永恒阳光（亦通译「暖暖内含光」）用三个字把循环爱上锁。通行定译。"
+    },
+    {
+      "text": "为什么只要对方稍给我一点注意，我就会爱上她？",
+      "en": "Why do I fall in love with every woman I see who shows me the least bit of attention?",
+      "character": "Joel Barish",
+      "note": "开场火车上的独白；IMDb quotes 可查。"
+    },
+    {
+      "text": "我只是个一团糟的女孩，想给自己找一点安宁。别把你那份也摊到我头上。",
+      "en": "I'm just a fucked-up girl who's lookin' for my own peace of mind. Don't assign me yours.",
+      "character": "Clementine Kruczynski",
+      "note": "争吵中的爆发；IMDb quotes 可查。"
+    },
+    {
+      "text": "我看不出你有什么地方是我不喜欢的。",
+      "en": "I can't see anything I don't like about you.",
+      "character": "Joel Barish",
+      "note": "凌晨结冰河面的和好对答；IMDb quotes 可查。"
+    },
+    {
+      "text": "健忘的人有福了，他们连自己的过错都一并占了好运。",
+      "en": "Blessed are the forgetful, for they get the better even of their blunders.",
+      "character": "旁白（Lacuna 广告）",
+      "note": "遗忘诊所广告引尼采语；IMDb/Wikiquote 可查。"
+    }
+  ]
+}

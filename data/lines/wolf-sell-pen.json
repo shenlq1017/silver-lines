@@ -1,0 +1,31 @@
+{
+  "id": "wolf-sell-pen",
+  "film_title": "华尔街之狼",
+  "count": 4,
+  "lines": [
+    {
+      "text": "把这支笔卖给我。",
+      "en": "Sell me this pen.",
+      "character": "乔丹·贝尔福特 / Jordan Belfort",
+      "note": "乔丹在宴会上考问销售员的对白；IMDb quotes／剧本可核；片中多次出现。"
+    },
+    {
+      "text": "听着——贫穷没有任何高贵可言。",
+      "en": "Let me tell you something. There's no nobility in poverty.",
+      "character": "Jordan Belfort",
+      "note": "乔丹的拜金布道；IMDb quotes 可查。"
+    },
+    {
+      "text": "庞氏，庞氏……那是幻象，是仙尘。",
+      "en": "Fugazi, fugazi... It's a wazi, it's a woozie. It's fairy dust.",
+      "character": "Mark Hanna",
+      "note": "前辈对股市的打气式拆穿；IMDb quotes 可查。"
+    },
+    {
+      "text": "我要你用变富的方式来解决你的问题！",
+      "en": "I want you to deal with your problems by becoming rich!",
+      "character": "Jordan Belfort",
+      "note": "乔丹的销售动员；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "amadeus-too-many-notes",
+  "film_title": "莫扎特传",
+  "count": 4,
+  "lines": [
+    {
+      "text": "太多音符了。",
+      "en": "Too many notes.",
+      "character": "Emperor Joseph II",
+      "note": "皇帝对《后宫诱逃》的「评审」：莫扎特传用一句外行评语做成整部电影的喜剧刺点。通行定译。"
+    },
+    {
+      "text": "我代表世上所有的平庸之辈。我是他们的代言人，他们的守护圣人。",
+      "en": "I speak for all mediocrities in the world. I am their champion. I am their patron saint.",
+      "character": "Antonio Salieri",
+      "note": "萨列里晚年自白；IMDb quotes 可查。"
+    },
+    {
+      "text": "平庸之辈们……我赦免你们。",
+      "en": "Mediocrities everywhere... I absolve you.",
+      "character": "Antonio Salieri",
+      "note": "轮椅上碾过街道的收束；IMDb quotes 可查。"
+    },
+    {
+      "text": "从今起，你我即为仇敌——因为你选中的器皿，是一个自负、好色、下流、幼稚的男孩；而你，不公。",
+      "en": "From now on, we are enemies, You and I. Because You choose for Your instrument a boastful, lustful, smutty, infantile boy... and because You are unjust.",
+      "character": "Antonio Salieri",
+      "note": "萨列里向上帝宣战（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

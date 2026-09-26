@@ -1,0 +1,23 @@
+{
+  "id": "hidden-fortress-our-lives",
+  "film_title": "隠し砦の三悪人",
+  "count": 3,
+  "lines": [
+    {
+      "text": "公主，这可是我们的命啊。",
+      "en": "Princess, this is a matter of life and death for us.",
+      "character": "真壁六郎太 / General Makabe",
+      "note": "策展意译：概括六郎太护卫雪姬突围时的紧迫感；影片对白以武士伦理与滑稽农民并置，此处取克制主句。"
+    },
+    {
+      "text": "快看那边。我第一次知道，天空和大海原来这么蓝。",
+      "character": "雪姫",
+      "note": "火烧城堡后仰望的著名镜头，黑泽明自认最爱的一场；通行字幕译法。"
+    },
+    {
+      "text": "金子！是金子！",
+      "character": "太平之又七",
+      "note": "两个农民发现金子的贪念喊叫，全片喜剧底色。"
+    }
+  ]
+}

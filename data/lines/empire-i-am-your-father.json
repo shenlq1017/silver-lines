@@ -1,0 +1,49 @@
+{
+  "id": "empire-i-am-your-father",
+  "film_title": "星球大战：帝国反击战",
+  "count": 7,
+  "lines": [
+    {
+      "text": "不——我才是你的父亲。",
+      "en": "No. I am your father.",
+      "character": "Darth Vader",
+      "note": "云城对决的终极反转：帝国反击战把「父亲」做成影史最响亮的一声。通行定译（常被误记为 Luke, I am your father）。与已上架《星球大战》（1977）同系列不同片。"
+    },
+    {
+      "text": "做，或者不做。没有「试试看」。",
+      "en": "Do. Or do not. There is no try.",
+      "character": "Yoda",
+      "note": "达戈巴训练卢克的名句；IMDb quotes 可查。"
+    },
+    {
+      "text": "战争并不能让人伟大。",
+      "en": "Wars not make one great.",
+      "character": "Yoda",
+      "note": "尤达对卢克的点拨；IMDb quotes 可查。"
+    },
+    {
+      "text": "这笔买卖越来越不划算了。",
+      "en": "This deal is getting worse all the time.",
+      "character": "Lando Calrissian",
+      "note": "兰多在云城的抱怨口头禅；IMDb quotes 可查。"
+    },
+    {
+      "text": "我爱你。",
+      "en": "I love you.",
+      "character": "Leia Organa",
+      "note": "碳凝前的诀别上半句；IMDb quotes 可查。"
+    },
+    {
+      "text": "我知道。",
+      "en": "I know.",
+      "character": "Han Solo",
+      "note": "同场诀别下半句，影史最著名回答；IMDb quotes 可查。"
+    },
+    {
+      "text": "别跟我说什么概率！",
+      "en": "Never tell me the odds!",
+      "character": "Han Solo",
+      "note": "小行星带逃亡时对 C-3PO 的吼叫；IMDb quotes 可查（原 batch-0 误标为正传，本批归位）。"
+    }
+  ]
+}

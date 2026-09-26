@@ -1,0 +1,25 @@
+{
+  "id": "lighthouse-spill-yer-beans",
+  "film_title": "灯塔",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你干吗把豆子都抖出来了？",
+      "en": "Why'd ya spill yer beans?",
+      "character": "托马斯·维克 / Thomas Wake",
+      "note": "维克对年轻灯塔工的通行质问；影片古英语/水手俚语风味，中文取达意译法。"
+    },
+    {
+      "text": "你就喜欢我的龙虾。说！",
+      "en": "Yer fond of me lobster. Say it!",
+      "character": "Thomas Wake",
+      "note": "老头逼问的荒诞名段；IMDb quotes 可查。"
+    },
+    {
+      "text": "该死的！让尼普顿劈死你吧，温斯洛！",
+      "en": "DAMN ye! Let Neptune strike ye dead, Winslow!",
+      "character": "Thomas Wake",
+      "note": "老头的诅咒独白开头（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

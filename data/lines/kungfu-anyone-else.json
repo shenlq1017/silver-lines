@@ -1,0 +1,23 @@
+{
+  "id": "kungfu-anyone-else",
+  "film_title": "功夫",
+  "count": 3,
+  "lines": [
+    {
+      "text": "还有谁！",
+      "en": "Anyone else?!",
+      "character": "包租婆 / 场景群像",
+      "note": "猪笼城寨一役后的霸气喊话，功夫最刷屏的华语金句。"
+    },
+    {
+      "text": "还有王法吗？还有法律吗？",
+      "character": "包租婆",
+      "note": "包租婆的名场面；通行引述可查。"
+    },
+    {
+      "text": "想学啊？我教你啊。",
+      "character": "阿星",
+      "note": "阿星放下屠刀后的点题；通行引述可查。"
+    }
+  ]
+}

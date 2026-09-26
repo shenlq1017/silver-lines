@@ -1,0 +1,19 @@
+{
+  "id": "coco-remember",
+  "film_title": "寻梦环游记",
+  "count": 2,
+  "lines": [
+    {
+      "text": "请记住我。",
+      "en": "Remember me.",
+      "character": "Héctor / Ernesto",
+      "note": "主题曲《请记住我》（Remember Me）的核心句；亡灵节上最温柔的恳求。"
+    },
+    {
+      "text": "当活着的世界再没有一个人记得你，你就会从这个世界消失——我们管那叫「终极死亡」。",
+      "en": "When there's no one left in the living world who remembers you, you disappear from this world. We call it the Final Death.",
+      "character": "Héctor",
+      "note": "埃克托解释终极死亡；IMDb quotes 可查。"
+    }
+  ]
+}

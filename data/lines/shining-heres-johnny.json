@@ -1,0 +1,25 @@
+{
+  "id": "shining-heres-johnny",
+  "film_title": "闪灵",
+  "count": 3,
+  "lines": [
+    {
+      "text": "嗨——约翰尼！",
+      "en": "Here's Johnny!",
+      "character": "Jack Torrance",
+      "note": "斧破门的电视串词式狞笑：闪灵把娱乐节目开场白改写成家暴恐怖图标。通行定译。"
+    },
+    {
+      "text": "只工作不玩耍，聪明的杰克也变傻。",
+      "en": "All work and no play makes Jack a dull boy.",
+      "character": "Jack Torrance",
+      "note": "打了一整章的同一句话，影史最恐怖一页；IMDb quotes 可查。"
+    },
+    {
+      "text": "我不会伤害你的——我只是要把你的脑袋砸烂。",
+      "en": "I'm not gonna hurt you. I'm just going to bash your brains in.",
+      "character": "Jack Torrance",
+      "note": "斧劈门前的「保证」；IMDb quotes 可查。"
+    }
+  ]
+}

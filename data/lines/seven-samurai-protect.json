@@ -1,0 +1,23 @@
+{
+  "id": "seven-samurai-protect",
+  "film_title": "七武士",
+  "count": 3,
+  "lines": [
+    {
+      "text": "保护别人，才能保护自己。",
+      "en": "By protecting others, you save yourselves.",
+      "character": "岛田勘兵卫",
+      "note": "勘兵卫组队时的生存哲学：七人与村民的契约，不只是剑，是彼此成为盾。"
+    },
+    {
+      "text": "你这样——还配当武士吗！",
+      "character": "菊千代",
+      "note": "菊千代撕开武士与农民的伪善；通行字幕译法。"
+    },
+    {
+      "text": "又是我们输了。赢的，是农民。",
+      "character": "岛田勘兵卫",
+      "note": "结尾勘兵卫的总结，黑泽明的落点；通行字幕译法。"
+    }
+  ]
+}

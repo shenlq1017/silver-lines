@@ -1,0 +1,31 @@
+{
+  "id": "endgame-love-you-three-thousand",
+  "film_title": "复仇者联盟4：终局之战",
+  "count": 4,
+  "lines": [
+    {
+      "text": "我爱你三千遍。",
+      "en": "I love you three thousand.",
+      "character": "Morgan Stark",
+      "note": "终局把宇宙级冒险收回一句家庭告白；简短而具有不可替代的情感重量。通行译法。"
+    },
+    {
+      "text": "旅程的一部分，就是终点。",
+      "en": "Part of the journey is the end.",
+      "character": "Tony Stark",
+      "note": "托尼留下的全息留言；IMDb quotes 可查。"
+    },
+    {
+      "text": "我就是钢铁侠。",
+      "en": "I am Iron Man.",
+      "character": "Tony Stark",
+      "note": "打响指前的宣告，全系列闭环；IMDb quotes 可查。"
+    },
+    {
+      "text": "复仇者——集合。",
+      "en": "Avengers... assemble.",
+      "character": "Steve Rogers",
+      "note": "终局决战的集结令；IMDb quotes 可查。"
+    }
+  ]
+}

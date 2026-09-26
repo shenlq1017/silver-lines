@@ -1,0 +1,19 @@
+{
+  "id": "azkaban-turn-on-light",
+  "film_title": "哈利·波特与阿兹卡班的囚徒",
+  "count": 2,
+  "lines": [
+    {
+      "text": "就算在最黑暗的时候，也能找到幸福——只要记得打开灯。",
+      "en": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+      "character": "Albus Dumbledore",
+      "note": "阿兹卡班特有的邓布利多台词（电影原创味浓），已成哈利波特系列传世安慰句。"
+    },
+    {
+      "text": "那你真该死掉！死也不该背叛朋友！",
+      "en": "Then you should have died! Died, rather than betray your friends!",
+      "character": "Sirius Black",
+      "note": "小天狼星对背叛者的控诉；IMDb quotes 可查。"
+    }
+  ]
+}

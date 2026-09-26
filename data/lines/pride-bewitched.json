@@ -1,0 +1,25 @@
+{
+  "id": "pride-bewitched",
+  "film_title": "傲慢与偏见",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你迷惑了我的身心，我爱你。我爱你。我爱你。",
+      "en": "You have bewitched me, body and soul, and I love, I love, I love you.",
+      "character": "Mr. Darcy",
+      "note": "雨中达西的告白：傲慢褪尽之后，爱意只能连说三遍。"
+    },
+    {
+      "text": "我挣扎过，但没有用。我的感情再也压抑不住了。请允许我告诉你——我是多么热烈地爱慕着你。",
+      "en": "In vain I have struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.",
+      "character": "Mr. Darcy",
+      "note": "达西第一次求婚（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "无论你用哪种方式求婚，都不可能让我接受。",
+      "en": "You could not have made me the offer of your hand in any possible way that would have tempted me to accept it.",
+      "character": "Elizabeth Bennet",
+      "note": "伊丽莎白的拒绝；IMDb quotes 可查。"
+    }
+  ]
+}

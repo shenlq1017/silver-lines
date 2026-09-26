@@ -1,0 +1,31 @@
+{
+  "id": "black-panther-wakanda-forever",
+  "film_title": "黑豹",
+  "count": 4,
+  "lines": [
+    {
+      "text": "瓦坎达永存！",
+      "en": "Wakanda forever!",
+      "character": "特查拉 / T'Challa（及瓦坎达众人）",
+      "note": "片中礼敬与战斗口号的通行译法（forever≈永存/万岁，取「永存」）。"
+    },
+    {
+      "text": "危机之中，智者修桥，愚者筑墙。",
+      "en": "In times of crisis, the wise build bridges while the foolish build barriers.",
+      "character": "T'Challa",
+      "note": "特查拉在联合国的发言；IMDb quotes 可查。"
+    },
+    {
+      "text": "把我葬进海里，和那些跳船的祖先在一起——他们知道，死亡好过枷锁。",
+      "en": "Bury me in the ocean, with my ancestors that jumped from the ships, because they knew death was better than bondage.",
+      "character": "Killmonger",
+      "note": "齐尔蒙格的临终请求，全片最重一击；IMDb quotes 可查。"
+    },
+    {
+      "text": "我们要学会彼此照看——像同一个部族。",
+      "en": "We must find a way to look after one another, as if we were one single tribe.",
+      "character": "T'Challa",
+      "note": "特查拉的结语；IMDb quotes 可查。"
+    }
+  ]
+}

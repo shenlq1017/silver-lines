@@ -1,0 +1,37 @@
+{
+  "id": "shawshank-hope",
+  "film_title": "肖申克的救赎",
+  "count": 5,
+  "lines": [
+    {
+      "text": "希望是美好的，也许是人间至善，而美好的事物永不消逝。",
+      "en": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+      "character": "Andy Dufresne",
+      "note": "豆瓣常年榜首，希望成了传世金句。"
+    },
+    {
+      "text": "要么忙着活，要么忙着死。",
+      "en": "Get busy living, or get busy dying.",
+      "character": "Andy Dufresne",
+      "note": "安迪与瑞德的对谈，紧随「希望」的下半句。"
+    },
+    {
+      "text": "监狱里的高墙实在是很有趣。刚入狱的时候，你痛恨周围的高墙；慢慢地，你习惯了生活在其中；最终你会发现自己不得不依靠它而生存。这就叫体制化。",
+      "en": "These walls are kind of funny. First you hate 'em, then you get used to 'em. Enough time passes, you get so you depend on them. That's institutionalized.",
+      "character": "Red",
+      "note": "瑞德解释「体制化」，通行字幕译法。"
+    },
+    {
+      "text": "听我说，朋友，希望是件危险的事，希望能叫人发疯。",
+      "en": "Let me tell you something, my friend. Hope is a dangerous thing. Hope can drive a man insane.",
+      "character": "Red",
+      "note": "瑞德回信名句，与安迪的希望针锋相对。"
+    },
+    {
+      "text": "我希望我能越过边境，我希望见到我的朋友，和他握握手。我希望太平洋的海水如我梦中一样蓝。我希望。",
+      "en": "I hope I can make it across the border. I hope to see my friend and shake his hand. I hope the Pacific is as blue as it has been in my dreams. I hope.",
+      "character": "Red",
+      "note": "片尾画外音，全片的收束。"
+    }
+  ]
+}

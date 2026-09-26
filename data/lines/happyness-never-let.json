@@ -1,0 +1,31 @@
+{
+  "id": "happyness-never-let",
+  "film_title": "当幸福来敲门",
+  "count": 4,
+  "lines": [
+    {
+      "text": "别让别人告诉你，你成不了才。即使是我，也不行。",
+      "en": "Don't ever let somebody tell you you can't do something. Not even me.",
+      "character": "Chris Gardner",
+      "note": "街头夜宿之后的父训，励志片里少有的硬核温柔。"
+    },
+    {
+      "text": "如果你有梦想的话，就要去捍卫它。那些一事无成的人想告诉你，你也成不了大器。如果你有理想的话，就要去努力实现。就这样。",
+      "en": "You got a dream, you gotta protect it. People can't do something themselves, they wanna tell you you can't do it. If you want something, go get it. Period.",
+      "character": "Chris Gardner",
+      "note": "篮球场训子的下半段，紧接主台词；通行译法。"
+    },
+    {
+      "text": "我人生中的这个阶段，这一小段，叫做幸福。",
+      "en": "This part of my life, this little part, is called happiness.",
+      "character": "Chris Gardner",
+      "note": "片尾画外音，与片名呼应。"
+    },
+    {
+      "text": "也许幸福是我们只能追求、却永远无法真正拥有的东西。",
+      "en": "Maybe happiness is something that we can only pursue, and maybe we can actually never have it.",
+      "character": "Chris Gardner",
+      "note": "托儿所门口谈《独立宣言》的「追求幸福」。"
+    }
+  ]
+}

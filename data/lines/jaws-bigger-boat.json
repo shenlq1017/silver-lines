@@ -1,0 +1,25 @@
+{
+  "id": "jaws-bigger-boat",
+  "film_title": "大白鲨",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你们需要一艘更大的船。",
+      "en": "You're gonna need a bigger boat.",
+      "character": "Martin Brody",
+      "note": "布洛迪看见巨鲨后的即兴句（演员现场发挥后定稿）：大白鲨把恐惧收成一句实用建议。通行定译；片名简体「大白鲨」（batch「大白鯊」已统一）。"
+    },
+    {
+      "text": "笑一个，你这狗娘养的——",
+      "en": "Smile, you son of a—",
+      "character": "Brody",
+      "note": "布罗迪把气瓶塞进鲨鱼嘴后的临别（原文含粗口）；IMDb quotes 可查。"
+    },
+    {
+      "text": "这不是船的事故。",
+      "en": "This was no boat accident.",
+      "character": "Hooper",
+      "note": "胡珀确认鲨鱼存在；IMDb quotes 可查。"
+    }
+  ]
+}

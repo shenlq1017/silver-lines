@@ -1,0 +1,19 @@
+{
+  "id": "pigeon-branch-existence",
+  "film_title": "寒枝雀静",
+  "count": 2,
+  "lines": [
+    {
+      "text": "鸽子停在枝上，思考有没有必要存在。",
+      "en": "A pigeon sat on a branch, reflecting on whether existence is necessary.",
+      "character": "题眼 / Title tableau",
+      "note": "策展意译：借安德森威尼斯金狮片名点题；片中人物常以静帧式对白呈现，明确不冒充唯一逐字。"
+    },
+    {
+      "text": "很高兴听到你一切都好。",
+      "en": "I'm happy to hear you're doing fine.",
+      "character": "推销 wine 的双人组",
+      "note": "贯穿全片的推销开场白，电影标志性句式。"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "blue-velvet-strange-world",
+  "film_title": "蓝丝绒",
+  "count": 3,
+  "lines": [
+    {
+      "text": "这是一个奇怪的世界。",
+      "en": "It’s a strange world.",
+      "character": "杰弗里·博蒙特",
+      "note": "影片反复出现的核心语气；按通行字幕译写，短句出处清晰。"
+    },
+    {
+      "text": "别看我！",
+      "en": "Don't look at me!",
+      "character": "Frank Booth",
+      "note": "弗兰克失控的吼叫；IMDb quotes 可查。"
+    },
+    {
+      "text": "我不知道你到底是侦探还是变态。",
+      "en": "I don't know if you're a detective or a pervert.",
+      "character": "Sandy",
+      "note": "桑迪对杰弗里的定性；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "graduate-plastics",
+  "film_title": "毕业生",
+  "count": 3,
+  "lines": [
+    {
+      "text": "就一个词：塑料。",
+      "en": "Just one word: plastics.",
+      "character": "麦圭尔先生 / Mr. McGuire",
+      "note": "通行译法：泳池边经典忠告的压缩主句；完整对白为“I just want to say one word to you… Plastics.”"
+    },
+    {
+      "text": "罗宾逊太太……你在引诱我。",
+      "en": "Mrs. Robinson, you're trying to seduce me.",
+      "character": "Benjamin Braddock",
+      "note": "本的一场惊觉（后半句「aren't you」更著名）；IMDb quotes 可查。"
+    },
+    {
+      "text": "先生，您是来谈婚外情的吗？",
+      "en": "Are you here for an affair, sir?",
+      "character": "Benjamin Braddock",
+      "note": "本在旅馆柜台对罗宾逊先生的名句；IMDb quotes 可查。"
+    }
+  ]
+}

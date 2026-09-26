@@ -1,0 +1,19 @@
+{
+  "id": "jerry-hello",
+  "film_title": "甜心先生",
+  "count": 2,
+  "lines": [
+    {
+      "text": "你一说「你好」，我就已经心动了。",
+      "en": "You had me at \"hello.\"",
+      "character": "多萝西·博伊德 / Dorothy Boyd",
+      "note": "多萝西回应杰瑞长篇告白时的对白；AFI 百大电影台词第52；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "让我看到钱！",
+      "en": "Show me the money!",
+      "character": "Rod Tidwell",
+      "note": "罗德对杰里的吼叫，全片动力口号；IMDb quotes 可查。"
+    }
+  ]
+}

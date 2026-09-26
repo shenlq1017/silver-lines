@@ -1,0 +1,31 @@
+{
+  "id": "life-beautiful",
+  "film_title": "美丽人生",
+  "count": 4,
+  "lines": [
+    {
+      "text": "为了你，我愿意天天都是生日。",
+      "en": "For you, every day can be a birthday.",
+      "character": "Guido",
+      "note": "用游戏护住孩子眼中的世界。"
+    },
+    {
+      "text": "早安，公主！",
+      "en": "Buongiorno, Principessa!",
+      "character": "Guido",
+      "note": "对多拉的标志性问候，贯穿全片；IMDb quotes 可查。"
+    },
+    {
+      "text": "哭鼻子、想吃点心、想见妈妈的，都要扣分出局。",
+      "en": "If you cry, if you ask for a snack, if you want to see your mama, you lose points.",
+      "character": "Guido",
+      "note": "集中营里向儿子解释「游戏规则」；通行字幕译法。"
+    },
+    {
+      "text": "这是我的故事。这是我父亲所作的牺牲，这是父亲赐我的恩典。",
+      "en": "This is my story. This is the sacrifice my father made. This was his gift to me.",
+      "character": "Giosuè（旁白）",
+      "note": "片尾成年约书亚的收束旁白；IMDb quotes 可查。"
+    }
+  ]
+}

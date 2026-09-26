@@ -1,0 +1,19 @@
+{
+  "id": "lost-weekend-one-drink",
+  "film_title": "失去的周末",
+  "count": 2,
+  "lines": [
+    {
+      "text": "一杯太多，一百杯又不够。",
+      "en": "One drink is too many, and a hundred drinks are not enough.",
+      "character": "唐·伯纳姆",
+      "note": "关于酒精依赖的通行译法；以简短悖论呈现唐的失控循环。"
+    },
+    {
+      "text": "我不是在喝酒的人——我是酒鬼。",
+      "en": "I'm not a drinker. I'm a drunk.",
+      "character": "Don Birnam",
+      "note": "唐的清醒自白；IMDb quotes 可查。"
+    }
+  ]
+}

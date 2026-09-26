@@ -1,0 +1,31 @@
+{
+  "id": "mockingbird-climb-into-skin",
+  "film_title": "杀死一只知更鸟",
+  "count": 4,
+  "lines": [
+    {
+      "text": "你永远无法真正理解一个人——除非你钻进他的皮肤里走上一圈。",
+      "en": "You never really understand a person until you consider things from his point of view... until you climb into his skin and walk around in it.",
+      "character": "Atticus Finch",
+      "note": "阿迪克斯对斯库特的教诲：杀死一只知更鸟把同理心写成法治入门。通行定译。"
+    },
+    {
+      "text": "世上唯一不服从多数表决的东西，是一个人的良心。",
+      "en": "The one thing that doesn't abide by majority rule is a person's conscience.",
+      "character": "Atticus Finch",
+      "note": "给斯库特讲良心的名句；IMDb quotes 可查。"
+    },
+    {
+      "text": "真正的勇气是：明知一开始就输定了，还是照样开始，并且坚持到底。",
+      "en": "Real courage is when you know you're licked before you begin, but you begin anyway and you see it through no matter what.",
+      "character": "Atticus Finch",
+      "note": "为杜博斯太太的坚忍作注；IMDb quotes 可查。"
+    },
+    {
+      "text": "斯库特，大多数人都是这样的——等你真正了解他们的时候。",
+      "en": "Most people are, Scout, when you finally see them.",
+      "character": "Atticus Finch",
+      "note": "结尾回应「他其实人很好」；IMDb quotes 可查。"
+    }
+  ]
+}

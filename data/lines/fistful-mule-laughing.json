@@ -1,0 +1,25 @@
+{
+  "id": "fistful-mule-laughing",
+  "film_title": "荒野大镖客",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我的骡子不喜欢人笑它。",
+      "en": "My mule don't like people laughing. He gets the crazy idea you're laughing at him.",
+      "character": "无名客 / Joe",
+      "note": "通行译法：无名客开场警告的标志性台词；保留口语语法。"
+    },
+    {
+      "text": "备三口棺材。",
+      "en": "Get three coffins ready.",
+      "character": "Joe（无名客）",
+      "note": "开场酒馆的第一句台词；IMDb quotes 可查。"
+    },
+    {
+      "text": "我弄错了——四口。",
+      "en": "My mistake. Four coffins.",
+      "character": "Joe（无名客）",
+      "note": "枪响后的补刀名场面；IMDb quotes 可查。"
+    }
+  ]
+}

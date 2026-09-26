@@ -1,0 +1,25 @@
+{
+  "id": "t2-no-fate",
+  "film_title": "终结者2：审判日",
+  "count": 3,
+  "lines": [
+    {
+      "text": "未来没有定式。除了我们自己创造的，没有命运。",
+      "en": "The future is not set. There is no fate but what we make for ourselves.",
+      "character": "John Connor / 旁白题旨",
+      "note": "从「终结」翻成「可改写」：审判日用少年康纳的信条，把时间旅行从宿命论里救回自由意志。系列通行定译。"
+    },
+    {
+      "text": "我现在知道你为什么哭了。但那是我永远做不到的事。",
+      "en": "I know now why you cry. But it's something I can never do.",
+      "character": "The Terminator",
+      "note": "T-800 的临终领悟；IMDb quotes 可查。"
+    },
+    {
+      "text": "如果一台机器都能学会人命的价值——也许我们也能。",
+      "en": "If a machine, a Terminator, can learn the value of human life... maybe we can too.",
+      "character": "Sarah Connor",
+      "note": "莎拉结尾的独白；IMDb quotes 可查。"
+    }
+  ]
+}

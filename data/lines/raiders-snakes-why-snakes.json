@@ -1,0 +1,31 @@
+{
+  "id": "raiders-snakes-why-snakes",
+  "film_title": "夺宝奇兵",
+  "count": 4,
+  "lines": [
+    {
+      "text": "蛇。为什么偏偏是蛇？",
+      "en": "Snakes. Why did it have to be snakes?",
+      "character": "Indiana Jones",
+      "note": "井底一幕：夺宝奇兵用一句怕蛇的吐槽，把硬汉冒险家写成人。通行定译。"
+    },
+    {
+      "text": "亲爱的，问题不在年头，在里程。",
+      "en": "It's not the years, honey, it's the mileage.",
+      "character": "Indiana Jones",
+      "note": "脱险后对玛丽昂的自嘲；IMDb quotes 可查。"
+    },
+    {
+      "text": "我也不知道，我都是走一步编一步。",
+      "en": "I don't know, I'm making this up as I go.",
+      "character": "Indiana Jones",
+      "note": "被追问脱困计划时的名回答；IMDb quotes 可查。"
+    },
+    {
+      "text": "你我很像：考古学就是我们的宗教。只是我们都已背离了更纯粹的信仰。",
+      "en": "You and I are very much alike. Archaeology is our religion, yet we have both fallen from the purer faith.",
+      "character": "Belloq",
+      "note": "贝洛克对印第安纳的点破；IMDb quotes 可查。"
+    }
+  ]
+}

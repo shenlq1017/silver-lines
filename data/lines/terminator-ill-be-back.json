@@ -1,0 +1,25 @@
+{
+  "id": "terminator-ill-be-back",
+  "film_title": "终结者",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我会回来的。",
+      "en": "I'll be back.",
+      "character": "The Terminator",
+      "note": "T-800 走进警局前的四个音节：终结者把机器承诺做成影史最短爆款金句。通行定译。"
+    },
+    {
+      "text": "想活命就跟我来。",
+      "en": "Come with me if you wanna live!",
+      "character": "Kyle Reese",
+      "note": "里斯的救援宣言；IMDb quotes 可查。"
+    },
+    {
+      "text": "我需要你的衣服、靴子和摩托车。",
+      "en": "I need your clothes, your boots and your motorcycle.",
+      "character": "The Terminator",
+      "note": "夺车的名场面；IMDb quotes 可查。"
+    }
+  ]
+}

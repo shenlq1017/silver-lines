@@ -1,0 +1,25 @@
+{
+  "id": "jedi-i-am-a-jedi",
+  "film_title": "星球大战：绝地归来",
+  "count": 3,
+  "lines": [
+    {
+      "text": "像我父亲一样——我是绝地武士。",
+      "en": "I am a Jedi, like my father before me.",
+      "character": "Luke Skywalker",
+      "note": "卢克扔掉光剑：绝地归来把血统写成选择。通行定译。与《星球大战》《帝国反击战》同系列不同片。"
+    },
+    {
+      "text": "对我来说，已经太迟了，儿子。",
+      "en": "It is too late for me, son.",
+      "character": "Darth Vader",
+      "note": "维达的临终忏悔；IMDb quotes 可查。"
+    },
+    {
+      "text": "你已经救了我，卢克。",
+      "en": "You already have, Luke.",
+      "character": "Darth Vader",
+      "note": "同场的回应；IMDb quotes 可查。"
+    }
+  ]
+}

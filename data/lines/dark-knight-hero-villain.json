@@ -1,0 +1,37 @@
+{
+  "id": "dark-knight-hero-villain",
+  "film_title": "蝙蝠侠：黑暗骑士",
+  "count": 5,
+  "lines": [
+    {
+      "text": "你要么死去成为英雄，要么活得够久，眼看着自己变成恶棍。",
+      "en": "You either die a hero, or you live long enough to see yourself become the villain.",
+      "character": "Harvey Dent",
+      "note": "哈维·登特的谶语，黑暗骑士时代的道德翻转器。"
+    },
+    {
+      "text": "干嘛这么严肃？",
+      "en": "Why so serious?",
+      "character": "The Joker",
+      "note": "小丑的标志性台词；IMDb quotes 可查。"
+    },
+    {
+      "text": "这座城市配得上更高档的罪犯。",
+      "en": "This city deserves a better class of criminal.",
+      "character": "The Joker",
+      "note": "小丑炸医院前的宣言；IMDb quotes 可查。"
+    },
+    {
+      "text": "哥谭需要我是什么，我就是什么。",
+      "en": "I'm whatever Gotham needs me to be.",
+      "character": "Batman",
+      "note": "蝙蝠侠的守望者宣言；IMDb quotes 可查。"
+    },
+    {
+      "text": "他是哥谭应得的英雄，却不是此刻需要的英雄。",
+      "en": "He's the hero Gotham deserves, but not the one it needs right now.",
+      "character": "Gordon（旁白）",
+      "note": "戈登的结尾独白；IMDb quotes 可查。"
+    }
+  ]
+}

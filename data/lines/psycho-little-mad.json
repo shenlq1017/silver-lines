@@ -1,0 +1,31 @@
+{
+  "id": "psycho-little-mad",
+  "film_title": "惊魂记",
+  "count": 4,
+  "lines": [
+    {
+      "text": "我们每个人，偶尔都会有一点疯狂。",
+      "en": "We all go a little mad sometimes.",
+      "character": "Norman Bates",
+      "note": "诺曼的轻描淡写把整部惊魂记钉进日常：疯狂不是例外，是我们都会路过的一瞬。"
+    },
+    {
+      "text": "男孩最好的朋友，是他的母亲。",
+      "en": "A boy's best friend is his mother.",
+      "character": "Norman Bates",
+      "note": "与玛丽昂谈母亲的名句；IMDb quotes 可查。"
+    },
+    {
+      "text": "我们都被困在自己的陷阱里——而且那陷阱从来不会变。",
+      "en": "We're all in our private traps, clamped in them, and none of us can ever get out. They never really change.",
+      "character": "Norman Bates",
+      "note": "旅馆客厅关于陷阱的独白；IMDb quotes 可查。"
+    },
+    {
+      "text": "头痛就像决心——不疼了，也就忘了。",
+      "en": "Headaches are like resolutions. You forget them as soon as they stop hurting.",
+      "character": "Marion Crane",
+      "note": "携款开车路上的自语；IMDb quotes 可查。"
+    }
+  ]
+}

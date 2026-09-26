@@ -1,0 +1,19 @@
+{
+  "id": "mary-max-thank-friend",
+  "film_title": "玛丽和麦克斯",
+  "count": 2,
+  "lines": [
+    {
+      "text": "谢谢你做我的朋友。",
+      "en": "Thank you for being my friend.",
+      "character": "Max / Mary",
+      "note": "粘土世界里最轻也最重的一句：跨洋笔友把孤独写成可投递的温度。"
+    },
+    {
+      "text": "你是我最好的朋友，我唯一的朋友。",
+      "en": "You are my best friend. You are my only friend.",
+      "character": "Max Horovitz",
+      "note": "马克思给玛丽的信；IMDb quotes 可查。"
+    }
+  ]
+}

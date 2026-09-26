@@ -1,0 +1,25 @@
+{
+  "id": "up-adventure",
+  "film_title": "飞屋环游记",
+  "count": 3,
+  "lines": [
+    {
+      "text": "冒险就在外面！",
+      "en": "Adventure is out there!",
+      "character": "Ellie",
+      "note": "Ellie 的人生口号，飞屋起飞前就已写在墙上。"
+    },
+    {
+      "text": "我才刚见到你，就爱上你了。",
+      "en": "I have just met you, and I love you.",
+      "character": "Dug",
+      "note": "狗狗道格的自我介绍；IMDb quotes 可查。"
+    },
+    {
+      "text": "松鼠！",
+      "en": "Squirrel!",
+      "character": "Dug",
+      "note": "道格的注意力故障名梗；IMDb quotes 可查。"
+    }
+  ]
+}

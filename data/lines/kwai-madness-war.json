@@ -1,0 +1,25 @@
+{
+  "id": "kwai-madness-war",
+  "film_title": "桂河大桥",
+  "count": 3,
+  "lines": [
+    {
+      "text": "疯狂……疯狂……战争就是这样。",
+      "en": "Madness! Madness!",
+      "character": "Major Clipton",
+      "note": "桥塌之后 Clipton 的一声：桂河大桥把军人荣誉的悖论收成「疯狂」。通行定译。"
+    },
+    {
+      "text": "我都做了什么？",
+      "en": "What have I done?",
+      "character": "Colonel Nicholson",
+      "note": "尼科尔森扑上引爆器前的最后清醒；IMDb quotes 可查。"
+    },
+    {
+      "text": "在你们的工作里快乐吧。",
+      "en": "Be happy in your work.",
+      "character": "Colonel Nicholson",
+      "note": "大桥通车仪式致辞的点题句；IMDb quotes 可查。"
+    }
+  ]
+}

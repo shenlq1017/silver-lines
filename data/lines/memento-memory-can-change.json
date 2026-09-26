@@ -1,0 +1,25 @@
+{
+  "id": "memento-memory-can-change",
+  "film_title": "记忆碎片",
+  "count": 3,
+  "lines": [
+    {
+      "text": "记忆会改变房间的形状，也会改变车的颜色。记忆可以被扭曲——它们只是一种解释，不是记录。",
+      "en": "Memory can change the shape of a room; it can change the color of a car. And memories can be distorted. They're just an interpretation, they're not a record.",
+      "character": "Leonard Shelby",
+      "note": "倒叙复仇的认识论炸弹：记忆碎片把「可信记录」拆成纹身与宝丽来。中文取题旨压缩；英文为片中经典记忆独白通行摘录。"
+    },
+    {
+      "text": "我必须相信我头脑之外还有一个世界。我必须相信我的行为仍有意义——哪怕我记不住它们。",
+      "en": "I have to believe in a world outside my own mind. I have to believe that my actions still have meaning, even if I can't remember them.",
+      "character": "Leonard Shelby",
+      "note": "莱纳德的生存哲学；IMDb quotes 可查。"
+    },
+    {
+      "text": "为了快乐，我会骗自己吗？就你而言，泰迪——会的。",
+      "en": "Do I lie to myself to be happy? In your case, Teddy, yes I will.",
+      "character": "Leonard Shelby",
+      "note": "结尾的决断；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "life-of-brian-all-individuals",
+  "film_title": "蒙提·派森之布莱恩的一生",
+  "count": 4,
+  "lines": [
+    {
+      "text": "你们每个人都是独立的个体。",
+      "en": "You’re all individuals.",
+      "character": "Brian",
+      "note": "群众高喊一致时，布莱恩坚持每个人都是个体；蒙提·派森式政治讽刺。通行译法。"
+    },
+    {
+      "text": "罗马人到底为我们做过什么？",
+      "en": "What have the Romans ever done for us?",
+      "character": "Reg",
+      "note": "人民阵线会议的著名反转长段；IMDb quotes 可查。"
+    },
+    {
+      "text": "他不是弥赛亚——他只是个很淘气的男孩。",
+      "en": "He was not the Messiah. He was a very naughty boy.",
+      "character": "Mandy",
+      "note": "片尾坠落后曼迪的收束；IMDb quotes 可查。"
+    },
+    {
+      "text": "永远看到生活的光明面。",
+      "en": "Always look on the bright side of life.",
+      "character": "Eric Idle（歌声）",
+      "note": "片尾十字架上的合唱，派森标志曲目。"
+    }
+  ]
+}

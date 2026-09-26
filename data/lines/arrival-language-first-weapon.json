@@ -1,0 +1,25 @@
+{
+  "id": "arrival-language-first-weapon",
+  "film_title": "降临",
+  "count": 3,
+  "lines": [
+    {
+      "text": "语言是文明的基础，也是冲突中拔出的第一件武器。",
+      "en": "Language is the foundation of civilization. It is the first weapon drawn in a conflict.",
+      "character": "路易斯·班克斯 / Louise Banks",
+      "note": "通行译法：路易斯著作/旁白中的核心句；完整句含“维系人民的胶水”一层，此处保留首尾两分句。"
+    },
+    {
+      "text": "如果能从头到尾看见你的一生，你还会改变它吗？",
+      "en": "If you could see your whole life from start to finish, would you change things?",
+      "character": "Louise Banks",
+      "note": "路易斯的核心之问；IMDb quotes 可查。"
+    },
+    {
+      "text": "即使知道旅程和它的终点，我也拥抱它，迎接它的每一个瞬间。",
+      "en": "Despite knowing the journey and where it leads, I embrace it, and welcome every moment of it.",
+      "character": "Louise Banks",
+      "note": "结尾独白；IMDb quotes 可查。"
+    }
+  ]
+}

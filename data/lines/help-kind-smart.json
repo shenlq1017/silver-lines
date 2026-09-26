@@ -1,0 +1,31 @@
+{
+  "id": "help-kind-smart",
+  "film_title": "帮助",
+  "count": 4,
+  "lines": [
+    {
+      "text": "你善良。你聪明。你重要。",
+      "en": "You is kind. You is smart. You is important.",
+      "character": "艾比利恩·克拉克 / Aibileen Clark",
+      "note": "艾比利恩对梅·莫布利的叮嘱对白；IMDb quotes／电影剧本／字幕稿逐字可核（保留口语 You is 语感于英译）。"
+    },
+    {
+      "text": "上帝说要爱你的仇敌。这很难。但可以从说真话开始。",
+      "en": "God says we need to love our enemies. It hard to do. But it can start by telling the truth.",
+      "character": "Aibileen Clark",
+      "note": "艾比利恩的信仰告白；IMDb quotes 可查。"
+    },
+    {
+      "text": "吃。我的。屎。",
+      "en": "Eat. My. Shit.",
+      "character": "Minny Jackson",
+      "note": "巧克力「特制派」的报复宣言（原文含粗口）；IMDb quotes 可查。"
+    },
+    {
+      "text": "从没有人问过我，做我自己是什么滋味。把这个真相说出来之后，我自由了。",
+      "en": "No one had ever asked me what it feel like to be me. Once I told the truth about that, I felt free.",
+      "character": "Aibileen Clark",
+      "note": "被解雇后走在回家路上的收束独白；IMDb quotes 可查。"
+    }
+  ]
+}

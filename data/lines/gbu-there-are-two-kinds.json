@@ -1,0 +1,25 @@
+{
+  "id": "gbu-there-are-two-kinds",
+  "film_title": "黄金三镖客",
+  "count": 3,
+  "lines": [
+    {
+      "text": "世界上有两种人，我的朋友——有枪的，和要挖的。你，挖。",
+      "en": "There are two kinds of people in the world, my friend: those with a loaded gun, and those who dig. You dig.",
+      "character": "Blondie",
+      "note": "坟场对峙：黄金三镖客把枪与铲子做成文明的二分法。通行意译。"
+    },
+    {
+      "text": "该开枪的时候就开枪，别废话。",
+      "en": "When you have to shoot, shoot. Don't talk.",
+      "character": "Tuco",
+      "note": "图科干掉追杀者后的名言；IMDb quotes 可查。"
+    },
+    {
+      "text": "靠干活谋生的人，为什么还要拼命干活？",
+      "en": "If you work for a living, why do you kill yourself working?",
+      "character": "Tuco",
+      "note": "图科的流浪哲学；IMDb quotes 可查。"
+    }
+  ]
+}

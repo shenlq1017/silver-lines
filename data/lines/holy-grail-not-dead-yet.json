@@ -1,0 +1,31 @@
+{
+  "id": "holy-grail-not-dead-yet",
+  "film_title": "巨蟒与圣杯",
+  "count": 4,
+  "lines": [
+    {
+      "text": "我还没死呢！",
+      "en": "I’m not dead yet!",
+      "character": "The Not Dead Yet Man",
+      "note": "把死亡也变成笑点的荒诞宣言；语气越轻，反抗越顽强。通行译法。"
+    },
+    {
+      "text": "不过是擦伤。",
+      "en": "'Tis but a scratch.",
+      "character": "Black Knight",
+      "note": "黑骑士的著名嘴硬；IMDb quotes 可查。"
+    },
+    {
+      "text": "只是皮外伤。",
+      "en": "It's just a flesh wound.",
+      "character": "Black Knight",
+      "note": "断臂后的升级版嘴硬；IMDb quotes 可查。"
+    },
+    {
+      "text": "死亡正等着你们——带着又大又尖的牙齿！",
+      "en": "Death awaits you all, with nasty, big, pointy teeth!",
+      "character": "Tim the Enchanter",
+      "note": "魔法师蒂姆的警告；IMDb quotes 可查。"
+    }
+  ]
+}

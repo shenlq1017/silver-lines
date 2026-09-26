@@ -1,0 +1,28 @@
+{
+  "id": "spirited-away",
+  "film_title": "千与千寻",
+  "count": 4,
+  "lines": [
+    {
+      "text": "曾经发生过的事不可能忘记，只不过是想不起来而已。",
+      "en": "Once you've met someone you never really forget them.",
+      "character": "无脸男 / 钱婆婆旁白意蕴",
+      "note": "宫崎骏式温柔：遗忘也是记得。"
+    },
+    {
+      "text": "名字一旦被夺走，就再也找不到回家的路了。",
+      "character": "白龙",
+      "note": "白龙叮嘱千寻守住真名；通行配音译法。"
+    },
+    {
+      "text": "从今往后，你的名字就叫小千。",
+      "character": "汤婆婆",
+      "note": "签约夺名一幕；通行译法。"
+    },
+    {
+      "text": "千万不要回头。",
+      "character": "白龙",
+      "note": "片尾隧道送别的叮嘱；通行译法。"
+    }
+  ]
+}

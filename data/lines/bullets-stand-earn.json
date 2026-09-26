@@ -1,0 +1,28 @@
+{
+  "id": "bullets-stand-earn",
+  "film_title": "让子弹飞",
+  "count": 4,
+  "lines": [
+    {
+      "text": "站着把钱挣了。",
+      "en": "Earn the money while standing tall.",
+      "character": "张麻子",
+      "note": "让子弹飞的江湖经济学，短、横、传世。"
+    },
+    {
+      "text": "枪在手，跟我走！杀四郎，抢碉楼！",
+      "character": "张麻子",
+      "note": "发枪动员的名场面；通行引述可查。"
+    },
+    {
+      "text": "我来鹅城只办三件事：公平！公平！还是他妈的公平！",
+      "character": "张麻子",
+      "note": "张麻子的进城宣言（原文含粗口）；通行引述可查。"
+    },
+    {
+      "text": "彼时彼刻？——恰如此时此刻。",
+      "character": "黄四郎",
+      "note": "与张麻子的机锋对答；通行引述可查。"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mad-max-we-are-not-things",
+  "film_title": "疯狂的麦克斯4：狂暴之路",
+  "count": 5,
+  "lines": [
+    {
+      "text": "我们不是物件。",
+      "en": "We are not things.",
+      "character": "五妻 / The Wives",
+      "note": "废土女权一句墙书：狂暴之路把逃亡写成宣言，五个字（英文四个词）撑起整场追车的道德引擎。"
+    },
+    {
+      "text": "多好的一天啊！",
+      "en": "What a lovely day!",
+      "character": "Nux",
+      "note": "纳克斯开着战车冲进沙暴前的欢呼；IMDb quotes 可查。"
+    },
+    {
+      "text": "希望是一种错误。修不好破掉的东西，人就会疯。",
+      "en": "Hope is a mistake. If you can't fix what's broken, you'll go insane.",
+      "character": "Furiosa",
+      "note": "弗瑞奥萨的荒原哲学；IMDb quotes 可查。"
+    },
+    {
+      "text": "朋友们，别对水上瘾。它会攫住你，失去时你会怨愤。",
+      "en": "Do not, my friends, become addicted to water. It will take hold of you, and you will resent its absence.",
+      "character": "Immortan Joe",
+      "note": "不死老乔开闸放水前的布道；IMDb quotes 可查。"
+    },
+    {
+      "text": "我叫麦克斯。我的世界是火与血。",
+      "en": "My name is Max. My world is fire and blood.",
+      "character": "Max Rockatansky",
+      "note": "开场旁白；IMDb quotes 可查。"
+    }
+  ]
+}

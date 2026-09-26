@@ -1,0 +1,37 @@
+{
+  "id": "aliens-get-away-from-her",
+  "film_title": "异形2",
+  "count": 5,
+  "lines": [
+    {
+      "text": "离她远点，你这该死的东西！",
+      "en": "Get away from her, you bitch!",
+      "character": "Ellen Ripley",
+      "note": "动力装甲对峙异形后裔：异形2把母性怒火喊成类型片名场面。通行字幕略有差（bitch 译法不一），已标。"
+    },
+    {
+      "text": "结束了，伙计们！全完了！",
+      "en": "Game over, man! Game over!",
+      "character": "Hudson",
+      "note": "任务失联后哈德森的崩溃名段；IMDb quotes 可查。"
+    },
+    {
+      "text": "我的意见是：直接撤走，然后从轨道上把整个地方核平。这是唯一稳妥的办法。",
+      "en": "I say we take off and nuke the entire site from orbit. It's the only way to be sure.",
+      "character": "Hicks",
+      "note": "希克斯的处理方案，全片最著名建议；IMDb quotes 可查。"
+    },
+    {
+      "text": "它们通常在夜里来。通常。",
+      "en": "They mostly come at night. Mostly.",
+      "character": "Ripley",
+      "note": "安抚纽特时说出的名句；IMDb quotes 可查。"
+    },
+    {
+      "text": "妈妈总说世上没有怪物，没有真的怪物。可是有。",
+      "en": "My mommy always said there were no monsters — no real ones — but there are.",
+      "character": "Newt",
+      "note": "纽特对雷普利的告白；IMDb quotes 可查。"
+    }
+  ]
+}

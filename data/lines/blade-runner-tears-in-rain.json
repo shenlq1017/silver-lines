@@ -1,0 +1,25 @@
+{
+  "id": "blade-runner-tears-in-rain",
+  "film_title": "银翼杀手",
+  "count": 3,
+  "lines": [
+    {
+      "text": "这些瞬间都会消逝在时间里，如同眼泪消失在雨中。",
+      "en": "All those moments will be lost in time, like tears in rain.",
+      "character": "Roy Batty",
+      "note": "复制人临终独白压过追杀：银翼杀手「雨中泪」是类型片里最温柔的末日。通行定译；完整独白前半「我看见了……」常一并引用，本批取压轴喻体。"
+    },
+    {
+      "text": "烧得两倍亮的灯——只能烧一半的时间。",
+      "en": "The light that burns twice as bright burns half as long.",
+      "character": "Eldon Tyrell",
+      "note": "泰瑞尔对罗伊的警告；IMDb quotes 可查。"
+    },
+    {
+      "text": "你完成了一个男子汉的活儿，长官。",
+      "en": "You've done a man's job, sir.",
+      "character": "Gaff",
+      "note": "加夫对德卡德的评语；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "toy3-so-long-partner",
+  "film_title": "玩具总动员3",
+  "count": 3,
+  "lines": [
+    {
+      "text": "再见了，伙伴。",
+      "en": "So long, partner.",
+      "character": "Andy / Woody",
+      "note": "安迪把胡迪交到小女孩手上：童年正式毕业，西部搭档的告别礼成三部曲泪点。"
+    },
+    {
+      "text": "我们都只是等着被扔掉的垃圾！玩具就是这么回事。",
+      "en": "We're all just trash waitin' to be thrown away! That's all a toy is!",
+      "character": "Lots-o'-Huggin' Bear",
+      "note": "草莓熊的黑暗哲学；IMDb quotes 可查。"
+    },
+    {
+      "text": "胡迪……他是我从小到大的伙伴。胡迪最特别的地方，是他永远不会放弃你——永远。",
+      "en": "Now Woody... he's been my pal for as long as I can remember... But the thing that makes Woody special is he'll never give up on you... ever.",
+      "character": "Andy",
+      "note": "安迪把胡迪交给邦妮时的托付（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

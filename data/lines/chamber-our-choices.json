@@ -1,0 +1,19 @@
+{
+  "id": "chamber-our-choices",
+  "film_title": "哈利·波特与密室",
+  "count": 2,
+  "lines": [
+    {
+      "text": "决定我们成为什么人的，不是我们的能力，而是我们的选择。",
+      "en": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+      "character": "Albus Dumbledore",
+      "note": "邓布利多对哈利说的选择论，系列伦理核心；密室篇写进银幕。"
+    },
+    {
+      "text": "多比没有主人。多比是个自由的小精灵！",
+      "en": "Dobby has no master. Dobby is a free elf!",
+      "character": "Dobby",
+      "note": "多比获得自由袜子的宣言；IMDb quotes 可查。"
+    }
+  ]
+}

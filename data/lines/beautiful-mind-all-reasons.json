@@ -1,0 +1,25 @@
+{
+  "id": "beautiful-mind-all-reasons",
+  "film_title": "美丽心灵",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你是我活下去的全部理由。",
+      "en": "You are the reason I am. You are all my reasons.",
+      "character": "John Nash",
+      "note": "纳什领奖词里写给艾丽西亚的句子，美丽心灵的情感核。"
+    },
+    {
+      "text": "我一直相信数字、方程和逻辑可以指引我们理性……但只有在爱的神秘等式里，才能找到任何逻辑或理由。",
+      "en": "I've always believed in numbers... It is only in the mysterious equations of love that any logic or reasons can be found.",
+      "character": "John Nash",
+      "note": "诺贝尔奖答辞（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "我还是会看见那些不存在的东西。只是我选择不去理会。",
+      "en": "I still see things that are not here. I just choose not to acknowledge them.",
+      "character": "John Nash",
+      "note": "向罗森医生解释与幻觉共处；IMDb quotes 可查。"
+    }
+  ]
+}

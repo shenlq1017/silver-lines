@@ -1,0 +1,25 @@
+{
+  "id": "roma-women-alone",
+  "film_title": "罗马",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我们女人总是独自一人。",
+      "en": "We women are always alone.",
+      "character": "索菲亚 / Sofía",
+      "note": "通行译法：雇主索菲亚对克莱奥说的话；影片关于女性劳动与被遗弃的核心句，不同字幕略有差异。"
+    },
+    {
+      "text": "不管他们怎么跟你说——我们女人，总是独自一人。",
+      "en": "No matter what they tell you, we women are always alone.",
+      "character": "Sofía",
+      "note": "索菲亚对克莉奥的点破，主台词的完整版；IMDb quotes 可查。"
+    },
+    {
+      "text": "我不想要她。",
+      "en": "No la quería.",
+      "character": "Cleo",
+      "note": "产房里克莉奥抱着死胎的告白，全片最重的一句；IMDb quotes 可查。"
+    }
+  ]
+}

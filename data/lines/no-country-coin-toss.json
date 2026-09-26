@@ -1,0 +1,25 @@
+{
+  "id": "no-country-coin-toss",
+  "film_title": "老无所依",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你在一次抛硬币上，最多输过多少？",
+      "en": "What's the most you ever lost on a coin toss?",
+      "character": "Anton Chigurh",
+      "note": "气罐杀手把生死交给硬币：老无所依用一句收银台式提问，定义科恩式命运观。通行定译。"
+    },
+    {
+      "text": "如果你所遵循的规则把你带到了这里，那这规则还有什么用？",
+      "en": "If the rule you followed brought you to this, of what use was the rule?",
+      "character": "Anton Chigurh",
+      "note": "安东在加油站的哲学；IMDb quotes 可查。"
+    },
+    {
+      "text": "叫吧，伙计。",
+      "en": "Call it, friendo.",
+      "character": "Anton Chigurh",
+      "note": "抛硬币前的指令；IMDb quotes 可查。"
+    }
+  ]
+}

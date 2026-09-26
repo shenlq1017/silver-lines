@@ -1,0 +1,25 @@
+{
+  "id": "taxi-driver-talkin-to-me",
+  "film_title": "出租车司机",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你是在跟我说话吗？",
+      "en": "You talkin' to me?",
+      "character": "Travis Bickle",
+      "note": "镜前独角戏成为流行文化口头禅：出租车司机把无人应答的对话练成拔枪仪式。通行定译。"
+    },
+    {
+      "text": "孤独跟了我一辈子。酒吧、汽车、人行道、商店——无处不在。无处可逃。我是上帝的孤独之人。",
+      "en": "Loneliness has followed me my whole life... There's no escape. I'm God's lonely man.",
+      "character": "Travis Bickle",
+      "note": "日记独白（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "我觉得该有人把这城市整个……冲下马桶。",
+      "en": "I think someone should just take this city and just... flush it down the fuckin' toilet.",
+      "character": "Travis Bickle",
+      "note": "日记独白（原文含粗口）；IMDb quotes 可查。"
+    }
+  ]
+}

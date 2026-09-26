@@ -1,0 +1,25 @@
+{
+  "id": "butch-who-are-those-guys",
+  "film_title": "虎豹小霸王",
+  "count": 3,
+  "lines": [
+    {
+      "text": "谁是这些人？",
+      "en": "Who are those guys?",
+      "character": "布奇·卡西迪 / Butch Cassidy",
+      "note": "通行译法：被追踪途中反复出现的标志性疑问；轻松口吻下的压迫感。"
+    },
+    {
+      "text": "太漂亮了，老是被抢。",
+      "en": "People kept robbing it.",
+      "character": "Sundance Kid",
+      "note": "「为什么换银行」的经典问答下半句；IMDb quotes 可查。"
+    },
+    {
+      "text": "继续想吧，布奇——你就擅长这个。",
+      "en": "You just keep thinkin', Butch. That's what you're good at.",
+      "character": "Butch Cassidy",
+      "note": "布奇的自我打气；IMDb quotes 可查。"
+    }
+  ]
+}

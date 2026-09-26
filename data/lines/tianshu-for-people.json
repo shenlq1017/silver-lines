@@ -1,0 +1,18 @@
+{
+  "id": "tianshu-for-people",
+  "film_title": "天书奇谭",
+  "count": 2,
+  "lines": [
+    {
+      "text": "天书的本事，要传给能造福于百姓的人。",
+      "en": "The power of the heavenly book must go to those who can benefit the people.",
+      "character": "袁公 / 题旨",
+      "note": "对齐袁公盗书授蛋生的核心动机；美影厂经典对白零散，标为题旨句。year 取 1983（top250.json 原缺 year，region 误作 2021 系 4K 重映年份串位）。"
+    },
+    {
+      "text": "天道无私。既有天书，理当传授于人。",
+      "character": "袁公",
+      "note": "袁公盗书济世的信念；通行引述可查。"
+    }
+  ]
+}

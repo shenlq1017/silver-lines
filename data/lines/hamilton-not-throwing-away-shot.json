@@ -1,0 +1,31 @@
+{
+  "id": "hamilton-not-throwing-away-shot",
+  "film_title": "汉密尔顿",
+  "count": 4,
+  "lines": [
+    {
+      "text": "我不会放弃我的机会。",
+      "en": "I'm not throwing away my shot.",
+      "character": "Alexander Hamilton",
+      "note": "歌曲《My Shot》的主句，中文采用通行译法。"
+    },
+    {
+      "text": "少说话，多微笑。",
+      "en": "Talk less. Smile more.",
+      "character": "Aaron Burr",
+      "note": "伯尔对汉密尔顿的第一课；IMDb quotes 可查。"
+    },
+    {
+      "text": "移民。活儿都是我们干的。",
+      "en": "Immigrants. We get the job done.",
+      "character": "Lafayette / Hamilton",
+      "note": "说唱中突然面向观众的打破第四面墙名段；IMDb quotes 可查。"
+    },
+    {
+      "text": "历史正注视着你。",
+      "en": "History has its eyes on you.",
+      "character": "Washington（唱段）",
+      "note": "华盛顿的警告唱段；IMDb quotes 可查。"
+    }
+  ]
+}

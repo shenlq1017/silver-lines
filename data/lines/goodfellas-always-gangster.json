@@ -1,0 +1,25 @@
+{
+  "id": "goodfellas-always-gangster",
+  "film_title": "好家伙",
+  "count": 3,
+  "lines": [
+    {
+      "text": "打记事起，我就一直想当个黑帮。",
+      "en": "As far back as I can remember, I always wanted to be a gangster.",
+      "character": "Henry Hill",
+      "note": "片头旁白定调整部成长犯罪史：好家伙一句童年志愿，既是向往也是判决。通行定译。"
+    },
+    {
+      "text": "哪里好笑？我是小丑吗？我逗你笑了？",
+      "en": "Funny how? I mean, funny like I'm a clown? I amuse you?",
+      "character": "Tommy DeVito",
+      "note": "汤米逼问的餐桌名场面；IMDb quotes 可查。"
+    },
+    {
+      "text": "永远不咬朋友——永远闭嘴。",
+      "en": "Never rat on your friends and always keep your mouth shut.",
+      "character": "Jimmy Conway",
+      "note": "吉米的两条铁律；IMDb quotes 可查。"
+    }
+  ]
+}

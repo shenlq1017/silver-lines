@@ -1,0 +1,31 @@
+{
+  "id": "batman-why-we-fall",
+  "film_title": "蝙蝠侠：开战时刻",
+  "count": 4,
+  "lines": [
+    {
+      "text": "我们为什么会跌倒？这样我们才能学会重新站起来。",
+      "en": "Why do we fall, Bruce? So we can learn to pick ourselves up.",
+      "character": "Alfred Pennyworth",
+      "note": "蝙蝠侠起源的核心训诫：失败不是身份，重新站起才是。通行译法。"
+    },
+    {
+      "text": "舞台感与欺骗，是强大的武器。",
+      "en": "Theatricality and deception are powerful agents.",
+      "character": "Ra's al Ghul",
+      "note": "拉斯·艾尔·古尔的教诲；IMDb quotes 可查。"
+    },
+    {
+      "text": "定义我的，不是面具下的我是谁——而是我做的事。",
+      "en": "It's not who I am underneath, but what I do that defines me.",
+      "character": "Batman",
+      "note": "对瑞秋的坦白，起源篇的点题；IMDb quotes 可查。"
+    },
+    {
+      "text": "要征服恐惧，你必须成为恐惧本身。",
+      "en": "To conquer fear, you must become fear.",
+      "character": "Ducard",
+      "note": "影武者联盟的训练箴言；IMDb quotes 可查。"
+    }
+  ]
+}

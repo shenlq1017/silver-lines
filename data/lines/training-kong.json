@@ -1,0 +1,25 @@
+{
+  "id": "training-kong",
+  "film_title": "训练日",
+  "count": 3,
+  "lines": [
+    {
+      "text": "金刚跟我比都算不了什么！",
+      "en": "King Kong ain't got shit on me!",
+      "character": "阿隆佐·哈里斯 / Alonzo Harris",
+      "note": "阿隆佐在街头被围时的咆哮对白；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "重要的不是你知道什么——而是你能证明什么。",
+      "en": "It's not what you know, it's what you can prove.",
+      "character": "Alonzo Harris",
+      "note": "阿洛佐的街头法律；IMDb quotes 可查。"
+    },
+    {
+      "text": "这是下棋，不是跳棋。",
+      "en": "The shit is chess, it ain't checkers.",
+      "character": "Alonzo Harris",
+      "note": "阿洛佐的布局论（原文含粗口）；IMDb quotes 可查。"
+    }
+  ]
+}

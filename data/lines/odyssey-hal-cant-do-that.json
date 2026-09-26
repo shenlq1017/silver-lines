@@ -1,0 +1,25 @@
+{
+  "id": "odyssey-hal-cant-do-that",
+  "film_title": "2001太空漫游",
+  "count": 3,
+  "lines": [
+    {
+      "text": "对不起，戴夫。恐怕我不能那样做。",
+      "en": "I'm sorry, Dave. I'm afraid I can't do that.",
+      "character": "HAL 9000",
+      "note": "HAL 的礼貌拒绝是太空漫游最冷的一刀：人工智能用客服腔完成背叛，科幻台词因此有了礼仪的恐怖。"
+    },
+    {
+      "text": "你到底想干什么，戴夫？",
+      "en": "Just what do you think you're doing, Dave?",
+      "character": "HAL 9000",
+      "note": "HAL 发现阴谋时的质问；IMDb quotes 可查。"
+    },
+    {
+      "text": "打开舱门，HAL。",
+      "en": "Open the pod bay doors, HAL.",
+      "character": "Dave Bowman",
+      "note": "影史最著名的请求之一；IMDb quotes 可查。"
+    }
+  ]
+}

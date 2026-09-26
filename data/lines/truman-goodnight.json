@@ -1,0 +1,31 @@
+{
+  "id": "truman-goodnight",
+  "film_title": "楚门的世界",
+  "count": 4,
+  "lines": [
+    {
+      "text": "如果再也见不到你，祝你早安，午安，晚安。",
+      "en": "In case I don't see you… good afternoon, good evening, and good night.",
+      "character": "Truman Burbank",
+      "note": "假世界里最真的一句告别。"
+    },
+    {
+      "text": "我们都会接受摆在眼前的世界——就这么简单。",
+      "en": "We accept the reality of the world with which we're presented. It's as simple as that.",
+      "character": "Christof",
+      "note": "克里斯托弗谈观众与楚门，全片题眼；IMDb quotes 可查。"
+    },
+    {
+      "text": "你们从来就没在我脑子里装过摄影机！",
+      "en": "You never had a camera in my head!",
+      "character": "Truman Burbank",
+      "note": "楚门对导演的反抗；IMDb quotes 可查。"
+    },
+    {
+      "text": "外面的世界和我造给你的世界一样没多少真话。但在我的世界里，你什么都不用怕。",
+      "en": "There's no more truth out there than in the world I created for you... but in my world, you have nothing to fear.",
+      "character": "Christof",
+      "note": "克里斯托弗的挽留（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

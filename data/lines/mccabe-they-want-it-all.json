@@ -1,0 +1,19 @@
+{
+  "id": "mccabe-they-want-it-all",
+  "film_title": "麦克白与米勒太太",
+  "count": 2,
+  "lines": [
+    {
+      "text": "他们想买下这里的一切。",
+      "en": "They want to buy everything here.",
+      "character": "约翰·麦凯布",
+      "note": "策展意译：对应公司资本进入边疆共同体时的谈判与幻灭，非逐字引文。"
+    },
+    {
+      "text": "我心里有诗。",
+      "en": "I've got poetry in me!",
+      "character": "John McCabe",
+      "note": "酒后自夸的悲喜剧名段；IMDb quotes 可查。"
+    }
+  ]
+}

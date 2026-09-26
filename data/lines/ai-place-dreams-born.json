@@ -1,0 +1,25 @@
+{
+  "id": "ai-place-dreams-born",
+  "film_title": "人工智能",
+  "count": 3,
+  "lines": [
+    {
+      "text": "他生平第一次，去了梦开始的地方。",
+      "en": "And for the first time in his life, he went to that place where dreams are born.",
+      "character": "旁白",
+      "note": "机器男孩等到世界尽头：人工智能用旁白童话句，把库布里克遗稿收成一次被许可的睡眠。通行定译。"
+    },
+    {
+      "text": "我存在。我曾存在。",
+      "en": "I am. I was.",
+      "character": "Gigolo Joe",
+      "note": "乔被吊走前的最后一句话；IMDb quotes 可查。"
+    },
+    {
+      "text": "请把我变成真的。请让我成为一个真正的男孩。",
+      "en": "Please make me real. Please make me a real boy.",
+      "character": "David",
+      "note": "海底望向蓝仙女时的执念重复；通行字幕译法。"
+    }
+  ]
+}

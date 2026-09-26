@@ -1,0 +1,25 @@
+{
+  "id": "joker-tragedy-comedy",
+  "film_title": "小丑",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我曾以为我的人生是部悲剧，现在我明白了——它是部喜剧。",
+      "en": "I used to think that my life was a tragedy, but now I realize it's a comedy.",
+      "character": "Arthur Fleck / Joker",
+      "note": "亚瑟的变调宣言：笑与哭共用一张脸，哥谭把悲剧排练成全民喜剧。"
+    },
+    {
+      "text": "有精神疾病最糟的是：所有人都要你装作没病。",
+      "en": "The worst part of having a mental illness is people expect you to behave as if you don't.",
+      "character": "Arthur Fleck",
+      "note": "亚瑟在节目里的自白；IMDb quotes 可查。"
+    },
+    {
+      "text": "我只希望我的死，比我的生更值钱。",
+      "en": "I just hope my death makes more cents than my life.",
+      "character": "Arthur Fleck",
+      "note": "日记里的双关（cents/sense）；IMDb quotes 可查。"
+    }
+  ]
+}

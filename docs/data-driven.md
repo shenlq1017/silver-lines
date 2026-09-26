@@ -66,9 +66,12 @@ node scripts/build.mjs
 ```
 
 1. 扫描全部 `movies/*/meta.json`，校验固定格式（缺字段 / id 不一致 / 缺图会报错或警告）
-2. 展开 lines → 主台词条目，`poster` / `still` 自动指向 `movies/{id}/cover.jpg` / `still.jpg`
-3. 与 legacy `data/quotes.json` 中未迁移条目合并，写回 quotes.json
-4. 调用 `sync-quote-pages.mjs`：缺失的 `quotes/{id}/` 生成壳页；模板变更统一对齐（旧链接不断）
+2. 展开 lines → 主台词条目（多台词影片追加 `extra_count` = 备储句数），`poster` / `still` 自动指向 `movies/{id}/cover.jpg` / `still.jpg`
+3. 多台词影片（lines > 1）生成 `data/lines/{id}.json`（全量台词，去掉 featured/confidence 内部字段；单台词影片不生成，陈旧文件自动清理）
+4. 与 legacy `data/quotes.json` 中未迁移条目合并，写回 quotes.json
+5. 调用 `sync-quote-pages.mjs`：缺失的 `quotes/{id}/` 生成壳页；模板变更统一对齐（旧链接不断）
+
+前端（方案 A，2026-09-26 定稿）：列表卡片元信息尾部显示「本片还有 N 句」（N = extra_count，为 0 不显示）；详情页静帧下方按需 fetch `data/lines/{id}.json` 渲染「本片台词」区块，逐句可复制。今日一句/随机仍为影片级（句子级放 P1.5）。
 
 ## 新增一部影片的完整步骤
 

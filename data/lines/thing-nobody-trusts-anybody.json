@@ -1,0 +1,19 @@
+{
+  "id": "thing-nobody-trusts-anybody",
+  "film_title": "怪形",
+  "count": 2,
+  "lines": [
+    {
+      "text": "谁都不信谁——我们都累极了。",
+      "en": "Nobody trusts anybody now, and we're all very tired.",
+      "character": "MacReady",
+      "note": "封闭站里的疲惫底线：怪形把信任成本写成生存本身。通行意译。"
+    },
+    {
+      "text": "我知道我是人。如果你们中间谁已经是那东西——你现在就该扑上来。所以，你们中间还有人。",
+      "en": "I know I'm human. And if you were all these things, then you'd just attack me right now. So some of you are still human.",
+      "character": "R.J. MacReady",
+      "note": "验血试验的名段（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

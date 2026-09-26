@@ -1,0 +1,25 @@
+{
+  "id": "network-mad-as-hell",
+  "film_title": "电视广播网",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我气疯了——我再也不打算忍受下去了！",
+      "en": "I'm as mad as hell, and I'm not going to take this anymore!",
+      "character": "Howard Beale",
+      "note": "比勒号召观众打开窗怒吼：电视广播网把收视率异变成先知布道。通行定译。"
+    },
+    {
+      "text": "关掉你们的电视机。",
+      "en": "Turn off your televisions.",
+      "character": "Howard Beale",
+      "note": "比尔最后一次布道；IMDb quotes 可查。"
+    },
+    {
+      "text": "这个世界就是一门生意。",
+      "en": "The world is a business.",
+      "character": "Howard Beale",
+      "note": "比尔揭穿电视业的真相；IMDb quotes 可查。"
+    }
+  ]
+}

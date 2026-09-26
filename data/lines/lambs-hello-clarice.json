@@ -1,0 +1,37 @@
+{
+  "id": "lambs-hello-clarice",
+  "film_title": "沉默的羔羊",
+  "count": 5,
+  "lines": [
+    {
+      "text": "你好，克拉丽斯。",
+      "en": "Hello, Clarice.",
+      "character": "Hannibal Lecter",
+      "note": "莱克特隔栏相迎的四个音节，比吃肝名场面更先钉进文化记忆；中文定译沿用流行译法。"
+    },
+    {
+      "text": "有个人口调查员曾想试探我。我把他的肝吃了，配蚕豆，还有一支上好的基安蒂酒。",
+      "en": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+      "character": "Hannibal Lecter",
+      "note": "第一次会面的著名独白；IMDb quotes 可查。"
+    },
+    {
+      "text": "真想多聊一会儿——不过我要和一位老朋友共进晚餐了。",
+      "en": "I do wish we could chat longer, but I'm having an old friend for dinner.",
+      "character": "Hannibal Lecter",
+      "note": "结尾挂电话的著名收束；IMDb quotes 可查。"
+    },
+    {
+      "text": "等价交换，克拉丽斯。",
+      "en": "Quid pro quo, Clarice.",
+      "character": "Hannibal Lecter",
+      "note": "交易规则的口头禅；IMDb quotes 可查。"
+    },
+    {
+      "text": "回到第一性。简单。读马可·奥勒留。对每一件具体的事都要问：它本身是什么？它的本性是什么？",
+      "en": "First principles, Clarice. Simplicity. Read Marcus Aurelius. Of each particular thing ask: what is it in itself? What is its nature?",
+      "character": "Hannibal Lecter",
+      "note": "汉尼拔的斯多葛功课；IMDb quotes 可查。"
+    }
+  ]
+}

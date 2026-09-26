@@ -1,0 +1,18 @@
+{
+  "id": "hero-tianxia",
+  "film_title": "英雄",
+  "count": 2,
+  "lines": [
+    {
+      "text": "一个人的痛苦与天下人比，便不再是痛苦。",
+      "en": "One person's pain, measured against all under heaven, is no longer pain.",
+      "character": "残剑 / Broken Sword",
+      "note": "残剑劝无名放弃刺秦时的对白（与「天下」题旨相连）；华语原声／通行引述／影评常引可核。"
+    },
+    {
+      "text": "剑法的最高境界，是手中无剑，心中也无剑——那是不杀，是和平。",
+      "character": "秦王",
+      "note": "秦王悟剑的最终段；通行引述可查。"
+    }
+  ]
+}

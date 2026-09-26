@@ -1,0 +1,19 @@
+{
+  "id": "dogville-open-eyes",
+  "film_title": "狗镇",
+  "count": 2,
+  "lines": [
+    {
+      "text": "有些人，不配被宽恕。",
+      "en": "Some people do not deserve to be forgiven.",
+      "character": "格蕾丝 / Grace",
+      "note": "策展意译：提炼格蕾丝最终审判镇民时的伦理翻转；旁白与对白版本复杂，明确为主题压缩而非逐字引文。"
+    },
+    {
+      "text": "有些事，必须亲自动手。",
+      "en": "Some things you have to do yourself.",
+      "character": "Grace",
+      "note": "格蕾丝决定清账时的独白；IMDb quotes 可查。"
+    }
+  ]
+}

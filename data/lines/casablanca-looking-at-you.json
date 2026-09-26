@@ -1,0 +1,37 @@
+{
+  "id": "casablanca-looking-at-you",
+  "film_title": "卡萨布兰卡",
+  "count": 5,
+  "lines": [
+    {
+      "text": "来日方长，孩子。",
+      "en": "Here's looking at you, kid.",
+      "character": "Rick Blaine",
+      "note": "里克对伊尔莎的祝酒式告别：卡萨布兰卡把私情折进世界大战。通行定译；与「我们将永远拥有巴黎」同级名句，本批取更口语的这一句。"
+    },
+    {
+      "text": "我们永远拥有巴黎。",
+      "en": "We'll always have Paris.",
+      "character": "Rick Blaine",
+      "note": "里克与伊尔莎的重逢夜；IMDb quotes 可查。"
+    },
+    {
+      "text": "世界上有那么多城镇，城镇里有那么多酒馆，她偏偏走进了我这家。",
+      "en": "Of all the gin joints in all the towns in all the world, she walks into mine.",
+      "character": "Rick Blaine",
+      "note": "里克的著名独白；IMDb quotes 可查。"
+    },
+    {
+      "text": "照老规矩，抓几个惯犯。",
+      "en": "Round up the usual suspects.",
+      "character": "Captain Renault",
+      "note": "雷诺的官样文章，影史名句；IMDb quotes 可查。"
+    },
+    {
+      "text": "路易斯，我想这是一段美好友谊的开始。",
+      "en": "Louis, I think this is the beginning of a beautiful friendship.",
+      "character": "Rick Blaine",
+      "note": "片尾并肩走进雾里的收束；IMDb quotes 可查。"
+    }
+  ]
+}

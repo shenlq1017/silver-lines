@@ -1,0 +1,25 @@
+{
+  "id": "rocky-go-the-distance",
+  "film_title": "洛奇",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我不会输——因为我只想撑完全场。",
+      "en": "I can't lose... 'cause all I wanna do is go the distance.",
+      "character": "Rocky Balboa",
+      "note": "洛奇赛前对亚德里安的自我定义：洛奇把「不倒」写成底层史诗。通行意译。"
+    },
+    {
+      "text": "哟，艾德丽安！",
+      "en": "Yo Adrian!",
+      "character": "Rocky Balboa",
+      "note": "洛奇的标志性呼喊；IMDb quotes 可查。"
+    },
+    {
+      "text": "放我出去打，米克。",
+      "en": "Cut me, Mick.",
+      "character": "Rocky Balboa",
+      "note": "赛前更衣室名句；IMDb quotes 可查。"
+    }
+  ]
+}

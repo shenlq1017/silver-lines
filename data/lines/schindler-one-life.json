@@ -1,0 +1,25 @@
+{
+  "id": "schindler-one-life",
+  "film_title": "辛德勒的名单",
+  "count": 3,
+  "lines": [
+    {
+      "text": "凡救一命，即救全世界。",
+      "en": "Whoever saves one life, saves the world entire.",
+      "character": "Itzhak Stern",
+      "note": "碑铭式对白，把个体与世界连在一起。"
+    },
+    {
+      "text": "权力，是当我们有充分的理由去杀——而我们不杀。",
+      "en": "Power is when we have every justification to kill, and we don't.",
+      "character": "Oskar Schindler",
+      "note": "辛德勒对阿蒙谈权力；IMDb quotes 可查。"
+    },
+    {
+      "text": "这辆车——本可以再换十个人。这枚胸针——两个人。这是金子，两条命。",
+      "en": "This car — Goeth would have bought this car. Why did I keep the car? Ten people right there... This pin. Two people. This is gold. Two more people.",
+      "character": "Oskar Schindler",
+      "note": "辛德勒的崩溃（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

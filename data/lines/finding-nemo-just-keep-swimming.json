@@ -1,0 +1,25 @@
+{
+  "id": "finding-nemo-just-keep-swimming",
+  "film_title": "海底总动员",
+  "count": 3,
+  "lines": [
+    {
+      "text": "当生活让你失望时，你知道该怎么办吗？继续游。继续游。",
+      "en": "When life gets you down, you know what you gotta do? Just keep swimming.",
+      "character": "Dory",
+      "note": "多莉把遗忘变成前进的节奏；一句儿童台词也能成为成人的生存箴言。通行译法。"
+    },
+    {
+      "text": "我看着你，就是回家。",
+      "en": "I look at you, and I'm home.",
+      "character": "Dory",
+      "note": "多莉的告白，全片题眼；IMDb quotes 可查。"
+    },
+    {
+      "text": "我保证过不让他出事。",
+      "en": "I promised I'd never let anything happen to him.",
+      "character": "Marlin",
+      "note": "马林的保护欲；IMDb quotes 可查。"
+    }
+  ]
+}

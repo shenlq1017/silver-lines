@@ -1,0 +1,31 @@
+{
+  "id": "pulp-try-to-shepherd",
+  "film_title": "低俗小说",
+  "count": 4,
+  "lines": [
+    {
+      "text": "我在努力，林戈。我在很努力地想当个牧羊人。",
+      "en": "I'm tryin', Ringo. I'm tryin' real hard to be the shepherd.",
+      "character": "Jules Winnfield",
+      "note": "尤尔斯以西结书演讲收束：从「恶人暴政」转向「牧羊人」——低俗外壳下的改宗时刻。"
+    },
+    {
+      "text": "我丈夫、你的老板马沙·华莱士，让你带我出来玩个够。现在——我要跳舞。",
+      "en": "I do believe Marsellus Wallace, my husband, your boss, told you to take me out and do whatever I wanted. Now I wanna dance.",
+      "character": "Mia Wallace",
+      "note": "兔子餐厅点歌台前的强横可爱；IMDb quotes 可查。"
+    },
+    {
+      "text": "那儿要三十分钟车程。我十分钟到。",
+      "en": "That's thirty minutes away. I'll be there in ten.",
+      "character": "Winston Wolfe",
+      "note": "「狼」出场的效率宣言；IMDb quotes 可查。"
+    },
+    {
+      "text": "我要对你来一场中世纪式的处置。",
+      "en": "I'm gonna git medieval on your ass.",
+      "character": "Marsellus Wallace",
+      "note": "对 Zed 的复仇宣言（原文含粗口）；IMDb quotes 可查。"
+    }
+  ]
+}

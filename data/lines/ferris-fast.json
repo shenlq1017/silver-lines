@@ -1,0 +1,25 @@
+{
+  "id": "ferris-fast",
+  "film_title": "春天不是读书天",
+  "count": 3,
+  "lines": [
+    {
+      "text": "人生过得很快。如果你不时停下来四处看看，可能就会错过它。",
+      "en": "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.",
+      "character": "费里斯·布勒 / Ferris Bueller",
+      "note": "费里斯开场／片末对镜头的旁白对白；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "菲利斯·布勒，你是我的英雄。",
+      "en": "Ferris Bueller, you're my hero.",
+      "character": "Cameron Frye",
+      "note": "卡梅伦的告白，全片情感落点；IMDb quotes 可查。"
+    },
+    {
+      "text": "问题不是「我们要做什么」——问题是不做什么。",
+      "en": "The question isn't 'what are we going to do'. The question is 'what aren't we going to do?'",
+      "character": "Ferris Bueller",
+      "note": "菲利斯的度假宣言；IMDb quotes 可查。"
+    }
+  ]
+}

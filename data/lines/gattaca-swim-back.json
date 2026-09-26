@@ -1,0 +1,31 @@
+{
+  "id": "gattaca-swim-back",
+  "film_title": "千钧一发",
+  "count": 4,
+  "lines": [
+    {
+      "text": "游向大海时，我没有留力气游回来。",
+      "en": "I never saved anything for the swim back.",
+      "character": "Vincent Freeman",
+      "note": "不合格者赢过游泳竞赛的秘密：千钧一发用「不留归途」对抗基因决定论。与片中「人类精神无基因」双璧；本批取泳者句。"
+    },
+    {
+      "text": "人类的灵魂没有基因。",
+      "en": "There is no gene for the human spirit.",
+      "character": "Vincent Freeman",
+      "note": "文森特的信条；IMDb quotes 可查。"
+    },
+    {
+      "text": "对一个本就不属于这个世界的人来说，离开它居然这么难。",
+      "en": "For someone who was never meant for this world, I must admit I am having a hard time leaving it.",
+      "character": "Vincent Freeman",
+      "note": "发射前独白；IMDb quotes 可查。"
+    },
+    {
+      "text": "我属于一个新的底层……歧视不再看社会地位或肤色——我们把它做成了一门科学。",
+      "en": "I belonged to a new underclass... We now have discrimination down to a science.",
+      "character": "Vincent Freeman",
+      "note": "开场独白（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

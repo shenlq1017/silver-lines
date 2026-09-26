@@ -1,0 +1,37 @@
+{
+  "id": "lebowski-dude-abides",
+  "film_title": "谋杀绿脚趾",
+  "count": 5,
+  "lines": [
+    {
+      "text": "杜德自有道理。",
+      "en": "The Dude abides.",
+      "character": "The Dude",
+      "note": "片尾杜德的自我盖章：谋杀绿脚趾把「随遇」做成宗教级口头禅。Abides 通行译「自有道理／依然故我」；取更口语的前者。"
+    },
+    {
+      "text": "你跑题了，唐尼！",
+      "en": "You're out of your element, Donny!",
+      "character": "Walter Sobchak",
+      "note": "沃尔特的口头禅；IMDb quotes 可查。"
+    },
+    {
+      "text": "那张地毯真是把整个房间串起来了。",
+      "en": "That rug really tied the room together.",
+      "character": "The Dude",
+      "note": "全片纠纷的起点名言；IMDb quotes 可查。"
+    },
+    {
+      "text": "那是你的看法而已，哥们。",
+      "en": "Yeah, well, that's just, like, your opinion, man.",
+      "character": "The Dude",
+      "note": "督爷的著名口头禅；IMDb quotes 可查。"
+    },
+    {
+      "text": "斯莫基，这里不是越南，这是保龄球。这儿有规矩。",
+      "en": "Smokey, this is not Nam. This is bowling. There are rules.",
+      "character": "Walter Sobchak",
+      "note": "持枪过线的名场面；IMDb quotes 可查。"
+    }
+  ]
+}

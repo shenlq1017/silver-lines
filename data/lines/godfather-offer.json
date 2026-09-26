@@ -1,0 +1,37 @@
+{
+  "id": "godfather-offer",
+  "film_title": "教父",
+  "count": 5,
+  "lines": [
+    {
+      "text": "我会给他一个他无法拒绝的条件。",
+      "en": "I'm gonna make him an offer he can't refuse.",
+      "character": "Don Vito Corleone",
+      "note": "影史最被引用的黑手党金句。"
+    },
+    {
+      "text": "这不是私人恩怨，纯属生意。",
+      "en": "It's not personal, Sonny. It's strictly business.",
+      "character": "Michael Corleone",
+      "note": "迈克尔谋划反击时对桑尼的定调。"
+    },
+    {
+      "text": "不花时间陪伴家人的男人，永远算不上真正的男人。",
+      "en": "A man who doesn't spend time with his family can never be a real man.",
+      "character": "Don Vito Corleone",
+      "note": "教父的家训。"
+    },
+    {
+      "text": "也许有一天——也许那一天永远不会来——我会请你为我做一件事。",
+      "en": "Someday, and that day may never come, I'll call upon you to do a service for me.",
+      "character": "Don Vito Corleone",
+      "note": "开场对包纳萨拉的人情伏笔。"
+    },
+    {
+      "text": "把枪留下，把奶油卷带走。",
+      "en": "Leave the gun. Take the cannoli.",
+      "character": "Clemenza",
+      "note": "处决叛徒后的冷幽默名句。"
+    }
+  ]
+}

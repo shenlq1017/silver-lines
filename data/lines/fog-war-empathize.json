@@ -1,0 +1,31 @@
+{
+  "id": "fog-war-empathize",
+  "film_title": "战争迷雾",
+  "count": 4,
+  "lines": [
+    {
+      "text": "设身处地去理解你的敌人。",
+      "en": "Empathize with your enemy.",
+      "character": "罗伯特·麦克纳马拉 / Robert S. McNamara",
+      "note": "麦克纳马拉「十一条教训」之首的通行概括；他解释为设身处地、透过对方眼睛看自己。纪录片口述可核验。"
+    },
+    {
+      "text": "理性救不了我们。",
+      "en": "Rationality will not save us.",
+      "character": "Robert S. McNamara",
+      "note": "十一条教训之二；IMDb quotes 可查。"
+    },
+    {
+      "text": "为了行善，你可能不得不作恶。",
+      "en": "In order to do good, you may have to engage in evil.",
+      "character": "Robert S. McNamara",
+      "note": "十一条教训之九；IMDb quotes 可查。"
+    },
+    {
+      "text": "相信与看见，常常都是错的。",
+      "en": "Belief and seeing are both often wrong.",
+      "character": "Robert S. McNamara",
+      "note": "十一条教训之七；IMDb quotes 可查。"
+    }
+  ]
+}

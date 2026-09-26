@@ -1,0 +1,25 @@
+{
+  "id": "green-book-first-move",
+  "film_title": "绿皮书",
+  "count": 3,
+  "lines": [
+    {
+      "text": "这世上到处都是寂寞的人，等着别人迈出第一步。",
+      "en": "The world is full of lonely people waiting to make the first move.",
+      "character": "Tony Lip",
+      "note": "绿皮书的人情公式：寂寞普遍，勇气稀缺。"
+    },
+    {
+      "text": "因为只有天才是不够的——改变人心，需要勇气。",
+      "en": "Because genius is not enough. It takes courage to change people's hearts.",
+      "character": "Don Shirley",
+      "note": "唐的雨夜爆发；IMDb quotes 可查。"
+    },
+    {
+      "text": "如果我不够黑，也不够白——那你告诉我，托尼，我到底是什么？",
+      "en": "If I'm not black enough and if I'm not white enough... then tell me, Tony, what am I?",
+      "character": "Don Shirley",
+      "note": "唐的身份之问；IMDb quotes 可查。"
+    }
+  ]
+}

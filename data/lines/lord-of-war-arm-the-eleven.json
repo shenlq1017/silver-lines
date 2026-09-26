@@ -1,0 +1,25 @@
+{
+  "id": "lord-of-war-arm-the-eleven",
+  "film_title": "战争之王",
+  "count": 3,
+  "lines": [
+    {
+      "text": "地球上每十二人就有一支枪。问题只剩：怎么把另外十一个人也武装起来？",
+      "en": "There's one firearm for every twelve people on the planet. The only question is: How do we arm the other eleven?",
+      "character": "Yuri Orlov",
+      "note": "开场旁白即整部片的道德倒置：战争之王用统计笑话，把军火商自述写成控诉。通行定译。"
+    },
+    {
+      "text": "人们说：好人袖手旁观，邪恶就会横行。他们其实该说：邪恶总会横行。",
+      "en": "They say evil prevails when good men fail to act. What they should say is: evil prevails.",
+      "character": "Yuri Orlov",
+      "note": "对「让世界变好」命题的反驳；IMDb quotes 可查。"
+    },
+    {
+      "text": "我可以告诉你——不过那得收费。",
+      "en": "I would tell you, but then I'd have to charge you.",
+      "character": "Yuri Orlov",
+      "note": "结尾探员追问军火去向的黑色回答；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "get-out-get-out",
+  "film_title": "逃出绝命镇",
+  "count": 2,
+  "lines": [
+    {
+      "text": "出去！",
+      "en": "Get out!",
+      "character": "乔治娜 / Georgina（深层意识一瞬）",
+      "note": "片名句：被控制的乔治娜在泪水中挤出的警告；亦是整部片的主题命令式。"
+    },
+    {
+      "text": "我是运输安全局的！",
+      "en": "I'm TSA!",
+      "character": "Rod Williams",
+      "note": "罗德的自我介绍式救命宣言；IMDb quotes 可查。"
+    }
+  ]
+}

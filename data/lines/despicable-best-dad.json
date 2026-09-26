@@ -1,0 +1,25 @@
+{
+  "id": "despicable-best-dad",
+  "film_title": "神偷奶爸",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我曾经想做最坏的人。现在只想做最好的爸爸。",
+      "en": "I used to want to be the greatest villain. Now I just want to be the best dad.",
+      "character": "Gru",
+      "note": "格鲁弧光的题旨化一句：从偷月亮到被三个女儿偷走心。非逐字对白，边界已标。"
+    },
+    {
+      "text": "它毛绒绒的，我要死了！",
+      "en": "It's so fluffy I'm gonna die!",
+      "character": "Agnes",
+      "note": "艾格尼丝抱独角兽的尖叫名段；IMDb quotes 可查。"
+    },
+    {
+      "text": "电灯泡。",
+      "en": "Light bulb.",
+      "character": "Gru",
+      "note": "格鲁的「认错」口头禅；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "matrix2-already-made-choice",
+  "film_title": "黑客帝国2：重装上阵",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你不是来做选择的——你已经选好了。你来，是为了理解自己为什么这样选。",
+      "en": "You didn't come here to make the choice. You've already made it. You're here to understand why you made it.",
+      "character": "The Oracle",
+      "note": "先知把自由意志往后推一步：重装上阵与已刊《黑客帝国》《矩阵革命》不撞 id。通行定译。"
+    },
+    {
+      "text": "希望——这是人类最典型的妄想。它既是人类最强大的力量，也是最大的弱点。",
+      "en": "Hope. It is the quintessential human delusion... the source of your enduring strength and weakness.",
+      "character": "The Architect",
+      "note": "建筑师的终极论断；IMDb quotes 可查。"
+    },
+    {
+      "text": "选择是幻觉——由有权者与无权者共同制造的幻觉。",
+      "en": "Choice is an illusion, created between those with power and those without.",
+      "character": "The Merovingian",
+      "note": "梅罗文嘉的选择论；IMDb quotes 可查。"
+    }
+  ]
+}

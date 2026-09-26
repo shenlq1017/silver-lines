@@ -1,0 +1,25 @@
+{
+  "id": "grapes-of-wrath-wherever-fight",
+  "film_title": "愤怒的葡萄",
+  "count": 3,
+  "lines": [
+    {
+      "text": "凡是有饥饿的人在争取食物，凡是警察在打人，我都在那里。",
+      "en": "Wherever there’s a fight so hungry people can eat, I’ll be there.",
+      "character": "Tom Joad",
+      "note": "汤姆·乔德的告别独白把个人流亡升为集体正义。通行译法。"
+    },
+    {
+      "text": "我们就是人民——我们要走下去。",
+      "en": "Why, we're the people — we go on.",
+      "character": "Ma Joad",
+      "note": "乔德妈妈的宣言；IMDb quotes 可查。"
+    },
+    {
+      "text": "遇上麻烦、受了伤、需要人帮——去找穷人。只有穷人才会帮你。",
+      "en": "If you're in trouble or hurt or need — go to poor people. They're the only ones that'll help.",
+      "character": "Ma Joad",
+      "note": "乔德妈妈的处世经验（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

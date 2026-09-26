@@ -1,0 +1,19 @@
+{
+  "id": "cuckoo-at-least-tried",
+  "film_title": "飞越疯人院",
+  "count": 2,
+  "lines": [
+    {
+      "text": "可我试过了，对不对？该死，至少我试过了。",
+      "en": "But I tried, didn't I? Goddamnit, at least I did that.",
+      "character": "Chief Bromden（旁白/结句意境） / McMurphy 精神",
+      "note": "对齐原著结句与影片精神遗产；中文定译取通行译本。麦克默菲用「试过」对抗疯人院规训。"
+    },
+    {
+      "text": "你们这些疯子里，哪个有胆？",
+      "en": "Which one of you nuts has got any guts?",
+      "character": "R.P. McMurphy",
+      "note": "麦克墨菲盯着电视的呼吁；IMDb quotes 可查。"
+    }
+  ]
+}

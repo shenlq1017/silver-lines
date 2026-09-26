@@ -1,0 +1,19 @@
+{
+  "id": "django-d-silent",
+  "film_title": "被解救的姜戈",
+  "count": 2,
+  "lines": [
+    {
+      "text": "姜戈。D 不发音。",
+      "en": "Django. The D is silent.",
+      "character": "Dr. King Schultz / Django",
+      "note": "舒尔茨纠正发音的瞬间，也在把奴隶的名字还原成主体：D 不发音，人要发声。"
+    },
+    {
+      "text": "先生们，你们曾激起我的好奇。现在——你们得到了我的注意。",
+      "en": "Gentlemen, you had my curiosity. Now you have my attention.",
+      "character": "Calvin Candie",
+      "note": "坎迪的登场宣言；IMDb quotes 可查。"
+    }
+  ]
+}

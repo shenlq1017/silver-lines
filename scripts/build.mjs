@@ -22,6 +22,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const MOVIES_DIR = path.join(ROOT, "movies");
 const QUOTES_JSON = path.join(ROOT, "data", "quotes.json");
+const LINES_DIR = path.join(ROOT, "data", "lines");
 const SYNC_SCRIPT = path.join(ROOT, "scripts", "sync-quote-pages.mjs");
 
 const ALLOWED_GROUPS = ["top250", "classics"];
@@ -89,7 +90,46 @@ function expand(meta) {
   q.status = "published";
   if (primary.featured === true) q.featured = true;
   if (meta.license_note) q.license_note = meta.license_note;
+  if (meta.lines.length > 1) q.extra_count = meta.lines.length - 1;
   return q;
+}
+
+/** 多台词影片生成 data/lines/{id}.json（含全量台词，去掉内部字段；单台词影片不生成） */
+function writeLinesFiles(loaded) {
+  fs.mkdirSync(LINES_DIR, { recursive: true });
+  const keep = new Set();
+  for (const meta of loaded) {
+    if (meta.lines.length <= 1) continue;
+    keep.add(meta.id);
+    const payload = {
+      id: meta.id,
+      film_title: meta.film.title,
+      count: meta.lines.length,
+      lines: meta.lines.map((l) => {
+        const pub = { text: l.text };
+        if (l.en) pub.en = l.en;
+        if (l.character) pub.character = l.character;
+        if (l.note) pub.note = l.note;
+        return pub;
+      }),
+    };
+    fs.writeFileSync(
+      path.join(LINES_DIR, `${meta.id}.json`),
+      JSON.stringify(payload, null, 2) + "\n",
+      "utf8"
+    );
+  }
+  let pruned = 0;
+  for (const f of fs.readdirSync(LINES_DIR)) {
+    if (!f.endsWith(".json")) continue;
+    if (!keep.has(f.replace(/\.json$/, ""))) {
+      fs.unlinkSync(path.join(LINES_DIR, f));
+      pruned++;
+    }
+  }
+  console.log(
+    `data/lines/：${keep.size} 个多台词文件` + (pruned ? `（清理陈旧 ${pruned} 个）` : "")
+  );
 }
 
 function main() {
@@ -122,6 +162,8 @@ function main() {
     `quotes.json：${legacy.length} → ${merged.length} 条` +
       `（movies/ 覆盖 ${movieQuotes.length} 条，新增 ${movieQuotes.filter((m) => !legacyIds.has(m.id)).length} 条）`
   );
+
+  writeLinesFiles(loaded);
 
   execFileSync(process.execPath, [SYNC_SCRIPT], { stdio: "inherit" });
   console.log("\nbuild 完成。");

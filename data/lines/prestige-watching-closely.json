@@ -1,0 +1,25 @@
+{
+  "id": "prestige-watching-closely",
+  "film_title": "致命魔术",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你看仔细了吗？",
+      "en": "Are you watching closely?",
+      "character": "Narrator / Cutter",
+      "note": "开场即契约：承诺、转身、打乱——把观影变成魔术三幕。"
+    },
+    {
+      "text": "秘密本身不会打动任何人——你用它变出的戏法才是一切。",
+      "en": "The secret impresses no one. The trick you use it for is everything.",
+      "character": "Alfred Borden",
+      "note": "伯登的魔术哲学；IMDb quotes 可查。"
+    },
+    {
+      "text": "阿布拉卡达布拉。",
+      "en": "Abracadabra.",
+      "character": "Alfred Borden",
+      "note": "掉包台上的最后一词，全片闭环；IMDb quotes 可查。"
+    }
+  ]
+}

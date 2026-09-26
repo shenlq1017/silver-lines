@@ -1,0 +1,25 @@
+{
+  "id": "cmbyn-call-me",
+  "film_title": "请以你的名字呼唤我",
+  "count": 3,
+  "lines": [
+    {
+      "text": "请以你的名字呼唤我，我便以我的名字回应你。",
+      "en": "Call me by your name and I'll call you by mine.",
+      "character": "Oliver / Elio",
+      "note": "片名即咒语：把名字交给对方，是意大利夏日里最彻底的亲密。"
+    },
+    {
+      "text": "可为了不去感受，就让自己什么都感觉不到——多可惜啊！",
+      "en": "But to make yourself feel nothing so as not to feel anything — what a waste!",
+      "character": "Mr. Perlman",
+      "note": "父亲的著名训导（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "此刻有悲伤，有痛苦。别杀掉它——连同你感受过的快乐一起。",
+      "en": "Right now, there's sorrow, pain. Don't kill it, and with it the joy you've felt.",
+      "character": "Mr. Perlman",
+      "note": "同段训导的下半句；IMDb quotes 可查。"
+    }
+  ]
+}

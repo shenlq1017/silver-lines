@@ -1,0 +1,31 @@
+{
+  "id": "titanic-jump",
+  "film_title": "泰坦尼克号",
+  "count": 4,
+  "lines": [
+    {
+      "text": "你跳，我也跳。",
+      "en": "You jump, I jump.",
+      "character": "Jack Dawson",
+      "note": "最短誓言，最长久回响。"
+    },
+    {
+      "text": "你必须答应我——答应我你会活下去。",
+      "en": "You must do me this honor. Promise me you'll survive.",
+      "character": "Jack Dawson",
+      "note": "冰海中的托付（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "赢到那张船票，是我一生最幸运的事——它让我遇见了你。",
+      "en": "Winning that ticket was the best thing that ever happened to me... it brought me to you.",
+      "character": "Jack Dawson",
+      "note": "杰克最后的独白（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "我永不放手，杰克。永不。",
+      "en": "I'll never let go, Jack. I'll never let go.",
+      "character": "Rose",
+      "note": "露丝的承诺；IMDb quotes 可查。"
+    }
+  ]
+}

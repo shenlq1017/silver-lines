@@ -1,0 +1,25 @@
+{
+  "id": "donnie-stupid-man-suit",
+  "film_title": "死亡幻觉",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你干吗穿着那身蠢死人的人皮外套？",
+      "en": "Why are you wearing that stupid man suit?",
+      "character": "弗兰克 / Frank",
+      "note": "弗兰克质问唐纳的通行名句；中文取常见译法。"
+    },
+    {
+      "text": "世上每个生灵，最后都孤独地死去。",
+      "en": "Every living creature on this earth dies alone.",
+      "character": "Roberta Sparrow",
+      "note": "斯帕罗奶奶的信里的话，全片题眼；IMDb quotes 可查。"
+    },
+    {
+      "text": "我希望世界终结的时候，我能松一口气——因为还有那么多值得期待。",
+      "en": "I hope that when the world comes to an end, I can breathe a sigh of relief, because there will be so much to look forward to.",
+      "character": "Donnie Darko",
+      "note": "唐尼日记里的黑色独白；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "star-wars-force-with-you",
+  "film_title": "星球大战",
+  "count": 3,
+  "lines": [
+    {
+      "text": "愿原力与你同在。",
+      "en": "May the Force be with you.",
+      "character": "众角色 / 题旨祝福",
+      "note": "原力世界观的通行祝福语：星球大战（本库取「星球大战」，非「新希望」长标题）把它变成跨代问候。通行定译；与帝国反击战「我是你的父亲」不撞 id。"
+    },
+    {
+      "text": "你要找的机器人不是这几个。",
+      "en": "These aren't the droids you're looking for.",
+      "character": "Obi-Wan Kenobi",
+      "note": "绝地心灵控制的招牌名句；IMDb quotes 可查。"
+    },
+    {
+      "text": "我感到原力起了一阵巨大的扰动，仿佛千百万个声音同时惊呼，又骤然沉寂。",
+      "en": "I felt a great disturbance in the Force, as if millions of voices suddenly cried out in terror and were suddenly silenced.",
+      "character": "Obi-Wan Kenobi",
+      "note": "奥德朗被毁时的感应独白；IMDb quotes 可查。"
+    }
+  ]
+}

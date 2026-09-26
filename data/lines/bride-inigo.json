@@ -1,0 +1,31 @@
+{
+  "id": "bride-inigo",
+  "film_title": "公主新娘",
+  "count": 4,
+  "lines": [
+    {
+      "text": "你好。我叫伊尼戈·蒙托亚。你杀了我父亲。准备受死吧。",
+      "en": "Hello. My name is Inigo Montoya. You killed my father. Prepare to die.",
+      "character": "伊尼戈·蒙托亚 / Inigo Montoya",
+      "note": "伊尼戈对六指伯爵反复说出的对白；AFI／Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "你一直在用那个词——我不认为它是什么意思你就是什么意思。",
+      "en": "You keep using that word. I do not think it means what you think it means.",
+      "character": "Inigo Montoya",
+      "note": "伊尼戈怼「不可思议」的名句；IMDb quotes 可查。"
+    },
+    {
+      "text": "如你所愿。",
+      "en": "As you wish.",
+      "character": "Westley",
+      "note": "农场boy的暗语情话；IMDb quotes 可查。"
+    },
+    {
+      "text": "不可思议！",
+      "en": "Inconceivable!",
+      "character": "Vizzini",
+      "note": "维兹尼的口头禅；IMDb quotes 可查。"
+    }
+  ]
+}

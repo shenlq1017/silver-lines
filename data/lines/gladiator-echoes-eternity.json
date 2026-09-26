@@ -1,0 +1,37 @@
+{
+  "id": "gladiator-echoes-eternity",
+  "film_title": "角斗士",
+  "count": 5,
+  "lines": [
+    {
+      "text": "我们今生所做的一切，都会在永恒中回响。",
+      "en": "What we do in life echoes in eternity.",
+      "character": "Maximus / Proximo",
+      "note": "角斗场内外反复回荡的荣光句：角斗士把它做成马克斯穆的伦理底噪。通行定译；与「你们难道不觉得精彩吗」同级，本批取史诗句。"
+    },
+    {
+      "text": "我叫马克西姆斯·德西姆斯·梅里迪乌斯，北方军团的统帅……被杀害之子的父亲，被杀害之妻的丈夫。我必将复仇——今生，或来世。",
+      "en": "My name is Maximus Decimus Meridius, commander of the Armies of the North... Father to a murdered son, husband to a murdered wife. And I will have my vengeance, in this life or the next.",
+      "character": "Maximus",
+      "note": "斗兽场摘盔自报家门的复仇宣言（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "曾有过一个罗马之梦。只能低声说它——越是大声讲，它就越溜走。",
+      "en": "There was a dream that was Rome. You could only whisper it. The more you talked about it, the more it slipped away.",
+      "character": "Marcus Aurelius",
+      "note": "夜里对马克西姆斯的托付；IMDb quotes 可查。"
+    },
+    {
+      "text": "我们凡人不过是尘与影。尘与影，马克西姆斯！",
+      "en": "We mortals are but shadows and dust. Shadows and dust, Maximus!",
+      "character": "Proximo",
+      "note": "老角斗士经纪人的口头禅；IMDb quotes 可查。"
+    },
+    {
+      "text": "我难道不够仁慈？",
+      "en": "Am I not merciful?",
+      "character": "Commodus",
+      "note": "对姐姐露西亚的扭曲逼问，反复出现；IMDb quotes 可查。"
+    }
+  ]
+}

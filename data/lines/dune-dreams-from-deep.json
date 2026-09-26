@@ -1,0 +1,25 @@
+{
+  "id": "dune-dreams-from-deep",
+  "film_title": "沙丘",
+  "count": 3,
+  "lines": [
+    {
+      "text": "梦，是从深处传来的讯息。",
+      "en": "Dreams are messages from the deep.",
+      "character": "开场旁白 / Opening",
+      "note": "2021 版开场旁白通行译法；维伦纽瓦以梦境锚定保罗的先知线。"
+    },
+    {
+      "text": "我绝不能恐惧。恐惧是思维的杀手，是带来彻底毁灭的小小死亡。",
+      "en": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration.",
+      "character": "Paul Atreides",
+      "note": "恐惧祷词（贝尼·杰瑟里特《立则》）；IMDb/Wikiquote 可查。"
+    },
+    {
+      "text": "能摧毁一样东西的人，就能控制它。",
+      "en": "He who can destroy a thing, controls a thing.",
+      "character": "Paul Atreides",
+      "note": "劫水前保罗的点题；IMDb quotes 可查。"
+    }
+  ]
+}

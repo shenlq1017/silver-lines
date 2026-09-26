@@ -1,0 +1,37 @@
+{
+  "id": "departed-product-of-environment",
+  "film_title": "无间道风云",
+  "count": 5,
+  "lines": [
+    {
+      "text": "我不想成为环境的产物——我要让环境成为我的产物。",
+      "en": "I don't want to be a product of my environment. I want my environment to be a product of me.",
+      "character": "Frank Costello",
+      "note": "Costello 开场旁白：无间道风云把环境决定论翻了个面。通行意译。"
+    },
+    {
+      "text": "我年轻时，人们说我们可以当警察或当罪犯。今天我要告诉你的是：当你面对一把上膛的枪，这两者有什么区别？",
+      "en": "When I was your age, they would say we can become cops or criminals... Today, what I'm saying to you is this: when you're facing a loaded gun, what's the difference?",
+      "character": "Frank Costello",
+      "note": "开场对少年科斯特罗的训话（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "没人会给你，你得自己去拿。",
+      "en": "No one gives it to you. You have to take it.",
+      "character": "Frank Costello",
+      "note": "同段训话的收束；IMDb quotes 可查。"
+    },
+    {
+      "text": "也许有。也许没有。也许你该去问问你自己。",
+      "en": "Maybe. Maybe not. Maybe go fuck yourself.",
+      "character": "Sgt. Dignam",
+      "note": "迪格纳姆的招牌嘴炮（原文含粗口）；IMDb quotes 可查。"
+    },
+    {
+      "text": "我就是爱尔兰人。这辈子有点不对劲，我也能扛。",
+      "en": "I'm fucking Irish. I'll deal with something being wrong for the rest of my life.",
+      "character": "Billy Costigan",
+      "note": "科斯蒂根的黑色自嘲（原文含粗口）；IMDb quotes 可查。"
+    }
+  ]
+}

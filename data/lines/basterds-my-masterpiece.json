@@ -1,0 +1,25 @@
+{
+  "id": "basterds-my-masterpiece",
+  "film_title": "无耻混蛋",
+  "count": 3,
+  "lines": [
+    {
+      "text": "尤蒂维奇，我觉得这大概是我的杰作。",
+      "en": "You know somethin', Utivich? I think this just might be my masterpiece.",
+      "character": "Lt. Aldo Raine",
+      "note": "前额纳粹徽成了作者签名：无耻混蛋用阿尔多一句自鸣得意，把暴力美学收成反讽谢幕。通行定译。"
+    },
+    {
+      "text": "哦哦——宾果！",
+      "en": "Oooh, that's a bingo!",
+      "character": "Col. Hans Landa",
+      "note": "兰达确认协议的名场面；IMDb quotes 可查。"
+    },
+    {
+      "text": "我们不做俘虏生意——我们做的是杀纳粹的买卖。",
+      "en": "We ain't in the prisoner-takin' business. We in the killin' Nazi business.",
+      "character": "Lt. Aldo Raine",
+      "note": "奥尔多的「八人宣誓」段落（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "exorcist-the-power-of-christ",
+  "film_title": "驱魔人",
+  "count": 2,
+  "lines": [
+    {
+      "text": "基督的力量命令你——滚开！",
+      "en": "The power of Christ compels you!",
+      "character": "Father Merrin",
+      "note": "驱魔仪式的反复呼喊：驱魔人把信仰做成对抗的节奏。通行定译。"
+    },
+    {
+      "text": "我不是蕾根。",
+      "en": "I'm not Regan.",
+      "character": "附身者（借蕾根之口）",
+      "note": "被附身的蕾根对卡拉斯神父的宣告；IMDb quotes 可查。"
+    }
+  ]
+}

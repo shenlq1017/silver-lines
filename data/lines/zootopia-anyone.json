@@ -1,0 +1,31 @@
+{
+  "id": "zootopia-anyone",
+  "film_title": "疯狂动物城",
+  "count": 4,
+  "lines": [
+    {
+      "text": "在动物城，任何人都可以成为想成为的人。",
+      "en": "In Zootopia, anyone can be anything.",
+      "character": "Judy Hopps",
+      "note": "童趣外壳下的城市寓言开场白。"
+    },
+    {
+      "text": "永远别让他们看到——他们伤到了你。",
+      "en": "Never let them see that they get to you.",
+      "character": "Nick Wilde",
+      "note": "尼克教朱迪的生存术；IMDb quotes 可查。"
+    },
+    {
+      "text": "你知道你爱我。",
+      "en": "You know you love me.",
+      "character": "Judy Hopps",
+      "note": "结尾朱迪的调侃；IMDb quotes 可查。"
+    },
+    {
+      "text": "知道吗？——知道。",
+      "en": "Do I know that? Yes. Yes, I do.",
+      "character": "Nick Wilde",
+      "note": "同场尼克的回答；IMDb quotes 可查。"
+    }
+  ]
+}

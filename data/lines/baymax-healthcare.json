@@ -1,0 +1,25 @@
+{
+  "id": "baymax-healthcare",
+  "film_title": "超能陆战队",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我是大白，你的个人健康顾问。",
+      "en": "I am Baymax, your personal healthcare companion.",
+      "character": "Baymax",
+      "note": "充气医疗机器人的标准自我介绍：一句设定台词，抱成整代观众的情绪支持系统。"
+    },
+    {
+      "text": "在你对护理服务表示满意之前，我无法进入待机状态。",
+      "en": "I cannot deactivate until you say you are satisfied with your care.",
+      "character": "Baymax",
+      "note": "大白的规则，全片泪点伏笔；IMDb quotes 可查。"
+    },
+    {
+      "text": "阿正还在。",
+      "en": "Tadashi is here.",
+      "character": "Baymax（大白）",
+      "note": "小宏让大白「复活」哥哥的话；IMDb quotes 可查。"
+    }
+  ]
+}

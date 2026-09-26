@@ -1,0 +1,19 @@
+{
+  "id": "ratatouille-anyone-can-cook",
+  "film_title": "美食总动员",
+  "count": 2,
+  "lines": [
+    {
+      "text": "不是每个人都能成为伟大的艺术家，但伟大的艺术家可以来自任何地方。",
+      "en": "Not everyone can become a great artist, but a great artist can come from anywhere.",
+      "character": "Anton Ego",
+      "note": "结尾评论把天赋从精英手中归还给所有愿意创作的人。通行定译。"
+    },
+    {
+      "text": "我们评论家必须面对的苦涩真相是：一件平庸的破烂，可能都比我们给它贴上的批评更有意义。",
+      "en": "The bitter truth we critics must face is that... the average piece of junk is probably more meaningful than our criticism designating it so.",
+      "character": "Anton Ego",
+      "note": "伊戈的终评（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

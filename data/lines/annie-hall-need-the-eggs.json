@@ -1,0 +1,25 @@
+{
+  "id": "annie-hall-need-the-eggs",
+  "film_title": "安妮·霍尔",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我们需要那些蛋。",
+      "en": "I guess we need the eggs.",
+      "character": "艾尔维 / Alvy Singer",
+      "note": "通行译法：片尾关于“弟弟以为自己是鸡、我需要蛋”笑话的收束句；完整段落说明关系非理性但人仍需要。"
+    },
+    {
+      "text": "感情就像鲨鱼——必须不停地向前游，不然就死。",
+      "en": "A relationship, I think, is like a shark. It has to constantly move forward or it dies.",
+      "character": "Alvy Singer",
+      "note": "阿尔维的感情观；IMDb quotes 可查。"
+    },
+    {
+      "text": "啦嘀嗒，啦嘀嗒。",
+      "en": "La-dee-da, la-dee-da.",
+      "character": "Annie Hall",
+      "note": "安妮的标志性哼唱式口头禅；IMDb quotes 可查。"
+    }
+  ]
+}

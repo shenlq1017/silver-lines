@@ -1,0 +1,25 @@
+{
+  "id": "cove-if-you-knew",
+  "film_title": "海豚湾",
+  "count": 3,
+  "lines": [
+    {
+      "text": "如果你知道他们在做什么，你还会保持沉默吗？",
+      "en": "If you knew what they were doing, would you still stay silent?",
+      "character": "题旨 / 纪录片控诉",
+      "note": "对齐影片环保控诉主旨的中文策展概括句；纪录片少金句对白，标题旨。"
+    },
+    {
+      "text": "我用了十年建成海豚产业，又用了三十五年想把它拆掉。",
+      "en": "I spent ten years building the dolphin industry, and the past thirty-five trying to tear it down.",
+      "character": "Richard O'Barry",
+      "note": "奥巴里自述；影片访谈常被引用。"
+    },
+    {
+      "text": "海豚的微笑，是自然界最大的错觉。",
+      "en": "The dolphin's smile is nature's greatest illusion.",
+      "character": "Richard O'Barry",
+      "note": "解释海豚「微笑」并非情绪表达的核心论点；影评常引。"
+    }
+  ]
+}

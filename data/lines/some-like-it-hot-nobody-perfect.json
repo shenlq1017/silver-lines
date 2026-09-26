@@ -1,0 +1,25 @@
+{
+  "id": "some-like-it-hot-nobody-perfect",
+  "film_title": "热情如火",
+  "count": 3,
+  "lines": [
+    {
+      "text": "没有人是完美的。",
+      "en": "Well, nobody's perfect.",
+      "character": "Osgood Fielding III",
+      "note": "游艇上的终极回应：热情如火用一句甩开性别惊吓，收成影史最宽容的笑点。通行定译。"
+    },
+    {
+      "text": "我不能生孩子。",
+      "en": "I can't have children.",
+      "character": "Sugar Kane",
+      "note": "结尾摊牌的上半句；IMDb quotes 可查。"
+    },
+    {
+      "text": "我们可以领养。",
+      "en": "We'll adopt some.",
+      "character": "Osgood Fielding III",
+      "note": "同场下半句，接「没有人是完美的」；IMDb quotes 可查。"
+    }
+  ]
+}

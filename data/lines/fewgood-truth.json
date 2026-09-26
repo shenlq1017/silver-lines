@@ -1,0 +1,25 @@
+{
+  "id": "fewgood-truth",
+  "film_title": "好人寥寥",
+  "count": 3,
+  "lines": [
+    {
+      "text": "你承受不了真相！",
+      "en": "You can't handle the truth!",
+      "character": "纳森·杰塞普上校 / Col. Nathan R. Jessup",
+      "note": "杰塞普在军事法庭对卡菲中尉爆发的对白；AFI 百大电影台词第29；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "你需要我在那道墙上。",
+      "en": "You want me on that wall. You need me on that wall.",
+      "character": "Col. Jessup",
+      "note": "杰塞普上校的咆哮（接「你承受不了真相」）；IMDb quotes 可查。"
+    },
+    {
+      "text": "我在距离四千个受训要杀我的古巴人三百码的地方吃早餐。",
+      "en": "I eat breakfast 300 yards from 4000 Cubans who are trained to kill me.",
+      "character": "Lt. Kaffee",
+      "note": "卡菲的战地日常；IMDb quotes 可查。"
+    }
+  ]
+}

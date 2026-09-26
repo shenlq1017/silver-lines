@@ -1,0 +1,23 @@
+{
+  "id": "laputa-roots",
+  "film_title": "天空之城",
+  "count": 3,
+  "lines": [
+    {
+      "text": "军备不起，则根深叶茂。",
+      "en": "Arms grow weak, while roots grow deep.",
+      "character": "拉普达碑铭／希达传承",
+      "note": "天空之城核心箴言（碑文意译流传定稿），以根对抗武力。"
+    },
+    {
+      "text": "人不能离开土地生活。",
+      "character": "希达",
+      "note": "希达与穆斯卡对峙时诵出的拉普达箴言；通行字幕译法。"
+    },
+    {
+      "text": "别偷偷摸摸的——海盗就该堂堂正正地偷！",
+      "character": "朵拉船长",
+      "note": "朵拉奶奶的海盗哲学；通行字幕译法。"
+    }
+  ]
+}

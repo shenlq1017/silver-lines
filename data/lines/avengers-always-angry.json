@@ -1,0 +1,37 @@
+{
+  "id": "avengers-always-angry",
+  "film_title": "复仇者联盟",
+  "count": 5,
+  "lines": [
+    {
+      "text": "这就是我的秘密，队长。我一直都很愤怒。",
+      "en": "That's my secret, Captain. I'm always angry.",
+      "character": "布鲁斯·班纳 / Bruce Banner",
+      "note": "纽约决战变身前对美国队长的通行名句；中文取 MCU 常见译法。"
+    },
+    {
+      "text": "我是阿斯加德的洛基，我肩负着光荣的使命。",
+      "en": "I am Loki, of Asgard, and I am burdened with glorious purpose.",
+      "character": "Loki",
+      "note": "斯图加特开场自报家门；IMDb quotes 可查。"
+    },
+    {
+      "text": "天才，亿万富翁，花花公子，慈善家。",
+      "en": "Genius, billionaire, playboy, philanthropist.",
+      "character": "Tony Stark",
+      "note": "回应美队「脱了盔甲你还算什么」的名对答；IMDb quotes 可查。"
+    },
+    {
+      "text": "我有大军。",
+      "en": "I have an army.",
+      "character": "Loki",
+      "note": "与斯塔克对峙一问一答的上半句；IMDb quotes 可查。"
+    },
+    {
+      "text": "我们有浩克。",
+      "en": "We have a Hulk.",
+      "character": "Tony Stark",
+      "note": "同上对答下半句，全片最著名梗；IMDb quotes 可查。"
+    }
+  ]
+}

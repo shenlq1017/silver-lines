@@ -1,0 +1,25 @@
+{
+  "id": "rambo-firstblood",
+  "film_title": "第一滴血",
+  "count": 3,
+  "lines": [
+    {
+      "text": "是他们先见了血，不是我。",
+      "en": "They drew first blood, not me.",
+      "character": "约翰·兰博 / John Rambo",
+      "note": "兰博对特劳特上校说出的对白（片名点题）；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "我可以杀光他们，也可以杀掉你。在镇上你代表法律——出了镇子，是我说了算。",
+      "en": "I could have killed 'em all. I could've killed you. In town you're the law, out here it's me.",
+      "character": "John Rambo",
+      "note": "兰博的控诉独白（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "没有结束！什么都没有结束！你们说放就放得下——我们放不下！",
+      "en": "Nothing is over! Nothing! You just don't turn it off!",
+      "character": "John Rambo",
+      "note": "兰博崩溃独白的爆发点（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

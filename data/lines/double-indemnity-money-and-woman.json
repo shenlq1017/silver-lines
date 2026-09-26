@@ -1,0 +1,25 @@
+{
+  "id": "double-indemnity-money-and-woman",
+  "film_title": "双重赔偿",
+  "count": 3,
+  "lines": [
+    {
+      "text": "是的，我杀了他。我为了钱——也为了一个女人——杀了他。结果呢？钱没拿到，女人也没到手。真够惨的，对吧？",
+      "en": "Yes, I killed him. I killed him for money—and a woman—and I didn't get the money and I didn't get the woman. Pretty, isn't it?",
+      "character": "Walter Neff",
+      "note": "Neff 对着录音机的开场自白：双重赔偿把黑色电影的失败写进第一句。通行意译。"
+    },
+    {
+      "text": "我也爱你，沃尔特。",
+      "en": "I love you, too.",
+      "character": "Barton Keyes",
+      "note": "凯斯在死牢前的回应，全片收束；IMDb quotes 可查。"
+    },
+    {
+      "text": "一路直行。",
+      "en": "Straight down the line.",
+      "character": "Walter Neff",
+      "note": "两人的共谋暗语；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "farewell-concubine",
+  "film_title": "霸王别姬",
+  "count": 4,
+  "lines": [
+    {
+      "text": "不疯魔，不成活。",
+      "en": "Without obsession, there is no art.",
+      "character": "段小楼",
+      "note": "戏比天大，一句疯魔道尽半生。"
+    },
+    {
+      "text": "说的是一辈子！差一年，一个月，一天，一个时辰，都不算一辈子！",
+      "character": "程蝶衣",
+      "note": "得知小楼定亲后，蝶衣在后台的质问。"
+    },
+    {
+      "text": "我本是男儿郎，又不是女娇娥。",
+      "character": "程蝶衣",
+      "note": "《思凡》错口，贯穿学戏之苦与终场之悟。"
+    },
+    {
+      "text": "人，得自个儿成全自个儿。",
+      "character": "关师傅",
+      "note": "师傅训戏之语，通行影评常引。"
+    }
+  ]
+}

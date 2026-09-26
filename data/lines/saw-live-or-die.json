@@ -1,0 +1,31 @@
+{
+  "id": "saw-live-or-die",
+  "film_title": "电锯惊魂",
+  "count": 4,
+  "lines": [
+    {
+      "text": "活下去，还是死去。做出你的选择。",
+      "en": "Live or die. Make your choice.",
+      "character": "Jigsaw",
+      "note": "拼图杀人魔的游戏规则浓缩句：电锯惊魂把道德测试做成倒计时装置。"
+    },
+    {
+      "text": "我想玩个游戏。",
+      "en": "I want to play a game.",
+      "character": "Jigsaw",
+      "note": "竖锯的标志性开场；IMDb quotes 可查。"
+    },
+    {
+      "text": "大多数人对活着毫无感激——但你不会了。从今往后不会了。",
+      "en": "Most people are so ungrateful to be alive. But not you. Not anymore.",
+      "character": "Jigsaw",
+      "note": "竖锯的哲学；IMDb quotes 可查。"
+    },
+    {
+      "text": "游戏结束。",
+      "en": "Game over.",
+      "character": "Jigsaw",
+      "note": "关灯离场的收束；IMDb quotes 可查。"
+    }
+  ]
+}

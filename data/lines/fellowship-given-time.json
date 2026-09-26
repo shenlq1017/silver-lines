@@ -1,0 +1,43 @@
+{
+  "id": "fellowship-given-time",
+  "film_title": "指环王1：护戒使者",
+  "count": 6,
+  "lines": [
+    {
+      "text": "我们所能决定的，只有如何利用被给予的时间。",
+      "en": "All we have to decide is what to do with the time that is given us.",
+      "character": "Gandalf",
+      "note": "甘道夫对佛罗多的慰藉，魔戒首部的人生哲学压舱石。"
+    },
+    {
+      "text": "你不能通过！",
+      "en": "You shall not pass!",
+      "character": "Gandalf",
+      "note": "卡扎督姆桥上的名场面；IMDb quotes 可查。"
+    },
+    {
+      "text": "我会陪你去到最后——一直走进魔多的火焰深处。",
+      "en": "I would have gone with you to the end, into the very fires of Mordor.",
+      "character": "Aragorn",
+      "note": "对博罗米尔的承诺；IMDb quotes 可查。"
+    },
+    {
+      "text": "我许过诺，佛罗多先生：「不许丢下他，山姆怀斯·詹吉。」我打算遵守。",
+      "en": "I made a promise, Mr Frodo. A promise. 'Don't you leave him, Samwise Gamgee.' And I don't mean to.",
+      "character": "Samwise Gamgee",
+      "note": "山姆趟水追赶的名场面；IMDb quotes 可查。"
+    },
+    {
+      "text": "没有人能就这么走进魔多。",
+      "en": "One does not simply walk into Mordor.",
+      "character": "Boromir",
+      "note": "波瑞吉尔的著名陈词；IMDb quotes 可查。"
+    },
+    {
+      "text": "魔戒的主人只有一个——而且他不会分享权力。",
+      "en": "There is only one Lord of the Ring. Only one who can bend it to his will. And he does not share power.",
+      "character": "Gandalf",
+      "note": "爱隆会议上甘道夫的警告（原挂在《双塔奇兵》，核证后归位）。"
+    }
+  ]
+}

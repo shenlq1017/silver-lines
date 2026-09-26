@@ -1,0 +1,23 @@
+{
+  "id": "mood-dusty-glass",
+  "film_title": "花样年华",
+  "count": 3,
+  "lines": [
+    {
+      "text": "那些消逝了的岁月，仿佛隔着一块积着灰尘的玻璃，看得到，抓不着。",
+      "en": "The vanished years are like looking through dusty glass—you can see them, but you can't catch them.",
+      "character": "旁白 / 周慕云",
+      "note": "片末旁白把整个六十年代的错过收成一块脏玻璃：看见，却永不可触及。"
+    },
+    {
+      "text": "如果我多一张船票——你会不会跟我一起走？",
+      "character": "周慕云",
+      "note": "吴哥窟前未出口的话，全片题眼；通行引述可查。"
+    },
+    {
+      "text": "我们不会跟他们一样的。",
+      "character": "苏丽珍",
+      "note": "两人约定守住底线；通行引述可查。"
+    }
+  ]
+}

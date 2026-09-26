@@ -1,0 +1,31 @@
+{
+  "id": "streetcar-strangers",
+  "film_title": "欲望号街车",
+  "count": 4,
+  "lines": [
+    {
+      "text": "不管你是谁——我一向仰赖陌生人的善意。",
+      "en": "Whoever you are—I have always depended on the kindness of strangers.",
+      "character": "布兰奇·杜波依斯 / Blanche DuBois",
+      "note": "布兰奇被送走前对医生说出的对白（田纳西·威廉斯原剧句入片）；AFI 百大电影台词第75；Wikiquote／IMDb quotes／片中字幕可核。"
+    },
+    {
+      "text": "斯特拉——！",
+      "en": "STELLA!",
+      "character": "Stanley Kowalski",
+      "note": "雨夜楼梯间的著名呐喊；IMDb quotes 可查。"
+    },
+    {
+      "text": "我不要什么真实，我要的是魔法！",
+      "en": "I don't want realism. I want magic!",
+      "character": "Blanche DuBois",
+      "note": "对米奇的自白；IMDb quotes 可查。"
+    },
+    {
+      "text": "有些事是不可原谅的——故意的残忍，不可原谅。",
+      "en": "But some things are not forgivable. Deliberate cruelty is not forgivable.",
+      "character": "Blanche DuBois",
+      "note": "生日夜谈中的判决；IMDb quotes 可查。"
+    }
+  ]
+}

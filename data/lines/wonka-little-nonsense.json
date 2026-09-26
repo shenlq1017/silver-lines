@@ -1,0 +1,31 @@
+{
+  "id": "wonka-little-nonsense",
+  "film_title": "查理和巧克力工厂",
+  "count": 4,
+  "lines": [
+    {
+      "text": "偶尔一点荒唐，连最聪明的人也津津有味。",
+      "en": "A little nonsense now and then is relished by the wisest men.",
+      "character": "威利·旺卡 / Willy Wonka",
+      "note": "旺卡箴言式对白（伯顿版亦保留）；中文取通行译法。"
+    },
+    {
+      "text": "别忘了那个突然得到自己想要的一切的人的下场——他从此幸福地生活下去了。",
+      "en": "Don't forget what happened to the man who suddenly got everything he always wanted... He lived happily ever after.",
+      "character": "Willy Wonka",
+      "note": "旺卡对查理的机锋；IMDb quotes 可查。"
+    },
+    {
+      "text": "拿全世界所有的巧克力来换，我也不换我的家人。",
+      "en": "I wouldn't give up my family for anything. Not for all the chocolate in the world.",
+      "character": "Charlie Bucket",
+      "note": "查理的选择；IMDb quotes 可查。"
+    },
+    {
+      "text": "糖果不需要什么意义——这正是它成为糖果的原因。",
+      "en": "Candy doesn't need a point. That's why it's candy.",
+      "character": "Willy Wonka",
+      "note": "旺卡的糖果哲学；IMDb quotes 可查。"
+    }
+  ]
+}

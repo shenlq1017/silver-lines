@@ -1,0 +1,25 @@
+{
+  "id": "imitation-no-one-imagines",
+  "film_title": "模仿游戏",
+  "count": 3,
+  "lines": [
+    {
+      "text": "有时候，正是那些谁也不看好的人，做成了谁也无法想象的事。",
+      "en": "Sometimes it is the people no one imagines anything of who do the things that no one can imagine.",
+      "character": "Alan Turing / Christopher（题赠）",
+      "note": "图灵弧光的核芯句：被排斥者改写战争；也是片中反复回响的自我辩词。"
+    },
+    {
+      "text": "机器和人不一样，所以想得也不一样。可只因为某样东西跟你想得不一样，就能断定它不在思考吗？",
+      "en": "Just because something thinks differently from you, does that mean it's not thinking?",
+      "character": "Alan Turing",
+      "note": "审讯室反问，图灵测试的点题段（节选）；IMDb quotes 可查。"
+    },
+    {
+      "text": "你知道人为什么喜欢暴力吗？因为它感觉良好。",
+      "en": "Do you know why people like violence? It is because it feels good.",
+      "character": "Alan Turing",
+      "note": "同场审讯的黑色反问；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ocean-keyboard",
+  "film_title": "海上钢琴师",
+  "count": 2,
+  "lines": [
+    {
+      "text": "键盘有始有终，你却永远无法预知船外的世界有多大。",
+      "en": "The keyboard has a beginning and an end. You never know what's out there beyond the boat.",
+      "character": "1900",
+      "note": "拒绝上岸的传奇，一句道尽边界与自由。"
+    },
+    {
+      "text": "陆地对我来说，是一艘太大的船。",
+      "en": "La terra è una nave troppo grande per me.",
+      "character": "1900",
+      "note": "1900 解释不下船的名段；IMDb quotes 可查。"
+    }
+  ]
+}

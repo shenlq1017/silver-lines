@@ -1,0 +1,37 @@
+{
+  "id": "forrest-chocolate",
+  "film_title": "阿甘正传",
+  "count": 5,
+  "lines": [
+    {
+      "text": "生活就像一盒巧克力，你永远不知道下一颗是什么味道。",
+      "en": "Life is like a box of chocolates. You never know what you're gonna get.",
+      "character": "Forrest Gump",
+      "note": "妈妈的比喻，成了人生入门课。"
+    },
+    {
+      "text": "做傻事的才是傻子。",
+      "en": "Stupid is as stupid does.",
+      "character": "Forrest Gump",
+      "note": "福雷斯特的口头禅；IMDb quotes 可查。"
+    },
+    {
+      "text": "跑，福雷斯特，快跑！",
+      "en": "Run, Forrest, run!",
+      "character": "Jenny Curran",
+      "note": "童年逃亡与越南战场两次出现的呼喊；IMDb quotes 可查。"
+    },
+    {
+      "text": "我不聪明，但我知道什么是爱。",
+      "en": "I'm not a smart man, but I know what love is.",
+      "character": "Forrest Gump",
+      "note": "对珍妮的告白；IMDb quotes 可查。"
+    },
+    {
+      "text": "死亡只是生命的一部分。",
+      "en": "Death is just a part of life.",
+      "character": "Mrs. Gump",
+      "note": "母亲的临终教导；IMDb quotes 可查。"
+    }
+  ]
+}

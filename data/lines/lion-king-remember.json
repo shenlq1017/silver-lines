@@ -1,0 +1,31 @@
+{
+  "id": "lion-king-remember",
+  "film_title": "狮子王",
+  "count": 4,
+  "lines": [
+    {
+      "text": "记住你是谁。",
+      "en": "Remember who you are.",
+      "character": "Mufasa",
+      "note": "木法沙云中低语，狮子王最干净的传世句。"
+    },
+    {
+      "text": "国王的统治，像太阳一样有升有落。",
+      "en": "A king's time as ruler rises and falls like the sun.",
+      "character": "Mufasa",
+      "note": "木法沙的教诲；IMDb quotes 可查。"
+    },
+    {
+      "text": "哈库纳玛塔塔！",
+      "en": "Hakuna Matata!",
+      "character": "Timon and Pumbaa",
+      "note": "丁满彭彭的人生口号；IMDb quotes 可查。"
+    },
+    {
+      "text": "看看你的内心，辛巴——你比现在的你更伟大。",
+      "en": "Look inside yourself, Simba. You are more than what you have become.",
+      "character": "Mufasa",
+      "note": "云中木法沙的点醒；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "avatar-i-see-you",
+  "film_title": "阿凡达",
+  "count": 2,
+  "lines": [
+    {
+      "text": "我看见你了。",
+      "en": "I see you.",
+      "character": "Neytiri / Jake",
+      "note": "纳美礼敬语，阿凡达的情感协议：看见，而非征服。"
+    },
+    {
+      "text": "你不在堪萨斯了——你到了潘多拉。",
+      "en": "You're not in Kansas anymore. You are on Pandora.",
+      "character": "Col. Quaritch",
+      "note": "夸里奇的登场演说；IMDb quotes 可查。"
+    }
+  ]
+}

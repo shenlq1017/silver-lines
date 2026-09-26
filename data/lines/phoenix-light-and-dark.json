@@ -1,0 +1,25 @@
+{
+  "id": "phoenix-light-and-dark",
+  "film_title": "哈利·波特与凤凰社",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我们每个人心里都有光明与黑暗。要紧的是你选择按哪一边行事。",
+      "en": "We've all got both light and dark inside us. What matters is the part we choose to act on.",
+      "character": "Sirius Black",
+      "note": "小天狼星对哈利的家训：凤凰社把「血统」争论翻成选择伦理。与已刊 HP（魔法石/密室/阿兹卡班/火焰杯/死圣上/死圣下）不撞 id。通行定译。"
+    },
+    {
+      "text": "你和我一样清醒。",
+      "en": "You're just as sane as I am.",
+      "character": "Luna Lovegood",
+      "note": "卢娜车厢初见哈利的招牌台词；IMDb quotes 可查。"
+    },
+    {
+      "text": "世界并不是分成好人和食死徒两半。",
+      "en": "The world isn't split into good people and Death Eaters.",
+      "character": "Sirius Black",
+      "note": "小天狼星对哈利的世界观点破；IMDb quotes 可查。"
+    }
+  ]
+}

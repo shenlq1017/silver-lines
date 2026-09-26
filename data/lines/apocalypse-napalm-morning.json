@@ -1,0 +1,31 @@
+{
+  "id": "apocalypse-napalm-morning",
+  "film_title": "现代启示录",
+  "count": 4,
+  "lines": [
+    {
+      "text": "我喜欢硝烟在早晨的味道。",
+      "en": "I love the smell of napalm in the morning.",
+      "character": "Lt. Col. Bill Kilgore",
+      "note": "基尔戈冲浪旁的战争恋物宣言：现代启示录把暴行说成香水广告。通行定译。"
+    },
+    {
+      "text": "查理不冲浪！",
+      "en": "Charlie don't surf!",
+      "character": "Lt. Col. Kilgore",
+      "note": "基尔戈的冲浪哲学；IMDb quotes 可查。"
+    },
+    {
+      "text": "恐怖。恐怖啊。",
+      "en": "The horror. The horror.",
+      "character": "Col. Kurtz",
+      "note": "库尔茨的临终低语，引自《黑暗之心》；IMDb quotes 可查。"
+    },
+    {
+      "text": "西贡……我还在西贡。",
+      "en": "Saigon... I'm still only in Saigon.",
+      "character": "Capt. Willard",
+      "note": "开场独白（节选）；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dobby-happy-with-friend",
+  "film_title": "哈利·波特与死亡圣器(上)",
+  "count": 2,
+  "lines": [
+    {
+      "text": "有朋友在的地方，就是好地方。多比很高兴能和朋友在一起……哈利·波特。",
+      "en": "Such a beautiful place, to be with friends. Dobby is happy to be with his friend, Harry Potter.",
+      "character": "Dobby",
+      "note": "多比临终把海滩变成家：死亡圣器(上)用家养小精灵的自由句，把系列友情推到最疼。与已刊魔法石/密室/阿兹卡班/火焰杯/死圣(下)不撞 id。"
+    },
+    {
+      "text": "这里长眠着多比——一个自由的小精灵。",
+      "en": "Here lies Dobby, a free elf.",
+      "character": "Harry Potter",
+      "note": "哈利为多比手刻的墓志铭；IMDb quotes 可查。"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lost-in-translation-for-now",
+  "film_title": "迷失东京",
+  "count": 3,
+  "lines": [
+    {
+      "text": "就这样吧，现在。",
+      "en": "For now.",
+      "character": "鲍勃 / Bob Harris（街边低语）",
+      "note": "街边耳语内容从未官方公布；此处取公众流传的克制收束意译并明确标注：非经核验的逐字字幕，仅为策展占位的温和收束。"
+    },
+    {
+      "text": "你越清楚自己是谁、想要什么，就越不容易被事情搅扰。",
+      "en": "The more you know who you are and what you want, the less you let things upset you.",
+      "character": "Bob Harris",
+      "note": "鲍勃对夏洛特的人生建议；IMDb quotes 可查。"
+    },
+    {
+      "text": "人生最吓人的一天，是第一个孩子出生的那天。",
+      "en": "The most terrifying day of your life is the day the first one is born.",
+      "character": "Bob Harris",
+      "note": "鲍勃谈育儿；IMDb quotes 可查。"
+    }
+  ]
+}

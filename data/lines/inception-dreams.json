@@ -1,0 +1,31 @@
+{
+  "id": "inception-dreams",
+  "film_title": "盗梦空间",
+  "count": 4,
+  "lines": [
+    {
+      "text": "一个想法就像病毒，有韧性，极具传染力。",
+      "en": "An idea is like a virus. Resilient. Highly contagious.",
+      "character": "Cobb",
+      "note": "诺兰命题：念头一旦种下。"
+    },
+    {
+      "text": "亲爱的，做梦不妨做得再大一点。",
+      "en": "You mustn't be afraid to dream a little bigger, darling.",
+      "character": "Eames",
+      "note": "伊姆斯的调侃名句；IMDb quotes 可查。"
+    },
+    {
+      "text": "你要跳下信仰之跃，还是变成一个满怀悔恨、等待孤独死去的老人？",
+      "en": "Do you want to take a leap of faith, or become an old man, filled with regret, waiting to die alone?",
+      "character": "Mal",
+      "note": "柯布记忆中玛尔的诘问；IMDb quotes 可查。"
+    },
+    {
+      "text": "回来吧——我们再一起做年轻人。",
+      "en": "Come back and we'll be young men together again.",
+      "character": "Saito",
+      "note": "斋ito 在意识的边缘向柯布发出的邀请；IMDb quotes 可查。"
+    }
+  ]
+}

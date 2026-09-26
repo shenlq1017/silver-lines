@@ -1,0 +1,37 @@
+{
+  "id": "matrix-no-spoon",
+  "film_title": "黑客帝国",
+  "count": 5,
+  "lines": [
+    {
+      "text": "世上本没有勺子。",
+      "en": "There is no spoon.",
+      "character": "匙孩（Spoon Boy）",
+      "note": "黑客帝国认知翻转的最小完整句，弯匙一语道破矩阵。"
+    },
+    {
+      "text": "我只能给你看门在哪——走过去的，只能是你自己。",
+      "en": "I can only show you the door. You're the one that has to walk through it.",
+      "character": "Morpheus",
+      "note": "墨菲斯的点拨；IMDb quotes 可查。"
+    },
+    {
+      "text": "知道路，和走路，是两回事。",
+      "en": "There's a difference between knowing the path and walking the path.",
+      "character": "Morpheus",
+      "note": "墨菲斯的补充；IMDb quotes 可查。"
+    },
+    {
+      "text": "无知是福。",
+      "en": "Ignorance is bliss.",
+      "character": "Cypher",
+      "note": "赛弗的背叛逻辑；IMDb quotes 可查。"
+    },
+    {
+      "text": "永远别让人类去干机器的活。",
+      "en": "Never send a human to do a machine's job.",
+      "character": "Agent Smith",
+      "note": "史密斯的讽刺；IMDb quotes 可查。"
+    }
+  ]
+}

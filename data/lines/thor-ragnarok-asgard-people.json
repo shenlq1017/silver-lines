@@ -1,0 +1,25 @@
+{
+  "id": "thor-ragnarok-asgard-people",
+  "film_title": "雷神3：诸神黄昏",
+  "count": 3,
+  "lines": [
+    {
+      "text": "阿斯加德不是一个地方，从来都不是。这里也可以是阿斯加德。阿斯加德，就是我们的子民所在之处。",
+      "en": "Asgard is not a place. Never was. This could be Asgard. Asgard is where our people stand.",
+      "character": "奥丁 / Odin",
+      "note": "奥丁临终教诲的通行译法；略取完整三段以便策展，非逐字加戏。"
+    },
+    {
+      "text": "我向你保证，哥哥——太阳会再次照耀我们。",
+      "en": "I assure you, brother... the sun will shine on us again.",
+      "character": "Loki",
+      "note": "洛基的最后一句；IMDb quotes 可查。"
+    },
+    {
+      "text": "把灭霸给我带来！",
+      "en": "Bring me Thanos!",
+      "character": "Thor",
+      "note": "索尔的复仇怒吼；IMDb quotes 可查。"
+    }
+  ]
+}

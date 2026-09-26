@@ -1,0 +1,25 @@
+{
+  "id": "martian-science-the-shit",
+  "film_title": "火星救援",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我得用科学，把这该死的局面搞定。",
+      "en": "I'm going to have to science the shit out of this.",
+      "character": "Mark Watney",
+      "note": "日志体把绝望改写成实验计划：火星救援一句脏话版科学宣言，是整片语气的旗帜。通行字幕略有差，已标。"
+    },
+    {
+      "text": "我这下基本完蛋了。",
+      "en": "I'm pretty much fucked.",
+      "character": "Mark Watney",
+      "note": "日志开场的自陈；IMDb quotes 可查。"
+    },
+    {
+      "text": "解决一个问题，再解决下一个。解决了足够多的问题，你就能回家。",
+      "en": "You solve one problem, and then you solve the next one. And if you solve enough problems, you get to come home.",
+      "character": "Mark Watney",
+      "note": "对滚落大坑后的自勉，全片方法论；IMDb quotes 可查。"
+    }
+  ]
+}
