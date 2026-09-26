@@ -1635,3 +1635,104 @@ body.page-detail--has-lines .site-footer--slim {
   top: calc(100vh - 26px);
   bottom: auto;
 }
+
+/* —— 手机直接访问适配：窄屏下顶栏、正文内边距、静帧详情页缩放 —— */
+@media (max-width: 640px) {
+  .site-header__inner,
+  .site-footer__inner,
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  /* 内容页顶栏：logo 一行、导航换到第二行并可横向滑动，菜单项全部可见 */
+  .site-header__inner {
+    height: auto;
+    min-height: 56px;
+    flex-wrap: wrap;
+    align-items: center;
+    row-gap: 0.2rem;
+    padding-top: 0.55rem;
+    padding-bottom: 0.5rem;
+  }
+  .site-header__inner > nav {
+    order: 2;
+    width: 100%;
+    min-width: 0;
+  }
+  .logo { font-size: 1.18rem; letter-spacing: 0.1em; }
+  .logo span { display: none; }
+  .nav {
+    gap: 1.15rem;
+    justify-content: flex-start;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 0.15rem;
+  }
+  .nav::-webkit-scrollbar { display: none; }
+  .nav a { white-space: nowrap; font-size: 0.86rem; }
+
+  main { padding: 1.5rem 0 2rem; }
+  .hero { padding: 2.5rem 0 1.75rem; }
+  .hero__sub { font-size: 0.95rem; }
+  .hero__actions { gap: 0.7rem; }
+  .stats { margin-top: 2rem; padding: 1.25rem 0.25rem; }
+  .site-footer { margin-top: 3rem; }
+
+  /* 详情页顶栏：同样换行为两行（logo + 导航），菜单项全部可见，避免主题按钮被滚出屏幕 */
+  body.page-detail .site-header {
+    height: auto;
+    min-height: 84px;
+  }
+  body.page-detail .site-header__inner {
+    height: auto;
+    max-width: none;
+    flex-wrap: wrap;
+    padding: 0.5rem 1rem 0.45rem;
+    row-gap: 0.15rem;
+  }
+  body.page-detail .site-header__inner > nav {
+    order: 2;
+    width: 100%;
+    min-width: 0;
+  }
+  body.page-detail .logo { font-size: 1.1rem; }
+  body.page-detail .nav {
+    gap: 0.58rem;
+    justify-content: flex-start;
+    overflow-x: auto;
+    padding-right: 2px;
+  }
+  body.page-detail .nav a { font-size: 0.8rem; }
+  body.page-detail .back-link { padding: 0.3rem 0.7rem; font-size: 0.74rem; }
+
+  /* 详情页静帧：台词块与角落按钮随屏缩放 */
+  .detail-stage__quote-block {
+    left: 6%;
+    right: 6%;
+    width: auto;
+    max-width: none;
+    bottom: 15%;
+    padding: 1rem 1.05rem 1.1rem;
+  }
+  .detail-quote { font-size: 26px; }
+  .detail-quote--short { font-size: 30px; line-height: 1.4; }
+  .detail-quote--long { font-size: 23px; }
+  .detail-quote-en { font-size: 13px; margin-top: 8px; }
+
+  .detail-corner-tools { top: 96px; right: 14px; gap: 8px; }
+  .detail-info-btn,
+  .detail-audio-btn,
+  .detail-fav-btn,
+  .detail-copy-btn,
+  .detail-share-btn { width: 40px; height: 40px; }
+
+  .detail-info-panel {
+    width: calc(100vw - 28px);
+    right: -6px;
+    max-height: 62vh;
+  }
+
+  .bgm-fab { right: 0.85rem; bottom: 0.85rem; }
+}

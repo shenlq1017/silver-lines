@@ -4,6 +4,8 @@
 
 台词是主体，电影只是出处。浅色书卷风摘抄站：全屏静帧叠一句台词、评分徽章为策展快照。无播放器、无盗链；图片均为本地物料（非逐句对白精确截帧）。
 
+> GitHub 仓库：**<https://github.com/shenlq1017/silver-lines>**
+
 ## 本站是什么
 
 刷得越多，记住越少。片语以「一句可核对的银幕对白」为最小单位，给台词一份可以停下来的摘抄本——不是观后感，不是主题概括，每句都是电影里真的被说出来的话。
@@ -106,6 +108,18 @@ node scripts/sync-quote-pages.mjs
 - 海报 / 静帧：本地缓存物料，出处见各条 `license_note`；待合规剧照替换。
 - 评分：策展快照，非官方合作。详见 `about/`。
 
-## 推仓
+## 推仓与在线访问
 
-确认无密钥、无未授权片宣物料后再自行入库。**不要在本阶段 git push。**
+仓库地址：**<https://github.com/shenlq1017/silver-lines>**（默认分支 `main`）。
+
+推仓前先过一道目测门禁：确认无密钥（`.env` / `collect/.tmdb.env` 不入库，仅提交 `.env.example` 占位）、无未授权宣物，再提交：
+
+```bash
+git add .
+git commit -m "docs: update README"
+git push origin main
+```
+
+本仓为纯静态站点，可直接用 **GitHub Pages** 发布（供手机直接访问）：仓库 `Settings → Pages` 选 `Deploy from a branch`，分支 `main` / 根目录 `/ (root)`。启用后站点地址为 **<https://shenlq1017.github.io/silver-lines/>**。
+
+> 提示：本站靠 `fetch` 加载 `data/quotes.json`，必须走 HTTP(S) 服务——本地预览用 `python3 -m http.server`（见上），线上用 GitHub Pages；勿以 `file://` 打开。

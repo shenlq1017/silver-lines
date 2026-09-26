@@ -1787,9 +1787,16 @@ function renderRelated(q) {
       }
     } catch (e) {}
     li.appendChild(a);
-    var aboutLi = nav.querySelector('a[href$="about/"]');
-    if (aboutLi && aboutLi.parentElement && aboutLi.parentElement.parentElement === nav) {
-      nav.insertBefore(li, aboutLi.parentElement);
+    /* 定位「关于」所在 li：兼容各页相对路径写法（关于页自身 href="./" 也匹配） */
+    var aboutLink =
+      nav.querySelector('a[href$="about/"]') ||
+      nav.querySelector('a[href$="/about"]') ||
+      Array.prototype.filter.call(nav.querySelectorAll("a"), function (x) {
+        return (x.textContent || "").trim() === "关于";
+      })[0];
+    var aboutLi = aboutLink && aboutLink.closest ? aboutLink.closest("li") : null;
+    if (aboutLi && aboutLi.parentElement === nav) {
+      nav.insertBefore(li, aboutLi);
     } else {
       nav.appendChild(li);
     }
