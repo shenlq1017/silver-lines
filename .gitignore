@@ -1,0 +1,16 @@
+# Secrets — never commit real keys
+.env
+.env.*
+!.env.example
+.tmdb.env
+**/.tmdb.env
+**/box-secrets.json
+box-secrets.json
+*.pem
+
+# Local / OS noise
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+node_modules/
