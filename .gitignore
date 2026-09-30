@@ -14,3 +14,8 @@ __pycache__/
 *.pyc
 .venv/
 node_modules/
+
+# xhs 小红书卡片：可再生中间产物（render.sh 一键重建）
+xhs/raw/
+xhs/out/
+xhs/shots/
