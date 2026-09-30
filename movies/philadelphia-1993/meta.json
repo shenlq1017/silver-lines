@@ -1,0 +1,36 @@
+{
+  "id": "philadelphia-1993",
+  "group": "classics",
+  "film": {
+    "title": "费城故事",
+    "title_en": "Philadelphia",
+    "year": 1993,
+    "director": "乔纳森·戴米"
+  },
+  "lines": [
+    {
+      "text": "是这样的：每隔一阵子——不常，但偶尔——你能亲身参与正义得以伸张的那一刻。那一刻真的相当令人激动。",
+      "en": "It's that every now and again - not often, but occasionally - you get to be a part of justice being done. That really is quite a thrill when that happens.",
+      "character": "安德鲁·贝克特",
+      "note": "（核证证据：IMDb Quotes（逐字，qt3315389）https://www.imdb.com/title/tt0107818/quotes/?item=qt3315389 （\"Andrew Beckett: It's that every now and again - not often, but occasionally - you get to be a part of justice being done. That really is quite a thrill when ...\"）；MovieQuotesDB https://www.moviequotedb.com/movies/philadelphia/quote_55183.html 同句逐字；Scraps from the Loft 全片转写 https://scrapsfromtheloft.com/movies/philadelphia-1993-transcript/ 同句（末句作 \"It really is quite a thrill\"））"
+    },
+    {
+      "text": "米勒先生，在这个法庭内，正义是无视种族、信仰、肤色、宗教和性取向的。／恕我直言，法官大人，可我们并不是生活在这个法庭之内，是吗？",
+      "en": "In this courtroom, Mr. Miller, justice is blind to matters of race, creed, color, religion, and sexual orientation. / With all due respect, your honor, we don't live in this courtroom, do we?",
+      "character": "加内特法官 / 乔·米勒",
+      "note": "（核证证据：IMDb Quotes https://www.imdb.com/title/tt0107818/quotes/ 与 Quotes.net https://www.quotes.net/mquote/72960 均逐字收录该庭上对话；中文通行译法见豆瓣笔记《〈费城故事〉+〈毕业生〉经典台词笔记》（m.douban.com，2012：\"在法庭内，正义无视于种族、教义、肤色、宗教和性取向\"／\"但是，我们并不是生活在法庭之内，是吗？\"））"
+    }
+  ],
+  "tags": [
+    "剧情"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7
+    },
+    "as_of": "2026-09-30",
+    "source_note": "策展快照（IMDb 主页快照，非实时抓取）"
+  },
+  "still_alt": "费城故事 · TMDB 宣传静帧（3840 宽 original）",
+  "license_note": "海报/静帧：TMDB original 缓存物料（batch-ding 备料），仅策展展示。"
+}

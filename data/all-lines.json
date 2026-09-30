@@ -8,8 +8,8 @@
   {
     "id": "13-assassins-no-happiness",
     "i": 1,
-    "text": "只要主公一声令下，无论是讨伐他国大名，还是诛杀落魄浪人，理由根本无关紧要——这就是武士。",
-    "en": "If our lord so orders, we cut down other lords' men or masterless samurai alike. The reason does not matter. That is what it means to be a samurai."
+    "text": "为主君而死，是武士之道；为丈夫而死，是妇人之道。",
+    "en": "Dying for one's master is the way of the samurai. Dying for one's husband is the way of women."
   },
   {
     "id": "13-assassins-no-happiness",
@@ -247,6 +247,24 @@
     "i": 0,
     "text": "你可以比你想象的更真实。",
     "en": "You can be more authentic than you imagine."
+  },
+  {
+    "id": "almost-famous-2000",
+    "i": 0,
+    "text": "我是金色的神！",
+    "en": "I am a golden god!"
+  },
+  {
+    "id": "almost-famous-2000",
+    "i": 1,
+    "text": "什么样的啤酒？",
+    "en": "What kind of beer?"
+  },
+  {
+    "id": "almost-famous-2000",
+    "i": 2,
+    "text": "我可从没说过自己是金色的神……还是说过？",
+    "en": "I never said I was a golden god... or did I?"
   },
   {
     "id": "alphaville-je-vous-aime",
@@ -833,8 +851,8 @@
   {
     "id": "beau-travail-freedom-remorse",
     "i": 1,
-    "text": "我不知道这一切会如何收场。我想我会等着。等什么？我不知道。",
-    "en": "I don't know how it will end. I think I'll wait. Wait for what? I don't know."
+    "text": "迷失了……迷失了……为崇高的事业效命，然后死去。",
+    "en": "Lost... lost... \"Serve the good cause and die.\""
   },
   {
     "id": "beautiful-mind-all-reasons",
@@ -1136,7 +1154,7 @@
   {
     "id": "blood-guanyin-family-business",
     "i": 2,
-    "text": "一家人整整齐齐的，多好。"
+    "text": "千万不要丢下我一个。你一定要长命百岁，万年富贵。"
   },
   {
     "id": "blow-up-frame",
@@ -1283,6 +1301,24 @@
     "en": "Historians from England will say I am a liar, but history is written by those who have hanged heroes."
   },
   {
+    "id": "brazil-1985",
+    "i": 0,
+    "text": "要不要来点小小的恋尸癖？嗯？",
+    "en": "Care for a little necrophilia? Hmmm?"
+  },
+  {
+    "id": "brazil-1985",
+    "i": 1,
+    "text": "这是你丈夫的收据……这是你的收据的收据。",
+    "en": "This is your receipt for your husband... and this is my receipt for your receipt."
+  },
+  {
+    "id": "brazil-1985",
+    "i": 2,
+    "text": "听着，小子，我们都在一条船上。",
+    "en": "Listen, kid, we're all in it together."
+  },
+  {
     "id": "breakfast-bizarre",
     "i": 0,
     "text": "我们都很古怪。只不过有些人更擅长掩饰罢了。",
@@ -1389,11 +1425,6 @@
     "i": 0,
     "text": "弃婴被转手的路上，也可能拼出一家人。",
     "en": "On the road where abandoned babies change hands, a family can still be pieced together."
-  },
-  {
-    "id": "broker-baby-family",
-    "i": 1,
-    "text": "谢谢你选择了我们。"
   },
   {
     "id": "bttf-dont-need-roads",
@@ -2117,11 +2148,6 @@
   {
     "id": "daisan-truth",
     "i": 1,
-    "text": "果然，人是你杀的吧。"
-  },
-  {
-    "id": "daisan-truth",
-    "i": 2,
     "text": "你也是共犯。"
   },
   {
@@ -2559,11 +2585,6 @@
     "i": 0,
     "text": "我看中的男人，要么是英雄，要么是疯子。",
     "en": "The men I fall for are either heroes—or madmen."
-  },
-  {
-    "id": "dragon-inn-man-i-wait",
-    "i": 1,
-    "text": "我这龙门客栈，进来的多，出去的少。"
   },
   {
     "id": "dragon-inn-rivers-and-lakes",
@@ -3066,6 +3087,24 @@
     "en": "I eat breakfast 300 yards from 4000 Cubans who are trained to kill me."
   },
   {
+    "id": "field-of-dreams-1989",
+    "i": 0,
+    "text": "你建好了，他就会来。",
+    "en": "If you build it, he will come."
+  },
+  {
+    "id": "field-of-dreams-1989",
+    "i": 1,
+    "text": "人们会来的，雷。他们会来艾奥瓦，理由连他们自己也说不清。他们会在你家车道口拐进来，并不确知自己为什么要来。",
+    "en": "Ray, people will come Ray. They'll come to Iowa for reasons they can't even fathom. They'll turn up your driveway not knowing for sure why they're doing it."
+  },
+  {
+    "id": "field-of-dreams-1989",
+    "i": 2,
+    "text": "这是——这是天堂吗？／是——是艾奥瓦。／我还以为这是天堂呢。",
+    "en": "Is, is this heaven? / It's — it's Iowa. / I could have sworn it was heaven."
+  },
+  {
     "id": "fight-club-first-rule",
     "i": 0,
     "text": "搏击俱乐部第一条规则：不要谈论搏击俱乐部。",
@@ -3346,11 +3385,6 @@
     "en": "We fight on, not to change the world, but so the world won't change us."
   },
   {
-    "id": "furnace-unchanged",
-    "i": 1,
-    "text": "认知不足。"
-  },
-  {
     "id": "furnaces-hour-colonized",
     "i": 0,
     "text": "熔炉的时刻到了：要么解放，要么灭亡。",
@@ -3519,6 +3553,18 @@
     "en": "Am I not merciful?"
   },
   {
+    "id": "glory-1989",
+    "i": 0,
+    "text": "我们会出钱出力、共赴此战，长官。但我依然不愿扛你的那面旗。",
+    "en": "We ante up and kick in, sir. But I still don't want to carry your flag."
+  },
+  {
+    "id": "glory-1989",
+    "i": 1,
+    "text": "我这场仗不是为你打的，长官。",
+    "en": "I ain't fightin' this war for you, sir."
+  },
+  {
     "id": "goblet-hearts-open",
     "i": 0,
     "text": "若目标相同、心胸开阔，习惯与语言的差异便不足道。",
@@ -3643,6 +3689,16 @@
     "i": 2,
     "text": "我就是你娶回来的那个贱人。",
     "en": "I'm the cunt you married."
+  },
+  {
+    "id": "good-bye-lenin-2003",
+    "i": 0,
+    "text": "我母亲比民主德国多活了三天。我相信她始终不知道真相是件好事。她走得很幸福。"
+  },
+  {
+    "id": "good-bye-lenin-2003",
+    "i": 1,
+    "text": "我为母亲营造的那个民主德国，渐渐变成了我或许真希望拥有的那个民主德国。"
   },
   {
     "id": "good-men-good-women-history-play",
@@ -4814,6 +4870,16 @@
     "en": "I am not afraid of death. I was born to die."
   },
   {
+    "id": "joint-security-area-2000",
+    "i": 0,
+    "text": "你的影子越过界了，当心啊！"
+  },
+  {
+    "id": "joint-security-area-2000",
+    "i": 1,
+    "text": "赤色分子，以及赤色分子的敌人——这里没有中立的立足之地。"
+  },
+  {
     "id": "joker-tragedy-comedy",
     "i": 0,
     "text": "我曾以为我的人生是部悲剧，现在我明白了——它是部喜剧。",
@@ -4999,11 +5065,6 @@
     "en": "The secret of face-changing is passed only to males."
   },
   {
-    "id": "king-masks-pass-on",
-    "i": 1,
-    "text": "爷爷，你别丢下我！"
-  },
-  {
     "id": "kings-road-yanks-subconscious",
     "i": 0,
     "text": "美国佬殖民了我们的潜意识。",
@@ -5050,6 +5111,24 @@
     "i": 0,
     "text": "失衡的生活。",
     "en": "Life out of balance."
+  },
+  {
+    "id": "kramer-vs-kramer-1979",
+    "i": 0,
+    "text": "我来这里是要接我儿子回家的。可我发现，他已经在家里了。",
+    "en": "I came here to take my son home. And I realized he already is home."
+  },
+  {
+    "id": "kramer-vs-kramer-1979",
+    "i": 1,
+    "text": "医生：你没理由进去。／泰德：有理由。他是我儿子。你们要对他做什么，我都要陪着他。",
+    "en": "Doctor: There's no reason for you to be in there. / Ted: Yeah, there is. He's my son. If you're gonna do something to him, I'm going to be with him."
+  },
+  {
+    "id": "kramer-vs-kramer-1979",
+    "i": 2,
+    "text": "我要妈妈！／你现在只有我了。",
+    "en": "Billy: I want my mommy! / Ted: I'm all you got."
   },
   {
     "id": "kung-fu-panda-no-secret",
@@ -5219,7 +5298,7 @@
   {
     "id": "laputa-roots",
     "i": 2,
-    "text": "别偷偷摸摸的——海盗就该堂堂正正地偷！"
+    "text": "那当然啦！海盗图财宝有什么不对？！奇怪的是他们那帮家伙，为什么要偷偷摸摸地把姑娘掳走呢！"
   },
   {
     "id": "last-crusade-he-chose-poorly",
@@ -6317,7 +6396,7 @@
   {
     "id": "new-world-door-opens",
     "i": 1,
-    "text": "老幺，一定要守住咱们的人。"
+    "text": "要狠，这样才能活下去，明白吗？"
   },
   {
     "id": "nezha-one-deed-alone",
@@ -6785,6 +6864,18 @@
     "en": "Love can make people cruel."
   },
   {
+    "id": "philadelphia-1993",
+    "i": 0,
+    "text": "是这样的：每隔一阵子——不常，但偶尔——你能亲身参与正义得以伸张的那一刻。那一刻真的相当令人激动。",
+    "en": "It's that every now and again - not often, but occasionally - you get to be a part of justice being done. That really is quite a thrill when that happens."
+  },
+  {
+    "id": "philadelphia-1993",
+    "i": 1,
+    "text": "米勒先生，在这个法庭内，正义是无视种族、信仰、肤色、宗教和性取向的。／恕我直言，法官大人，可我们并不是生活在这个法庭之内，是吗？",
+    "en": "In this courtroom, Mr. Miller, justice is blind to matters of race, creed, color, religion, and sexual orientation. / With all due respect, your honor, we don't live in this courtroom, do we?"
+  },
+  {
     "id": "phoenix-light-and-dark",
     "i": 0,
     "text": "我们每个人心里都有光明与黑暗。要紧的是你选择按哪一边行事。",
@@ -6927,6 +7018,16 @@
     "i": 0,
     "text": "每个人都在寻找自己的位置。",
     "en": "Everyone is looking for their place."
+  },
+  {
+    "id": "police-story-1985",
+    "i": 0,
+    "text": "你是踏着手下的肩膊升级的，你有没有替你的手下着想？死了一个手下，你只是写份报告书，鞠三个躬。我们这些小卒也是有妈妈生的，没有我们这帮小卒替你卖命，你哪有这么大间冷气房坐啊？"
+  },
+  {
+    "id": "police-story-1985",
+    "i": 1,
+    "text": "法律？法律只能制裁没钱请律师的人！不能制裁他！"
   },
   {
     "id": "polytechnique-why",
@@ -8093,8 +8194,8 @@
   {
     "id": "sierra-madre-badges",
     "i": 1,
-    "text": "金子是个魔鬼。",
-    "en": "Ah, gold is a very devil."
+    "text": "金子这玩意儿，反正是个魔鬼。",
+    "en": "Gold's a devilish sort of thing, anyway."
   },
   {
     "id": "silent-voice-want-friends",
@@ -8692,6 +8793,18 @@
     "en": "The classroom walls are thin — the outside world can break in at any moment."
   },
   {
+    "id": "the-french-connection-1971",
+    "i": 0,
+    "text": "你有没有在波基普西挑过脚？",
+    "en": "Did you ever pick your feet in Poughkeepsie?"
+  },
+  {
+    "id": "the-french-connection-1971",
+    "i": 1,
+    "text": "我要把他送上电椅，烤焦他的屁股。",
+    "en": "I'm gonna fry his ass in the electric chair."
+  },
+  {
     "id": "the-general-believe-can-do-it",
     "i": 0,
     "text": "我想我能做到。",
@@ -8708,6 +8821,29 @@
     "i": 0,
     "text": "究竟谁才是癫的？",
     "en": "Who is the mad one, really?"
+  },
+  {
+    "id": "the-others-2001",
+    "i": 0,
+    "text": "这是我们的房子，这是我们的房子。",
+    "en": "This house is ours, this house is ours."
+  },
+  {
+    "id": "the-others-2001",
+    "i": 1,
+    "text": "起初我不明白枕头怎么会在我手里、你为什么一动不动，后来我明白了——已经发生了：我杀了我的孩子们。",
+    "en": "At first, I couldn't understand what the pillows were doing in my hands and why you didn't move, but then I knew. It had happened. I killed my children."
+  },
+  {
+    "id": "the-sea-inside-2004",
+    "i": 0,
+    "text": "生存是一种权利，而不是义务。"
+  },
+  {
+    "id": "the-sea-inside-2004",
+    "i": 1,
+    "text": "弗朗西斯科神父：以取消生命为代价的自由不是自由。雷蒙：以取消自由为代价的生命，也不是生命。",
+    "en": "Padre Francisco: Freedom without a life is not freedom. Ramón Sampedro: A life without freedom is not a life."
   },
   {
     "id": "the-son-i-dont-know",
@@ -9132,6 +9268,18 @@
     "en": "Do you think you can judge others?"
   },
   {
+    "id": "true-romance-1993",
+    "i": 0,
+    "text": "……有三个词在我脑中无尽回响，像坏掉的唱片一样重复着：你真酷，你真酷，你真酷。",
+    "en": "...three words went through my mind endlessly, repeating themselves like a broken record: you're so cool, you're so cool, you're so cool."
+  },
+  {
+    "id": "true-romance-1993",
+    "i": 1,
+    "text": "既然是这样，那你告诉我，我是在撒谎吗？因为你，你有一半是茄子。",
+    "en": "Now, if that's a fact, tell me, am I lying? 'Cause you, you're part eggplant."
+  },
+  {
     "id": "truman-goodnight",
     "i": 0,
     "text": "如果再也见不到你，祝你早安，午安，晚安。",
@@ -9495,6 +9643,24 @@
     "i": 0,
     "text": "我想写一个属于自己的故事。",
     "en": "I want to write a story that is truly my own."
+  },
+  {
+    "id": "who-s-afraid-of-virginia-woolf-1966",
+    "i": 0,
+    "text": "真实还是虚幻，乔治。你分不清的。／分不清，可我们也得装作分得清那样过下去。／阿门。",
+    "en": "Martha: Truth and illusion, George. You don't know the difference. / George: No, but we must carry on as though we did. / Martha: Amen."
+  },
+  {
+    "id": "who-s-afraid-of-virginia-woolf-1966",
+    "i": 1,
+    "text": "我是大地之母，你们全是窝囊废。",
+    "en": "I am the Earth Mother and you are all flops."
+  },
+  {
+    "id": "who-s-afraid-of-virginia-woolf-1966",
+    "i": 2,
+    "text": "谁害怕弗吉尼亚·伍尔夫？／我，乔治。我怕。",
+    "en": "Who's afraid of Virginia Woolf? / I am, George. I am."
   },
   {
     "id": "wild-child-no-savage",

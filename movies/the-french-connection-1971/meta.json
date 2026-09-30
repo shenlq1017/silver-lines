@@ -1,0 +1,38 @@
+{
+  "id": "the-french-connection-1971",
+  "group": "classics",
+  "film": {
+    "title": "法国贩毒网",
+    "title_en": "The French Connection",
+    "year": 1971,
+    "director": "威廉·弗莱德金"
+  },
+  "lines": [
+    {
+      "text": "你有没有在波基普西挑过脚？",
+      "en": "Did you ever pick your feet in Poughkeepsie?",
+      "character": "吉米·“大力水手”·多伊尔",
+      "note": "中文为对照翻译（审讯行话，通行字幕译法未核到）；IMDb 专设片段页 The French Connection: Poughkeepsie, NY（tt0232508）（核证证据：https://en.wikiquote.org/wiki/The_French_Connection_(film)（逐字：\"Popeye Doyle: Did you ever pick your feet in Poughkeepsie?\"）；https://eriklundegaard.com/item/movie-review-the-french-connection-1971/category/62（影评逐字引用该时刻）；https://www.reddit.com/r/iwatchedanoldmovie/comments/1qr64pf/the_french_connection_1971/（中译\"你在波基普西挖脚趾头吗？\"））"
+    },
+    {
+      "text": "我要把他送上电椅，烤焦他的屁股。",
+      "en": "I'm gonna fry his ass in the electric chair.",
+      "character": "吉米·“大力水手”·多伊尔",
+      "note": "中文为对照翻译（核证证据：https://en.wikiquote.org/wiki/The_French_Connection_(film)（逐字：\"Popeye Doyle: I'm gonna fry his ass in the electric chair.\"）；IMDb quotes 页（tt0067111/quotes）多次抓取超时未获第二逐字摘录）"
+    }
+  ],
+  "tags": [
+    "动作",
+    "犯罪",
+    "惊悚"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7
+    },
+    "as_of": "2026-09-30",
+    "source_note": "策展快照（IMDb 主页快照，非实时抓取）"
+  },
+  "still_alt": "法国贩毒网 · TMDB 宣传静帧（3840 宽 original）",
+  "license_note": "海报/静帧：TMDB original 缓存物料（batch-ding 备料），仅策展展示。"
+}

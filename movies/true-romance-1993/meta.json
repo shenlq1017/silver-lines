@@ -1,0 +1,38 @@
+{
+  "id": "true-romance-1993",
+  "group": "classics",
+  "film": {
+    "title": "真实罗曼史",
+    "title_en": "True Romance",
+    "year": 1993,
+    "director": "托尼·斯科特"
+  },
+  "lines": [
+    {
+      "text": "……有三个词在我脑中无尽回响，像坏掉的唱片一样重复着：你真酷，你真酷，你真酷。",
+      "en": "...three words went through my mind endlessly, repeating themselves like a broken record: you're so cool, you're so cool, you're so cool.",
+      "character": "阿拉巴马·惠特曼",
+      "note": "（核证证据：IMDb 角色台词页（Patricia Arquette as Alabama Whitman）https://www.imdb.com/title/tt0108399/characters/nm0000099/ 逐字收录；25YearsLater 回顾文 https://25yearslatersite.com/film/features/youre-so-cool-true-romance-will-always-burn-brightly/ 及 Vice https://www.vice.com/en/article/youre-so-cool-an-artists-homage-to-the-90s-cult-classic-true-romance/ 引全句）"
+    },
+    {
+      "text": "既然是这样，那你告诉我，我是在撒谎吗？因为你，你有一半是茄子。",
+      "en": "Now, if that's a fact, tell me, am I lying? 'Cause you, you're part eggplant.",
+      "character": "克利福德·沃利",
+      "note": "（核证证据：IMDb 角色台词页（Dennis Hopper as Clifford Worley）https://www.imdb.com/title/tt0108399/characters/nm0000454/ 逐字：\"...now, if that's a fact, tell me, am I lying? 'Cause you, you're part eggplant.\"；IMDb Quotes https://www.imdb.com/title/tt0108399/quotes/ 同段独白。note：此为西西里独白收尾句；独白前文含原始种族俚语，为合规仅摘收尾逐字句）"
+    }
+  ],
+  "tags": [
+    "动作",
+    "犯罪",
+    "爱情"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.9
+    },
+    "as_of": "2026-09-30",
+    "source_note": "策展快照（IMDb 主页快照，非实时抓取）"
+  },
+  "still_alt": "真实罗曼史 · TMDB 宣传静帧（3840 宽 original）",
+  "license_note": "海报/静帧：TMDB original 缓存物料（batch-ding 备料），仅策展展示。"
+}

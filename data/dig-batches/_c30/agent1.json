@@ -1,0 +1,145 @@
+{
+  "agent": "agent_9b39a8f0-6002-4482-ba5a-16ac2e9094a2",
+  "generated": "2026-09-30",
+  "movies": [
+    {
+      "slug": "who-s-afraid-of-virginia-woolf-1966",
+      "director": "迈克·尼科尔斯",
+      "imdb": 8.0,
+      "lines": [
+        {
+          "text": "真实还是虚幻，乔治。你分不清的。／分不清，可我们也得装作分得清那样过下去。／阿门。",
+          "en": "Martha: Truth and illusion, George. You don't know the difference. / George: No, but we must carry on as though we did. / Martha: Amen.",
+          "character": "玛莎·乔治（Martha / George）",
+          "evidence": "https://www.filmsite.org/whos3.html（逐字：\"Martha: Truth and illusion, George. You don't know the difference.\" \"George: No, but we must carry on as though we did.\" \"Martha: Amen.\"）；https://www.script-o-rama.com/movie_scripts/w/whos-afraid-of-virginia-woolf-script.html（逐字：\"Truth or illusion, George? Doesn't it matter to you at all?\" / \"Truth and illusion. You don't know the difference.\" / \"No, but we must carry on as though we did.\"）",
+          "note": "中文为对照翻译；乔治另有变体\"Truth and illusion. Who knows the difference eh, toots?\"（filmsite 逐字）",
+          "main": true
+        },
+        {
+          "text": "我是大地之母，你们全是窝囊废。",
+          "en": "I am the Earth Mother and you are all flops.",
+          "character": "玛莎",
+          "evidence": "https://www.script-o-rama.com/movie_scripts/w/whos-afraid-of-virginia-woolf-script.html（逐字：\"I am the Earth Mother and you are all flops.\"）；https://whifferdills.tumblr.com（逐字：\"I am the Earth Mother, and you are all flops. Elizabeth Taylor as Martha in Who's Afraid of Virginia Woolf? (1966)\"）",
+          "note": "中文为对照翻译。用户提示的\"I am the earth, and the earth is me\"未能在任何逐字来源核到，银幕实际台词为此句",
+          "main": false
+        },
+        {
+          "text": "谁害怕弗吉尼亚·伍尔夫？／我，乔治。我怕。",
+          "en": "Who's afraid of Virginia Woolf? / I am, George. I am.",
+          "character": "玛莎（应和乔治的哼唱）",
+          "evidence": "https://www.script-o-rama.com/movie_scripts/w/whos-afraid-of-virginia-woolf-script.html（逐字：\"Who's afraid of Virginia Woolf? / I am, George. I am.\"）；https://www.filmsite.org/whos3.html（逐字：\"Martha: I am George, I am.\"）",
+          "note": "中文为对照翻译；两源标点略有出入",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "the-french-connection-1971",
+      "director": "威廉·弗莱德金",
+      "imdb": 7.7,
+      "lines": [
+        {
+          "text": "你有没有在波基普西挑过脚？",
+          "en": "Did you ever pick your feet in Poughkeepsie?",
+          "character": "吉米·“大力水手”·多伊尔",
+          "evidence": "https://en.wikiquote.org/wiki/The_French_Connection_(film)（逐字：\"Popeye Doyle: Did you ever pick your feet in Poughkeepsie?\"）；https://eriklundegaard.com/item/movie-review-the-french-connection-1971/category/62（影评逐字引用该时刻）；https://www.reddit.com/r/iwatchedanoldmovie/comments/1qr64pf/the_french_connection_1971/（中译\"你在波基普西挖脚趾头吗？\"）",
+          "note": "中文为对照翻译（审讯行话，通行字幕译法未核到）；IMDb 专设片段页 The French Connection: Poughkeepsie, NY（tt0232508）",
+          "main": true
+        },
+        {
+          "text": "我要把他送上电椅，烤焦他的屁股。",
+          "en": "I'm gonna fry his ass in the electric chair.",
+          "character": "吉米·“大力水手”·多伊尔",
+          "evidence": "https://en.wikiquote.org/wiki/The_French_Connection_(film)（逐字：\"Popeye Doyle: I'm gonna fry his ass in the electric chair.\"）；IMDb quotes 页（tt0067111/quotes）多次抓取超时未获第二逐字摘录",
+          "note": "中文为对照翻译",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "kramer-vs-kramer-1979",
+      "director": "罗伯特·本顿",
+      "imdb": 7.8,
+      "lines": [
+        {
+          "text": "我来这里是要接我儿子回家的。可我发现，他已经在家里了。",
+          "en": "I came here to take my son home. And I realized he already is home.",
+          "character": "乔安娜·克莱默",
+          "evidence": "https://en.wikiquote.org/wiki/Kramer_vs._Kramer（逐字：\"And I realized he already is home. Oh, I love him very much... I'm not gonna take him with me. Can I go up and talk to him?\"）；https://www.imdb.com/title/tt0079417/quotes/（逐字：\"I came here to take my son home. And I realized he already is home.\"）；https://www.reddit.com/r/movies/comments/291m3h/what_are_the_best_most_memorable_monologues_by/（中文版逐字：\"我来这里是为了带我的儿子回家。然后我意识到，他已经在家里了。\"）",
+          "note": "中文采用 Reddit 中文讨论版译法，标注为对照译法",
+          "main": true
+        },
+        {
+          "text": "医生：你没理由进去。／泰德：有理由。他是我儿子。你们要对他做什么，我都要陪着他。",
+          "en": "Doctor: There's no reason for you to be in there. / Ted: Yeah, there is. He's my son. If you're gonna do something to him, I'm going to be with him.",
+          "character": "特德·克莱默",
+          "evidence": "https://www.shmoop.com/study-guides/kramer-vs-kramer/family-quotes.html（逐字：\"DOCTOR: There's no reason for you to be in there. TED: Yeah, there is. He's my son. If you're gonna do something to him, I'm going to be with him.\"）",
+          "note": "中文为对照翻译（比利脑伤医院场景）",
+          "main": false
+        },
+        {
+          "text": "我要妈妈！／你现在只有我了。",
+          "en": "Billy: I want my mommy! / Ted: I'm all you got.",
+          "character": "比利·克莱默 / 特德·克莱默",
+          "evidence": "https://www.funtrivia.com（Great Movie Exchanges 测验逐字：\"I want my mommy!\" \"I'm all you got.\"，答案 Kramer vs. Kramer）",
+          "note": "中文为对照翻译（乔安娜离家当晚父子场景）",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "brazil-1985",
+      "director": "特瑞·吉列姆",
+      "imdb": 7.8,
+      "lines": [
+        {
+          "text": "要不要来点小小的恋尸癖？嗯？",
+          "en": "Care for a little necrophilia? Hmmm?",
+          "character": "吉尔·莱顿",
+          "evidence": "http://www.faqs.org/faqs/movies/brazil-faq/（Notable Quotes 逐字：\"Jill: Care for a little necrophilia?. . .Hmmm?\"）；https://www.imdb.com/title/tt0088846/quotes/（收录该台词）；clip.cafe 专段标题\"Care for a little necrophilia - Brazil\"",
+          "note": "中文为对照翻译",
+          "main": true
+        },
+        {
+          "text": "这是你丈夫的收据……这是你的收据的收据。",
+          "en": "This is your receipt for your husband... and this is my receipt for your receipt.",
+          "character": "中央事务局逮捕官",
+          "evidence": "http://www.faqs.org/faqs/movies/brazil-faq/（逐字：\"Arresting Officer: This is your receipt for your husband...and this is my receipt for your receipt.\"）；https://www.dailyscript.com/scripts/brazil.html（剧本逐字：\"OFFICIAL: That's your receipt for your husband.\" \"OFFICIAL: Thank you. And this is my receipt for your receipt.\"）",
+          "note": "中文为对照翻译；剧本措辞与成片字幕略异",
+          "main": false
+        },
+        {
+          "text": "听着，小子，我们都在一条船上。",
+          "en": "Listen, kid, we're all in it together.",
+          "character": "哈里·塔特尔",
+          "evidence": "http://www.faqs.org/faqs/movies/brazil-faq/（Notable Quotes 逐字：\"Tuttle: Listen, kid, we're all in it together.\"；同页另录海报标语\"Billboard: Happiness: We're all in it together.\"）",
+          "note": "中文为对照翻译；同源另核到海报句\"幸福：我们都在其中\"",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "police-story-1985",
+      "director": "成龙",
+      "imdb": 7.5,
+      "lines": [
+        {
+          "text": "你是踏着手下的肩膊升级的，你有没有替你的手下着想？死了一个手下，你只是写份报告书，鞠三个躬。我们这些小卒也是有妈妈生的，没有我们这帮小卒替你卖命，你哪有这么大间冷气房坐啊？",
+          "original": "同左（粤语原音逐字未能核到，此为通行中文字幕两版拼合转写）",
+          "character": "陈家驹",
+          "evidence": "https://bbs.nga.cn/read.php?tid=42718780（逐字：\"你是踏着手下的肩膊升级的，你有没有替你的手下着想？死了一个手下，你只是写份报告书，鞠三个躬…\"）；https://view.inews.qq.com/k/20210506A0BYWF00（逐字：\"我们这些小卒也是有妈妈生的，没有我们这帮小卒替你卖命，你哪有这么大间冷气房坐啊？\"，https://kknews.cc/zh-cn/entertainment/lgnzo9g.html 同文）",
+          "note": "两源为不同字幕版本，措辞略有出入，已按出处分别保留；粤语原声逐字需对香港原版字幕进一步核对",
+          "main": true
+        },
+        {
+          "text": "法律？法律只能制裁没钱请律师的人！不能制裁他！",
+          "original": "同左（通行中文字幕转写）",
+          "character": "陈家驹",
+          "evidence": "https://zhuanlan.zhihu.com/p/135974701（逐字：\"‘法律会制裁他的’，陈警官的回答是：法律？法律只能制裁没钱请律师的人！不能制裁他！\"，语境为朱滔法庭脱罪后）；百度知道“港台法庭经典台词”及 kknews 2019-09-14《為什麼說〈警察故事〉是最偉大的成龍電影》均逐字收录该句并标注出处《警察故事》",
+          "note": "粤语原音逐字未能核到，标注为通行中字转写",
+          "main": false
+        }
+      ]
+    }
+  ]
+}

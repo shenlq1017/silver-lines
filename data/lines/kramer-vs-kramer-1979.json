@@ -1,0 +1,25 @@
+{
+  "id": "kramer-vs-kramer-1979",
+  "film_title": "克莱默夫妇",
+  "count": 3,
+  "lines": [
+    {
+      "text": "我来这里是要接我儿子回家的。可我发现，他已经在家里了。",
+      "en": "I came here to take my son home. And I realized he already is home.",
+      "character": "乔安娜·克莱默",
+      "note": "中文采用 Reddit 中文讨论版译法，标注为对照译法（核证证据：https://en.wikiquote.org/wiki/Kramer_vs._Kramer（逐字：\"And I realized he already is home. Oh, I love him very much... I'm not gonna take him with me. Can I go up and talk to him?\"）；https://www.imdb.com/title/tt0079417/quotes/（逐字：\"I came here to take my son home. And I realized he already is home.\"）；https://www.reddit.com/r/movies/comments/291m3h/what_are_the_best_most_memorable_monologues_by/（中文版逐字：\"我来这里是为了带我的儿子回家。然后我意识到，他已经在家里了。\"））"
+    },
+    {
+      "text": "医生：你没理由进去。／泰德：有理由。他是我儿子。你们要对他做什么，我都要陪着他。",
+      "en": "Doctor: There's no reason for you to be in there. / Ted: Yeah, there is. He's my son. If you're gonna do something to him, I'm going to be with him.",
+      "character": "特德·克莱默",
+      "note": "中文为对照翻译（比利脑伤医院场景）（核证证据：https://www.shmoop.com/study-guides/kramer-vs-kramer/family-quotes.html（逐字：\"DOCTOR: There's no reason for you to be in there. TED: Yeah, there is. He's my son. If you're gonna do something to him, I'm going to be with him.\"））"
+    },
+    {
+      "text": "我要妈妈！／你现在只有我了。",
+      "en": "Billy: I want my mommy! / Ted: I'm all you got.",
+      "character": "比利·克莱默 / 特德·克莱默",
+      "note": "中文为对照翻译（乔安娜离家当晚父子场景）（核证证据：https://www.funtrivia.com（Great Movie Exchanges 测验逐字：\"I want my mommy!\" \"I'm all you got.\"，答案 Kramer vs. Kramer））"
+    }
+  ]
+}

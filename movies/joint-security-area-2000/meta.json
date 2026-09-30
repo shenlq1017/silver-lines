@@ -1,0 +1,38 @@
+{
+  "id": "joint-security-area-2000",
+  "group": "classics",
+  "film": {
+    "title": "共同警备区",
+    "title_en": "Joint Security Area",
+    "year": 2000,
+    "director": "朴赞郁"
+  },
+  "lines": [
+    {
+      "text": "你的影子越过界了，当心啊！",
+      "original": "야, 야, 야… 그림자 넘어왔어. 조심하라우.（韩语）",
+      "character": "吴敬必中士（宋康昊 饰）",
+      "note": "对照翻译——前半句「你的影子越过界了」采豆瓣影评通行译法，「조심하라우（当心啊）」为直译补全（核证证据：① 韩国影像资料院(KOFA)「韩国电影百大台词」(2024)：https://hypebeast.kr/2024/2/100-best-quotes-from-korean-movies-by-the-korean-federation-of-film-archives 及 https://www.hani.co.kr/arti/culture/culture_general/1099937.html，逐字「야, 야, 야… 그림자 넘어왔어. 조심하라우.」；② 韩国统一部官方账号逐字帖「그림자 넘어왔어! 조심하라우!!」https://www.facebook.com/unikorea/posts/5420348491340188/；③ 韩文博客逐字 https://blog.naver.com/bachkr/223527665842；④ 中文通行译法见豆瓣影评页逐字「'你的影子越过界了'正在值勤的朝鲜中士吴敬必……开的一个玩笑」）"
+    },
+    {
+      "text": "赤色分子，以及赤色分子的敌人——这里没有中立的立足之地。",
+      "original": "빨갱이, 그리고 빨갱이의 적. 여긴 중립은 설 자리가 없어.（韩语）",
+      "character": "李寿赫中士（李秉宪 饰）",
+      "note": "对照翻译（核证证据：① 韩国论坛「박찬욱 감독 작품의 펀치라인」逐字引用并标注「- 이수혁 (이병헌)」：https://dvdprime.com；② 韩文学习资料站同句逐字：https://www.happycampus.com）"
+    }
+  ],
+  "tags": [
+    "剧情",
+    "惊悚",
+    "悬疑"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7
+    },
+    "as_of": "2026-09-30",
+    "source_note": "策展快照（IMDb 主页快照，非实时抓取）"
+  },
+  "still_alt": "共同警备区 · TMDB 宣传静帧（3840 宽 original）",
+  "license_note": "海报/静帧：TMDB original 缓存物料（batch-ding 备料），仅策展展示。"
+}

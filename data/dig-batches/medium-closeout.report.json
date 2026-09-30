@@ -1,0 +1,22 @@
+{
+  "group": "medium-closeout",
+  "generated": "2026-09-30",
+  "scope": "verify-groupA-recheck.report.json 的 unverifiable_kept_medium 8 句 + verify-groupB 4 句（共 12 句，全部处理完毕）",
+  "summary": { "total": 12, "ok": 1, "wrong_wording_replaced": 6, "unverifiable_removed": 5 },
+  "results": [
+    { "id": "13-assassins-no-happiness", "index": 1, "verdict": "wrong_wording", "action": "替换为松平齐韶「为主君而死，是武士之道；为丈夫而死，是妇人之道。」（英字 SRT 00:19:06 逐字）", "source": "https://www.subtitlecat.com/subs/590/13%20Assassins%20%282010%29-orig.srt" },
+    { "id": "beau-travail-freedom-remorse", "index": 1, "verdict": "wrong_wording", "action": "替换为片尾独白「Lost... lost... 'Serve the good cause and die.'」（五份独立字幕逐字）", "source": "https://www.subtitlecat.com/subs/637/Beau.Travail.1999.1080p.BluRay.x264-USURY-orig.srt" },
+    { "id": "blood-guanyin-family-business", "index": 2, "verdict": "wrong_wording", "action": "替换为棠真片尾「千万不要丢下我一个。你一定要长命百岁，万年富贵。」（官方中字 SRT 逐字）；另发现该 meta #0 主台词 character=「题旨」，疑似策展句，移交历史债清单", "source": "https://raw.githubusercontent.com/li3zhen1/sociolinguistics-greeting-analysis/master/captions/2010s/The.Bold.the.Corrupt.and.the.Beautiful.2017.720p.BluRay.x264-WiKi.chs.srt" },
+    { "id": "broker-baby-family", "index": 1, "verdict": "unverifiable", "action": "删除（韩中多语精确检索零命中，疑意译拼贴）", "source": "多源检索无果" },
+    { "id": "daisan-truth", "index": 1, "verdict": "unverifiable", "action": "删除（可核证台词为「どうして人を殺したんですか」，此句非逐字）", "source": "https://filmarks.com/movies/61893" },
+    { "id": "daisan-truth", "index": 2, "verdict": "ok", "action": "保留（原文 あなたも共犯者だ 多方印证）", "source": "https://filmarks.com/movies/61893" },
+    { "id": "dragon-inn-man-i-wait", "index": 1, "verdict": "unverifiable", "action": "删除（豆瓣台词整理/维基语录均无此句，疑后人杜撰）", "source": "https://zh.wikiquote.org/wiki/新龍門客棧" },
+    { "id": "furnace-unchanged", "index": 1, "verdict": "unverifiable", "action": "删除（韩方资料无审判长「인지능력이 부족」逐字出处）", "source": "https://www.lawtimes.co.kr/news/articleView.html?idxno=59608" },
+    { "id": "king-masks-pass-on", "index": 1, "verdict": "unverifiable", "action": "删除（名场面有佐证但逐字台词核不到）", "source": "检索无果" },
+    { "id": "laputa-roots", "index": 2, "verdict": "wrong_wording", "action": "替换为朵拉逐字原句「海賊が財宝をねらってどこが悪い！！…」（知恵袋+全台词集双源）；原句为意译改写", "source": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1178146031" },
+    { "id": "new-world-door-opens", "index": 1, "verdict": "wrong_wording", "action": "替换为丁青临终逐字「독하게 굴어. 그래야 네가 살아, 알겠냐?」（全片韩字时间轴 1:49:22）；原句称呼与措辞均不符", "source": "https://ybstory.tistory.com（Netflix 韩字时间轴）" },
+    { "id": "sierra-madre-badges", "index": 1, "verdict": "wrong_wording", "action": "替换为「Gold's a devilish sort of thing, anyway.」（三份英字一致逐字）；旧译「金子是个魔鬼」原文核不到", "source": "https://www.subtitlecat.com/subs/941/The%20Treasure%20Of%20The%20Sierra%20Madre%201948-orig.srt" }
+  ],
+  "apply_script": "data/dig-batches/_apply-medium-closeout.mjs",
+  "note": "至此深挖线 medium 待核清零；12 句全部按 quotes-only 口径处置。"
+}

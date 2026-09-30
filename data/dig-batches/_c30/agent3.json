@@ -1,0 +1,98 @@
+{
+  "agent": "agent_1aedd9b7-763d-4721-9887-cc75c1ba67e7",
+  "generated": "2026-09-30",
+  "movies": [
+    {
+      "slug": "joint-security-area-2000",
+      "director": "朴赞郁",
+      "imdb": 7.7,
+      "lines": [
+        {
+          "text": "你的影子越过界了，当心啊！",
+          "original": "야, 야, 야… 그림자 넘어왔어. 조심하라우.（韩语）",
+          "character": "吴敬必中士（宋康昊 饰）",
+          "evidence": "① 韩国影像资料院(KOFA)「韩国电影百大台词」(2024)：https://hypebeast.kr/2024/2/100-best-quotes-from-korean-movies-by-the-korean-federation-of-film-archives 及 https://www.hani.co.kr/arti/culture/culture_general/1099937.html，逐字「야, 야, 야… 그림자 넘어왔어. 조심하라우.」；② 韩国统一部官方账号逐字帖「그림자 넘어왔어! 조심하라우!!」https://www.facebook.com/unikorea/posts/5420348491340188/；③ 韩文博客逐字 https://blog.naver.com/bachkr/223527665842；④ 中文通行译法见豆瓣影评页逐字「'你的影子越过界了'正在值勤的朝鲜中士吴敬必……开的一个玩笑」",
+          "note": "对照翻译——前半句「你的影子越过界了」采豆瓣影评通行译法，「조심하라우（当心啊）」为直译补全",
+          "main": true
+        },
+        {
+          "text": "赤色分子，以及赤色分子的敌人——这里没有中立的立足之地。",
+          "original": "빨갱이, 그리고 빨갱이의 적. 여긴 중립은 설 자리가 없어.（韩语）",
+          "character": "李寿赫中士（李秉宪 饰）",
+          "evidence": "① 韩国论坛「박찬욱 감독 작품의 펀치라인」逐字引用并标注「- 이수혁 (이병헌)」：https://dvdprime.com；② 韩文学习资料站同句逐字：https://www.happycampus.com",
+          "note": "对照翻译",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "the-others-2001",
+      "director": "亚历杭德罗·阿梅纳瓦尔",
+      "imdb": 7.6,
+      "lines": [
+        {
+          "text": "这是我们的房子，这是我们的房子。",
+          "en": "This house is ours, this house is ours.",
+          "character": "格蕾丝·斯图尔特（妮可·基德曼 饰）",
+          "evidence": "① Wikiquote《The Others (2001 film)》逐字「This house is ours, this house is ours.」：https://en.wikiquote.org/wiki/The_Others_(2001_film)；② 剧本转写逐字「And this house is ours.」：http://www.script-o-rama.com/movie_scripts/o/others-script-transcript-nicole-kidman.html；③ 中文通行译法见豆瓣影评逐字「虽然他们大喊'这是我们的房子'」：https://m.douban.com/movie/review/1008295/",
+          "note": "中文采豆瓣影评通行译法「这是我们的房子」，重复两遍依 Wikiquote 原文",
+          "main": true
+        },
+        {
+          "text": "起初我不明白枕头怎么会在我手里、你为什么一动不动，后来我明白了——已经发生了：我杀了我的孩子们。",
+          "en": "At first, I couldn't understand what the pillows were doing in my hands and why you didn't move, but then I knew. It had happened. I killed my children.",
+          "character": "格蕾丝·斯图尔特（妮可·基德曼 饰）",
+          "evidence": "① Wikiquote 同页逐字：https://en.wikiquote.org/wiki/The_Others_(2001_film)；② IMDb《The Others (2001) - Quotes》逐字「Grace: At first I couldn't understand what the pillows where doing in my hands and why you didn't move, but then I knew, it had happened, I killed my children.」：https://www.imdb.com/title/tt0230600/quotes/",
+          "note": "对照翻译（两来源拼写/标点略异，逐字以 Wikiquote 为准）",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "good-bye-lenin-2003",
+      "director": "沃尔夫冈·贝克",
+      "imdb": 7.7,
+      "lines": [
+        {
+          "text": "我母亲比民主德国多活了三天。我相信她始终不知道真相是件好事。她走得很幸福。",
+          "original": "Meine Mutter hat die DDR um drei Tage überlebt. Ich glaube, es war gut, dass sie nie die Wahrheit erfahren hat. Sie ist glücklich gestorben.（德语）",
+          "character": "亚历山大·科纳（丹尼尔·布鲁赫 饰）",
+          "evidence": "① IMDb《Good Bye Lenin! (2003) - Quotes》逐字「[last lines] Alexander Kerner: [voiceover] My mother outlived the GDR by three days. I believe it was a good thing she never…」：https://www.imdb.com/title/tt0301357/quotes/（德语版同页逐字「Meine Mutter hat die DDR um drei Tage überlebt. Ich glaube, es war gut, dass sie nie die Wahrheit erfahren hat. Sie ist…」）；② Quotes.net 全篇逐字（含结尾「…a country that, in my memory, I will always associate with my mother.」）：https://www.quotes.net/mquote/1207139",
+          "note": "对照翻译——德英原文逐字可核，未检索到中文通行字幕逐字来源，中译为对照翻译",
+          "main": true
+        },
+        {
+          "text": "我为母亲营造的那个民主德国，渐渐变成了我或许真希望拥有的那个民主德国。",
+          "original": "Die DDR, die ich für meine Mutter schuf, wurde immer mehr die DDR, die ich mir vielleicht gewünscht hätte.（德语）",
+          "character": "亚历山大·科纳（丹尼尔·布鲁赫 饰）",
+          "evidence": "① Quizlet《Good Bye Lenin: Zitate und Beispiele》逐字：https://quizlet.com/gb/685319273/good-bye-lenin-zitate-und-beispiele-flash-cards/；② Reddit r/badhistory 同句德语逐字引用：https://www.reddit.com/r/badhistory/comments/8i5ccs/wondering_wednesday_09_may_2018_what_are_your/",
+          "note": "对照翻译",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "the-sea-inside-2004",
+      "director": "亚历杭德罗·阿梅纳瓦尔",
+      "imdb": 7.8,
+      "lines": [
+        {
+          "text": "生存是一种权利，而不是义务。",
+          "original": "Considero que vivir es un derecho, no una obligación.（西班牙语）",
+          "character": "雷蒙·桑佩德罗（哈维尔·巴登 饰）",
+          "evidence": "① Quizlet《Mar adentro key quotes》西英对照逐字「Considero que vivir es un derecho, no una obligación. / I believe that living is a right and not an obligation」：https://quizlet.com/gb/196295017/mar-adentro-key-quotes-flash-cards/；② 剧本转写逐字「Living is a right, not an obligation!」：http://www.script-o-rama.com/movie_scripts/s/sea-inside-script-transcript-javier.html；③ 中文通行译法见豆瓣影评页逐字「'生存是(一)种权利,而不是义务'」",
+          "note": "中文采豆瓣影评通行译法；亦有「活着是一种权利，而非义务」译法",
+          "main": true
+        },
+        {
+          "text": "弗朗西斯科神父：以取消生命为代价的自由不是自由。雷蒙：以取消自由为代价的生命，也不是生命。",
+          "en": "Padre Francisco: Freedom without a life is not freedom. Ramón Sampedro: A life without freedom is not a life.",
+          "character": "弗朗西斯科神父 / 雷蒙·桑佩德罗（哈维尔·巴登 饰）",
+          "evidence": "① Quotes.net 逐字（description 原文「Padre Francisco: Freedom without a life is not freedom. Ramón Sampedro: A life without freedom is not a life.」）：https://www.quotes.net/mquote/59425；② 学术论文（A. Casado da Rocha, Fact and Value in Bioethics, 2008）逐字引作「a life without freedom is not a life either」：http://www.scielo.org.co",
+          "note": "对照翻译——西语原句未能在可核来源取得逐字文本，英语银幕对白（译配）逐字可核，语种已注明",
+          "main": false
+        }
+      ]
+    }
+  ]
+}

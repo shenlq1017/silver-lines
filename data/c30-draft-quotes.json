@@ -1,0 +1,100 @@
+[
+  {
+    "id": "who-s-afraid-of-virginia-woolf-1966",
+    "line": "真实还是虚幻，乔治。你分不清的。／分不清，可我们也得装作分得清那样过下去。／阿门。",
+    "character": "玛莎·乔治（Martha / George）",
+    "curator_note": "中文为对照翻译；乔治另有变体\"Truth and illusion. Who knows the difference eh, toots?\"（filmsite 逐字）",
+    "film_title": "谁害怕弗吉尼亚·伍尔夫"
+  },
+  {
+    "id": "the-french-connection-1971",
+    "line": "你有没有在波基普西挑过脚？",
+    "character": "吉米·“大力水手”·多伊尔",
+    "curator_note": "中文为对照翻译（审讯行话，通行字幕译法未核到）；IMDb 专设片段页 The French Connection: Poughkeepsie, NY（tt0232508）",
+    "film_title": "法国贩毒网"
+  },
+  {
+    "id": "kramer-vs-kramer-1979",
+    "line": "我来这里是要接我儿子回家的。可我发现，他已经在家里了。",
+    "character": "乔安娜·克莱默",
+    "curator_note": "中文采用 Reddit 中文讨论版译法，标注为对照译法",
+    "film_title": "克莱默夫妇"
+  },
+  {
+    "id": "brazil-1985",
+    "line": "要不要来点小小的恋尸癖？嗯？",
+    "character": "吉尔·莱顿",
+    "curator_note": "中文为对照翻译",
+    "film_title": "巴西"
+  },
+  {
+    "id": "police-story-1985",
+    "line": "你是踏着手下的肩膊升级的，你有没有替你的手下着想？死了一个手下，你只是写份报告书，鞠三个躬。我们这些小卒也是有妈妈生的，没有我们这帮小卒替你卖命，你哪有这么大间冷气房坐啊？",
+    "character": "陈家驹",
+    "curator_note": "两源为不同字幕版本，措辞略有出入，已按出处分别保留；粤语原声逐字需对香港原版字幕进一步核对",
+    "film_title": "警察故事"
+  },
+  {
+    "id": "field-of-dreams-1989",
+    "line": "你建好了，他就会来。",
+    "character": "神秘画外音（The Voice）",
+    "curator_note": "",
+    "film_title": "梦幻之地"
+  },
+  {
+    "id": "glory-1989",
+    "line": "我们会出钱出力、共赴此战，长官。但我依然不愿扛你的那面旗。（对照翻译）",
+    "character": "特里普",
+    "curator_note": "",
+    "film_title": "光荣战役"
+  },
+  {
+    "id": "philadelphia-1993",
+    "line": "是这样的：每隔一阵子——不常，但偶尔——你能亲身参与正义得以伸张的那一刻。那一刻真的相当令人激动。（对照翻译）",
+    "character": "安德鲁·贝克特",
+    "curator_note": "",
+    "film_title": "费城故事"
+  },
+  {
+    "id": "true-romance-1993",
+    "line": "……有三个词在我脑中无尽回响，像坏掉的唱片一样重复着：你真酷，你真酷，你真酷。（对照翻译）",
+    "character": "阿拉巴马·惠特曼",
+    "curator_note": "",
+    "film_title": "真实罗曼史"
+  },
+  {
+    "id": "almost-famous-2000",
+    "line": "我是金色的神！（对照翻译，通行字幕多译「我是金色的神／我是黄金之神」）",
+    "character": "拉塞尔·哈蒙德",
+    "curator_note": "",
+    "film_title": "几乎成名"
+  },
+  {
+    "id": "joint-security-area-2000",
+    "line": "你的影子越过界了，当心啊！",
+    "character": "吴敬必中士（宋康昊 饰）",
+    "curator_note": "对照翻译——前半句「你的影子越过界了」采豆瓣影评通行译法，「조심하라우（当心啊）」为直译补全",
+    "film_title": "共同警备区"
+  },
+  {
+    "id": "the-others-2001",
+    "line": "这是我们的房子，这是我们的房子。",
+    "character": "格蕾丝·斯图尔特（妮可·基德曼 饰）",
+    "curator_note": "中文采豆瓣影评通行译法「这是我们的房子」，重复两遍依 Wikiquote 原文",
+    "film_title": "小岛惊魂"
+  },
+  {
+    "id": "good-bye-lenin-2003",
+    "line": "我母亲比民主德国多活了三天。我相信她始终不知道真相是件好事。她走得很幸福。",
+    "character": "亚历山大·科纳（丹尼尔·布鲁赫 饰）",
+    "curator_note": "对照翻译——德英原文逐字可核，未检索到中文通行字幕逐字来源，中译为对照翻译",
+    "film_title": "再见列宁"
+  },
+  {
+    "id": "the-sea-inside-2004",
+    "line": "生存是一种权利，而不是义务。",
+    "character": "雷蒙·桑佩德罗（哈维尔·巴登 饰）",
+    "curator_note": "中文采豆瓣影评通行译法；亦有「活着是一种权利，而非义务」译法",
+    "film_title": "深海长眠"
+  }
+]

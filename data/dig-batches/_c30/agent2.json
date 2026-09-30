@@ -1,0 +1,125 @@
+{
+  "agent": "agent_4f6b773a-1756-441f-a7b8-4c1a5fb9f2c3",
+  "generated": "2026-09-30",
+  "movies": [
+    {
+      "slug": "field-of-dreams-1989",
+      "director": "菲尔·奥尔登·罗宾森",
+      "imdb": 7.5,
+      "lines": [
+        {
+          "text": "你建好了，他就会来。",
+          "en": "If you build it, he will come.",
+          "character": "神秘画外音（The Voice）",
+          "evidence": "IMDb Quotes https://www.imdb.com/title/tt0097351/quotes/ （The Voice: \"If you build it, he will come.\"）；Wikiquote https://en.wikiquote.org/wiki/Field_of_Dreams 收录同一逐字句（AFI 百年百大台词第 39 位，注意原文为 he 而非讹传的 they，多源确证）",
+          "main": true
+        },
+        {
+          "text": "人们会来的，雷。他们会来艾奥瓦，理由连他们自己也说不清。他们会在你家车道口拐进来，并不确知自己为什么要来。（对照翻译）",
+          "en": "Ray, people will come Ray. They'll come to Iowa for reasons they can't even fathom. They'll turn up your driveway not knowing for sure why they're doing it.",
+          "character": "特伦斯·曼",
+          "evidence": "IMDb Quotes https://www.imdb.com/title/tt0097351/quotes/ （搜索快照逐字：\"Ray, people will come Ray. They'll come to Iowa for reasons they can't even fathom. They'll turn up your driveway not knowing for sure why they're doing it.\"）；Wikiquote https://en.wikiquote.org/wiki/Field_of_Dreams （\"Oh... people will come Ray. People will most definitely come.\"）",
+          "main": false
+        },
+        {
+          "text": "这是——这是天堂吗？／是——是艾奥瓦。／我还以为这是天堂呢。（对照翻译）",
+          "en": "Is, is this heaven? / It's — it's Iowa. / I could have sworn it was heaven.",
+          "character": "约翰·金塞拉 / 雷·金塞拉",
+          "evidence": "Wikiquote https://en.wikiquote.org/wiki/Field_of_Dreams （结尾父子对话逐字：\"John Kinsella: Is, is this heaven? Ray Kinsella: It's — it's Iowa. John Kinsella: I could have sworn it was heaven.\"）；IMDb Quotes https://www.imdb.com/title/tt0097351/quotes/ （\"John Kinsella: Is this heaven? Ray Kinsella: It's Iowa. John Kinsella: Iowa? I could have sworn this was heaven.\"。注：通行流传的归属 Shoeless Joe 的 \"No, it's Iowa\" 为讹传）",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "glory-1989",
+      "director": "爱德华·兹威克",
+      "imdb": 7.8,
+      "lines": [
+        {
+          "text": "我们会出钱出力、共赴此战，长官。但我依然不愿扛你的那面旗。（对照翻译）",
+          "en": "We ante up and kick in, sir. But I still don't want to carry your flag.",
+          "character": "特里普",
+          "evidence": "Quotes.net 「Glory」台词库 https://www.quotes.net/movies/glory_1989 （逐字：\"Trip: We ante up and kick in, sir. But I still don't want to carry your flag.\"）；Kinoafisha 电影台词页 https://www.kinoafisha.info/movies/830875/quotes/ （同场景 Trip 台词逐字收录）；Wikiquote https://en.wikiquote.org/wiki/Glory_(film) Trip 段落同句",
+          "main": true
+        },
+        {
+          "text": "我这场仗不是为你打的，长官。（对照翻译）",
+          "en": "I ain't fightin' this war for you, sir.",
+          "character": "特里普",
+          "evidence": "Kinoafisha 电影台词页 https://www.kinoafisha.info/movies/830875/quotes/ （逐字：\"Trip: I ain't fightin' this war for you, sir.\"，随后即上句 ante up 台词）；Quotes.net 「Glory」台词库 https://www.quotes.net/movies/glory_1989 同场对话收录",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "philadelphia-1993",
+      "director": "乔纳森·戴米",
+      "imdb": 7.7,
+      "lines": [
+        {
+          "text": "是这样的：每隔一阵子——不常，但偶尔——你能亲身参与正义得以伸张的那一刻。那一刻真的相当令人激动。（对照翻译）",
+          "en": "It's that every now and again - not often, but occasionally - you get to be a part of justice being done. That really is quite a thrill when that happens.",
+          "character": "安德鲁·贝克特",
+          "evidence": "IMDb Quotes（逐字，qt3315389）https://www.imdb.com/title/tt0107818/quotes/?item=qt3315389 （\"Andrew Beckett: It's that every now and again - not often, but occasionally - you get to be a part of justice being done. That really is quite a thrill when ...\"）；MovieQuotesDB https://www.moviequotedb.com/movies/philadelphia/quote_55183.html 同句逐字；Scraps from the Loft 全片转写 https://scrapsfromtheloft.com/movies/philadelphia-1993-transcript/ 同句（末句作 \"It really is quite a thrill\"）",
+          "main": true
+        },
+        {
+          "text": "米勒先生，在这个法庭内，正义是无视种族、信仰、肤色、宗教和性取向的。／恕我直言，法官大人，可我们并不是生活在这个法庭之内，是吗？（中译采豆瓣笔记通行译法）",
+          "en": "In this courtroom, Mr. Miller, justice is blind to matters of race, creed, color, religion, and sexual orientation. / With all due respect, your honor, we don't live in this courtroom, do we?",
+          "character": "加内特法官 / 乔·米勒",
+          "evidence": "IMDb Quotes https://www.imdb.com/title/tt0107818/quotes/ 与 Quotes.net https://www.quotes.net/mquote/72960 均逐字收录该庭上对话；中文通行译法见豆瓣笔记《〈费城故事〉+〈毕业生〉经典台词笔记》（m.douban.com，2012：\"在法庭内，正义无视于种族、教义、肤色、宗教和性取向\"／\"但是，我们并不是生活在法庭之内，是吗？\"）",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "true-romance-1993",
+      "director": "托尼·斯科特",
+      "imdb": 7.9,
+      "lines": [
+        {
+          "text": "……有三个词在我脑中无尽回响，像坏掉的唱片一样重复着：你真酷，你真酷，你真酷。（对照翻译）",
+          "en": "...three words went through my mind endlessly, repeating themselves like a broken record: you're so cool, you're so cool, you're so cool.",
+          "character": "阿拉巴马·惠特曼",
+          "evidence": "IMDb 角色台词页（Patricia Arquette as Alabama Whitman）https://www.imdb.com/title/tt0108399/characters/nm0000099/ 逐字收录；25YearsLater 回顾文 https://25yearslatersite.com/film/features/youre-so-cool-true-romance-will-always-burn-brightly/ 及 Vice https://www.vice.com/en/article/youre-so-cool-an-artists-homage-to-the-90s-cult-classic-true-romance/ 引全句",
+          "main": true
+        },
+        {
+          "text": "既然是这样，那你告诉我，我是在撒谎吗？因为你，你有一半是茄子。（对照翻译）",
+          "en": "Now, if that's a fact, tell me, am I lying? 'Cause you, you're part eggplant.",
+          "character": "克利福德·沃利",
+          "evidence": "IMDb 角色台词页（Dennis Hopper as Clifford Worley）https://www.imdb.com/title/tt0108399/characters/nm0000454/ 逐字：\"...now, if that's a fact, tell me, am I lying? 'Cause you, you're part eggplant.\"；IMDb Quotes https://www.imdb.com/title/tt0108399/quotes/ 同段独白。note：此为西西里独白收尾句；独白前文含原始种族俚语，为合规仅摘收尾逐字句",
+          "main": false
+        }
+      ]
+    },
+    {
+      "slug": "almost-famous-2000",
+      "director": "卡梅伦·克罗",
+      "imdb": 7.9,
+      "lines": [
+        {
+          "text": "我是金色的神！（对照翻译，通行字幕多译「我是金色的神／我是黄金之神」）",
+          "en": "I am a golden god!",
+          "character": "拉塞尔·哈蒙德",
+          "evidence": "卡梅伦·克罗电影剧本（DailyScript）https://www.dailyscript.com/scripts/almost_famous.html 逐字：\"WILLIAM: Hey Russell - RUSSELL: I AM A GOLDEN GOD!! WILLIAM: Don't jump, okay...\"；电影网经典台词页 http://www.1905.com/mdb/film/59352/ 收录 \"Russell Hammond: I am a golden god!\"；NYT 场景口述史 https://www.nytimes.com/2020/07/23/movies/almost-famous-anniversary-golden-god-scene.html",
+          "main": true
+        },
+        {
+          "text": "什么样的啤酒？（对照翻译）",
+          "en": "What kind of beer?",
+          "character": "佩妮·莱恩",
+          "evidence": "卡梅伦·克罗电影剧本（DailyScript）https://www.dailyscript.com/scripts/almost_famous.html 逐字：\"PENNY: What kind of beer?\"（即第 118 场前的台词，紧接第 119 场 INT. HUMBLE PIE CREW TRUCK）；IMDb Quotes https://www.imdb.com/title/tt0181875/quotes/ 收录该句（Penny Lane）",
+          "main": false
+        },
+        {
+          "text": "我可从没说过自己是金色的神……还是说过？（对照翻译）",
+          "en": "I never said I was a golden god... or did I?",
+          "character": "拉塞尔·哈蒙德",
+          "evidence": "Quotes.net「Almost Famous」台词库 https://www.quotes.net/movies/almost_famous_2000 逐字：\"I never said I was a golden god ... or did I?\"；电影网经典台词页 http://www.1905.com/mdb/film/59352/ 同句收录；MovieQuotesDB Russell Hammond 角色页同句",
+          "main": false
+        }
+      ]
+    }
+  ]
+}

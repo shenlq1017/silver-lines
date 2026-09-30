@@ -1,0 +1,37 @@
+{
+  "id": "good-bye-lenin-2003",
+  "group": "classics",
+  "film": {
+    "title": "再见列宁",
+    "title_en": "Good Bye, Lenin!",
+    "year": 2003,
+    "director": "沃尔夫冈·贝克"
+  },
+  "lines": [
+    {
+      "text": "我母亲比民主德国多活了三天。我相信她始终不知道真相是件好事。她走得很幸福。",
+      "original": "Meine Mutter hat die DDR um drei Tage überlebt. Ich glaube, es war gut, dass sie nie die Wahrheit erfahren hat. Sie ist glücklich gestorben.（德语）",
+      "character": "亚历山大·科纳（丹尼尔·布鲁赫 饰）",
+      "note": "对照翻译——德英原文逐字可核，未检索到中文通行字幕逐字来源，中译为对照翻译（核证证据：① IMDb《Good Bye Lenin! (2003) - Quotes》逐字「[last lines] Alexander Kerner: [voiceover] My mother outlived the GDR by three days. I believe it was a good thing she never…」：https://www.imdb.com/title/tt0301357/quotes/（德语版同页逐字「Meine Mutter hat die DDR um drei Tage überlebt. Ich glaube, es war gut, dass sie nie die Wahrheit erfahren hat. Sie ist…」）；② Quotes.net 全篇逐字（含结尾「…a country that, in my memory, I will always associate with my mother.」）：https://www.quotes.net/mquote/1207139）"
+    },
+    {
+      "text": "我为母亲营造的那个民主德国，渐渐变成了我或许真希望拥有的那个民主德国。",
+      "original": "Die DDR, die ich für meine Mutter schuf, wurde immer mehr die DDR, die ich mir vielleicht gewünscht hätte.（德语）",
+      "character": "亚历山大·科纳（丹尼尔·布鲁赫 饰）",
+      "note": "对照翻译（核证证据：① Quizlet《Good Bye Lenin: Zitate und Beispiele》逐字：https://quizlet.com/gb/685319273/good-bye-lenin-zitate-und-beispiele-flash-cards/；② Reddit r/badhistory 同句德语逐字引用：https://www.reddit.com/r/badhistory/comments/8i5ccs/wondering_wednesday_09_may_2018_what_are_your/）"
+    }
+  ],
+  "tags": [
+    "喜剧",
+    "剧情"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.7
+    },
+    "as_of": "2026-09-30",
+    "source_note": "策展快照（IMDb 主页快照，非实时抓取）"
+  },
+  "still_alt": "再见列宁 · TMDB 宣传静帧（1920 宽 original）",
+  "license_note": "海报/静帧：TMDB original 缓存物料（batch-ding 备料），仅策展展示。"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "the-others-2001",
+  "group": "classics",
+  "film": {
+    "title": "小岛惊魂",
+    "title_en": "The Others",
+    "year": 2001,
+    "director": "亚历杭德罗·阿梅纳瓦尔"
+  },
+  "lines": [
+    {
+      "text": "这是我们的房子，这是我们的房子。",
+      "en": "This house is ours, this house is ours.",
+      "character": "格蕾丝·斯图尔特（妮可·基德曼 饰）",
+      "note": "中文采豆瓣影评通行译法「这是我们的房子」，重复两遍依 Wikiquote 原文（核证证据：① Wikiquote《The Others (2001 film)》逐字「This house is ours, this house is ours.」：https://en.wikiquote.org/wiki/The_Others_(2001_film)；② 剧本转写逐字「And this house is ours.」：http://www.script-o-rama.com/movie_scripts/o/others-script-transcript-nicole-kidman.html；③ 中文通行译法见豆瓣影评逐字「虽然他们大喊'这是我们的房子'」：https://m.douban.com/movie/review/1008295/）"
+    },
+    {
+      "text": "起初我不明白枕头怎么会在我手里、你为什么一动不动，后来我明白了——已经发生了：我杀了我的孩子们。",
+      "en": "At first, I couldn't understand what the pillows were doing in my hands and why you didn't move, but then I knew. It had happened. I killed my children.",
+      "character": "格蕾丝·斯图尔特（妮可·基德曼 饰）",
+      "note": "对照翻译（两来源拼写/标点略异，逐字以 Wikiquote 为准）（核证证据：① Wikiquote 同页逐字：https://en.wikiquote.org/wiki/The_Others_(2001_film)；② IMDb《The Others (2001) - Quotes》逐字「Grace: At first I couldn't understand what the pillows where doing in my hands and why you didn't move, but then I knew, it had happened, I killed my children.」：https://www.imdb.com/title/tt0230600/quotes/）"
+    }
+  ],
+  "tags": [
+    "恐怖",
+    "悬疑",
+    "惊悚"
+  ],
+  "ratings": {
+    "imdb": {
+      "score": 7.6
+    },
+    "as_of": "2026-09-30",
+    "source_note": "策展快照（IMDb 主页快照，非实时抓取）"
+  },
+  "still_alt": "小岛惊魂 · TMDB 宣传静帧（3840 宽 original）",
+  "license_note": "海报/静帧：TMDB original 缓存物料（batch-ding 备料），仅策展展示。"
+}
