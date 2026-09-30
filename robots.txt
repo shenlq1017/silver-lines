@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shenlq1017.github.io/silver-lines/sitemap.xml
