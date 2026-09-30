@@ -21,6 +21,14 @@ async function loadQuotes() {
   return Array.isArray(data) ? data : [];
 }
 
+/** P1.5：全量台词索引 data/all-lines.json（句子级今日一句/随机）；缺失时返回 []，调用方回退影片级 */
+async function loadAllLines() {
+  const res = await fetch(asset("data/all-lines.json"));
+  if (!res.ok) return [];
+  const data = await res.json();
+  return Array.isArray(data) ? data : [];
+}
+
 /** 仅 published；无 status 字段时视为已发布（兼容） */
 function publishedQuotes(quotes) {
   return (quotes || []).filter(function (q) {
@@ -95,11 +103,42 @@ function dailyQuote(quotes) {
   return pub[h % pub.length];
 }
 
+/* —— 今日一句（句子级，P1.5）：同一日期 seed 抽全量台词索引 —— */
+function dailyLine(lines) {
+  if (!lines || !lines.length) return null;
+  const d = new Date();
+  const key = d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
+  let h = 0;
+  for (let i = 0; i < key.length; i++) h = (h * 31 + key.charCodeAt(i)) >>> 0;
+  return lines[h % lines.length];
+}
+
 /* —— 随机来一句 —— */
 function randomQuote(quotes) {
   const pub = publishedQuotes(quotes);
   if (!pub.length) return null;
   return pub[Math.floor(Math.random() * pub.length)];
+}
+
+/* —— 随机来一句（句子级，P1.5） —— */
+function randomLine(lines) {
+  if (!lines || !lines.length) return null;
+  return lines[Math.floor(Math.random() * lines.length)];
+}
+
+/**
+ * 句子级条目 → 可渲染的台词视图：
+ * 以影片条目为底，用索引句覆盖 line / line_en（character 若无则沿用主台词说话人）
+ */
+function expandLineEntry(entry, quoteById) {
+  if (!entry) return null;
+  const q = quoteById && quoteById[String(entry.id)];
+  if (!q) return null;
+  const view = Object.assign({}, q);
+  view.line = entry.text || lineOf(q);
+  if (entry.en) view.line_en = entry.en;
+  if (entry.character) view.character = entry.character;
+  return view;
 }
 
 /* —— 统计：句子数 / 影片数 / 标签数 —— */
@@ -129,10 +168,14 @@ window.SilverSite = {
   siteBase,
   asset,
   loadQuotes,
+  loadAllLines,
   publishedQuotes,
   featuredQuotes,
   dailyQuote,
+  dailyLine,
   randomQuote,
+  randomLine,
+  expandLineEntry,
   statsOf,
   lineOf,
   filmTitleOf,

@@ -23,7 +23,9 @@ const ROOT = path.resolve(__dirname, "..");
 const MOVIES_DIR = path.join(ROOT, "movies");
 const QUOTES_JSON = path.join(ROOT, "data", "quotes.json");
 const LINES_DIR = path.join(ROOT, "data", "lines");
+const ALL_LINES_JSON = path.join(ROOT, "data", "all-lines.json");
 const SYNC_SCRIPT = path.join(ROOT, "scripts", "sync-quote-pages.mjs");
+const SITEMAP_SCRIPT = path.join(ROOT, "scripts", "gen-sitemap.mjs");
 
 const ALLOWED_GROUPS = ["top250", "classics"];
 
@@ -132,6 +134,20 @@ function writeLinesFiles(loaded) {
   );
 }
 
+/** P1.5：全量台词轻量索引 data/all-lines.json —— 句子级「今日一句 / 随机」数据源 */
+function writeAllLines(loaded) {
+  const rows = [];
+  for (const meta of loaded) {
+    meta.lines.forEach((l, i) => {
+      const row = { id: meta.id, i, text: l.text };
+      if (l.en) row.en = l.en;
+      rows.push(row);
+    });
+  }
+  fs.writeFileSync(ALL_LINES_JSON, JSON.stringify(rows, null, 2) + "\n", "utf8");
+  console.log(`data/all-lines.json：${rows.length} 句（句子级今日一句/随机索引）`);
+}
+
 function main() {
   const loaded = [];
   for (const [dirname, metaFile] of walkMovieMeta(MOVIES_DIR)) {
@@ -164,8 +180,10 @@ function main() {
   );
 
   writeLinesFiles(loaded);
+  writeAllLines(loaded);
 
   execFileSync(process.execPath, [SYNC_SCRIPT], { stdio: "inherit" });
+  execFileSync(process.execPath, [SITEMAP_SCRIPT], { stdio: "inherit" });
   console.log("\nbuild 完成。");
 }
 

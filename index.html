@@ -83,7 +83,7 @@
           '<p class="daily-card__quote">' + SilverSite.escapeHtml(SilverSite.lineOf(q)) + "</p>" +
           (en ? '<p class="daily-card__en">' + SilverSite.escapeHtml(en) + "</p>" : "") +
           '<p class="daily-card__meta"><strong>' + SilverSite.escapeHtml(SilverSite.filmTitleOf(q)) +
-          "</strong> · " + q.year + "</p></div>" +
+          "</strong> · " + q.year + (q.character ? " · " + SilverSite.escapeHtml(q.character) : "") + "</p></div>" +
           '<div class="daily-card__still"><img src="' + SilverSite.asset(q.still) +
           '" alt="' + SilverSite.escapeAttr(SilverSite.filmTitleOf(q)) + ' 剧照氛围示意"></div>' +
           "</div></a></div>";
@@ -93,7 +93,28 @@
         const quotes = await SilverSite.loadQuotes();
         const pub = SilverSite.publishedQuotes(quotes);
 
-        renderDailyCard(SilverSite.dailyQuote(quotes), "今日一句");
+        /* P1.5 句子级抽取：全量台词索引优先，缺失时回退影片级 */
+        let quoteById = null;
+        let allLines = [];
+        try {
+          allLines = await SilverSite.loadAllLines();
+          if (allLines.length) {
+            quoteById = {};
+            pub.forEach(function (q) { quoteById[String(q.id)] = q; });
+          }
+        } catch (e) { allLines = []; }
+        const pickDaily = function () {
+          const v = SilverSite.expandLineEntry(SilverSite.dailyLine(allLines), quoteById);
+          return v || SilverSite.dailyQuote(quotes);
+        };
+        const pickRandom = function () {
+          const v = quoteById
+            ? SilverSite.expandLineEntry(SilverSite.randomLine(allLines), quoteById)
+            : null;
+          return v || SilverSite.randomQuote(quotes);
+        };
+
+        renderDailyCard(pickDaily(), "今日一句");
 
         /* 统计带 */
         const s = SilverSite.statsOf(quotes);
@@ -107,7 +128,7 @@
 
         /* 随机来一句：就地替换今日一句卡片 */
         btnRandom.addEventListener("click", function () {
-          const r = SilverSite.randomQuote(quotes);
+          const r = pickRandom();
           if (r) renderDailyCard(r, "随机一句");
         });
       } catch (e) {
