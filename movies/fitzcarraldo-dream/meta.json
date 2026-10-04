@@ -9,10 +9,10 @@
   },
   "lines": [
     {
-      "text": "一个人必须有梦想。",
-      "en": "A man must have a dream.",
-      "character": "布赖恩·斯威尼·菲茨杰拉德",
-      "note": "策展意译：概括菲茨卡拉尔多以不可能工程维持自我的执念，非逐字引文。"
+      "text": "我要在伊基托斯建一座歌剧院，由卡鲁索来开幕。",
+      "en": "I'm going to build an opera house in Iquitos and Caruso'll open it.",
+      "character": "Fitzcarraldo",
+      "note": "Kinobot 字幕转写逐字核证 + IMDb quotes（tt0083946）；雨林歌剧院宣言。"
     }
   ],
   "tags": [

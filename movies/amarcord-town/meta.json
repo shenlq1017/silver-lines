@@ -9,10 +9,16 @@
   },
   "lines": [
     {
-      "text": "小镇记得春天、法西斯和每个人的笑话。",
-      "en": "The town remembers spring, fascism, and everybody's jokes.",
-      "character": "蒂塔／镇民 / Titta / townspeople",
-      "note": "主题性策展句：概括费里尼《阿玛柯德》中里米尼式小镇四季与法西斯日常并置的记忆长卷，非逐字引文。"
+      "text": "可比爱情更要紧的是感情。我心里满满都是情意，可是能给谁呢？谁要呢？",
+      "en": "Where am I? I don't seem to be anywhere. If death is like this, I don't think much of it. Everything's gone. People, trees, birds, wine. Well, up yours!",
+      "character": "Gradisca",
+      "note": "IMDb quotes 逐字核证（tt0071129）；格拉迪斯卡理发店独白。"
+    },
+    {
+      "text": "这是哪儿？我好像哪儿也不在。死亡要是这个样子，我可看不上它。",
+      "en": "Where am I? I don't seem to be anywhere. If death is like this, I don't think much of it.",
+      "character": "Grandpa",
+      "note": "IMDb quotes 逐字核证（tt0071129）；大雾场景祖父语。"
     }
   ],
   "tags": [

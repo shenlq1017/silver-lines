@@ -9,17 +9,10 @@
   },
   "lines": [
     {
-      "text": "公路尽头不是家，是一张还没说完的口信。",
-      "en": "At the end of the highway is not home — it is a message still unfinished.",
-      "character": "特拉维斯 / Travis",
-      "note": "主题性策展句：概括文德斯《巴黎，德克萨斯》中荒漠归来与隔窗告白的亲情修复题旨，非逐字引文。"
-    },
-    {
-      "text": "我认识两个人。这两个人——曾经相爱。",
-      "character": "Travis Henderson",
+      "text": "我认识这两个人。这两个人，曾经相爱。",
       "en": "I knew these people. These two people. They were in love with each other.",
-      "note": "全片开场独白的第一句；IMDb quotes 可查。",
-      "confidence": "high"
+      "character": "Travis",
+      "note": "Wikiquote 逐字核证（Paris, Texas）；特拉维斯窥孔独白开场。"
     }
   ],
   "tags": [

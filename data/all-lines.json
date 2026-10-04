@@ -137,8 +137,8 @@
   {
     "id": "akira-power-akira",
     "i": 0,
-    "text": "阿基拉的力量正在觉醒。",
-    "en": "Akira’s power is awakening."
+    "text": "未来不是一条直线，它布满了十字路口。一定有一个我们能亲手选择的未来。",
+    "en": "The future is not a straight line. It is filled with many crossroads. There must be a future that we can choose for ourselves."
   },
   {
     "id": "aladdin-cosmic-powers",
@@ -161,8 +161,8 @@
   {
     "id": "algiers-battle",
     "i": 0,
-    "text": "巷战教给你的，不是胜利，是谁先学会害怕。",
-    "en": "Street war teaches you not victory — but who learns to fear first."
+    "text": "革命难在开始，更难在坚持，最难在胜利。而真正的困难，从胜利之后才开始。",
+    "en": "To begin, you have to understand that this is a war. Everything in war is simple, but the simplest thing is difficult."
   },
   {
     "id": "ali-fear-eats-the-soul",
@@ -299,8 +299,14 @@
   {
     "id": "amarcord-town",
     "i": 0,
-    "text": "小镇记得春天、法西斯和每个人的笑话。",
-    "en": "The town remembers spring, fascism, and everybody's jokes."
+    "text": "可比爱情更要紧的是感情。我心里满满都是情意，可是能给谁呢？谁要呢？",
+    "en": "Where am I? I don't seem to be anywhere. If death is like this, I don't think much of it. Everything's gone. People, trees, birds, wine. Well, up yours!"
+  },
+  {
+    "id": "amarcord-town",
+    "i": 1,
+    "text": "这是哪儿？我好像哪儿也不在。死亡要是这个样子，我可看不上它。",
+    "en": "Where am I? I don't seem to be anywhere. If death is like this, I don't think much of it."
   },
   {
     "id": "amelie-hard-for-dreamers",
@@ -1562,8 +1568,8 @@
   {
     "id": "cabiria-smile",
     "i": 0,
-    "text": "被人骗光之后，还可以对自己笑一次。",
-    "en": "After being cheated of everything, you can still smile once — for yourself."
+    "text": "圣母啊，求你帮我改过我的生活。也赐我一份恩典，让我重新做人。",
+    "en": "Madonna, Madonna, help me to change my life. Bestow your grace on me too. Make me change my life."
   },
   {
     "id": "cairo-station-i-am-normal",
@@ -1718,8 +1724,8 @@
   {
     "id": "children-heaven-shoes",
     "i": 0,
-    "text": "姐姐，这双鞋给你。",
-    "en": "Sister, these shoes are for you."
+    "text": "要是我跑了第三名，我就把那双球鞋给你。",
+    "en": "If I come in third, I'll give you the sneakers. ... I'll be third for sure."
   },
   {
     "id": "children-of-men-baby-matters",
@@ -2517,8 +2523,8 @@
   {
     "id": "dolce-vita-sweet",
     "i": 0,
-    "text": "甜蜜的生活，甜的是灯光，苦的是清晨。",
-    "en": "The sweet life: lights are sweet, mornings are bitter."
+    "text": "你是创世第一天的第一个女人。你是母亲，是姐妹，是爱人，是朋友，是天使，是魔鬼，是大地，是家。",
+    "en": "You are the first woman on the first day of creation. You are mother, sister, lover, friend, angel, devil, earth, home."
   },
   {
     "id": "dolls-red-cord",
@@ -2756,8 +2762,8 @@
   {
     "id": "eight-half-director",
     "i": 0,
-    "text": "灵感不来的时候，整个生涯都像一场排练。",
-    "en": "When inspiration will not come, a whole career feels like a rehearsal."
+    "text": "我真的没什么可说的，可我还是想说出来。",
+    "en": "I really have nothing to say, but I want to say it anyway."
   },
   {
     "id": "elementary-school-father-teacher",
@@ -2960,8 +2966,8 @@
   {
     "id": "fanny-alexander-world",
     "i": 0,
-    "text": "我们必须在这个世界上幸福。",
-    "en": "We must be happy in this world."
+    "text": "一切都会发生。一切皆有可能。时间和空间并不存在。在那单薄的现实骨架上，想象飞速旋转，织出全新的图案。",
+    "en": "Everything can happen. Everything is possible and probable. Time and space do not exist. On a flimsy framework of reality, the imagination spins, weaving new patterns."
   },
   {
     "id": "farewell-concubine",
@@ -3185,8 +3191,8 @@
   {
     "id": "fitzcarraldo-dream",
     "i": 0,
-    "text": "一个人必须有梦想。",
-    "en": "A man must have a dream."
+    "text": "我要在伊基托斯建一座歌剧院，由卡鲁索来开幕。",
+    "en": "I'm going to build an opera house in Iquitos and Caruso'll open it."
   },
   {
     "id": "flight-white-army-run",
@@ -3972,8 +3978,8 @@
   {
     "id": "hachi-waiting",
     "i": 0,
-    "text": "它只是你的一条狗，但你却是它的一生。",
-    "en": "It's your dog, but you are its whole life."
+    "text": "哈奇，我的朋友，派克再也不会回来了。可是八公要是想等，那就让它等吧。",
+    "en": "Hachi, my friend, Parker is never coming home. But if Hachiko wants to wait, then Hachiko should wait."
   },
   {
     "id": "hachi-waiting",
@@ -6771,13 +6777,7 @@
   {
     "id": "paris-texas-highway",
     "i": 0,
-    "text": "公路尽头不是家，是一张还没说完的口信。",
-    "en": "At the end of the highway is not home — it is a message still unfinished."
-  },
-  {
-    "id": "paris-texas-highway",
-    "i": 1,
-    "text": "我认识两个人。这两个人——曾经相爱。",
+    "text": "我认识这两个人。这两个人，曾经相爱。",
     "en": "I knew these people. These two people. They were in love with each other."
   },
   {
@@ -7729,8 +7729,8 @@
   {
     "id": "sacrifice-save-world",
     "i": 0,
-    "text": "也许，一个人的牺牲能够拯救这个世界。",
-    "en": "Perhaps one man’s sacrifice can save the world."
+    "text": "我研究哲学、宗教史和美学，最后却自愿给自己戴上了枷锁。",
+    "en": "I studied philosophy, history of religion, aesthetics. And ended up putting myself in chains. Of my own free will."
   },
   {
     "id": "safe-just-get-well",
@@ -9348,8 +9348,8 @@
   {
     "id": "ugetsu-pottery",
     "i": 0,
-    "text": "壶里烧出的不是陶器，是贪心的形状。",
-    "en": "What the kiln fires is not pottery — it is the shape of greed."
+    "text": "你不是人吧？你到底是什么？",
+    "en": "Are you not human? What are you?"
   },
   {
     "id": "umasou-even-if-eaten",
